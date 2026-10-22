@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "1be4540a-3ec6-4c5b-8d5d-6802ff1af20b",
+  "version": "0ac335b2-7b62-4aa0-8aca-ae58050efa5a",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -185,7 +185,7 @@
     "b06d36cd3a78f63fa0c0d3bae5d283483e4570a053b3ef32db925fd22d3b3882": {
       "id": "b06d36cd3a78f63fa0c0d3bae5d283483e4570a053b3ef32db925fd22d3b3882",
       "relative": "img029.tif",
-      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
       "status": "done",
       "record": {
         "side": "Frente",
@@ -209,12 +209,19 @@
           "Guantes"
         ]
       },
-      "revision": 0
+      "revision": 0,
+      "fingerprint": "ddad2d3f7ba1c116",
+      "media": {
+        "thumb": "media/bixio/b06d36cd3a78f63fa0c0d3bae5d283483e4570a053b3ef32db925fd22d3b3882-ddad2d3f7ba1c116-thumb.webp",
+        "src": "media/bixio/b06d36cd3a78f63fa0c0d3bae5d283483e4570a053b3ef32db925fd22d3b3882-ddad2d3f7ba1c116.webp",
+        "w": 1398,
+        "h": 2200
+      }
     },
     "f4a8696abffffc45e296041b4cee4c670707479ccaa357469a515ecaac11df62": {
       "id": "f4a8696abffffc45e296041b4cee4c670707479ccaa357469a515ecaac11df62",
       "relative": "img030.tif",
-      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
       "status": "done",
       "record": {
         "side": "Frente",
@@ -238,12 +245,19 @@
           "Vestimenta"
         ]
       },
-      "revision": 0
+      "revision": 0,
+      "fingerprint": "c2ede9a8ec6c99ef",
+      "media": {
+        "thumb": "media/bixio/f4a8696abffffc45e296041b4cee4c670707479ccaa357469a515ecaac11df62-c2ede9a8ec6c99ef-thumb.webp",
+        "src": "media/bixio/f4a8696abffffc45e296041b4cee4c670707479ccaa357469a515ecaac11df62-c2ede9a8ec6c99ef.webp",
+        "w": 1523,
+        "h": 2200
+      }
     },
     "6b18ba90ad4b7dd1c73d093e5934f3d359623a6c2b1c62f48408d391d066322f": {
       "id": "6b18ba90ad4b7dd1c73d093e5934f3d359623a6c2b1c62f48408d391d066322f",
       "relative": "img031.tif",
-      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
       "status": "done",
       "record": {
         "side": "Frente",
@@ -265,12 +279,19 @@
           "Vestimenta"
         ]
       },
-      "revision": 0
+      "revision": 0,
+      "fingerprint": "3a8ce59f0786a335",
+      "media": {
+        "thumb": "media/bixio/6b18ba90ad4b7dd1c73d093e5934f3d359623a6c2b1c62f48408d391d066322f-3a8ce59f0786a335-thumb.webp",
+        "src": "media/bixio/6b18ba90ad4b7dd1c73d093e5934f3d359623a6c2b1c62f48408d391d066322f-3a8ce59f0786a335.webp",
+        "w": 1382,
+        "h": 2200
+      }
     },
     "5b1934f1faa98fbd47f0bab19d407658eef2e4da4d5b5ecaf3e6f9b4c965209f": {
       "id": "5b1934f1faa98fbd47f0bab19d407658eef2e4da4d5b5ecaf3e6f9b4c965209f",
       "relative": "img032.tif",
-      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
       "status": "done",
       "record": {
         "side": "Frente",
@@ -293,12 +314,19 @@
           "Vestimenta"
         ]
       },
-      "revision": 0
+      "revision": 0,
+      "fingerprint": "5c61c085665b292e",
+      "media": {
+        "thumb": "media/bixio/5b1934f1faa98fbd47f0bab19d407658eef2e4da4d5b5ecaf3e6f9b4c965209f-5c61c085665b292e-thumb.webp",
+        "src": "media/bixio/5b1934f1faa98fbd47f0bab19d407658eef2e4da4d5b5ecaf3e6f9b4c965209f-5c61c085665b292e.webp",
+        "w": 1550,
+        "h": 2200
+      }
     },
     "531fa47c3b58445718e5e4086c0bf3b968a279314496c9e270c6c43e12006cc2": {
       "id": "531fa47c3b58445718e5e4086c0bf3b968a279314496c9e270c6c43e12006cc2",
       "relative": "img033.tif",
-      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
       "status": "done",
       "record": {
         "side": "Frente",
@@ -320,7 +348,14 @@
           "Peinado"
         ]
       },
-      "revision": 0
+      "revision": 0,
+      "fingerprint": "608d37c1cbf0d456",
+      "media": {
+        "thumb": "media/bixio/531fa47c3b58445718e5e4086c0bf3b968a279314496c9e270c6c43e12006cc2-608d37c1cbf0d456-thumb.webp",
+        "src": "media/bixio/531fa47c3b58445718e5e4086c0bf3b968a279314496c9e270c6c43e12006cc2-608d37c1cbf0d456.webp",
+        "w": 1555,
+        "h": 2200
+      }
     },
     "9522c56a4c7752d28996473667c772741b96334c9b66b678107800e7a3cdf6fd": {
       "id": "9522c56a4c7752d28996473667c772741b96334c9b66b678107800e7a3cdf6fd",
@@ -2877,5 +2912,5 @@
     "BIX-15": "Monograma oval F. Bixio y Cia.",
     "BIX-16": "Florencio Bixio & Cia. - B. de Irigoyen 185 - B. Aires"
   },
-  "updated": "2026-10-22T23:56:25.522Z"
+  "updated": "2026-10-22T23:56:43.647Z"
 }
