@@ -6,10 +6,11 @@
       "id": "bixio",
       "name": "Bixio",
       "path": "data/collections/bixio.json",
-      "version": "initial-bixio",
-      "updated": null,
-      "total": 0,
-      "done": 0
+      "version": "b6888109-5021-4f4f-9ade-1041d47c7d69",
+      "updated": "2026-10-22T23:55:48.050Z",
+      "total": 108,
+      "done": 108
     }
-  ]
+  ],
+  "updated": "2026-10-22T23:55:48.050Z"
 }

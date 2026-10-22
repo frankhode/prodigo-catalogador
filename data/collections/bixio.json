@@ -2,10 +2,2822 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "initial-bixio",
-  "folders": {},
-  "images": {},
-  "terms": {},
+  "version": "b6888109-5021-4f4f-9ade-1041d47c7d69",
+  "folders": {
+    "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
+      "name": "Imágenes",
+      "path": "Imágenes"
+    }
+  },
+  "images": {
+    "2c8a315c84428f99c5958a89d68f1b8e80cbfbcc4c8c7e64c2e9782b29f17d88": {
+      "id": "2c8a315c84428f99c5958a89d68f1b8e80cbfbcc4c8c7e64c2e9782b29f17d88",
+      "relative": "img024.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "",
+        "date": "ca. 1900",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Cuerpo entero",
+        "direction": "Frente",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "",
+        "people": [
+          "Niños"
+        ],
+        "objects": [
+          "Triciclos"
+        ],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "074bcf19fcef20b82eeb98adde7463ec4518da0af169705a80d1fa79f10fe403": {
+      "id": "074bcf19fcef20b82eeb98adde7463ec4518da0af169705a80d1fa79f10fe403",
+      "relative": "img025.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "66404",
+        "date": "",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Busto",
+        "direction": "Tres cuartos",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-01",
+        "people": [
+          "Hombres"
+        ],
+        "objects": [],
+        "highlights": [
+          "Vestimenta",
+          "Bigote"
+        ]
+      },
+      "revision": 0
+    },
+    "26a2cc497ec672a53af1d4f53c8e3865192bf5b7f9e09f8777c26efdba8e6a06": {
+      "id": "26a2cc497ec672a53af1d4f53c8e3865192bf5b7f9e09f8777c26efdba8e6a06",
+      "relative": "img026.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "71245",
+        "date": "1915",
+        "kind": "Retrato",
+        "portrait": "Grupal",
+        "frame": "Cuerpo entero",
+        "direction": "Frente",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-01",
+        "people": [
+          "Niños",
+          "Niñas"
+        ],
+        "objects": [],
+        "highlights": [
+          "Vestimenta"
+        ]
+      },
+      "revision": 0
+    },
+    "9e6c25be055a6108ed7af3ab0b3ea270e9310d8b3b2daab0f79474d1d2856f1c": {
+      "id": "9e6c25be055a6108ed7af3ab0b3ea270e9310d8b3b2daab0f79474d1d2856f1c",
+      "relative": "img027.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "70229",
+        "date": "",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Cuerpo entero",
+        "direction": "Frente",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-01",
+        "people": [
+          "Bebés"
+        ],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "5f971e96854a8552a8b0d88de7792977051250896a5e5f0637a2670fda1ed0a2": {
+      "id": "5f971e96854a8552a8b0d88de7792977051250896a5e5f0637a2670fda1ed0a2",
+      "relative": "img028.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "",
+        "date": "",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Busto",
+        "direction": "Tres cuartos",
+        "environment": "",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-02",
+        "people": [
+          "Mujeres"
+        ],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "b06d36cd3a78f63fa0c0d3bae5d283483e4570a053b3ef32db925fd22d3b3882": {
+      "id": "b06d36cd3a78f63fa0c0d3bae5d283483e4570a053b3ef32db925fd22d3b3882",
+      "relative": "img029.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "66732",
+        "date": "ca. 1915",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Cuerpo entero",
+        "direction": "Frente",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-01",
+        "people": [
+          "Niños"
+        ],
+        "objects": [],
+        "highlights": [
+          "Vestimenta",
+          "Bastón",
+          "Guantes"
+        ]
+      },
+      "revision": 0
+    },
+    "f4a8696abffffc45e296041b4cee4c670707479ccaa357469a515ecaac11df62": {
+      "id": "f4a8696abffffc45e296041b4cee4c670707479ccaa357469a515ecaac11df62",
+      "relative": "img030.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "68153",
+        "date": "1915",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Cuerpo entero",
+        "direction": "Frente",
+        "environment": "",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-03",
+        "people": [
+          "Niñas"
+        ],
+        "objects": [
+          "Canasta"
+        ],
+        "highlights": [
+          "Vestimenta"
+        ]
+      },
+      "revision": 0
+    },
+    "6b18ba90ad4b7dd1c73d093e5934f3d359623a6c2b1c62f48408d391d066322f": {
+      "id": "6b18ba90ad4b7dd1c73d093e5934f3d359623a6c2b1c62f48408d391d066322f",
+      "relative": "img031.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "92863",
+        "date": "",
+        "kind": "Retrato",
+        "portrait": "Grupal",
+        "frame": "Busto",
+        "direction": "Tres cuartos",
+        "environment": "",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-07",
+        "people": [
+          "Mujeres"
+        ],
+        "objects": [],
+        "highlights": [
+          "Vestimenta"
+        ]
+      },
+      "revision": 0
+    },
+    "5b1934f1faa98fbd47f0bab19d407658eef2e4da4d5b5ecaf3e6f9b4c965209f": {
+      "id": "5b1934f1faa98fbd47f0bab19d407658eef2e4da4d5b5ecaf3e6f9b4c965209f",
+      "relative": "img032.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "83235",
+        "date": "1917",
+        "kind": "Retrato",
+        "portrait": "Grupal",
+        "frame": "Medio cuerpo",
+        "direction": "Tres cuartos",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-03",
+        "people": [
+          "Hombres",
+          "Mujeres"
+        ],
+        "objects": [],
+        "highlights": [
+          "Vestimenta"
+        ]
+      },
+      "revision": 0
+    },
+    "531fa47c3b58445718e5e4086c0bf3b968a279314496c9e270c6c43e12006cc2": {
+      "id": "531fa47c3b58445718e5e4086c0bf3b968a279314496c9e270c6c43e12006cc2",
+      "relative": "img033.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "100266",
+        "date": "1918",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Busto",
+        "direction": "Tres cuartos",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-03",
+        "people": [
+          "Mujeres"
+        ],
+        "objects": [],
+        "highlights": [
+          "Peinado"
+        ]
+      },
+      "revision": 0
+    },
+    "9522c56a4c7752d28996473667c772741b96334c9b66b678107800e7a3cdf6fd": {
+      "id": "9522c56a4c7752d28996473667c772741b96334c9b66b678107800e7a3cdf6fd",
+      "relative": "img034.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Reverso",
+        "number": "100266",
+        "date": "1918",
+        "kind": "",
+        "portrait": "",
+        "frame": "",
+        "direction": "",
+        "environment": "",
+        "notes": "A la familia Franco le dedica este recuerdo su amiguita\nAmanda Casati\n1ero - 12 - 1918",
+        "parent": "531fa47c3b58445718e5e4086c0bf3b968a279314496c9e270c6c43e12006cc2",
+        "signature": "",
+        "people": [],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "429cc82430bfae5be6e1f879cbacacc7367ab63fc90d8ff7cbe1c6b5d4a6a402": {
+      "id": "429cc82430bfae5be6e1f879cbacacc7367ab63fc90d8ff7cbe1c6b5d4a6a402",
+      "relative": "img035.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "98630",
+        "date": "",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Cuerpo entero",
+        "direction": "Frente",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-03",
+        "people": [
+          "Niños"
+        ],
+        "objects": [
+          "Cuadros",
+          "Escena"
+        ],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "7694675bb0a0d8bbf63aa0c9ac8884a39b8a6a93f86efecb21819bb1cffe1015": {
+      "id": "7694675bb0a0d8bbf63aa0c9ac8884a39b8a6a93f86efecb21819bb1cffe1015",
+      "relative": "img036.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "106703",
+        "date": "",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Medio cuerpo",
+        "direction": "Frente",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-03",
+        "people": [
+          "Niños"
+        ],
+        "objects": [
+          "Juguetes"
+        ],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "4fc28edabba8cf5152cc12695d2a596a1b48e61b2cead74273cc9245b7095713": {
+      "id": "4fc28edabba8cf5152cc12695d2a596a1b48e61b2cead74273cc9245b7095713",
+      "relative": "img037.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "119281",
+        "date": "",
+        "kind": "Retrato",
+        "portrait": "Grupal",
+        "frame": "Cuerpo entero",
+        "direction": "Frente",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-03",
+        "people": [
+          "Mujeres",
+          "Niñas"
+        ],
+        "objects": [
+          "Anteojos"
+        ],
+        "highlights": [
+          "Vestimenta",
+          "Peinado"
+        ]
+      },
+      "revision": 0
+    },
+    "f5ee3749f1d8429a6e6c7460a209de504363bf8e7e138bf4cc44ce5391525bc8": {
+      "id": "f5ee3749f1d8429a6e6c7460a209de504363bf8e7e138bf4cc44ce5391525bc8",
+      "relative": "img038.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "115899",
+        "date": "",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Busto",
+        "direction": "Tres cuartos",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-03",
+        "people": [
+          "Hombres"
+        ],
+        "objects": [
+          "Anteojos"
+        ],
+        "highlights": [
+          "Sombrero"
+        ]
+      },
+      "revision": 0
+    },
+    "6d830e0e17719d1251d045a7b942cddb89dfca94150541d84dc4344a6c96b419": {
+      "id": "6d830e0e17719d1251d045a7b942cddb89dfca94150541d84dc4344a6c96b419",
+      "relative": "img039.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "",
+        "date": "1919",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Cuerpo entero",
+        "direction": "Frente",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-03",
+        "people": [
+          "Niñas"
+        ],
+        "objects": [],
+        "highlights": [
+          "Disfraz"
+        ]
+      },
+      "revision": 0
+    },
+    "732b3f287232baacf6cf40ff288ca6dc3410005ef38110e5a39ff0d1277b6d55": {
+      "id": "732b3f287232baacf6cf40ff288ca6dc3410005ef38110e5a39ff0d1277b6d55",
+      "relative": "img039b.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Reverso",
+        "number": "",
+        "date": "",
+        "kind": "",
+        "portrait": "",
+        "frame": "",
+        "direction": "",
+        "environment": "",
+        "notes": "Señor José Pérez y familiar\n8 de marzo de 1919",
+        "parent": "6d830e0e17719d1251d045a7b942cddb89dfca94150541d84dc4344a6c96b419",
+        "signature": "",
+        "people": [],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "225eb2ac2a5be80d685b6948904aea41c510c1883dba7911629fafda4ae255d6": {
+      "id": "225eb2ac2a5be80d685b6948904aea41c510c1883dba7911629fafda4ae255d6",
+      "relative": "img040.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "",
+        "date": "",
+        "kind": "Retrato",
+        "portrait": "Grupal",
+        "frame": "Cuerpo entero",
+        "direction": "Frente",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-07",
+        "people": [
+          "Hombres",
+          "Mujeres",
+          "Niñas"
+        ],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "5152a1523cb9aae9b70c8844f17f84688f18a3ffdf70b594065f3412986f43b5": {
+      "id": "5152a1523cb9aae9b70c8844f17f84688f18a3ffdf70b594065f3412986f43b5",
+      "relative": "img041.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "",
+        "date": "",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Cuerpo entero",
+        "direction": "Frente",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-07",
+        "people": [
+          "Bebés"
+        ],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "c8c916a69079b6248531b95cb5842ca64a23001c547b50b12567f80f247a9098": {
+      "id": "c8c916a69079b6248531b95cb5842ca64a23001c547b50b12567f80f247a9098",
+      "relative": "img042.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "",
+        "date": "",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Cuerpo entero",
+        "direction": "Tres cuartos",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-03",
+        "people": [
+          "Niñas"
+        ],
+        "objects": [],
+        "highlights": [
+          "Vestimenta"
+        ]
+      },
+      "revision": 0
+    },
+    "1dca641dab9667b963da281fbe00fe266470c74212a1c0a7c96f7c8c2c3c862d": {
+      "id": "1dca641dab9667b963da281fbe00fe266470c74212a1c0a7c96f7c8c2c3c862d",
+      "relative": "img042b.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Reverso",
+        "number": "",
+        "date": "",
+        "kind": "",
+        "portrait": "",
+        "frame": "",
+        "direction": "",
+        "environment": "",
+        "notes": "Amelia (hija de Emilio y Luisa)\nHermana de Susi",
+        "parent": "c8c916a69079b6248531b95cb5842ca64a23001c547b50b12567f80f247a9098",
+        "signature": "",
+        "people": [],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "fcb5c06e08f0ae6c37f28d664047633e21e2212a07d599c544a46bdb4283c24e": {
+      "id": "fcb5c06e08f0ae6c37f28d664047633e21e2212a07d599c544a46bdb4283c24e",
+      "relative": "img045.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "",
+        "date": "1915",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Medio cuerpo",
+        "direction": "",
+        "environment": "Estudio",
+        "notes": "Retrato múltiple",
+        "parent": "",
+        "signature": "BIX-06",
+        "people": [
+          "Mujeres"
+        ],
+        "objects": [],
+        "highlights": [
+          "Vestimenta",
+          "Escena"
+        ]
+      },
+      "revision": 0
+    },
+    "48534bc664f5a8bed714e6e240c77d722129d6e680b5a2e714d10fb1b953f576": {
+      "id": "48534bc664f5a8bed714e6e240c77d722129d6e680b5a2e714d10fb1b953f576",
+      "relative": "img046.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Reverso",
+        "number": "",
+        "date": "",
+        "kind": "",
+        "portrait": "",
+        "frame": "",
+        "direction": "",
+        "environment": "",
+        "notes": "Queridísima Carmen:\nHace días que tenía deseos de escribirte para agradecerte tu gentil invitación a almorzar que no pudimos aceptar por varias razones: mis tareas que no me daban descanso y las obras de salubridad en casa con ocho obreros que eran un infierno.\nHoy es mi primer día de vacaciones y mi primer pensamiento en la alegría del descanso es para ti, Carmen querida, a quien dedico esta imagen múltiple como mis afectos para ti. Musimos carños de maá y abuelita y un gran beso de\nIrenita\nDiciembre 1º 1915",
+        "parent": "fcb5c06e08f0ae6c37f28d664047633e21e2212a07d599c544a46bdb4283c24e",
+        "signature": "",
+        "people": [],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "3ede84ca8d0809d5d61626b85c5dc0c08dd49294306f761d7b21ba9087d06996": {
+      "id": "3ede84ca8d0809d5d61626b85c5dc0c08dd49294306f761d7b21ba9087d06996",
+      "relative": "img047.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "127933",
+        "date": "1920",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Cuerpo entero",
+        "direction": "Frente",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-03",
+        "people": [
+          "Mujeres"
+        ],
+        "objects": [],
+        "highlights": [
+          "Sombrero",
+          "Vestimenta"
+        ]
+      },
+      "revision": 0
+    },
+    "af0105f192837eaf33a202b70a915cde51ae8181556c01a63696b7c77d89b6ca": {
+      "id": "af0105f192837eaf33a202b70a915cde51ae8181556c01a63696b7c77d89b6ca",
+      "relative": "img048.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Reverso",
+        "number": "",
+        "date": "",
+        "kind": "",
+        "portrait": "",
+        "frame": "",
+        "direction": "",
+        "environment": "",
+        "notes": "Recuerdos de María Sala a su prima Amalia\nChascomús, 23 de 1920 Diciembre",
+        "parent": "3ede84ca8d0809d5d61626b85c5dc0c08dd49294306f761d7b21ba9087d06996",
+        "signature": "",
+        "people": [],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "370ff0ba5d308acac000cc11122c1b069b78df2fbe83f46f65e547c923e6c05b": {
+      "id": "370ff0ba5d308acac000cc11122c1b069b78df2fbe83f46f65e547c923e6c05b",
+      "relative": "img050.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "148168",
+        "date": "",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Tres cuartos",
+        "direction": "Frente",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-03",
+        "people": [
+          "Hombres"
+        ],
+        "objects": [],
+        "highlights": [
+          "Vestimenta"
+        ]
+      },
+      "revision": 0
+    },
+    "e2abd3ed6c672b210158f0579c39de4e6e0a8d8a1cae100fd8899d42981ad74f": {
+      "id": "e2abd3ed6c672b210158f0579c39de4e6e0a8d8a1cae100fd8899d42981ad74f",
+      "relative": "img051.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "145166",
+        "date": "",
+        "kind": "Retrato",
+        "portrait": "Grupal",
+        "frame": "Cuerpo entero",
+        "direction": "Tres cuartos",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-03",
+        "people": [
+          "Niños",
+          "Niñas"
+        ],
+        "objects": [
+          "Instrumentos musicales"
+        ],
+        "highlights": [
+          "Disfraz"
+        ]
+      },
+      "revision": 0
+    },
+    "8f3bb522e9611281681101f2bde9970aae011e70c57c6e00360f85fb9e0dd15f": {
+      "id": "8f3bb522e9611281681101f2bde9970aae011e70c57c6e00360f85fb9e0dd15f",
+      "relative": "img052.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "155624",
+        "date": "",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Cuerpo entero",
+        "direction": "Frente",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-05",
+        "people": [
+          "Mujeres"
+        ],
+        "objects": [],
+        "highlights": [
+          "Vestimenta"
+        ]
+      },
+      "revision": 0
+    },
+    "03f89ab04c947d44bac08fa412e26175500ad6352edfd4f3a4b39933a1e1a7b8": {
+      "id": "03f89ab04c947d44bac08fa412e26175500ad6352edfd4f3a4b39933a1e1a7b8",
+      "relative": "img053.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "155068",
+        "date": "1923",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Busto",
+        "direction": "Frente",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-03",
+        "people": [
+          "Hombres"
+        ],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "4e83e4e7474bc899e747eb336379ec4203b99cf1a2188e0de365abc1c04e78ed": {
+      "id": "4e83e4e7474bc899e747eb336379ec4203b99cf1a2188e0de365abc1c04e78ed",
+      "relative": "img054.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "135931",
+        "date": "1921",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Busto",
+        "direction": "Tres cuartos",
+        "environment": "",
+        "notes": "A mi amiga y compañera Rosario Pacheco su [?] amigo\nMiguel Lamas\nB. Aires 5 agosto 1921",
+        "parent": "",
+        "signature": "BIX-07",
+        "people": [
+          "Hombres"
+        ],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "3602b8647fa767de21e073bb3715fc8f543a885844fa798f0078a42e3ccee8cd": {
+      "id": "3602b8647fa767de21e073bb3715fc8f543a885844fa798f0078a42e3ccee8cd",
+      "relative": "img055.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Reverso",
+        "number": "",
+        "date": "ca. 1923",
+        "kind": "",
+        "portrait": "",
+        "frame": "",
+        "direction": "",
+        "environment": "",
+        "notes": "[texto borrado]\nAlfredo\n3/2/23",
+        "parent": "03f89ab04c947d44bac08fa412e26175500ad6352edfd4f3a4b39933a1e1a7b8",
+        "signature": "",
+        "people": [],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "7024fb59187abdba02e80e64d16f2e896d6ebd7e8bf2936060057b23811ead2e": {
+      "id": "7024fb59187abdba02e80e64d16f2e896d6ebd7e8bf2936060057b23811ead2e",
+      "relative": "img056.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "163660",
+        "date": "",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Busto",
+        "direction": "Frente",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-07",
+        "people": [
+          "Mujeres"
+        ],
+        "objects": [],
+        "highlights": [
+          "Sombrero",
+          "Accesorios"
+        ]
+      },
+      "revision": 0
+    },
+    "76bd6906ba12487ff8b33ce7ae7763bf6f5e57bd6a7c1b1a5cc8e9fb6ab43441": {
+      "id": "76bd6906ba12487ff8b33ce7ae7763bf6f5e57bd6a7c1b1a5cc8e9fb6ab43441",
+      "relative": "img057.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Reverso",
+        "number": "",
+        "date": "",
+        "kind": "",
+        "portrait": "",
+        "frame": "",
+        "direction": "",
+        "environment": "",
+        "notes": "[dirigido a] Blanca Vidal",
+        "parent": "7024fb59187abdba02e80e64d16f2e896d6ebd7e8bf2936060057b23811ead2e",
+        "signature": "",
+        "people": [],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "fc543ba795bfc2fcf95ce166698fb0d3fd3bdb1894e2cdce4819a5c45cae7cdd": {
+      "id": "fc543ba795bfc2fcf95ce166698fb0d3fd3bdb1894e2cdce4819a5c45cae7cdd",
+      "relative": "img058.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "170735",
+        "date": "",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Cuerpo entero",
+        "direction": "Frente",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-05",
+        "people": [
+          "Niñas"
+        ],
+        "objects": [],
+        "highlights": [
+          "Vestimenta"
+        ]
+      },
+      "revision": 0
+    },
+    "253bcdeaf98813be82f8d9d536e241cc9f3e7ec460d1408732f7215002ddb819": {
+      "id": "253bcdeaf98813be82f8d9d536e241cc9f3e7ec460d1408732f7215002ddb819",
+      "relative": "img060.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "178319",
+        "date": "",
+        "kind": "Retrato",
+        "portrait": "Grupal",
+        "frame": "Cuerpo entero",
+        "direction": "Frente",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-04",
+        "people": [
+          "Hombres",
+          "Bebés"
+        ],
+        "objects": [],
+        "highlights": [
+          "Vestimenta"
+        ]
+      },
+      "revision": 0
+    },
+    "368938913a013a1458d5f64725ee43b90f11154a36a93d19d6e234e69e5db9b2": {
+      "id": "368938913a013a1458d5f64725ee43b90f11154a36a93d19d6e234e69e5db9b2",
+      "relative": "img061.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "163831",
+        "date": "1923",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Medio cuerpo",
+        "direction": "Tres cuartos",
+        "environment": "",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-05",
+        "people": [
+          "Mujeres"
+        ],
+        "objects": [],
+        "highlights": [
+          "Vestimenta",
+          "Accesorios"
+        ]
+      },
+      "revision": 0
+    },
+    "1906118e25aab4dbb7bb4b1164012357a15a861986bcd198c8b64e1695780dfd": {
+      "id": "1906118e25aab4dbb7bb4b1164012357a15a861986bcd198c8b64e1695780dfd",
+      "relative": "img062.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Reverso",
+        "number": "",
+        "date": "",
+        "kind": "",
+        "portrait": "",
+        "frame": "",
+        "direction": "",
+        "environment": "",
+        "notes": "10 - 11 -1923\nA mi querida tía muy cariñosamente, su sobrina\nSta Matilde R. [Lorini?]\n[dirigido a] Antonia L. Aspese, presente",
+        "parent": "368938913a013a1458d5f64725ee43b90f11154a36a93d19d6e234e69e5db9b2",
+        "signature": "",
+        "people": [],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "1438eaadc39b9e323f49aa3a847785afa714674bfbadd4a171844a129113b6ec": {
+      "id": "1438eaadc39b9e323f49aa3a847785afa714674bfbadd4a171844a129113b6ec",
+      "relative": "img063.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "172353",
+        "date": "1925",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Busto",
+        "direction": "Frente",
+        "environment": "",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-04",
+        "people": [
+          "Hombres"
+        ],
+        "objects": [],
+        "highlights": [
+          "Anteojos",
+          "Sacerdote"
+        ]
+      },
+      "revision": 0
+    },
+    "563da321a15f3cfa31d039f2cf36c4769789b4041fae0bd62d64573e320151aa": {
+      "id": "563da321a15f3cfa31d039f2cf36c4769789b4041fae0bd62d64573e320151aa",
+      "relative": "img064.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Reverso",
+        "number": "",
+        "date": "",
+        "kind": "",
+        "portrait": "",
+        "frame": "",
+        "direction": "",
+        "environment": "",
+        "notes": "Padre Grabriel [?]\nSobre nº 717\nFoto nº 14325",
+        "parent": "1438eaadc39b9e323f49aa3a847785afa714674bfbadd4a171844a129113b6ec",
+        "signature": "",
+        "people": [],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "423915a6f62f438feec8e84bd180e8f51dc8da008f5d5fe72a73160b79f9fe2c": {
+      "id": "423915a6f62f438feec8e84bd180e8f51dc8da008f5d5fe72a73160b79f9fe2c",
+      "relative": "img065.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "164729",
+        "date": "",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Busto",
+        "direction": "Tres cuartos",
+        "environment": "",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-07",
+        "people": [
+          "Hombres"
+        ],
+        "objects": [],
+        "highlights": [
+          "Frac"
+        ]
+      },
+      "revision": 0
+    },
+    "f233845ed47120f614dd0418834ab1370ebdb3e84120d0a11ea6e92294077c3b": {
+      "id": "f233845ed47120f614dd0418834ab1370ebdb3e84120d0a11ea6e92294077c3b",
+      "relative": "img066.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "143702",
+        "date": "",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Cuerpo entero",
+        "direction": "Tres cuartos",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "",
+        "people": [
+          "Bebés"
+        ],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "95ab677ec8e0f7bf58cb02a40cb5c04d6967e8820b67df89868a78820c803026": {
+      "id": "95ab677ec8e0f7bf58cb02a40cb5c04d6967e8820b67df89868a78820c803026",
+      "relative": "img067.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "150847",
+        "date": "ca. 1922-1923",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Tres cuartos",
+        "direction": "Frente",
+        "environment": "",
+        "notes": "A la simpática Rosario Pacheco. Recuerdo de su buen amigo y compañero Ignacio León\n5 - 11 -923",
+        "parent": "",
+        "signature": "BIX-07",
+        "people": [
+          "Hombres"
+        ],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "23439a889b72aa6917307acf8988045df2f09c00af68a5259b466155f8e8e659": {
+      "id": "23439a889b72aa6917307acf8988045df2f09c00af68a5259b466155f8e8e659",
+      "relative": "img068.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "",
+        "date": "1920",
+        "kind": "Retrato",
+        "portrait": "Grupal",
+        "frame": "Cuerpo entero",
+        "direction": "Frente",
+        "environment": "Exterior",
+        "notes": "Mar del Plata 12 - 1 - 1920",
+        "parent": "",
+        "signature": "BIX-10",
+        "people": [
+          "Hombres",
+          "Mujeres"
+        ],
+        "objects": [],
+        "highlights": [
+          "Mar del Plata"
+        ]
+      },
+      "revision": 0
+    },
+    "f96ec7f81835966b239949814d8d74d1c111ca629d5ac1acbe7ed1df62a6eac9": {
+      "id": "f96ec7f81835966b239949814d8d74d1c111ca629d5ac1acbe7ed1df62a6eac9",
+      "relative": "img069.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Reverso",
+        "number": "",
+        "date": "",
+        "kind": "",
+        "portrait": "",
+        "frame": "",
+        "direction": "",
+        "environment": "",
+        "notes": "Mi querida Mamá:\nJuanita y Vicente les mandan sus fotografías. Juanita no te escribe por que se encuentra muy llena de sus tareas, me encarga les salude en su nombre.\nCariños para todos y un abrazo de tu hija\nMaria [?]",
+        "parent": "23439a889b72aa6917307acf8988045df2f09c00af68a5259b466155f8e8e659",
+        "signature": "",
+        "people": [],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "63afe73b52b6cebc8b616ab19f89dad70f1274c60b04b140367be788adb909f2": {
+      "id": "63afe73b52b6cebc8b616ab19f89dad70f1274c60b04b140367be788adb909f2",
+      "relative": "img070.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Otros",
+        "number": "",
+        "date": "",
+        "kind": "Otros",
+        "portrait": "",
+        "frame": "",
+        "direction": "",
+        "environment": "",
+        "notes": "",
+        "parent": "",
+        "signature": "",
+        "people": [],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "d16fc9f06af1d2f9dd88078084ad88b31b440527f044b8e1e7d2ed75d84a565c": {
+      "id": "d16fc9f06af1d2f9dd88078084ad88b31b440527f044b8e1e7d2ed75d84a565c",
+      "relative": "img071.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "03220",
+        "date": "1921",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Cuerpo entero",
+        "direction": "Tres cuartos",
+        "environment": "Exterior",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-11",
+        "people": [
+          "Hombres"
+        ],
+        "objects": [],
+        "highlights": [
+          "Traje de baño",
+          "Mar del Plata"
+        ]
+      },
+      "revision": 0
+    },
+    "5094f30e523d9f52fab36247f6704498fd17d0c9b672a720b6da92193e7a5c4b": {
+      "id": "5094f30e523d9f52fab36247f6704498fd17d0c9b672a720b6da92193e7a5c4b",
+      "relative": "img072.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Reverso",
+        "number": "",
+        "date": "",
+        "kind": "",
+        "portrait": "",
+        "frame": "",
+        "direction": "",
+        "environment": "",
+        "notes": "Tomada - Febrero 14 de 1921",
+        "parent": "",
+        "signature": "",
+        "people": [],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "7c2307d263c2b57431d34f2efd70d7ac70e4dab82a964c83abe9affc8fc6afa9": {
+      "id": "7c2307d263c2b57431d34f2efd70d7ac70e4dab82a964c83abe9affc8fc6afa9",
+      "relative": "img073.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "",
+        "date": "1922",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Cuerpo entero",
+        "direction": "Frente",
+        "environment": "Exterior",
+        "notes": "[Ciseca?] M. del Plata\nAnno 1922",
+        "parent": "",
+        "signature": "BIX-14",
+        "people": [
+          "Niños"
+        ],
+        "objects": [],
+        "highlights": [
+          "Vestimenta",
+          "Boina",
+          "Bastón",
+          "Mar del Plata"
+        ]
+      },
+      "revision": 0
+    },
+    "b45673116b4cd811a66f8317154a1334b0f82800705a841adb5278fb509116cd": {
+      "id": "b45673116b4cd811a66f8317154a1334b0f82800705a841adb5278fb509116cd",
+      "relative": "img074.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "13517",
+        "date": "1924",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Cuerpo entero",
+        "direction": "Frente",
+        "environment": "Exterior",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-15",
+        "people": [
+          "Niños"
+        ],
+        "objects": [],
+        "highlights": [
+          "Mar del Plata",
+          "Traje de baño"
+        ]
+      },
+      "revision": 0
+    },
+    "07017d07d8c0da2aae9d363d1329eb9419987d09ed8ed741a17bbd28e4429581": {
+      "id": "07017d07d8c0da2aae9d363d1329eb9419987d09ed8ed741a17bbd28e4429581",
+      "relative": "img075.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Reverso",
+        "number": "",
+        "date": "",
+        "kind": "",
+        "portrait": "",
+        "frame": "",
+        "direction": "",
+        "environment": "",
+        "notes": "II - 1924",
+        "parent": "b45673116b4cd811a66f8317154a1334b0f82800705a841adb5278fb509116cd",
+        "signature": "",
+        "people": [],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "e16bd041fb3f493379df1802dfeab2e1b4a507d028c6c17805b8fad7ee7f7096": {
+      "id": "e16bd041fb3f493379df1802dfeab2e1b4a507d028c6c17805b8fad7ee7f7096",
+      "relative": "img076.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "3545",
+        "date": "1925",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Cuerpo entero",
+        "direction": "Frente",
+        "environment": "",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-12",
+        "people": [
+          "Niños"
+        ],
+        "objects": [],
+        "highlights": [
+          "Mar del Plata",
+          "Traje de baño"
+        ]
+      },
+      "revision": 0
+    },
+    "aa7c3a665f2b5a264b426c240b356153a8d8ff7c03f4552430fc5ce89819c5bc": {
+      "id": "aa7c3a665f2b5a264b426c240b356153a8d8ff7c03f4552430fc5ce89819c5bc",
+      "relative": "img077.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "17261",
+        "date": "1925",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Cuerpo entero",
+        "direction": "Frente",
+        "environment": "Exterior",
+        "notes": "Mar del Plata\n1925",
+        "parent": "",
+        "signature": "BIX-12",
+        "people": [
+          "Niñas"
+        ],
+        "objects": [],
+        "highlights": [
+          "Mar del Plata"
+        ]
+      },
+      "revision": 0
+    },
+    "6f16283d56f02c81bb434a65e165f560caedab7a06933129487dd772959d2a32": {
+      "id": "6f16283d56f02c81bb434a65e165f560caedab7a06933129487dd772959d2a32",
+      "relative": "img079.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "",
+        "date": "1929",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Cuerpo entero",
+        "direction": "Tres cuartos",
+        "environment": "Exterior",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-14",
+        "people": [
+          "Mujeres"
+        ],
+        "objects": [],
+        "highlights": [
+          "Disfraz",
+          "Mar del Plata"
+        ]
+      },
+      "revision": 0
+    },
+    "508c21a195fb0617d624360ee2d31fdcab8921c6c867f28fc31a49e0eaa21fd4": {
+      "id": "508c21a195fb0617d624360ee2d31fdcab8921c6c867f28fc31a49e0eaa21fd4",
+      "relative": "img080.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Reverso",
+        "number": "",
+        "date": "",
+        "kind": "",
+        "portrait": "",
+        "frame": "",
+        "direction": "",
+        "environment": "",
+        "notes": "María Amelia Giusto - Figallo\nFebrero\n1929\nCarnaval",
+        "parent": "6f16283d56f02c81bb434a65e165f560caedab7a06933129487dd772959d2a32",
+        "signature": "",
+        "people": [],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "e8bd63ead5c056c80f033acf765f23a2e82fef1553443e0e8161c415075b5e57": {
+      "id": "e8bd63ead5c056c80f033acf765f23a2e82fef1553443e0e8161c415075b5e57",
+      "relative": "img081.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "",
+        "date": "ca. 1930",
+        "kind": "Retrato",
+        "portrait": "Grupal",
+        "frame": "Cuerpo entero",
+        "direction": "Frente",
+        "environment": "Exterior",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-14",
+        "people": [
+          "Hombres",
+          "Mujeres"
+        ],
+        "objects": [],
+        "highlights": [
+          "Vestimenta",
+          "Mar del Plata"
+        ]
+      },
+      "revision": 0
+    },
+    "54a7f650e78f439c721883741057e2dc1782a9032da4f2c488e6ccc3d8707eec": {
+      "id": "54a7f650e78f439c721883741057e2dc1782a9032da4f2c488e6ccc3d8707eec",
+      "relative": "img082.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "2332",
+        "date": "ca. 1930",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Cuerpo entero",
+        "direction": "Frente",
+        "environment": "Exterior",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-14",
+        "people": [
+          "Bebés"
+        ],
+        "objects": [],
+        "highlights": [
+          "Mar del Plata"
+        ]
+      },
+      "revision": 0
+    },
+    "809c1827c4bce2f44ebf90c9fdfdc825e5042bc1f99a9780bc20008f6fcbb540": {
+      "id": "809c1827c4bce2f44ebf90c9fdfdc825e5042bc1f99a9780bc20008f6fcbb540",
+      "relative": "img083.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "",
+        "date": "1931",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Cuerpo entero",
+        "direction": "Tres cuartos",
+        "environment": "Exterior",
+        "notes": "",
+        "parent": "",
+        "signature": "",
+        "people": [
+          "Niños"
+        ],
+        "objects": [
+          "Juguetes"
+        ],
+        "highlights": [
+          "Bixio"
+        ]
+      },
+      "revision": 0
+    },
+    "167c85bea8da6055390baac2eba961d9c046e696c9d8978183701e924a3e1837": {
+      "id": "167c85bea8da6055390baac2eba961d9c046e696c9d8978183701e924a3e1837",
+      "relative": "img084.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Reverso",
+        "number": "",
+        "date": "",
+        "kind": "",
+        "portrait": "",
+        "frame": "",
+        "direction": "",
+        "environment": "",
+        "notes": "Mar del Plata\nFebrero 1931\nRafaelito a los 5 años",
+        "parent": "809c1827c4bce2f44ebf90c9fdfdc825e5042bc1f99a9780bc20008f6fcbb540",
+        "signature": "",
+        "people": [],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "152d2494f4a5d6099e3914ec017c0947a6a538b6958eee9481fbc77769709df8": {
+      "id": "152d2494f4a5d6099e3914ec017c0947a6a538b6958eee9481fbc77769709df8",
+      "relative": "img085.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "166557",
+        "date": "",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Cuerpo entero",
+        "direction": "Frente",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-08",
+        "people": [
+          "Niños"
+        ],
+        "objects": [],
+        "highlights": [
+          "Primera comunión"
+        ]
+      },
+      "revision": 0
+    },
+    "e1b65997961135e24515ee31a777f69ed711a033b5524950a8bd50f8711df6b2": {
+      "id": "e1b65997961135e24515ee31a777f69ed711a033b5524950a8bd50f8711df6b2",
+      "relative": "img086.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "166557",
+        "date": "",
+        "kind": "Retrato",
+        "portrait": "Grupal",
+        "frame": "Cuerpo entero",
+        "direction": "Tres cuartos",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-05",
+        "people": [
+          "Mujeres",
+          "Niños"
+        ],
+        "objects": [],
+        "highlights": [
+          "Vestimenta",
+          "Sombrero",
+          "Cartera"
+        ]
+      },
+      "revision": 0
+    },
+    "4d0fe248d10590503cfdbdf20d076742dd10c09824dd56837d4ea113e54c6d4e": {
+      "id": "4d0fe248d10590503cfdbdf20d076742dd10c09824dd56837d4ea113e54c6d4e",
+      "relative": "img087.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "172661",
+        "date": "1924",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Cuerpo entero",
+        "direction": "Tres cuartos",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-05",
+        "people": [
+          "Bebés"
+        ],
+        "objects": [
+          "Juguetes"
+        ],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "35c4599556f96f17ca5e0e41af4160a478a6b41594596d83189745a7bdfd7977": {
+      "id": "35c4599556f96f17ca5e0e41af4160a478a6b41594596d83189745a7bdfd7977",
+      "relative": "img088.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Reverso",
+        "number": "",
+        "date": "",
+        "kind": "",
+        "portrait": "",
+        "frame": "",
+        "direction": "",
+        "environment": "",
+        "notes": "Como recuerdo cariñoso de mi primer añito\nTeófilo J. Rovira\nMayo 23/924\n[dirigido a] Pedro García y flia.",
+        "parent": "4d0fe248d10590503cfdbdf20d076742dd10c09824dd56837d4ea113e54c6d4e",
+        "signature": "",
+        "people": [],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "8d74be5cebfaecea97f68c4679cae49cdda77fb03a77bba1de3c1de2fa06a550": {
+      "id": "8d74be5cebfaecea97f68c4679cae49cdda77fb03a77bba1de3c1de2fa06a550",
+      "relative": "img089.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "168235",
+        "date": "",
+        "kind": "Retrato",
+        "portrait": "Grupal",
+        "frame": "Medio cuerpo",
+        "direction": "",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-05",
+        "people": [
+          "Niños",
+          "Niñas"
+        ],
+        "objects": [],
+        "highlights": [
+          "Primera comunión"
+        ]
+      },
+      "revision": 0
+    },
+    "a5940ee868db62aaf0cdaa451f6b8eb9c6d3318f5a1200b11dcc62bd3f70783f": {
+      "id": "a5940ee868db62aaf0cdaa451f6b8eb9c6d3318f5a1200b11dcc62bd3f70783f",
+      "relative": "img090.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "168387",
+        "date": "",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Tres cuartos",
+        "direction": "Tres cuartos",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-05",
+        "people": [
+          "Mujeres"
+        ],
+        "objects": [],
+        "highlights": [
+          "Vestimenta",
+          "Anteojos",
+          "Cinturón",
+          "Accesorios"
+        ]
+      },
+      "revision": 0
+    },
+    "6a375daee757ad731b31a652903dbf88d2b688285f3ecdca17c625edc47caf6d": {
+      "id": "6a375daee757ad731b31a652903dbf88d2b688285f3ecdca17c625edc47caf6d",
+      "relative": "img091.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "",
+        "date": "",
+        "kind": "Retrato",
+        "portrait": "Grupal",
+        "frame": "Cuerpo entero",
+        "direction": "Mixta",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-07",
+        "people": [
+          "Niñas"
+        ],
+        "objects": [],
+        "highlights": [
+          "Primera comunión"
+        ]
+      },
+      "revision": 0
+    },
+    "b3ad6acd8ebfb3b7b9ea4e356f0969d924cebabdddeb97e747a454d10b828e64": {
+      "id": "b3ad6acd8ebfb3b7b9ea4e356f0969d924cebabdddeb97e747a454d10b828e64",
+      "relative": "img092.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "178319",
+        "date": "",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Cuerpo entero",
+        "direction": "Tres cuartos",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "",
+        "people": [
+          "Bebés"
+        ],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "926538ce8777fb5d1772b995607ada3195e3ba5da1d436844d80f986f9bdaa85": {
+      "id": "926538ce8777fb5d1772b995607ada3195e3ba5da1d436844d80f986f9bdaa85",
+      "relative": "img093.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "178319",
+        "date": "",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Cuerpo entero",
+        "direction": "Frente",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-04",
+        "people": [
+          "Bebés"
+        ],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "1506fab210433d56e107960d6c69ab9380648fd302c35fed78395b034b830b2a": {
+      "id": "1506fab210433d56e107960d6c69ab9380648fd302c35fed78395b034b830b2a",
+      "relative": "img094.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "184779",
+        "date": "",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Cuerpo entero",
+        "direction": "",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "",
+        "people": [
+          "Bebés"
+        ],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "0d42e099f6007eb5c02540e708fb67427ee7937269e0907d5a3935ea4259b17d": {
+      "id": "0d42e099f6007eb5c02540e708fb67427ee7937269e0907d5a3935ea4259b17d",
+      "relative": "img095.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "175674",
+        "date": "",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Cuerpo entero",
+        "direction": "Tres cuartos",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-04",
+        "people": [
+          "Bebés"
+        ],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "6fbb1ff124d6d5465b5a41b50d8ac94969f34f799c24b6e08d204ddb9a94ae37": {
+      "id": "6fbb1ff124d6d5465b5a41b50d8ac94969f34f799c24b6e08d204ddb9a94ae37",
+      "relative": "img096.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Reverso",
+        "number": "",
+        "date": "",
+        "kind": "",
+        "portrait": "",
+        "frame": "",
+        "direction": "",
+        "environment": "",
+        "notes": "A mis siete meses",
+        "parent": "0d42e099f6007eb5c02540e708fb67427ee7937269e0907d5a3935ea4259b17d",
+        "signature": "",
+        "people": [],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "456ec884993f3b37a658b1023a03e1daff008250b45bd1d6ef11118dd6152e8a": {
+      "id": "456ec884993f3b37a658b1023a03e1daff008250b45bd1d6ef11118dd6152e8a",
+      "relative": "img097.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "184719",
+        "date": "",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Cuerpo entero",
+        "direction": "Frente",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "",
+        "people": [
+          "Bebés"
+        ],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "16ff9051cb6b10ec47bcb9099657e1f52b272d094cc5138d0e7eaef5f089a00b": {
+      "id": "16ff9051cb6b10ec47bcb9099657e1f52b272d094cc5138d0e7eaef5f089a00b",
+      "relative": "img098.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "179403",
+        "date": "1924",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Cuerpo entero",
+        "direction": "Tres cuartos",
+        "environment": "Estudio",
+        "notes": "\"Peggy\" 23. 27. 24",
+        "parent": "",
+        "signature": "BIX-04",
+        "people": [
+          "Niñas"
+        ],
+        "objects": [
+          "Jarrón"
+        ],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "3ac04974f083f3d41cb1c517e2655bf07ddcbd0f6fd026845d40d43cb1336dcf": {
+      "id": "3ac04974f083f3d41cb1c517e2655bf07ddcbd0f6fd026845d40d43cb1336dcf",
+      "relative": "img099.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Reverso",
+        "number": "",
+        "date": "",
+        "kind": "",
+        "portrait": "",
+        "frame": "",
+        "direction": "",
+        "environment": "",
+        "notes": "",
+        "parent": "16ff9051cb6b10ec47bcb9099657e1f52b272d094cc5138d0e7eaef5f089a00b",
+        "signature": "",
+        "people": [],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "3ea9c56310b404e385e6450438f0f80ff43cf4b088f4add8c977491250645acd": {
+      "id": "3ea9c56310b404e385e6450438f0f80ff43cf4b088f4add8c977491250645acd",
+      "relative": "img100.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "202627",
+        "date": "",
+        "kind": "Retrato",
+        "portrait": "Grupal",
+        "frame": "",
+        "direction": "Mixta",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-07",
+        "people": [
+          "Mujeres",
+          "Niñas",
+          "Bebés"
+        ],
+        "objects": [],
+        "highlights": [
+          "Vestimenta"
+        ]
+      },
+      "revision": 0
+    },
+    "312f4efe72ccc1c2d74d4cca5f1dfd531d675a44da557a42dbfeb590e1bffe59": {
+      "id": "312f4efe72ccc1c2d74d4cca5f1dfd531d675a44da557a42dbfeb590e1bffe59",
+      "relative": "img101.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Reverso",
+        "number": "",
+        "date": "",
+        "kind": "",
+        "portrait": "",
+        "frame": "",
+        "direction": "",
+        "environment": "",
+        "notes": "Pertenece a ...",
+        "parent": "3ea9c56310b404e385e6450438f0f80ff43cf4b088f4add8c977491250645acd",
+        "signature": "",
+        "people": [],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "8bd6801637535d372404f1b1dbd3b915222317f4e6bae9fece092310e2a124fd": {
+      "id": "8bd6801637535d372404f1b1dbd3b915222317f4e6bae9fece092310e2a124fd",
+      "relative": "img102.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "202425",
+        "date": "1925",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Tres cuartos",
+        "direction": "Tres cuartos",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-05",
+        "people": [
+          "Mujeres"
+        ],
+        "objects": [],
+        "highlights": [
+          "Vestimenta",
+          "Accesorios",
+          "Peinado",
+          "Iluminado"
+        ]
+      },
+      "revision": 0
+    },
+    "a942fffc88e9192e3a03229222543f24cfbd8a7a4ed3e88b3f48f9ab065cd6e3": {
+      "id": "a942fffc88e9192e3a03229222543f24cfbd8a7a4ed3e88b3f48f9ab065cd6e3",
+      "relative": "img104.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Reverso",
+        "number": "",
+        "date": "",
+        "kind": "",
+        "portrait": "",
+        "frame": "",
+        "direction": "",
+        "environment": "",
+        "notes": "Buenos Aires - 1925\nElvira R. Rivolta",
+        "parent": "8bd6801637535d372404f1b1dbd3b915222317f4e6bae9fece092310e2a124fd",
+        "signature": "",
+        "people": [],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "9e0c22c130ee70a3c5897016eb74c445969ab802995b647954a8121fe8851e34": {
+      "id": "9e0c22c130ee70a3c5897016eb74c445969ab802995b647954a8121fe8851e34",
+      "relative": "img105.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "197904",
+        "date": "",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Cuerpo entero",
+        "direction": "Tres cuartos",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-16",
+        "people": [
+          "Bebés"
+        ],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "2378a8491625c977c5586b50aeb6cb8e081b2c3d88599280bc8261846d771515": {
+      "id": "2378a8491625c977c5586b50aeb6cb8e081b2c3d88599280bc8261846d771515",
+      "relative": "img107.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "197414",
+        "date": "1926",
+        "kind": "Retrato",
+        "portrait": "Grupal",
+        "frame": "Medio cuerpo",
+        "direction": "Mixta",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-03",
+        "people": [
+          "Mujeres",
+          "Niñas"
+        ],
+        "objects": [],
+        "highlights": [
+          "Vestimenta"
+        ]
+      },
+      "revision": 0
+    },
+    "07f037fa1cc61c942b64c6b341a4f1e109f807619cd2a194f19a0bb8069fd0e3": {
+      "id": "07f037fa1cc61c942b64c6b341a4f1e109f807619cd2a194f19a0bb8069fd0e3",
+      "relative": "img108.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Reverso",
+        "number": "",
+        "date": "",
+        "kind": "",
+        "portrait": "",
+        "frame": "",
+        "direction": "",
+        "environment": "",
+        "notes": "Para abuelita\nPilar y Alberto con cariño\nAna MAría P. de Oliva\nPosadas Junio 1926",
+        "parent": "2378a8491625c977c5586b50aeb6cb8e081b2c3d88599280bc8261846d771515",
+        "signature": "",
+        "people": [],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "6a02d1341accf3bc8774ef64d138618eb795d19b4a1562cf1fccdab6bbf50d63": {
+      "id": "6a02d1341accf3bc8774ef64d138618eb795d19b4a1562cf1fccdab6bbf50d63",
+      "relative": "img109.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "221801",
+        "date": "1927",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Tres cuartos",
+        "direction": "Frente",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-05",
+        "people": [
+          "Mujeres"
+        ],
+        "objects": [],
+        "highlights": [
+          "Vestimenta",
+          "Iluminado"
+        ]
+      },
+      "revision": 0
+    },
+    "37bc44874380a31c412bbbd7c688839123e8386f5e04d2fbd9b65caaddd43e30": {
+      "id": "37bc44874380a31c412bbbd7c688839123e8386f5e04d2fbd9b65caaddd43e30",
+      "relative": "img110.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Reverso",
+        "number": "",
+        "date": "",
+        "kind": "",
+        "portrait": "",
+        "frame": "",
+        "direction": "",
+        "environment": "",
+        "notes": "19 - 11 - 1927\nCelia Rasselli\nsobrina de la abuela Teresa \n[dirigido] A mis queridos tíos su sobrina Celia Rasselli",
+        "parent": "6a02d1341accf3bc8774ef64d138618eb795d19b4a1562cf1fccdab6bbf50d63",
+        "signature": "",
+        "people": [],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "284534fd9441a1e77408efd1dcf7044de74ab80f7d2ee6ab19a58b460958d0ad": {
+      "id": "284534fd9441a1e77408efd1dcf7044de74ab80f7d2ee6ab19a58b460958d0ad",
+      "relative": "img111.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "214081",
+        "date": "",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Tres cuartos",
+        "direction": "Tres cuartos",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-05",
+        "people": [
+          "Mujeres"
+        ],
+        "objects": [
+          "Abanico"
+        ],
+        "highlights": [
+          "Vestimenta"
+        ]
+      },
+      "revision": 0
+    },
+    "7faea2c056d7a6e31aa90c65c900b3946b4b7312f93988c41228546f80899b71": {
+      "id": "7faea2c056d7a6e31aa90c65c900b3946b4b7312f93988c41228546f80899b71",
+      "relative": "img112.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "204718",
+        "date": "",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Busto",
+        "direction": "Frente",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-05",
+        "people": [
+          "Niños"
+        ],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "482ff4ff3323a4fb2d70b1ccb0ffdd6d14d4e7b73c2688f2e52837d99c016156": {
+      "id": "482ff4ff3323a4fb2d70b1ccb0ffdd6d14d4e7b73c2688f2e52837d99c016156",
+      "relative": "img113.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "227045",
+        "date": "",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Cuerpo entero",
+        "direction": "Tres cuartos",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-05",
+        "people": [
+          "Bebés"
+        ],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "489519d511d13c27d5630bd4edd1e2005e0608fdd523683e4caa2320a7a8d5e6": {
+      "id": "489519d511d13c27d5630bd4edd1e2005e0608fdd523683e4caa2320a7a8d5e6",
+      "relative": "img114.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "241657",
+        "date": "",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Cuerpo entero",
+        "direction": "Tres cuartos",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-07",
+        "people": [
+          "Niñas"
+        ],
+        "objects": [
+          "Pelotas"
+        ],
+        "highlights": [
+          "Vestimenta",
+          "Peinado"
+        ]
+      },
+      "revision": 0
+    },
+    "3a9d9562fef196f68b1c651852be070bd77e8f9b194daa0fa50d0f9f148472ab": {
+      "id": "3a9d9562fef196f68b1c651852be070bd77e8f9b194daa0fa50d0f9f148472ab",
+      "relative": "img115.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "243952",
+        "date": "1929",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Tres cuartos",
+        "direction": "Frente",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-05",
+        "people": [
+          "Mujeres"
+        ],
+        "objects": [],
+        "highlights": [
+          "Accesorios",
+          "Joyas"
+        ]
+      },
+      "revision": 0
+    },
+    "400377950a1bd7e1bc49da2490a4407f6cd6d2e17a4ebeaef1a36e1b74aa2f78": {
+      "id": "400377950a1bd7e1bc49da2490a4407f6cd6d2e17a4ebeaef1a36e1b74aa2f78",
+      "relative": "img116.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Reverso",
+        "number": "",
+        "date": "",
+        "kind": "",
+        "portrait": "",
+        "frame": "",
+        "direction": "",
+        "environment": "",
+        "notes": "Blanca Nieves",
+        "parent": "3a9d9562fef196f68b1c651852be070bd77e8f9b194daa0fa50d0f9f148472ab",
+        "signature": "",
+        "people": [],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "57c9dc6bef02a19a7078485478e36249ac4233088aec7bed1318706577d039e6": {
+      "id": "57c9dc6bef02a19a7078485478e36249ac4233088aec7bed1318706577d039e6",
+      "relative": "img117.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "247430",
+        "date": "",
+        "kind": "Retrato",
+        "portrait": "Grupal",
+        "frame": "Cuerpo entero",
+        "direction": "Tres cuartos",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-05",
+        "people": [
+          "Bebés"
+        ],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "ae7043c9d4a1b04aad7d8cae408ba6208552a680b9344060506ad645919cebfb": {
+      "id": "ae7043c9d4a1b04aad7d8cae408ba6208552a680b9344060506ad645919cebfb",
+      "relative": "img118.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "251560",
+        "date": "1930",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Cuerpo entero",
+        "direction": "Frente",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-05",
+        "people": [
+          "Niños"
+        ],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "d0424a1b624a27d3538898bb475382aec25842b098bae5ccc8f35c9ed6a7e77d": {
+      "id": "d0424a1b624a27d3538898bb475382aec25842b098bae5ccc8f35c9ed6a7e77d",
+      "relative": "img119.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Reverso",
+        "number": "",
+        "date": "",
+        "kind": "",
+        "portrait": "",
+        "frame": "",
+        "direction": "",
+        "environment": "",
+        "notes": "A mi linda primita \"Chacha\" [?] 15/8/30",
+        "parent": "ae7043c9d4a1b04aad7d8cae408ba6208552a680b9344060506ad645919cebfb",
+        "signature": "",
+        "people": [],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "40e86addac5b33f4d07499f4803fca28dc65dbadafc41e350633cd19faa8aa78": {
+      "id": "40e86addac5b33f4d07499f4803fca28dc65dbadafc41e350633cd19faa8aa78",
+      "relative": "img121.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Reverso",
+        "number": "",
+        "date": "",
+        "kind": "",
+        "portrait": "",
+        "frame": "",
+        "direction": "",
+        "environment": "",
+        "notes": "Teniente primero de Sanidad\ndoctor Alberto W. Bulacio Muñoz de la Rioja\nSobre 867\nFoto 17315",
+        "parent": "e559ba3999ca5b12eaade76536f4cb8eef95c968861e5ecce49ce8da73448790",
+        "signature": "",
+        "people": [],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "0961123e214b4c5163296fe5e13df5028095f5b2ff9554bf327384a60c28315f": {
+      "id": "0961123e214b4c5163296fe5e13df5028095f5b2ff9554bf327384a60c28315f",
+      "relative": "img122.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "287799",
+        "date": "",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Cuerpo entero",
+        "direction": "Tres cuartos",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-05",
+        "people": [
+          "Hombres"
+        ],
+        "objects": [],
+        "highlights": [
+          "Policía"
+        ]
+      },
+      "revision": 0
+    },
+    "a3eb1cf111a023a10995b1506404fca30a5c73c80925e499fffe0112b08421c4": {
+      "id": "a3eb1cf111a023a10995b1506404fca30a5c73c80925e499fffe0112b08421c4",
+      "relative": "img123.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "281189",
+        "date": "1933",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Cuerpo entero",
+        "direction": "Tres cuartos",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-07",
+        "people": [
+          "Bebés"
+        ],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "01ad5fd934734a4216093032130101952a634782b90c1c4046ae56e62362ef97": {
+      "id": "01ad5fd934734a4216093032130101952a634782b90c1c4046ae56e62362ef97",
+      "relative": "img124.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Reverso",
+        "number": "",
+        "date": "",
+        "kind": "",
+        "portrait": "",
+        "frame": "",
+        "direction": "",
+        "environment": "",
+        "notes": "A mis tíos abuelos y primo con cariño de sus padre y mio, Aida Pilar\nBuenos Aires 8 - 1 - 1933",
+        "parent": "a3eb1cf111a023a10995b1506404fca30a5c73c80925e499fffe0112b08421c4",
+        "signature": "",
+        "people": [],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "8746a494f43c62e8813bb2a01fc25868e2250b59241b912b0dc0e3762196b858": {
+      "id": "8746a494f43c62e8813bb2a01fc25868e2250b59241b912b0dc0e3762196b858",
+      "relative": "img125.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "283381",
+        "date": "17/12/1935",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Busto",
+        "direction": "Tres cuartos",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-07",
+        "people": [
+          "Hombres"
+        ],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "97b23a9c50fa038432be69f858f541a5eaaf3ea98c1a2754330ef4acf60e84cc": {
+      "id": "97b23a9c50fa038432be69f858f541a5eaaf3ea98c1a2754330ef4acf60e84cc",
+      "relative": "img126.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Reverso",
+        "number": "",
+        "date": "",
+        "kind": "",
+        "portrait": "",
+        "frame": "",
+        "direction": "",
+        "environment": "",
+        "notes": "Leopoldo Simari",
+        "parent": "8746a494f43c62e8813bb2a01fc25868e2250b59241b912b0dc0e3762196b858",
+        "signature": "",
+        "people": [],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "9ddd915ebd7103f42cbada4a1d456255d8722886213bb94209da168e9b3ce35d": {
+      "id": "9ddd915ebd7103f42cbada4a1d456255d8722886213bb94209da168e9b3ce35d",
+      "relative": "img127.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "283381",
+        "date": "1935",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Busto",
+        "direction": "Tres cuartos",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-07",
+        "people": [
+          "Hombres"
+        ],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "66f823c41a68558c3e01d1c369b255382da60e45771d65f05e60294a70822dc6": {
+      "id": "66f823c41a68558c3e01d1c369b255382da60e45771d65f05e60294a70822dc6",
+      "relative": "img128.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Reverso",
+        "number": "",
+        "date": "",
+        "kind": "",
+        "portrait": "",
+        "frame": "",
+        "direction": "",
+        "environment": "",
+        "notes": "Leopoldo Simari",
+        "parent": "9ddd915ebd7103f42cbada4a1d456255d8722886213bb94209da168e9b3ce35d",
+        "signature": "",
+        "people": [],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "06fbf17dd2075f2fdae3c4ffdd6f8f9c29806905e095e396c5ae9e6fa1566a17": {
+      "id": "06fbf17dd2075f2fdae3c4ffdd6f8f9c29806905e095e396c5ae9e6fa1566a17",
+      "relative": "img129.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "283381",
+        "date": "1935",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Busto",
+        "direction": "Tres cuartos",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-07",
+        "people": [
+          "Hombres"
+        ],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "9f93474ddb2eb571ab337f3c4c2a945296270a3709cbeb7abdea1638122c4ae1": {
+      "id": "9f93474ddb2eb571ab337f3c4c2a945296270a3709cbeb7abdea1638122c4ae1",
+      "relative": "img130.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Reverso",
+        "number": "",
+        "date": "",
+        "kind": "",
+        "portrait": "",
+        "frame": "",
+        "direction": "",
+        "environment": "",
+        "notes": "Leopoldo Simari\n17 dic 1935",
+        "parent": "06fbf17dd2075f2fdae3c4ffdd6f8f9c29806905e095e396c5ae9e6fa1566a17",
+        "signature": "",
+        "people": [],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "77006ae5ea0a5a24f60154fc4ca5b5aed00173698bec68539e91070190c90b2c": {
+      "id": "77006ae5ea0a5a24f60154fc4ca5b5aed00173698bec68539e91070190c90b2c",
+      "relative": "img133.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "263978",
+        "date": "",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Cuerpo entero",
+        "direction": "Tres cuartos",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-05",
+        "people": [
+          "Bebés"
+        ],
+        "objects": [
+          "Pelotas"
+        ],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "71b8531e7d5192f1c1cb0d994fb226ed5e0952be5f3317885c7294f62f5d42c1": {
+      "id": "71b8531e7d5192f1c1cb0d994fb226ed5e0952be5f3317885c7294f62f5d42c1",
+      "relative": "img134.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "263978",
+        "date": "",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Cuerpo entero",
+        "direction": "Frente",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-05",
+        "people": [
+          "Bebés"
+        ],
+        "objects": [
+          "Juguetes"
+        ],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "b6e30f9dfa691920601009935451047c8e533236684eede50dbdfeebd161df5f": {
+      "id": "b6e30f9dfa691920601009935451047c8e533236684eede50dbdfeebd161df5f",
+      "relative": "img135.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "262921",
+        "date": "1931",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Medio cuerpo",
+        "direction": "Tres cuartos",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-05",
+        "people": [
+          "Niños"
+        ],
+        "objects": [],
+        "highlights": [
+          "Primera comunión"
+        ]
+      },
+      "revision": 0
+    },
+    "ac4b05b51aaf607c47137d44115daf70f5d31936b160577422e2f07bfc80391f": {
+      "id": "ac4b05b51aaf607c47137d44115daf70f5d31936b160577422e2f07bfc80391f",
+      "relative": "img136.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Reverso",
+        "number": "",
+        "date": "",
+        "kind": "",
+        "portrait": "",
+        "frame": "",
+        "direction": "",
+        "environment": "",
+        "notes": "A la familia de Arriaga con mucho cariño\nQuique\n7 de marzo - 1931 -",
+        "parent": "b6e30f9dfa691920601009935451047c8e533236684eede50dbdfeebd161df5f",
+        "signature": "",
+        "people": [],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "1c89d1c730351f2bda1f57285d1084b89c57666437d58ca68646a209fc5d0f95": {
+      "id": "1c89d1c730351f2bda1f57285d1084b89c57666437d58ca68646a209fc5d0f95",
+      "relative": "img137.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "229839",
+        "date": "",
+        "kind": "Retrato",
+        "portrait": "Grupal",
+        "frame": "Cuerpo entero",
+        "direction": "Frente",
+        "environment": "Estudio",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-05",
+        "people": [
+          "Niñas"
+        ],
+        "objects": [],
+        "highlights": [
+          "Vestimenta",
+          "Anteojos"
+        ]
+      },
+      "revision": 0
+    },
+    "ddad8925278306f089d92319dc3ca0f9115ac86321fb9871ebe2379b2e5e4a23": {
+      "id": "ddad8925278306f089d92319dc3ca0f9115ac86321fb9871ebe2379b2e5e4a23",
+      "relative": "img139.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Reverso",
+        "number": "",
+        "date": "",
+        "kind": "",
+        "portrait": "",
+        "frame": "",
+        "direction": "",
+        "environment": "",
+        "notes": "A mi querida tía Jovita y a la familia dedicamos este recuerdo en prueba de aprecio sus sobrinas\nAurelia y Gertrudis García\n[dirigido a] Jovita M. vda. de Rosende\nEnero 1 de 1928\nCarro Quemado",
+        "parent": "1c89d1c730351f2bda1f57285d1084b89c57666437d58ca68646a209fc5d0f95",
+        "signature": "",
+        "people": [],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    },
+    "d861d54499285867165fda03d9c5960c252a6d085ceaa2b05cd041212aa47ae0": {
+      "id": "d861d54499285867165fda03d9c5960c252a6d085ceaa2b05cd041212aa47ae0",
+      "relative": "img140.tif",
+      "folder": "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe",
+      "status": "done",
+      "record": {
+        "side": "Tapa",
+        "number": "",
+        "date": "",
+        "kind": "",
+        "portrait": "",
+        "frame": "",
+        "direction": "",
+        "environment": "",
+        "notes": "",
+        "parent": "",
+        "signature": "BIX-16",
+        "people": [],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 0
+    }
+  },
+  "terms": {
+    "people": [],
+    "objects": [],
+    "highlights": []
+  },
   "signatures": {
     "none": "Sin firma",
     "unidentified": "Por identificar",
@@ -21,6 +2833,10 @@
     "BIX-10": "Monograma Mar del Plata — 1920 Mar del Plata",
     "BIX-11": "Monograma Mar del Plata — 1921 Mar del Plata",
     "BIX-12": "Monograma Mar del Plata — 1925 Mar del Plata",
-    "BIX-13": "Monograma Mar del Plata — 1927 Mar del Plata"
-  }
+    "BIX-13": "Monograma Mar del Plata — 1927 Mar del Plata",
+    "BIX-14": "Monograma Mar del Plata",
+    "BIX-15": "Monograma oval F. Bixio y Cia.",
+    "BIX-16": "Florencio Bixio & Cia. - B. de Irigoyen 185 - B. Aires"
+  },
+  "updated": "2026-10-22T23:55:48.050Z"
 }
