@@ -1,0 +1,15 @@
+{
+  "format": "prodigo-collections",
+  "version": 1,
+  "collections": [
+    {
+      "id": "bixio",
+      "name": "Bixio",
+      "path": "data/collections/bixio.json",
+      "version": "initial-bixio",
+      "updated": null,
+      "total": 0,
+      "done": 0
+    }
+  ]
+}
