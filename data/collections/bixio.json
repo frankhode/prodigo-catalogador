@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "d43f0513-cac4-4bc3-a305-a798c3d401ca",
+  "version": "6d2e470e-75d9-4753-b070-e6a3fe1ef04d",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -3712,9 +3712,10 @@
         "notes": "",
         "portrait": "",
         "frame": "",
-        "direction": ""
+        "direction": "",
+        "parent": "824b98af694e9200620702ce00ca58151c29303a495b6c140374a37b3c75213a"
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "d2d5ab2fbde137a2",
       "media": {
         "thumb": "media/bixio/871651459af2bcc09864096279832546cdb3dc7c4777660e90c9f789cce2c4c8-d2d5ab2fbde137a2-thumb.webp",
@@ -3722,7 +3723,7 @@
         "w": 2200,
         "h": 1628
       },
-      "updated": "2026-10-23T19:45:55.852Z"
+      "updated": "2026-10-23T19:48:00.693Z"
     },
     "824b98af694e9200620702ce00ca58151c29303a495b6c140374a37b3c75213a": {
       "id": "824b98af694e9200620702ce00ca58151c29303a495b6c140374a37b3c75213a",
@@ -5001,5 +5002,5 @@
     "BIX-15": "Monograma oval F. Bixio y Cia.",
     "BIX-16": "Florencio Bixio & Cia. - B. de Irigoyen 185 - B. Aires"
   },
-  "updated": "2026-10-23T19:47:39.793Z"
+  "updated": "2026-10-23T19:48:02.110Z"
 }
