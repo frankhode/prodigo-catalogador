@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "51019539-e20a-45b6-9b4b-aec257723a69",
+  "version": "001ac724-bd21-43c6-920f-1f759ef2835f",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -1431,15 +1431,20 @@
         "highlights": [
           "Anteojos",
           "Sacerdote"
-        ]
+        ],
+        "author": "Florencio Bixio"
       },
-      "revision": 0,
+      "revision": 1,
       "fingerprint": "1000a9c1234ede09",
       "media": {
         "thumb": "media/bixio/1438eaadc39b9e323f49aa3a847785afa714674bfbadd4a171844a129113b6ec-1000a9c1234ede09-thumb.webp",
         "src": "media/bixio/1438eaadc39b9e323f49aa3a847785afa714674bfbadd4a171844a129113b6ec-1000a9c1234ede09.webp",
         "w": 1558,
         "h": 2200
+      },
+      "updated": "2026-10-23T20:44:11.924Z",
+      "fieldReviews": {
+        "author": "2026-10-23T20:44:11.924Z"
       }
     },
     "563da321a15f3cfa31d039f2cf36c4769789b4041fae0bd62d64573e320151aa": {
@@ -5253,7 +5258,7 @@
     "BIX-15": "Monograma oval F. Bixio y Cia.",
     "BIX-16": "Florencio Bixio & Cia. - B. de Irigoyen 185 - B. Aires"
   },
-  "updated": "2026-10-23T20:44:07.505Z",
+  "updated": "2026-10-23T20:44:13.277Z",
   "authors": [
     "Florencio Bixio"
   ]
