@@ -4,7 +4,9 @@
       "Frente",
       "Reverso",
       "Tapa",
-      "Otros"
+      "Interior",
+      "Otros",
+      "Escaneo HD"
     ],
     "kind": [
       "Retrato",
@@ -18,7 +20,8 @@
       "Busto",
       "Medio cuerpo",
       "Tres cuartos",
-      "Cuerpo entero"
+      "Cuerpo entero",
+      "Mixto"
     ],
     "direction": [
       "Frente",
