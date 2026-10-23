@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "e647dce9-b618-481c-8eab-7f081b69c91c",
+  "version": "858cf816-2094-4fed-953f-8fb01e8965f2",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -7881,9 +7881,10 @@
     "BIX-19": "Bixio - Buenos Aires",
     "BIX-20": "F. Bixio y Cia. M. R.",
     "BIX-21": "Bixio - Firma en relieve",
-    "BIX-22": "Bixio - Firma caligráfica"
+    "BIX-22": "Bixio - Firma caligráfica",
+    "BIX-23": "F. Bixio & Cia. - B. de Irigoyen 136"
   },
-  "updated": "2026-10-23T23:35:20.328Z",
+  "updated": "2026-10-23T23:36:08.357Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
