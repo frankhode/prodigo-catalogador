@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "ed608d28-af12-4214-9547-dc77e0550e5d",
+  "version": "e78445d6-89be-4d10-aa31-b6fdd45db909",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -5343,16 +5343,34 @@
       "id": "bf217f51047b2e98638fd91bb1544a0227b20a9e27fe281da47591ecc08d479c",
       "relative": "img178.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "author": "Florencio Bixio",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Tres cuartos",
+        "direction": "Tres cuartos",
+        "environment": "Estudio",
+        "people": [
+          "Niñas"
+        ],
+        "objects": [],
+        "highlights": [
+          "Vestimenta",
+          "Iluminado"
+        ],
+        "signature": "BIX-21"
+      },
+      "revision": 1,
       "fingerprint": "84015ce891f01219",
       "media": {
         "thumb": "media/bixio/bf217f51047b2e98638fd91bb1544a0227b20a9e27fe281da47591ecc08d479c-84015ce891f01219-thumb.webp",
         "src": "media/bixio/bf217f51047b2e98638fd91bb1544a0227b20a9e27fe281da47591ecc08d479c-84015ce891f01219.webp",
         "w": 1461,
         "h": 2200
-      }
+      },
+      "updated": "2026-10-23T22:13:42.933Z"
     },
     "fd50772872e3b38893789769fa2094289ce5fa3ac45506f669fbbee3e0e0e987": {
       "id": "fd50772872e3b38893789769fa2094289ce5fa3ac45506f669fbbee3e0e0e987",
@@ -6147,7 +6165,7 @@
     "BIX-20": "F. Bixio y Cia. M. R.",
     "BIX-21": "Bixio - Firma en relieve"
   },
-  "updated": "2026-10-23T22:13:27.185Z",
+  "updated": "2026-10-23T22:13:44.298Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
