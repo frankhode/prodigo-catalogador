@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "70bf0932-6bff-49c6-a482-e27fdf73eedf",
+  "version": "7156728d-7774-4da9-9140-f703ae3a9b0e",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -6781,9 +6781,10 @@
         "color": "sepia",
         "author": "Florencio Bixio",
         "side": "Frente",
-        "kind": "Retrato"
+        "kind": "Retrato",
+        "portrait": "Grupal"
       },
-      "revision": 4,
+      "revision": 5,
       "fingerprint": "d874632e53496257",
       "media": {
         "thumb": "media/bixio/dd1558a903aa5282aa6d17b89977b06a4cf225bdaad37da8f31219a5f321b903-d874632e53496257-thumb.webp",
@@ -6791,12 +6792,13 @@
         "w": 1589,
         "h": 2200
       },
-      "updated": "2026-10-23T23:01:24.302Z",
+      "updated": "2026-10-23T23:02:18.819Z",
       "fieldReviews": {
         "color": "2026-10-23T22:50:42.791Z",
         "author": "2026-10-23T22:57:57.306Z",
         "side": "2026-10-23T22:59:16.002Z",
-        "kind": "2026-10-23T23:01:24.302Z"
+        "kind": "2026-10-23T23:01:24.302Z",
+        "portrait": "2026-10-23T23:02:18.819Z"
       }
     },
     "571c8a3e7ea04c5a9a5ca297e531b58a27cedab51345a308865882d4503e06a5": {
@@ -6808,9 +6810,10 @@
         "color": "sepia",
         "author": "Florencio Bixio",
         "side": "Frente",
-        "kind": "Retrato"
+        "kind": "Retrato",
+        "portrait": "Grupal"
       },
-      "revision": 4,
+      "revision": 5,
       "fingerprint": "d0500e04b8d10cf3",
       "media": {
         "thumb": "media/bixio/571c8a3e7ea04c5a9a5ca297e531b58a27cedab51345a308865882d4503e06a5-d0500e04b8d10cf3-thumb.webp",
@@ -6818,12 +6821,13 @@
         "w": 1599,
         "h": 2200
       },
-      "updated": "2026-10-23T23:01:24.302Z",
+      "updated": "2026-10-23T23:02:18.819Z",
       "fieldReviews": {
         "color": "2026-10-23T22:50:42.791Z",
         "author": "2026-10-23T22:57:57.306Z",
         "side": "2026-10-23T22:59:16.002Z",
-        "kind": "2026-10-23T23:01:24.302Z"
+        "kind": "2026-10-23T23:01:24.302Z",
+        "portrait": "2026-10-23T23:02:18.819Z"
       }
     },
     "ad910b0dc72f98de2f79352ae6a73f4e36903b7cc68ccf4a7071f835b20f1897": {
@@ -6858,9 +6862,10 @@
         "color": "sepia",
         "author": "Florencio Bixio",
         "side": "Frente",
-        "kind": "Retrato"
+        "kind": "Retrato",
+        "portrait": "Grupal"
       },
-      "revision": 4,
+      "revision": 5,
       "fingerprint": "1ae977c7127bb66a",
       "media": {
         "thumb": "media/bixio/f57a78e5e53b955856336a966707a9084cdec97cf7c94f64f10d2edb6e186e76-1ae977c7127bb66a-thumb.webp",
@@ -6868,12 +6873,13 @@
         "w": 1535,
         "h": 2200
       },
-      "updated": "2026-10-23T23:01:24.302Z",
+      "updated": "2026-10-23T23:02:18.819Z",
       "fieldReviews": {
         "color": "2026-10-23T22:53:06.216Z",
         "author": "2026-10-23T22:57:57.306Z",
         "side": "2026-10-23T22:59:16.002Z",
-        "kind": "2026-10-23T23:01:24.302Z"
+        "kind": "2026-10-23T23:01:24.302Z",
+        "portrait": "2026-10-23T23:02:18.819Z"
       }
     },
     "3131caca1538388c42e2a5cee6a03703ee52f8d091a4964b20b499c1eef377ba": {
@@ -6885,9 +6891,10 @@
         "color": "sepia",
         "author": "Florencio Bixio",
         "side": "Frente",
-        "kind": "Retrato"
+        "kind": "Retrato",
+        "portrait": "Grupal"
       },
-      "revision": 4,
+      "revision": 5,
       "fingerprint": "dbc3014597e1aaa2",
       "media": {
         "thumb": "media/bixio/3131caca1538388c42e2a5cee6a03703ee52f8d091a4964b20b499c1eef377ba-dbc3014597e1aaa2-thumb.webp",
@@ -6895,12 +6902,13 @@
         "w": 869,
         "h": 1151
       },
-      "updated": "2026-10-23T23:01:24.302Z",
+      "updated": "2026-10-23T23:02:18.819Z",
       "fieldReviews": {
         "color": "2026-10-23T22:53:06.216Z",
         "author": "2026-10-23T22:57:57.306Z",
         "side": "2026-10-23T22:59:16.002Z",
-        "kind": "2026-10-23T23:01:24.302Z"
+        "kind": "2026-10-23T23:01:24.302Z",
+        "portrait": "2026-10-23T23:02:18.819Z"
       }
     },
     "4343c08ec2df0ea98e28471e2a1375c001a0dabecced7e71d62047bdeb0b479c": {
@@ -6912,9 +6920,10 @@
         "color": "sepia",
         "author": "Florencio Bixio",
         "side": "Frente",
-        "kind": "Retrato"
+        "kind": "Retrato",
+        "portrait": "Grupal"
       },
-      "revision": 4,
+      "revision": 5,
       "fingerprint": "0619a1039f892d44",
       "media": {
         "thumb": "media/bixio/4343c08ec2df0ea98e28471e2a1375c001a0dabecced7e71d62047bdeb0b479c-0619a1039f892d44-thumb.webp",
@@ -6922,12 +6931,13 @@
         "w": 1525,
         "h": 2200
       },
-      "updated": "2026-10-23T23:01:24.302Z",
+      "updated": "2026-10-23T23:02:18.819Z",
       "fieldReviews": {
         "color": "2026-10-23T22:53:06.216Z",
         "author": "2026-10-23T22:57:57.306Z",
         "side": "2026-10-23T22:59:16.002Z",
-        "kind": "2026-10-23T23:01:24.302Z"
+        "kind": "2026-10-23T23:01:24.302Z",
+        "portrait": "2026-10-23T23:02:18.819Z"
       }
     },
     "9496b5873d4a960af2853c314355e9fa7140a6341c11a56150856a158f472c32": {
@@ -6939,9 +6949,10 @@
         "color": "sepia",
         "author": "Florencio Bixio",
         "side": "Frente",
-        "kind": "Retrato"
+        "kind": "Retrato",
+        "portrait": "Grupal"
       },
-      "revision": 4,
+      "revision": 5,
       "fingerprint": "5c4f24af68f762e1",
       "media": {
         "thumb": "media/bixio/9496b5873d4a960af2853c314355e9fa7140a6341c11a56150856a158f472c32-5c4f24af68f762e1-thumb.webp",
@@ -6949,12 +6960,13 @@
         "w": 1447,
         "h": 2200
       },
-      "updated": "2026-10-23T23:01:24.302Z",
+      "updated": "2026-10-23T23:02:18.819Z",
       "fieldReviews": {
         "color": "2026-10-23T22:53:06.216Z",
         "author": "2026-10-23T22:57:57.306Z",
         "side": "2026-10-23T22:59:16.002Z",
-        "kind": "2026-10-23T23:01:24.302Z"
+        "kind": "2026-10-23T23:01:24.302Z",
+        "portrait": "2026-10-23T23:02:18.819Z"
       }
     },
     "6b71959361f2a546f62f4a5cbe5233124630ee1fc9002e458723aa086ae8972d": {
@@ -6991,9 +7003,10 @@
         "color": "sepia",
         "author": "Florencio Bixio",
         "side": "Frente",
-        "kind": "Retrato"
+        "kind": "Retrato",
+        "portrait": "Grupal"
       },
-      "revision": 4,
+      "revision": 5,
       "fingerprint": "b03abff6435dde1d",
       "media": {
         "thumb": "media/bixio/d6e2d3bba87fd919e090751c14b2b74b74b683c1ee652d6f344baa5f0b309d25-b03abff6435dde1d-thumb.webp",
@@ -7001,12 +7014,13 @@
         "w": 1575,
         "h": 2200
       },
-      "updated": "2026-10-23T23:01:24.302Z",
+      "updated": "2026-10-23T23:02:18.819Z",
       "fieldReviews": {
         "color": "2026-10-23T22:50:42.791Z",
         "author": "2026-10-23T22:57:57.306Z",
         "side": "2026-10-23T22:59:16.002Z",
-        "kind": "2026-10-23T23:01:24.302Z"
+        "kind": "2026-10-23T23:01:24.302Z",
+        "portrait": "2026-10-23T23:02:18.819Z"
       }
     },
     "90fd61e6bec2a32c77eeb120a713481a9bb5c699c09ba9e995b89e8dc62c49cc": {
@@ -7018,9 +7032,10 @@
         "color": "sepia",
         "author": "Florencio Bixio",
         "side": "Frente",
-        "kind": "Retrato"
+        "kind": "Retrato",
+        "portrait": "Grupal"
       },
-      "revision": 4,
+      "revision": 5,
       "fingerprint": "5c2f16ef43010c2a",
       "media": {
         "thumb": "media/bixio/90fd61e6bec2a32c77eeb120a713481a9bb5c699c09ba9e995b89e8dc62c49cc-5c2f16ef43010c2a-thumb.webp",
@@ -7028,12 +7043,13 @@
         "w": 1575,
         "h": 2200
       },
-      "updated": "2026-10-23T23:01:24.302Z",
+      "updated": "2026-10-23T23:02:18.819Z",
       "fieldReviews": {
         "color": "2026-10-23T22:50:42.791Z",
         "author": "2026-10-23T22:57:57.306Z",
         "side": "2026-10-23T22:59:16.002Z",
-        "kind": "2026-10-23T23:01:24.302Z"
+        "kind": "2026-10-23T23:01:24.302Z",
+        "portrait": "2026-10-23T23:02:18.819Z"
       }
     },
     "c7a31ba27382c571c507365b787a4419c1546b909b8ccbb4d875c02614d35e7e": {
@@ -7045,9 +7061,10 @@
         "color": "sepia",
         "author": "Florencio Bixio",
         "side": "Frente",
-        "kind": "Retrato"
+        "kind": "Retrato",
+        "portrait": "Grupal"
       },
-      "revision": 4,
+      "revision": 5,
       "fingerprint": "5b3df1ad2ec98355",
       "media": {
         "thumb": "media/bixio/c7a31ba27382c571c507365b787a4419c1546b909b8ccbb4d875c02614d35e7e-5b3df1ad2ec98355-thumb.webp",
@@ -7055,12 +7072,13 @@
         "w": 1406,
         "h": 2200
       },
-      "updated": "2026-10-23T23:01:24.302Z",
+      "updated": "2026-10-23T23:02:18.819Z",
       "fieldReviews": {
         "color": "2026-10-23T22:50:42.791Z",
         "author": "2026-10-23T22:57:57.306Z",
         "side": "2026-10-23T22:59:16.002Z",
-        "kind": "2026-10-23T23:01:24.302Z"
+        "kind": "2026-10-23T23:01:24.302Z",
+        "portrait": "2026-10-23T23:02:18.819Z"
       }
     },
     "c5cc5ece3c4a787d782d462deebdecf1b530367479330701a26dc54b9c4fee62": {
@@ -7072,9 +7090,10 @@
         "color": "sepia",
         "author": "Florencio Bixio",
         "side": "Frente",
-        "kind": "Retrato"
+        "kind": "Retrato",
+        "portrait": "Grupal"
       },
-      "revision": 4,
+      "revision": 5,
       "fingerprint": "e029d379d67931b0",
       "media": {
         "thumb": "media/bixio/c5cc5ece3c4a787d782d462deebdecf1b530367479330701a26dc54b9c4fee62-e029d379d67931b0-thumb.webp",
@@ -7082,12 +7101,13 @@
         "w": 1411,
         "h": 2200
       },
-      "updated": "2026-10-23T23:01:24.302Z",
+      "updated": "2026-10-23T23:02:18.819Z",
       "fieldReviews": {
         "color": "2026-10-23T22:53:06.216Z",
         "author": "2026-10-23T22:57:57.306Z",
         "side": "2026-10-23T22:59:16.002Z",
-        "kind": "2026-10-23T23:01:24.302Z"
+        "kind": "2026-10-23T23:01:24.302Z",
+        "portrait": "2026-10-23T23:02:18.819Z"
       }
     },
     "1a90a74cbe3a554e2d83de5ac8e4f5204b3869c92c906961c05e2adcb56c34c6": {
@@ -7099,9 +7119,10 @@
         "color": "sepia",
         "author": "Florencio Bixio",
         "side": "Frente",
-        "kind": "Retrato"
+        "kind": "Retrato",
+        "portrait": "Grupal"
       },
-      "revision": 4,
+      "revision": 5,
       "fingerprint": "7bbb6a5cba2993ec",
       "media": {
         "thumb": "media/bixio/1a90a74cbe3a554e2d83de5ac8e4f5204b3869c92c906961c05e2adcb56c34c6-7bbb6a5cba2993ec-thumb.webp",
@@ -7109,12 +7130,13 @@
         "w": 1411,
         "h": 2200
       },
-      "updated": "2026-10-23T23:01:24.302Z",
+      "updated": "2026-10-23T23:02:18.819Z",
       "fieldReviews": {
         "color": "2026-10-23T22:53:06.216Z",
         "author": "2026-10-23T22:57:57.306Z",
         "side": "2026-10-23T22:59:16.002Z",
-        "kind": "2026-10-23T23:01:24.302Z"
+        "kind": "2026-10-23T23:01:24.302Z",
+        "portrait": "2026-10-23T23:02:18.819Z"
       }
     },
     "bb0623ee2656d042f9f99211f0872b89935c90d1a18f592e0886f5fdcd7976c1": {
@@ -7126,9 +7148,10 @@
         "color": "sepia",
         "author": "Florencio Bixio",
         "side": "Frente",
-        "kind": "Retrato"
+        "kind": "Retrato",
+        "portrait": "Grupal"
       },
-      "revision": 4,
+      "revision": 5,
       "fingerprint": "d4d286a15b9f651f",
       "media": {
         "thumb": "media/bixio/bb0623ee2656d042f9f99211f0872b89935c90d1a18f592e0886f5fdcd7976c1-d4d286a15b9f651f-thumb.webp",
@@ -7136,12 +7159,13 @@
         "w": 1299,
         "h": 2200
       },
-      "updated": "2026-10-23T23:01:24.302Z",
+      "updated": "2026-10-23T23:02:18.819Z",
       "fieldReviews": {
         "color": "2026-10-23T22:53:06.216Z",
         "author": "2026-10-23T22:57:57.306Z",
         "side": "2026-10-23T22:59:16.002Z",
-        "kind": "2026-10-23T23:01:24.302Z"
+        "kind": "2026-10-23T23:01:24.302Z",
+        "portrait": "2026-10-23T23:02:18.819Z"
       }
     }
   },
@@ -7221,7 +7245,7 @@
     "BIX-21": "Bixio - Firma en relieve",
     "BIX-22": "Bixio - Firma caligráfica"
   },
-  "updated": "2026-10-23T23:02:00.064Z",
+  "updated": "2026-10-23T23:02:20.225Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
