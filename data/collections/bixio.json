@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "8b0c456f-6eab-4ba2-ac8d-f73dcd8832cc",
+  "version": "b68984bc-1e82-4a17-b59c-b166174d6528",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -6472,9 +6472,10 @@
         "environment": "Estudio",
         "people": [
           "Mujeres"
-        ]
+        ],
+        "highlights": []
       },
-      "revision": 9,
+      "revision": 10,
       "fingerprint": "78a0c45641b1ad22",
       "media": {
         "thumb": "media/bixio/7967726487c207253b879a51199060d85da25b4f8f62ef7f991f24b4a41d5fa6-78a0c45641b1ad22-thumb.webp",
@@ -6482,7 +6483,7 @@
         "w": 1585,
         "h": 2200
       },
-      "updated": "2026-10-23T23:10:57.201Z",
+      "updated": "2026-10-23T23:22:39.580Z",
       "fieldReviews": {
         "color": "2026-10-23T22:53:06.216Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -6492,7 +6493,8 @@
         "frame": "2026-10-23T23:03:00.875Z",
         "direction": "2026-10-23T23:04:45.226Z",
         "environment": "2026-10-23T23:07:46.255Z",
-        "people": "2026-10-23T23:10:57.201Z"
+        "people": "2026-10-23T23:10:57.201Z",
+        "highlights": "2026-10-23T23:22:39.580Z"
       }
     },
     "dec73a87f815f750d093540598043242a236b247aba00f31473b6a00677396fd": {
@@ -7735,7 +7737,7 @@
     "BIX-21": "Bixio - Firma en relieve",
     "BIX-22": "Bixio - Firma caligráfica"
   },
-  "updated": "2026-10-23T23:22:34.538Z",
+  "updated": "2026-10-23T23:22:40.973Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
