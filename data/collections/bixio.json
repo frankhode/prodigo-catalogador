@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "19150517-87ed-46c9-aa91-8405ffb108bf",
+  "version": "afc52b56-97e5-404e-99cd-5afaf3d96dcb",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -6555,7 +6555,7 @@
       "id": "38d1da8c1668c2887ea3e580fd2ee94b3fe4b468fdcac533c45d68e6d02b522d",
       "relative": "img197.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
-      "status": "pending",
+      "status": "done",
       "record": {
         "color": "sepia",
         "author": "Florencio Bixio",
@@ -6568,9 +6568,10 @@
         "people": [
           "Mujeres"
         ],
-        "highlights": []
+        "highlights": [],
+        "signature": "BIX-05"
       },
-      "revision": 10,
+      "revision": 11,
       "fingerprint": "1dc76954f2e23881",
       "media": {
         "thumb": "media/bixio/38d1da8c1668c2887ea3e580fd2ee94b3fe4b468fdcac533c45d68e6d02b522d-1dc76954f2e23881-thumb.webp",
@@ -6578,7 +6579,7 @@
         "w": 1596,
         "h": 2200
       },
-      "updated": "2026-10-23T23:22:46.139Z",
+      "updated": "2026-10-23T23:33:16.387Z",
       "fieldReviews": {
         "color": "2026-10-23T22:50:42.790Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -7871,7 +7872,7 @@
     "BIX-21": "Bixio - Firma en relieve",
     "BIX-22": "Bixio - Firma caligráfica"
   },
-  "updated": "2026-10-23T23:32:58.813Z",
+  "updated": "2026-10-23T23:33:17.737Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
