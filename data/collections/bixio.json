@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "70d9ce68-8fc4-4ef3-9252-f8b4d3c11a76",
+  "version": "4849298e-65da-4c81-b9db-d3eb752b83af",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -3896,16 +3896,34 @@
       "id": "1500b0db1fdef646e77f4a23f96b4cd6ab320a50272584aa26156b136d3a5257",
       "relative": "img152.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Cuerpo entero",
+        "direction": "Frente",
+        "environment": "Estudio",
+        "people": [
+          "Niños"
+        ],
+        "objects": [
+          "Juguetes"
+        ],
+        "highlights": [
+          "Disfraz"
+        ],
+        "signature": "BIX-04"
+      },
+      "revision": 1,
       "fingerprint": "189e1df84b151418",
       "media": {
         "thumb": "media/bixio/1500b0db1fdef646e77f4a23f96b4cd6ab320a50272584aa26156b136d3a5257-189e1df84b151418-thumb.webp",
         "src": "media/bixio/1500b0db1fdef646e77f4a23f96b4cd6ab320a50272584aa26156b136d3a5257-189e1df84b151418.webp",
         "w": 1714,
         "h": 2200
-      }
+      },
+      "updated": "2026-10-23T20:00:03.298Z"
     },
     "48d253f3a57d7928de5d38e1c24d729c2a4bf55be75cacef432d6419aeaf0388": {
       "id": "48d253f3a57d7928de5d38e1c24d729c2a4bf55be75cacef432d6419aeaf0388",
@@ -5080,5 +5098,5 @@
     "BIX-15": "Monograma oval F. Bixio y Cia.",
     "BIX-16": "Florencio Bixio & Cia. - B. de Irigoyen 185 - B. Aires"
   },
-  "updated": "2026-10-23T19:58:56.711Z"
+  "updated": "2026-10-23T20:00:04.911Z"
 }
