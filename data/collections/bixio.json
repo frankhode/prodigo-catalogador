@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "fb98d644-795d-476e-ba0d-dc7a6516974a",
+  "version": "191e6ba1-f6b9-4550-85a0-267273dde905",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -7051,9 +7051,12 @@
         "environment": "Estudio",
         "people": [
           "Hombres"
+        ],
+        "highlights": [
+          "Sombrero"
         ]
       },
-      "revision": 9,
+      "revision": 10,
       "fingerprint": "dd1927d1d10332cb",
       "media": {
         "thumb": "media/bixio/204a69e5f27f3a07bb5d74db9c154a321ada3d7c9257e6ffc33c51e65e87d9f3-dd1927d1d10332cb-thumb.webp",
@@ -7061,7 +7064,7 @@
         "w": 1337,
         "h": 2200
       },
-      "updated": "2026-10-23T23:13:18.035Z",
+      "updated": "2026-10-23T23:24:38.101Z",
       "fieldReviews": {
         "color": "2026-10-23T22:51:52.639Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -7071,7 +7074,8 @@
         "frame": "2026-10-23T23:03:16.267Z",
         "direction": "2026-10-23T23:04:45.226Z",
         "environment": "2026-10-23T23:07:46.255Z",
-        "people": "2026-10-23T23:13:18.035Z"
+        "people": "2026-10-23T23:13:18.035Z",
+        "highlights": "2026-10-23T23:24:38.101Z"
       }
     },
     "541f5d3bbaeb6f909fb29bc7fee1d0bdd0b25427b67e213377c4c6c674ca58cf": {
@@ -7773,7 +7777,7 @@
     "BIX-21": "Bixio - Firma en relieve",
     "BIX-22": "Bixio - Firma caligráfica"
   },
-  "updated": "2026-10-23T23:24:33.302Z",
+  "updated": "2026-10-23T23:24:39.457Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
