@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "e8f6476d-1feb-40db-a34d-1b7ebdc0aaed",
+  "version": "cb4139d4-55e1-4011-a064-1920ffdc6d51",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -2062,7 +2062,7 @@
         "portrait": "Individual",
         "frame": "Cuerpo entero",
         "direction": "Frente",
-        "environment": "",
+        "environment": "Exterior",
         "notes": "",
         "parent": "",
         "signature": "BIX-12",
@@ -2077,7 +2077,7 @@
         "author": "Florencio Bixio",
         "color": "byn"
       },
-      "revision": 2,
+      "revision": 3,
       "fingerprint": "4dbbf4d1d72152bf",
       "media": {
         "thumb": "media/bixio/e16bd041fb3f493379df1802dfeab2e1b4a507d028c6c17805b8fad7ee7f7096-4dbbf4d1d72152bf-thumb.webp",
@@ -2085,10 +2085,11 @@
         "w": 1415,
         "h": 2200
       },
-      "updated": "2026-10-23T22:51:52.639Z",
+      "updated": "2026-10-23T23:07:57.431Z",
       "fieldReviews": {
         "author": "2026-10-23T20:46:09.401Z",
-        "color": "2026-10-23T22:51:52.639Z"
+        "color": "2026-10-23T22:51:52.639Z",
+        "environment": "2026-10-23T23:07:57.431Z"
       }
     },
     "aa7c3a665f2b5a264b426c240b356153a8d8ff7c03f4552430fc5ce89819c5bc": {
@@ -7531,7 +7532,7 @@
     "BIX-21": "Bixio - Firma en relieve",
     "BIX-22": "Bixio - Firma caligráfica"
   },
-  "updated": "2026-10-23T23:07:47.915Z",
+  "updated": "2026-10-23T23:07:58.771Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
