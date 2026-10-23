@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "98809e2b-15bd-404c-80f9-d4e79a1874e3",
+  "version": "cd310961-d149-4187-8e1d-cb9b9105c99e",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -5524,16 +5524,31 @@
       "id": "d6c8d3fbe73e43c217e38d30a4238555df0c063a954f56890c2619f3e425d345",
       "relative": "img184.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "author": "Florencio Bixio",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Busto",
+        "direction": "Tres cuartos",
+        "environment": "Estudio",
+        "people": [
+          "Hombres"
+        ],
+        "objects": [],
+        "highlights": [],
+        "signature": "BIX-22"
+      },
+      "revision": 1,
       "fingerprint": "1cf6eb2b76055506",
       "media": {
         "thumb": "media/bixio/d6c8d3fbe73e43c217e38d30a4238555df0c063a954f56890c2619f3e425d345-1cf6eb2b76055506-thumb.webp",
         "src": "media/bixio/d6c8d3fbe73e43c217e38d30a4238555df0c063a954f56890c2619f3e425d345-1cf6eb2b76055506.webp",
         "w": 1469,
         "h": 2200
-      }
+      },
+      "updated": "2026-10-23T22:18:50.475Z"
     },
     "ad3971cbd27e6af2bf0e8a7ff21a877c084bd1b72e1ba1fb5dd2f4aa68177453": {
       "id": "ad3971cbd27e6af2bf0e8a7ff21a877c084bd1b72e1ba1fb5dd2f4aa68177453",
@@ -6242,7 +6257,7 @@
     "BIX-21": "Bixio - Firma en relieve",
     "BIX-22": "Bixio - Firma caligráfica"
   },
-  "updated": "2026-10-23T22:17:40.234Z",
+  "updated": "2026-10-23T22:18:52.347Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
