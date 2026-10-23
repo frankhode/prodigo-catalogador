@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "fa0d7349-5fea-4a58-b888-37451baf1a67",
+  "version": "8b0c456f-6eab-4ba2-ac8d-f73dcd8832cc",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -6429,9 +6429,12 @@
         "environment": "Estudio",
         "people": [
           "Mujeres"
+        ],
+        "highlights": [
+          "Primera comunión"
         ]
       },
-      "revision": 9,
+      "revision": 10,
       "fingerprint": "3bf0e7ee6022e058",
       "media": {
         "thumb": "media/bixio/193ac9701720c59a4a6d4cde75955d854d081849c6229b49e51d33913e387d35-3bf0e7ee6022e058-thumb.webp",
@@ -6439,7 +6442,7 @@
         "w": 2200,
         "h": 1579
       },
-      "updated": "2026-10-23T23:10:51.505Z",
+      "updated": "2026-10-23T23:22:32.907Z",
       "fieldReviews": {
         "color": "2026-10-23T22:54:09.880Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -6449,7 +6452,8 @@
         "frame": "2026-10-23T23:03:00.875Z",
         "direction": "2026-10-23T23:04:45.226Z",
         "environment": "2026-10-23T23:07:46.255Z",
-        "people": "2026-10-23T23:10:51.505Z"
+        "people": "2026-10-23T23:10:51.505Z",
+        "highlights": "2026-10-23T23:22:32.907Z"
       }
     },
     "7967726487c207253b879a51199060d85da25b4f8f62ef7f991f24b4a41d5fa6": {
@@ -7731,7 +7735,7 @@
     "BIX-21": "Bixio - Firma en relieve",
     "BIX-22": "Bixio - Firma caligráfica"
   },
-  "updated": "2026-10-23T23:22:26.397Z",
+  "updated": "2026-10-23T23:22:34.538Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
