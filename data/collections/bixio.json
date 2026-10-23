@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "84b75988-fa64-49e3-882c-f85459d0f184",
+  "version": "d5ba3e22-9477-48e8-b063-02f5df31ebea",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -7343,9 +7343,12 @@
           "Hombres",
           "Mujeres",
           "Bebés"
+        ],
+        "highlights": [
+          "Vestimenta"
         ]
       },
-      "revision": 9,
+      "revision": 10,
       "fingerprint": "dbc3014597e1aaa2",
       "media": {
         "thumb": "media/bixio/3131caca1538388c42e2a5cee6a03703ee52f8d091a4964b20b499c1eef377ba-dbc3014597e1aaa2-thumb.webp",
@@ -7353,7 +7356,7 @@
         "w": 869,
         "h": 1151
       },
-      "updated": "2026-10-23T23:14:05.292Z",
+      "updated": "2026-10-23T23:26:02.023Z",
       "fieldReviews": {
         "color": "2026-10-23T22:53:06.216Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -7363,7 +7366,8 @@
         "frame": "2026-10-23T23:03:29.112Z",
         "direction": "2026-10-23T23:04:14.520Z",
         "environment": "2026-10-23T23:07:46.255Z",
-        "people": "2026-10-23T23:14:05.292Z"
+        "people": "2026-10-23T23:14:05.292Z",
+        "highlights": "2026-10-23T23:26:02.023Z"
       }
     },
     "4343c08ec2df0ea98e28471e2a1375c001a0dabecced7e71d62047bdeb0b479c": {
@@ -7801,7 +7805,7 @@
     "BIX-21": "Bixio - Firma en relieve",
     "BIX-22": "Bixio - Firma caligráfica"
   },
-  "updated": "2026-10-23T23:25:54.536Z",
+  "updated": "2026-10-23T23:26:03.378Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
