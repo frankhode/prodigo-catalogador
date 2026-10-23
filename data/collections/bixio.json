@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "50e1fd2c-f225-4dc7-acc5-cd37729ddde7",
+  "version": "d667053b-4527-4998-b919-d21db4547b09",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -5018,16 +5018,37 @@
       "id": "3740d377e3d28127eb204e567b392934779c148fd75115a40d9b8146857ae104",
       "relative": "img167.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "author": "Florencio Bixio",
+        "kind": "Retrato",
+        "portrait": "Grupal",
+        "frame": "Cuerpo entero",
+        "direction": "Mixta",
+        "environment": "Estudio",
+        "people": [
+          "Niños",
+          "Niñas"
+        ],
+        "objects": [
+          "Aro",
+          "Libros"
+        ],
+        "highlights": [
+          "Vestimenta"
+        ],
+        "signature": "BIX-04"
+      },
+      "revision": 1,
       "fingerprint": "5606894fc643bd66",
       "media": {
         "thumb": "media/bixio/3740d377e3d28127eb204e567b392934779c148fd75115a40d9b8146857ae104-5606894fc643bd66-thumb.webp",
         "src": "media/bixio/3740d377e3d28127eb204e567b392934779c148fd75115a40d9b8146857ae104-5606894fc643bd66.webp",
         "w": 1539,
         "h": 2200
-      }
+      },
+      "updated": "2026-10-23T21:59:00.039Z"
     },
     "a0f4bee6c32a7f3d5fc19ef2cdc077f3955dd4f7d4e9352dc4cf8fbabf36c0ea": {
       "id": "a0f4bee6c32a7f3d5fc19ef2cdc077f3955dd4f7d4e9352dc4cf8fbabf36c0ea",
@@ -5931,7 +5952,9 @@
       "Instrumentos musicales",
       "Jarrón",
       "Abanico",
-      "Pelotas"
+      "Pelotas",
+      "Aro",
+      "Libros"
     ],
     "highlights": [
       "Vestimenta",
@@ -5982,7 +6005,7 @@
     "BIX-18": "Monograma circular - F. Bixio y Cia. 181. Buen Orden. 185. Buenos Aires",
     "BIX-19": "Bixio - Buenos Aires"
   },
-  "updated": "2026-10-23T21:57:14.523Z",
+  "updated": "2026-10-23T21:59:01.491Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
