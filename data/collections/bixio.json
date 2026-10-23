@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "191e6ba1-f6b9-4550-85a0-267273dde905",
+  "version": "d2289750-b6a2-4c9e-b0cc-d3f3106a5307",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -7094,9 +7094,13 @@
         "environment": "Estudio",
         "people": [
           "Niños"
+        ],
+        "highlights": [
+          "Tango",
+          "Vestimenta"
         ]
       },
-      "revision": 9,
+      "revision": 10,
       "fingerprint": "b275bf902ff57825",
       "media": {
         "thumb": "media/bixio/541f5d3bbaeb6f909fb29bc7fee1d0bdd0b25427b67e213377c4c6c674ca58cf-b275bf902ff57825-thumb.webp",
@@ -7104,7 +7108,7 @@
         "w": 1478,
         "h": 2200
       },
-      "updated": "2026-10-23T23:12:09.090Z",
+      "updated": "2026-10-23T23:24:56.749Z",
       "fieldReviews": {
         "color": "2026-10-23T22:51:52.640Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -7114,7 +7118,8 @@
         "frame": "2026-10-23T23:03:00.875Z",
         "direction": "2026-10-23T23:05:54.132Z",
         "environment": "2026-10-23T23:07:46.255Z",
-        "people": "2026-10-23T23:12:09.090Z"
+        "people": "2026-10-23T23:12:09.090Z",
+        "highlights": "2026-10-23T23:24:56.749Z"
       }
     },
     "5bb39666d5318cfc7603dc83d893fefcfd605ddc81ee9ef606ea012f83b071a0": {
@@ -7748,7 +7753,8 @@
       "Bailarines",
       "Pieles",
       "Boy scouts",
-      "Paraguas"
+      "Paraguas",
+      "Tango"
     ]
   },
   "signatures": {
@@ -7777,7 +7783,7 @@
     "BIX-21": "Bixio - Firma en relieve",
     "BIX-22": "Bixio - Firma caligráfica"
   },
-  "updated": "2026-10-23T23:24:39.457Z",
+  "updated": "2026-10-23T23:24:58.134Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
