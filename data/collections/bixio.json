@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "78517dc6-8317-4ff5-981a-e95b5793da9a",
+  "version": "bea2040e-8829-4088-9f57-a83e374a58a2",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -5467,16 +5467,33 @@
       "id": "b9c17789e39487ae2cdd3f1694363dd1159056b642231fbf0d7a3b5874f86c26",
       "relative": "img182.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "author": "Florencio Bixio",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Cuerpo entero",
+        "direction": "Frente",
+        "environment": "Estudio",
+        "people": [
+          "Mujeres"
+        ],
+        "objects": [],
+        "highlights": [
+          "Bailarines"
+        ],
+        "signature": "BIX-22"
+      },
+      "revision": 1,
       "fingerprint": "62d2b988d4fbd905",
       "media": {
         "thumb": "media/bixio/b9c17789e39487ae2cdd3f1694363dd1159056b642231fbf0d7a3b5874f86c26-62d2b988d4fbd905-thumb.webp",
         "src": "media/bixio/b9c17789e39487ae2cdd3f1694363dd1159056b642231fbf0d7a3b5874f86c26-62d2b988d4fbd905.webp",
         "w": 1402,
         "h": 2200
-      }
+      },
+      "updated": "2026-10-23T22:17:10.930Z"
     },
     "06ed9b6a030075563303891e939c083a46d2f4059c2b4ce4fc8708183ab59fec": {
       "id": "06ed9b6a030075563303891e939c083a46d2f4059c2b4ce4fc8708183ab59fec",
@@ -6185,7 +6202,8 @@
       "Policía",
       "Militar",
       "Casamiento",
-      "Bailarín"
+      "Bailarín",
+      "Bailarines"
     ]
   },
   "signatures": {
@@ -6214,7 +6232,7 @@
     "BIX-21": "Bixio - Firma en relieve",
     "BIX-22": "Bixio - Firma caligráfica"
   },
-  "updated": "2026-10-23T22:16:14.435Z",
+  "updated": "2026-10-23T22:17:12.648Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
