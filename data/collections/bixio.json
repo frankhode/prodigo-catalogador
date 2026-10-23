@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "02f71000-6c03-408c-b48d-4cb51e8c8578",
+  "version": "f80b6a41-e8c9-4365-8f38-b60c908508dc",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -6641,7 +6641,7 @@
       "id": "85b1cc92f299cd9427d6428b34a817d016375ea72bbdcdf410185cf63e0786bd",
       "relative": "img199.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
-      "status": "pending",
+      "status": "done",
       "record": {
         "color": "sepia",
         "author": "Florencio Bixio",
@@ -6656,9 +6656,10 @@
         ],
         "highlights": [
           "Primera comunión"
-        ]
+        ],
+        "signature": "BIX-07"
       },
-      "revision": 10,
+      "revision": 11,
       "fingerprint": "27847339225283fe",
       "media": {
         "thumb": "media/bixio/85b1cc92f299cd9427d6428b34a817d016375ea72bbdcdf410185cf63e0786bd-27847339225283fe-thumb.webp",
@@ -6666,7 +6667,7 @@
         "w": 1544,
         "h": 2200
       },
-      "updated": "2026-10-23T23:23:12.076Z",
+      "updated": "2026-10-23T23:33:48.533Z",
       "fieldReviews": {
         "color": "2026-10-23T22:50:42.790Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -7873,7 +7874,7 @@
     "BIX-21": "Bixio - Firma en relieve",
     "BIX-22": "Bixio - Firma caligráfica"
   },
-  "updated": "2026-10-23T23:33:34.152Z",
+  "updated": "2026-10-23T23:33:49.921Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
