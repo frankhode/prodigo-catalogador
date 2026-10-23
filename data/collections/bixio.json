@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "e70bc0a3-402d-4c43-b2f7-aed6ed3fa326",
+  "version": "c616ba6c-ed7f-4f49-ba02-b1358bf32d05",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -5252,16 +5252,34 @@
       "id": "a26d530a42aa2f03bb620d086d358831e9c2b0ef44ba3b5c467b1209d52d8046",
       "relative": "img175.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "author": "Florencio Bixio",
+        "kind": "Retrato",
+        "portrait": "Grupal",
+        "frame": "Cuerpo entero",
+        "direction": "Frente",
+        "environment": "Estudio",
+        "people": [
+          "Hombres",
+          "Mujeres"
+        ],
+        "objects": [],
+        "highlights": [
+          "Casamiento"
+        ],
+        "signature": "BIX-04"
+      },
+      "revision": 1,
       "fingerprint": "a52317dbc0212099",
       "media": {
         "thumb": "media/bixio/a26d530a42aa2f03bb620d086d358831e9c2b0ef44ba3b5c467b1209d52d8046-a52317dbc0212099-thumb.webp",
         "src": "media/bixio/a26d530a42aa2f03bb620d086d358831e9c2b0ef44ba3b5c467b1209d52d8046-a52317dbc0212099.webp",
         "w": 1648,
         "h": 2200
-      }
+      },
+      "updated": "2026-10-23T22:10:22.470Z"
     },
     "0858c56b08742a205ef382286ba9d79200039dc66f6ed2b3490a203804b31d42": {
       "id": "0858c56b08742a205ef382286ba9d79200039dc66f6ed2b3490a203804b31d42",
@@ -6099,7 +6117,7 @@
     "BIX-18": "Monograma circular - F. Bixio y Cia. 181. Buen Orden. 185. Buenos Aires",
     "BIX-19": "Bixio - Buenos Aires"
   },
-  "updated": "2026-10-23T22:05:05.438Z",
+  "updated": "2026-10-23T22:10:23.982Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
