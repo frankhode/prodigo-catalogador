@@ -17,7 +17,7 @@ ctx.fetch=async(url,options={})=>{
  else if(path==='/git/blobs')data={sha:'blob'+(++serial)};
  else throw Error('Unexpected '+method+' '+path);
  return {ok:status===200,status,json:async()=>structuredClone(data)};
-};vm.createContext(ctx);vm.runInContext(fs.readFileSync('prodigo-catalogador/assets/github-store.js','utf8')+'\nglobalThis.store=GithubStore;',ctx);const store=ctx.store;
+};ctx.RecordFields=require('../assets/record-fields.js');vm.createContext(ctx);vm.runInContext(fs.readFileSync('prodigo-catalogador/assets/github-store.js','utf8')+'\nglobalThis.store=GithubStore;',ctx);const store=ctx.store;
 (async()=>{
  await store.open('bixio');await assert.rejects(()=>store.mutate('save',{}),/Conectá/);await store.connect('TEST_TOKEN_IN_MEMORY_ONLY');
  const saved=await store.mutate('save',{id:'x',revision:0,complete:true,record:{side:'Frente',kind:'Retrato',signature:'BIX-02',people:['Niños'],objects:['Triciclo']}});assert.equal(saved.image.status,'done');assert.equal(saved.image.record.side,'Frente');assert.equal(commits.get(head).files['data/collections/bixio.json'].images.x.record.objects[0],'Triciclo');
@@ -25,6 +25,17 @@ ctx.fetch=async(url,options={})=>{
  const oldVersion=store.db.version;rejectRef=true;await assert.rejects(()=>store.mutate('save',{id:'x',revision:1,complete:false,record:{side:'Frente'}}),/repositorio cambió/);assert.equal(store.db.version,oldVersion);assert.equal(store.db.images.x.status,'done');rejectRef=false;
  const remote=commits.get(head).files['data/index.json'];remote.collections[0].version='someone-else';await assert.rejects(()=>store.mutate('save',{id:'x',revision:1,complete:false,record:{side:'Frente'}}),/otra ventana/);remote.collections[0].version=oldVersion;
  await store.create('Rodin');assert.equal(store.id,'rodin');assert.equal(store.db.name,'Rodin');assert(!store.db.signatures['BIX-01']);const signature=await store.mutate('add_signature',{name:'Firma Rodin'});assert.equal(signature.code,'FIR-01');await store.mutate('add_signature',{name:'Otra firma'});assert(store.db.signatures['FIR-02']);
- await store.open('bixio');assert.equal(store.db.images.x.record.side,'Frente');store.disconnect();await assert.rejects(()=>store.create('Prueba'),/Conectá/);
+ await store.open('bixio');assert.equal(store.db.images.x.record.side,'Frente');
+ const apply=async(field,value,extra={})=>store.mutate('patch_field',{id:'x',revision:store.db.images.x.revision,field,value,...extra});
+ await apply('identifier','0000123',{identifierType:'Barcode Aleph'});assert.equal(store.db.images.x.record.identifier,'0000123');
+ await apply('author','Fotógrafo A');assert.equal(store.db.authors[0],'Fotógrafo A');
+ await apply('identifiedPeople',['Ortiz, Fran','Otra persona','Ortiz, Fran']);assert.equal(store.db.images.x.record.identifiedPeople.length,2);assert.equal(store.db.images.x.status,'done');assert.equal(store.db.images.x.record.objects[0],'Triciclo');assert(store.db.images.x.fieldReviews.identifiedPeople);
+ await assert.rejects(()=>apply('not-a-field','dato'),/Campo de revisión/);
+ let snapshot=store.db;snapshot.images.y={id:'y',relative:'otra.tif',record:{},status:'pending',revision:0};await store.commit(snapshot);
+ await assert.rejects(()=>store.mutate('patch_field',{id:'y',revision:0,field:'identifier',value:'0000123',identifierType:'Inventario'}),/ya pertenece/);
+ snapshot=store.db;snapshot.images.y.record={parent:'x',side:'Reverso'};await store.commit(snapshot);
+ await store.mutate('patch_field',{id:'y',revision:0,field:'identifier',value:'0000123',identifierType:'Barcode Aleph'});assert.equal(store.db.images.y.status,'pending');
+ await store.mutate('patch_field',{id:'y',revision:1,field:'author',value:''});assert(store.db.images.y.fieldReviews.author);assert.equal(store.db.images.y.record.parent,'x');
+ store.disconnect();await assert.rejects(()=>store.create('Prueba'),/Conectá/);
  console.log('PASS: lectura pública, guardado atómico, autorización en memoria, protección contra conflictos y colecciones independientes.');
 })().catch(e=>{console.error(e);process.exitCode=1;});
