@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "67335349-44d7-4307-a5b3-a781f23e1d2d",
+  "version": "381f53af-f314-45c8-ad46-3ab6e2d80b10",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -4116,11 +4116,27 @@
       "id": "7bacaefb49f6db4134a14205f3a0bd9bb09bcf184ca214acf901038215e325dc",
       "relative": "img078.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
-      "status": "pending",
+      "status": "done",
       "record": {
-        "author": "Florencio Bixio"
+        "author": "Florencio Bixio",
+        "side": "Frente",
+        "date": "1927",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Cuerpo entero",
+        "direction": "Tres cuartos",
+        "environment": "Exterior",
+        "people": [
+          "Niñas"
+        ],
+        "objects": [],
+        "highlights": [
+          "Vestimenta",
+          "Mar del Plata"
+        ],
+        "signature": "BIX-13"
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "d1d46f0c2e419d26",
       "media": {
         "thumb": "media/bixio/7bacaefb49f6db4134a14205f3a0bd9bb09bcf184ca214acf901038215e325dc-d1d46f0c2e419d26-thumb.webp",
@@ -4128,7 +4144,7 @@
         "w": 1421,
         "h": 2200
       },
-      "updated": "2026-10-23T20:46:20.250Z",
+      "updated": "2026-10-23T21:10:07.052Z",
       "fieldReviews": {
         "author": "2026-10-23T20:46:20.250Z"
       }
@@ -5661,7 +5677,8 @@
     "people": [
       "Niños",
       "Mujeres",
-      "Bebés"
+      "Bebés",
+      "Niñas"
     ],
     "objects": [
       "Triciclos",
@@ -5719,7 +5736,7 @@
     "BIX-15": "Monograma oval F. Bixio y Cia.",
     "BIX-16": "Florencio Bixio & Cia. - B. de Irigoyen 185 - B. Aires"
   },
-  "updated": "2026-10-23T21:02:28.076Z",
+  "updated": "2026-10-23T21:10:08.622Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
