@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "da5d6b44-5855-4c6e-bf7f-a8f030aa8f0b",
+  "version": "a91793fa-93ad-4c89-b5f0-f23025888185",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -238,7 +238,9 @@
         "people": [
           "Niños"
         ],
-        "objects": [],
+        "objects": [
+          "Bastón"
+        ],
         "highlights": [
           "Vestimenta",
           "Bastón",
@@ -247,7 +249,7 @@
         "author": "Florencio Bixio",
         "color": "byn"
       },
-      "revision": 2,
+      "revision": 3,
       "fingerprint": "ddad2d3f7ba1c116",
       "media": {
         "thumb": "media/bixio/b06d36cd3a78f63fa0c0d3bae5d283483e4570a053b3ef32db925fd22d3b3882-ddad2d3f7ba1c116-thumb.webp",
@@ -255,10 +257,11 @@
         "w": 1398,
         "h": 2200
       },
-      "updated": "2026-10-23T22:42:43.683Z",
+      "updated": "2026-10-23T23:15:41.231Z",
       "fieldReviews": {
         "author": "2026-10-23T20:19:25.725Z",
-        "color": "2026-10-23T22:42:43.683Z"
+        "color": "2026-10-23T22:42:43.683Z",
+        "objects": "2026-10-23T23:15:41.231Z"
       }
     },
     "f4a8696abffffc45e296041b4cee4c670707479ccaa357469a515ecaac11df62": {
@@ -7619,7 +7622,8 @@
       "Pelotas",
       "Aro",
       "Libros",
-      "Muñeca"
+      "Muñeca",
+      "Bastón"
     ],
     "highlights": [
       "Vestimenta",
@@ -7676,7 +7680,7 @@
     "BIX-21": "Bixio - Firma en relieve",
     "BIX-22": "Bixio - Firma caligráfica"
   },
-  "updated": "2026-10-23T23:15:03.416Z",
+  "updated": "2026-10-23T23:15:42.680Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
