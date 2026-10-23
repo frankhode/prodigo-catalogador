@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "780104d3-a789-4888-bd62-22cd69f332e9",
+  "version": "cba72e38-24dc-43ff-ba0a-5b5ac22eccbe",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -4957,16 +4957,36 @@
       "id": "1af1e9a8250a13b83c9b83f49c20b795c6ab625123b283dc11f072aed297e07a",
       "relative": "img165.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "author": "Florencio Bixio",
+        "kind": "Retrato",
+        "portrait": "Grupal",
+        "frame": "Cuerpo entero",
+        "direction": "Mixta",
+        "environment": "Estudio",
+        "people": [
+          "Hombres",
+          "Mujeres",
+          "Niños",
+          "Niñas"
+        ],
+        "objects": [],
+        "highlights": [
+          "Vestimenta"
+        ],
+        "signature": "BIX-04"
+      },
+      "revision": 1,
       "fingerprint": "84a52514672f5cbc",
       "media": {
         "thumb": "media/bixio/1af1e9a8250a13b83c9b83f49c20b795c6ab625123b283dc11f072aed297e07a-84a52514672f5cbc-thumb.webp",
         "src": "media/bixio/1af1e9a8250a13b83c9b83f49c20b795c6ab625123b283dc11f072aed297e07a-84a52514672f5cbc.webp",
         "w": 2200,
         "h": 1619
-      }
+      },
+      "updated": "2026-10-23T21:50:41.372Z"
     },
     "8c6a39e9ef4d67f63d26497267934478f6c47a33250bf105716d9e597d50f45d": {
       "id": "8c6a39e9ef4d67f63d26497267934478f6c47a33250bf105716d9e597d50f45d",
@@ -5951,7 +5971,7 @@
     "BIX-18": "Monograma circular - F. Bixio y Cia. 181. Buen Orden. 185. Buenos Aires",
     "BIX-19": "Bixio - Buenos Aires"
   },
-  "updated": "2026-10-23T21:49:25.930Z",
+  "updated": "2026-10-23T21:50:42.879Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
