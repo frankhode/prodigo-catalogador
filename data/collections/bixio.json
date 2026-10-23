@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "31b3cc6a-b949-4d55-be7c-418bb26cc936",
+  "version": "0b6f7852-dcf8-47b8-9cad-68aa37160155",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -6313,7 +6313,7 @@
       "id": "79637e1f41480a6624377dc005ef3dd84a3c9bd7bfa9496d1cd305792c2fbb14",
       "relative": "img191.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
-      "status": "pending",
+      "status": "done",
       "record": {
         "color": "sepia",
         "author": "Florencio Bixio",
@@ -6329,9 +6329,11 @@
         "highlights": [
           "Vestimenta",
           "Pieles"
-        ]
+        ],
+        "objects": [],
+        "signature": "BIX-05"
       },
-      "revision": 10,
+      "revision": 11,
       "fingerprint": "098af5a35d621c84",
       "media": {
         "thumb": "media/bixio/79637e1f41480a6624377dc005ef3dd84a3c9bd7bfa9496d1cd305792c2fbb14-098af5a35d621c84-thumb.webp",
@@ -6339,7 +6341,7 @@
         "w": 1575,
         "h": 2200
       },
-      "updated": "2026-10-23T23:22:15.484Z",
+      "updated": "2026-10-23T23:30:56.978Z",
       "fieldReviews": {
         "color": "2026-10-23T22:50:42.790Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -7850,7 +7852,7 @@
     "BIX-21": "Bixio - Firma en relieve",
     "BIX-22": "Bixio - Firma caligráfica"
   },
-  "updated": "2026-10-23T23:30:17.380Z",
+  "updated": "2026-10-23T23:30:58.344Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
