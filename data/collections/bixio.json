@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "5a6241a4-4c81-4a1b-a86f-0fde3492de2e",
+  "version": "c8b04142-e886-4899-bc15-dfdf55627f05",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -4539,14 +4539,20 @@
       "relative": "img153.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
       "status": "pending",
-      "record": {},
-      "revision": 0,
+      "record": {
+        "author": "Fillebrown"
+      },
+      "revision": 1,
       "fingerprint": "70f12ff3519a3c86",
       "media": {
         "thumb": "media/bixio/48d253f3a57d7928de5d38e1c24d729c2a4bf55be75cacef432d6419aeaf0388-70f12ff3519a3c86-thumb.webp",
         "src": "media/bixio/48d253f3a57d7928de5d38e1c24d729c2a4bf55be75cacef432d6419aeaf0388-70f12ff3519a3c86.webp",
         "w": 2200,
         "h": 1390
+      },
+      "updated": "2026-10-23T21:02:19.840Z",
+      "fieldReviews": {
+        "author": "2026-10-23T21:02:19.840Z"
       }
     },
     "a43e6d1d22a2cc6dcded7a10f1d38d424ca7eec613d792a75dd645ec0ee56911": {
@@ -5707,8 +5713,9 @@
     "BIX-15": "Monograma oval F. Bixio y Cia.",
     "BIX-16": "Florencio Bixio & Cia. - B. de Irigoyen 185 - B. Aires"
   },
-  "updated": "2026-10-23T21:02:03.637Z",
+  "updated": "2026-10-23T21:02:21.219Z",
   "authors": [
-    "Florencio Bixio"
+    "Florencio Bixio",
+    "Fillebrown"
   ]
 }
