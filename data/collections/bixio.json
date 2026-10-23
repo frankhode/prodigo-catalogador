@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "e52a74a1-9f61-4073-b473-689aa6ec3cb5",
+  "version": "6331d272-cd50-4981-984a-55dcfe6c75a2",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -3951,15 +3951,20 @@
         "objects": [],
         "highlights": [
           "Primera comunión"
-        ]
+        ],
+        "author": "Florencio Bixio"
       },
-      "revision": 0,
+      "revision": 1,
       "fingerprint": "02633e121675204c",
       "media": {
         "thumb": "media/bixio/b6e30f9dfa691920601009935451047c8e533236684eede50dbdfeebd161df5f-02633e121675204c-thumb.webp",
         "src": "media/bixio/b6e30f9dfa691920601009935451047c8e533236684eede50dbdfeebd161df5f-02633e121675204c.webp",
         "w": 1596,
         "h": 2200
+      },
+      "updated": "2026-10-23T21:00:21.122Z",
+      "fieldReviews": {
+        "author": "2026-10-23T21:00:21.122Z"
       }
     },
     "ac4b05b51aaf607c47137d44115daf70f5d31936b160577422e2f07bfc80391f": {
@@ -5631,7 +5636,7 @@
     "BIX-15": "Monograma oval F. Bixio y Cia.",
     "BIX-16": "Florencio Bixio & Cia. - B. de Irigoyen 185 - B. Aires"
   },
-  "updated": "2026-10-23T21:00:17.127Z",
+  "updated": "2026-10-23T21:00:22.502Z",
   "authors": [
     "Florencio Bixio"
   ]
