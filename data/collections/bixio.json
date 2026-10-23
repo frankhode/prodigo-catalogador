@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "53c295c3-9dd2-4dec-a8bc-482148f5d006",
+  "version": "78517dc6-8317-4ff5-981a-e95b5793da9a",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -5435,16 +5435,33 @@
       "id": "4be4e2a4a93d6627b5d2ad8c561b24fd0ab495ac92f8cd65bbfd1d7d1140d607",
       "relative": "img181.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "author": "Florencio Bixio",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Cuerpo entero",
+        "direction": "Perfil",
+        "environment": "Estudio",
+        "people": [
+          "Hombres"
+        ],
+        "objects": [],
+        "highlights": [
+          "Bailarín"
+        ],
+        "signature": "BIX-22"
+      },
+      "revision": 1,
       "fingerprint": "9ff78aafdc1415c3",
       "media": {
         "thumb": "media/bixio/4be4e2a4a93d6627b5d2ad8c561b24fd0ab495ac92f8cd65bbfd1d7d1140d607-9ff78aafdc1415c3-thumb.webp",
         "src": "media/bixio/4be4e2a4a93d6627b5d2ad8c561b24fd0ab495ac92f8cd65bbfd1d7d1140d607-9ff78aafdc1415c3.webp",
         "w": 1424,
         "h": 2200
-      }
+      },
+      "updated": "2026-10-23T22:16:12.920Z"
     },
     "b9c17789e39487ae2cdd3f1694363dd1159056b642231fbf0d7a3b5874f86c26": {
       "id": "b9c17789e39487ae2cdd3f1694363dd1159056b642231fbf0d7a3b5874f86c26",
@@ -6167,7 +6184,8 @@
       "Joyas",
       "Policía",
       "Militar",
-      "Casamiento"
+      "Casamiento",
+      "Bailarín"
     ]
   },
   "signatures": {
@@ -6196,7 +6214,7 @@
     "BIX-21": "Bixio - Firma en relieve",
     "BIX-22": "Bixio - Firma caligráfica"
   },
-  "updated": "2026-10-23T22:16:06.867Z",
+  "updated": "2026-10-23T22:16:14.435Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
