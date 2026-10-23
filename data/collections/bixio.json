@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "d3ed0b32-92e4-4083-b5fd-f6935ed01bad",
+  "version": "5b82b351-90b6-494b-a5fb-36d6f22f809f",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -37,15 +37,20 @@
         "objects": [
           "Triciclos"
         ],
-        "highlights": []
+        "highlights": [],
+        "author": ""
       },
-      "revision": 0,
+      "revision": 1,
       "fingerprint": "df6daa8d4069f6e7",
       "media": {
         "thumb": "media/bixio/2c8a315c84428f99c5958a89d68f1b8e80cbfbcc4c8c7e64c2e9782b29f17d88-df6daa8d4069f6e7-thumb.webp",
         "src": "media/bixio/2c8a315c84428f99c5958a89d68f1b8e80cbfbcc4c8c7e64c2e9782b29f17d88-df6daa8d4069f6e7.webp",
         "w": 1345,
         "h": 2200
+      },
+      "updated": "2026-10-23T20:41:03.241Z",
+      "fieldReviews": {
+        "author": "2026-10-23T20:41:03.241Z"
       }
     },
     "074bcf19fcef20b82eeb98adde7463ec4518da0af169705a80d1fa79f10fe403": {
@@ -5128,7 +5133,7 @@
     "BIX-15": "Monograma oval F. Bixio y Cia.",
     "BIX-16": "Florencio Bixio & Cia. - B. de Irigoyen 185 - B. Aires"
   },
-  "updated": "2026-10-23T20:19:34.620Z",
+  "updated": "2026-10-23T20:41:04.787Z",
   "authors": [
     "Florencio Bixio"
   ]
