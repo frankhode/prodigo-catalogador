@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "71959ccc-7ee3-4db0-9f88-11221c42b5f8",
+  "version": "ed372aec-798e-4a18-bf4f-3d84bf83268f",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -5285,16 +5285,27 @@
       "id": "0858c56b08742a205ef382286ba9d79200039dc66f6ed2b3490a203804b31d42",
       "relative": "img176.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Tapa",
+        "parent": "b850030db32e415a29573b539a39f3c9911412a59cfe2f5abf1cafd0ab607b13",
+        "people": [],
+        "objects": [],
+        "highlights": [],
+        "notes": "",
+        "portrait": "",
+        "frame": "",
+        "direction": ""
+      },
+      "revision": 1,
       "fingerprint": "84f9e98a7e44f997",
       "media": {
         "thumb": "media/bixio/0858c56b08742a205ef382286ba9d79200039dc66f6ed2b3490a203804b31d42-84f9e98a7e44f997-thumb.webp",
         "src": "media/bixio/0858c56b08742a205ef382286ba9d79200039dc66f6ed2b3490a203804b31d42-84f9e98a7e44f997.webp",
         "w": 1564,
         "h": 2200
-      }
+      },
+      "updated": "2026-10-23T22:12:09.247Z"
     },
     "b850030db32e415a29573b539a39f3c9911412a59cfe2f5abf1cafd0ab607b13": {
       "id": "b850030db32e415a29573b539a39f3c9911412a59cfe2f5abf1cafd0ab607b13",
@@ -6135,7 +6146,7 @@
     "BIX-19": "Bixio - Buenos Aires",
     "BIX-20": "F. Bixio y Cia. M. R."
   },
-  "updated": "2026-10-23T22:11:45.916Z",
+  "updated": "2026-10-23T22:12:10.588Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
