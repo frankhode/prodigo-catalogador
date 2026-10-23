@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "e78445d6-89be-4d10-aa31-b6fdd45db909",
+  "version": "8ae3f1a5-c7b7-40d1-aff0-727385a467b8",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -5376,16 +5376,26 @@
       "id": "fd50772872e3b38893789769fa2094289ce5fa3ac45506f669fbbee3e0e0e987",
       "relative": "img179.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Tapa",
+        "parent": "bf217f51047b2e98638fd91bb1544a0227b20a9e27fe281da47591ecc08d479c",
+        "people": [],
+        "objects": [],
+        "highlights": [],
+        "portrait": "",
+        "frame": "",
+        "direction": ""
+      },
+      "revision": 1,
       "fingerprint": "e8342a7d559e8110",
       "media": {
         "thumb": "media/bixio/fd50772872e3b38893789769fa2094289ce5fa3ac45506f669fbbee3e0e0e987-e8342a7d559e8110-thumb.webp",
         "src": "media/bixio/fd50772872e3b38893789769fa2094289ce5fa3ac45506f669fbbee3e0e0e987-e8342a7d559e8110.webp",
         "w": 1550,
         "h": 2200
-      }
+      },
+      "updated": "2026-10-23T22:14:01.308Z"
     },
     "e51e028ca704005894388a489b60f8ed27c39fe8c7180119a5314b48dabd05fc": {
       "id": "e51e028ca704005894388a489b60f8ed27c39fe8c7180119a5314b48dabd05fc",
@@ -6165,7 +6175,7 @@
     "BIX-20": "F. Bixio y Cia. M. R.",
     "BIX-21": "Bixio - Firma en relieve"
   },
-  "updated": "2026-10-23T22:13:44.298Z",
+  "updated": "2026-10-23T22:14:02.753Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
