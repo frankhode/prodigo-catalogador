@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "1e85fdc2-5746-450a-b065-abe70baa2c88",
+  "version": "c155c2b4-f837-4974-ab7e-01660bfdbd43",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -7653,7 +7653,7 @@
       "id": "c7a31ba27382c571c507365b787a4419c1546b909b8ccbb4d875c02614d35e7e",
       "relative": "img223.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
-      "status": "pending",
+      "status": "done",
       "record": {
         "color": "sepia",
         "author": "Florencio Bixio",
@@ -7669,9 +7669,10 @@
         ],
         "highlights": [
           "Casamiento"
-        ]
+        ],
+        "signature": "BIX-07"
       },
-      "revision": 10,
+      "revision": 11,
       "fingerprint": "5b3df1ad2ec98355",
       "media": {
         "thumb": "media/bixio/c7a31ba27382c571c507365b787a4419c1546b909b8ccbb4d875c02614d35e7e-5b3df1ad2ec98355-thumb.webp",
@@ -7679,7 +7680,7 @@
         "w": 1406,
         "h": 2200
       },
-      "updated": "2026-10-23T23:26:51.015Z",
+      "updated": "2026-10-23T23:45:48.272Z",
       "fieldReviews": {
         "color": "2026-10-23T22:50:42.791Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -7912,7 +7913,7 @@
     "BIX-25": "F. Bixio y Cia - Firma caligráfica",
     "BIX-26": "F. Bixio y Cia B. de Irigoyen 185 B. Aires - Caligráfica"
   },
-  "updated": "2026-10-23T23:45:38.854Z",
+  "updated": "2026-10-23T23:45:49.576Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
