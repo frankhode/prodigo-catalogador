@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "aa621c66-4cb0-4340-a661-d2f321b6302e",
+  "version": "d415777d-500a-47c3-8c8d-76bc36a3be83",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -6384,9 +6384,10 @@
         "side": "Frente",
         "kind": "Retrato",
         "portrait": "Individual",
-        "frame": "Cuerpo entero"
+        "frame": "Cuerpo entero",
+        "direction": "Perfil"
       },
-      "revision": 6,
+      "revision": 7,
       "fingerprint": "f7f5afc307d6c3a1",
       "media": {
         "thumb": "media/bixio/686e03bb2dc6be575c0bcd9e865280bc9c8f454e9ae606de072a8d80be620657-f7f5afc307d6c3a1-thumb.webp",
@@ -6394,14 +6395,15 @@
         "w": 1565,
         "h": 2200
       },
-      "updated": "2026-10-23T23:03:00.875Z",
+      "updated": "2026-10-23T23:05:43.868Z",
       "fieldReviews": {
         "color": "2026-10-23T22:50:42.790Z",
         "author": "2026-10-23T22:57:57.306Z",
         "side": "2026-10-23T22:59:16.002Z",
         "kind": "2026-10-23T23:01:24.302Z",
         "portrait": "2026-10-23T23:01:58.486Z",
-        "frame": "2026-10-23T23:03:00.875Z"
+        "frame": "2026-10-23T23:03:00.875Z",
+        "direction": "2026-10-23T23:05:43.868Z"
       }
     },
     "85b1cc92f299cd9427d6428b34a817d016375ea72bbdcdf410185cf63e0786bd": {
@@ -6415,9 +6417,10 @@
         "side": "Frente",
         "kind": "Retrato",
         "portrait": "Individual",
-        "frame": "Cuerpo entero"
+        "frame": "Cuerpo entero",
+        "direction": "Perfil"
       },
-      "revision": 6,
+      "revision": 7,
       "fingerprint": "27847339225283fe",
       "media": {
         "thumb": "media/bixio/85b1cc92f299cd9427d6428b34a817d016375ea72bbdcdf410185cf63e0786bd-27847339225283fe-thumb.webp",
@@ -6425,14 +6428,15 @@
         "w": 1544,
         "h": 2200
       },
-      "updated": "2026-10-23T23:03:00.875Z",
+      "updated": "2026-10-23T23:05:43.868Z",
       "fieldReviews": {
         "color": "2026-10-23T22:50:42.790Z",
         "author": "2026-10-23T22:57:57.306Z",
         "side": "2026-10-23T22:59:16.002Z",
         "kind": "2026-10-23T23:01:24.302Z",
         "portrait": "2026-10-23T23:01:58.486Z",
-        "frame": "2026-10-23T23:03:00.875Z"
+        "frame": "2026-10-23T23:03:00.875Z",
+        "direction": "2026-10-23T23:05:43.868Z"
       }
     },
     "ae893fd9747669f5bf69beb0237575014bc8d058d5247209d92c6a8093b3b0e9": {
@@ -7361,7 +7365,7 @@
     "BIX-21": "Bixio - Firma en relieve",
     "BIX-22": "Bixio - Firma caligráfica"
   },
-  "updated": "2026-10-23T23:04:56.658Z",
+  "updated": "2026-10-23T23:05:45.647Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
