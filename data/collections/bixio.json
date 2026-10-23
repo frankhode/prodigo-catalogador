@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "419d3e30-0fb7-4dd3-b647-2e1e123c43e7",
+  "version": "be78918a-b2aa-41db-a136-6c2cf3acf90d",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -4808,16 +4808,27 @@
       "id": "45dd6240da718c4604757b1314e46b5b5c2a4bd1947f9dd71d2b574156132942",
       "relative": "img160.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Reverso",
+        "parent": "0489b7debe688eac25e69592b0890e4cb17a93d2cba9132f2422a238d9210ddc",
+        "people": [],
+        "objects": [],
+        "highlights": [],
+        "notes": "María Amelia Pazoqui\n[?] a los 6 meses de edad",
+        "portrait": "",
+        "frame": "",
+        "direction": ""
+      },
+      "revision": 1,
       "fingerprint": "6cb3b932505f0fdd",
       "media": {
         "thumb": "media/bixio/45dd6240da718c4604757b1314e46b5b5c2a4bd1947f9dd71d2b574156132942-6cb3b932505f0fdd-thumb.webp",
         "src": "media/bixio/45dd6240da718c4604757b1314e46b5b5c2a4bd1947f9dd71d2b574156132942-6cb3b932505f0fdd.webp",
         "w": 1662,
         "h": 2200
-      }
+      },
+      "updated": "2026-10-23T21:44:57.816Z"
     },
     "dde375960980fda4d769a6f196d73445f8abe19c2f357abcf1a8ad0d84181bac": {
       "id": "dde375960980fda4d769a6f196d73445f8abe19c2f357abcf1a8ad0d84181bac",
@@ -5875,7 +5886,7 @@
     "BIX-16": "Florencio Bixio & Cia. - B. de Irigoyen 185 - B. Aires",
     "BIX-17": "Fillebrown - Florida 55 Buenos Aires"
   },
-  "updated": "2026-10-23T21:43:49.696Z",
+  "updated": "2026-10-23T21:44:59.570Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
