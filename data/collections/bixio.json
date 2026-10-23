@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "3f6e62a0-32a5-42ef-b0b8-e692a3358da9",
+  "version": "0d19f999-3bde-40da-a1af-09a4ff64094e",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -7387,7 +7387,7 @@
       "id": "3131caca1538388c42e2a5cee6a03703ee52f8d091a4964b20b499c1eef377ba",
       "relative": "img217.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
-      "status": "pending",
+      "status": "done",
       "record": {
         "color": "sepia",
         "author": "Florencio Bixio",
@@ -7406,7 +7406,7 @@
           "Vestimenta"
         ]
       },
-      "revision": 10,
+      "revision": 11,
       "fingerprint": "dbc3014597e1aaa2",
       "media": {
         "thumb": "media/bixio/3131caca1538388c42e2a5cee6a03703ee52f8d091a4964b20b499c1eef377ba-dbc3014597e1aaa2-thumb.webp",
@@ -7414,7 +7414,7 @@
         "w": 869,
         "h": 1151
       },
-      "updated": "2026-10-23T23:26:02.023Z",
+      "updated": "2026-10-23T23:43:23.138Z",
       "fieldReviews": {
         "color": "2026-10-23T22:53:06.216Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -7903,7 +7903,7 @@
     "BIX-24": "Foto El Arte La Plata",
     "BIX-25": "F. Bixio y Cia - Firma caligráfica"
   },
-  "updated": "2026-10-23T23:41:39.683Z",
+  "updated": "2026-10-23T23:43:24.716Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
