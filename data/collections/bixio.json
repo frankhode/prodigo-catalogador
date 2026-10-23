@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "858cf816-2094-4fed-953f-8fb01e8965f2",
+  "version": "625cd897-fb15-40ae-98eb-97f3e321634f",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -6887,7 +6887,7 @@
       "id": "ae14f47b26106ff4f5b23bfeaa92dea41d40a656b6d0a48f3e985e01edda5638",
       "relative": "img205.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
-      "status": "pending",
+      "status": "done",
       "record": {
         "color": "sepia",
         "author": "Florencio Bixio",
@@ -6900,9 +6900,10 @@
         "people": [
           "Hombres"
         ],
-        "highlights": []
+        "highlights": [],
+        "signature": "BIX-23"
       },
-      "revision": 10,
+      "revision": 11,
       "fingerprint": "4c8091c2ecbe34ae",
       "media": {
         "thumb": "media/bixio/ae14f47b26106ff4f5b23bfeaa92dea41d40a656b6d0a48f3e985e01edda5638-4c8091c2ecbe34ae-thumb.webp",
@@ -6910,7 +6911,7 @@
         "w": 1585,
         "h": 2200
       },
-      "updated": "2026-10-23T23:24:07.212Z",
+      "updated": "2026-10-23T23:36:13.019Z",
       "fieldReviews": {
         "color": "2026-10-23T22:53:06.216Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -7884,7 +7885,7 @@
     "BIX-22": "Bixio - Firma caligráfica",
     "BIX-23": "F. Bixio & Cia. - B. de Irigoyen 136"
   },
-  "updated": "2026-10-23T23:36:08.357Z",
+  "updated": "2026-10-23T23:36:14.319Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
