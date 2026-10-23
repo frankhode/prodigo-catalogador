@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "e92df7d6-25a5-4b75-922a-2a91b9979d56",
+  "version": "81a9035c-8268-4c88-83ec-cfaf90dbbc3c",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -5028,9 +5028,10 @@
         "portrait": "",
         "frame": "",
         "direction": "",
-        "color": ""
+        "color": "",
+        "author": ""
       },
-      "revision": 2,
+      "revision": 3,
       "fingerprint": "2673772ba7d92727",
       "media": {
         "thumb": "media/bixio/086e0247ac866dfc610343a767be0eb1039d8fcbc8f8d8ce1f62788814652bc8-2673772ba7d92727-thumb.webp",
@@ -5038,9 +5039,10 @@
         "w": 2200,
         "h": 1369
       },
-      "updated": "2026-10-23T22:49:22.615Z",
+      "updated": "2026-10-23T22:58:11.297Z",
       "fieldReviews": {
-        "color": "2026-10-23T22:49:22.615Z"
+        "color": "2026-10-23T22:49:22.615Z",
+        "author": "2026-10-23T22:58:11.297Z"
       }
     },
     "0489b7debe688eac25e69592b0890e4cb17a93d2cba9132f2422a238d9210ddc": {
@@ -5094,9 +5096,10 @@
         "portrait": "",
         "frame": "",
         "direction": "",
-        "color": ""
+        "color": "",
+        "author": ""
       },
-      "revision": 2,
+      "revision": 3,
       "fingerprint": "6cb3b932505f0fdd",
       "media": {
         "thumb": "media/bixio/45dd6240da718c4604757b1314e46b5b5c2a4bd1947f9dd71d2b574156132942-6cb3b932505f0fdd-thumb.webp",
@@ -5104,9 +5107,10 @@
         "w": 1662,
         "h": 2200
       },
-      "updated": "2026-10-23T22:49:22.615Z",
+      "updated": "2026-10-23T22:58:11.297Z",
       "fieldReviews": {
-        "color": "2026-10-23T22:49:22.615Z"
+        "color": "2026-10-23T22:49:22.615Z",
+        "author": "2026-10-23T22:58:11.297Z"
       }
     },
     "dde375960980fda4d769a6f196d73445f8abe19c2f357abcf1a8ad0d84181bac": {
@@ -5236,9 +5240,10 @@
         "portrait": "",
         "frame": "",
         "direction": "",
-        "color": ""
+        "color": "",
+        "author": ""
       },
-      "revision": 2,
+      "revision": 3,
       "fingerprint": "b6d715fa25530ac0",
       "media": {
         "thumb": "media/bixio/244df801764106c7af9a0e339a527b61a607c68175f0b80bd0067ae10ff0f39e-b6d715fa25530ac0-thumb.webp",
@@ -5246,9 +5251,10 @@
         "w": 2200,
         "h": 1531
       },
-      "updated": "2026-10-23T22:49:22.615Z",
+      "updated": "2026-10-23T22:58:11.297Z",
       "fieldReviews": {
-        "color": "2026-10-23T22:49:22.615Z"
+        "color": "2026-10-23T22:49:22.615Z",
+        "author": "2026-10-23T22:58:11.297Z"
       }
     },
     "1af1e9a8250a13b83c9b83f49c20b795c6ab625123b283dc11f072aed297e07a": {
@@ -5306,9 +5312,10 @@
         "portrait": "",
         "frame": "",
         "direction": "",
-        "color": ""
+        "color": "",
+        "author": ""
       },
-      "revision": 2,
+      "revision": 3,
       "fingerprint": "6567707a78c392c4",
       "media": {
         "thumb": "media/bixio/8c6a39e9ef4d67f63d26497267934478f6c47a33250bf105716d9e597d50f45d-6567707a78c392c4-thumb.webp",
@@ -5316,9 +5323,10 @@
         "w": 2200,
         "h": 1620
       },
-      "updated": "2026-10-23T22:49:22.615Z",
+      "updated": "2026-10-23T22:58:11.297Z",
       "fieldReviews": {
-        "color": "2026-10-23T22:49:22.615Z"
+        "color": "2026-10-23T22:49:22.615Z",
+        "author": "2026-10-23T22:58:11.297Z"
       }
     },
     "3740d377e3d28127eb204e567b392934779c148fd75115a40d9b8146857ae104": {
@@ -5450,9 +5458,10 @@
         "portrait": "",
         "frame": "",
         "direction": "",
-        "color": ""
+        "color": "",
+        "author": ""
       },
-      "revision": 2,
+      "revision": 3,
       "fingerprint": "ef1fbb69888a3d16",
       "media": {
         "thumb": "media/bixio/7d0ebbdb7e99acd42e7e0322dd74d037b9047eb92c373eef3c88ca0e2cd5b7e3-ef1fbb69888a3d16-thumb.webp",
@@ -5460,9 +5469,10 @@
         "w": 1359,
         "h": 2200
       },
-      "updated": "2026-10-23T22:49:22.615Z",
+      "updated": "2026-10-23T22:58:11.297Z",
       "fieldReviews": {
-        "color": "2026-10-23T22:49:22.615Z"
+        "color": "2026-10-23T22:49:22.615Z",
+        "author": "2026-10-23T22:58:11.297Z"
       }
     },
     "90557b63d15270cce7166e5d9ab8e2dfe67de6b07930b02ac69cab6f75a16750": {
@@ -5480,9 +5490,10 @@
         "portrait": "",
         "frame": "",
         "direction": "",
-        "color": ""
+        "color": "",
+        "author": ""
       },
-      "revision": 2,
+      "revision": 3,
       "fingerprint": "3a49374f70140fd7",
       "media": {
         "thumb": "media/bixio/90557b63d15270cce7166e5d9ab8e2dfe67de6b07930b02ac69cab6f75a16750-3a49374f70140fd7-thumb.webp",
@@ -5490,9 +5501,10 @@
         "w": 1369,
         "h": 2200
       },
-      "updated": "2026-10-23T22:49:22.615Z",
+      "updated": "2026-10-23T22:58:11.297Z",
       "fieldReviews": {
-        "color": "2026-10-23T22:49:22.615Z"
+        "color": "2026-10-23T22:49:22.615Z",
+        "author": "2026-10-23T22:58:11.297Z"
       }
     },
     "814ad71a5d5c120c5aca12d900461cf090504760bcac857f43b4005eacdc2879": {
@@ -5509,9 +5521,10 @@
         "portrait": "",
         "frame": "",
         "direction": "",
-        "color": ""
+        "color": "",
+        "author": ""
       },
-      "revision": 2,
+      "revision": 3,
       "fingerprint": "b2cfca97957e81ce",
       "media": {
         "thumb": "media/bixio/814ad71a5d5c120c5aca12d900461cf090504760bcac857f43b4005eacdc2879-b2cfca97957e81ce-thumb.webp",
@@ -5519,9 +5532,10 @@
         "w": 1587,
         "h": 2200
       },
-      "updated": "2026-10-23T22:49:22.615Z",
+      "updated": "2026-10-23T22:58:11.297Z",
       "fieldReviews": {
-        "color": "2026-10-23T22:49:22.615Z"
+        "color": "2026-10-23T22:49:22.615Z",
+        "author": "2026-10-23T22:58:11.297Z"
       }
     },
     "7e9758e52151fb7c1ecf4eb5644e65f95c06cafe9c57e28f8e43a0e169d814cc": {
@@ -5539,9 +5553,10 @@
         "portrait": "",
         "frame": "",
         "direction": "",
-        "color": ""
+        "color": "",
+        "author": ""
       },
-      "revision": 2,
+      "revision": 3,
       "fingerprint": "be21a5cb4c23bf43",
       "media": {
         "thumb": "media/bixio/7e9758e52151fb7c1ecf4eb5644e65f95c06cafe9c57e28f8e43a0e169d814cc-be21a5cb4c23bf43-thumb.webp",
@@ -5549,9 +5564,10 @@
         "w": 1614,
         "h": 2200
       },
-      "updated": "2026-10-23T22:49:22.615Z",
+      "updated": "2026-10-23T22:58:11.297Z",
       "fieldReviews": {
-        "color": "2026-10-23T22:49:22.615Z"
+        "color": "2026-10-23T22:49:22.615Z",
+        "author": "2026-10-23T22:58:11.297Z"
       }
     },
     "b9d1c8da440c6b728a6671c04652d21b82efe8114cbc3b2ad5b4e088fef8c95a": {
@@ -5644,9 +5660,10 @@
         "portrait": "",
         "frame": "",
         "direction": "",
-        "color": ""
+        "color": "",
+        "author": ""
       },
-      "revision": 2,
+      "revision": 3,
       "fingerprint": "84f9e98a7e44f997",
       "media": {
         "thumb": "media/bixio/0858c56b08742a205ef382286ba9d79200039dc66f6ed2b3490a203804b31d42-84f9e98a7e44f997-thumb.webp",
@@ -5654,9 +5671,10 @@
         "w": 1564,
         "h": 2200
       },
-      "updated": "2026-10-23T22:49:22.615Z",
+      "updated": "2026-10-23T22:58:11.297Z",
       "fieldReviews": {
-        "color": "2026-10-23T22:49:22.615Z"
+        "color": "2026-10-23T22:49:22.615Z",
+        "author": "2026-10-23T22:58:11.297Z"
       }
     },
     "b850030db32e415a29573b539a39f3c9911412a59cfe2f5abf1cafd0ab607b13": {
@@ -5748,9 +5766,10 @@
         "portrait": "",
         "frame": "",
         "direction": "",
-        "color": ""
+        "color": "",
+        "author": ""
       },
-      "revision": 2,
+      "revision": 3,
       "fingerprint": "e8342a7d559e8110",
       "media": {
         "thumb": "media/bixio/fd50772872e3b38893789769fa2094289ce5fa3ac45506f669fbbee3e0e0e987-e8342a7d559e8110-thumb.webp",
@@ -5758,9 +5777,10 @@
         "w": 1550,
         "h": 2200
       },
-      "updated": "2026-10-23T22:49:22.615Z",
+      "updated": "2026-10-23T22:58:11.297Z",
       "fieldReviews": {
-        "color": "2026-10-23T22:49:22.615Z"
+        "color": "2026-10-23T22:49:22.615Z",
+        "author": "2026-10-23T22:58:11.297Z"
       }
     },
     "e51e028ca704005894388a489b60f8ed27c39fe8c7180119a5314b48dabd05fc": {
@@ -5890,9 +5910,10 @@
         "portrait": "",
         "frame": "",
         "direction": "",
-        "color": ""
+        "color": "",
+        "author": ""
       },
-      "revision": 2,
+      "revision": 3,
       "fingerprint": "f46a5c4fb10f705e",
       "media": {
         "thumb": "media/bixio/06ed9b6a030075563303891e939c083a46d2f4059c2b4ce4fc8708183ab59fec-f46a5c4fb10f705e-thumb.webp",
@@ -5900,9 +5921,10 @@
         "w": 1409,
         "h": 2200
       },
-      "updated": "2026-10-23T22:49:22.615Z",
+      "updated": "2026-10-23T22:58:11.297Z",
       "fieldReviews": {
-        "color": "2026-10-23T22:49:22.615Z"
+        "color": "2026-10-23T22:49:22.615Z",
+        "author": "2026-10-23T22:58:11.297Z"
       }
     },
     "d6c8d3fbe73e43c217e38d30a4238555df0c063a954f56890c2619f3e425d345": {
@@ -5954,9 +5976,10 @@
         "portrait": "",
         "frame": "",
         "direction": "",
-        "color": ""
+        "color": "",
+        "author": ""
       },
-      "revision": 2,
+      "revision": 3,
       "fingerprint": "1935beafe15f5e3d",
       "media": {
         "thumb": "media/bixio/ad3971cbd27e6af2bf0e8a7ff21a877c084bd1b72e1ba1fb5dd2f4aa68177453-1935beafe15f5e3d-thumb.webp",
@@ -5964,9 +5987,10 @@
         "w": 1483,
         "h": 2200
       },
-      "updated": "2026-10-23T22:49:22.615Z",
+      "updated": "2026-10-23T22:58:11.297Z",
       "fieldReviews": {
-        "color": "2026-10-23T22:49:22.615Z"
+        "color": "2026-10-23T22:49:22.615Z",
+        "author": "2026-10-23T22:58:11.297Z"
       }
     },
     "311315d47aa1112f50e4a15a763a472fe1ba01b6f8bc27b809711477635a2074": {
@@ -6057,9 +6081,10 @@
         "portrait": "",
         "frame": "",
         "direction": "",
-        "color": ""
+        "color": "",
+        "author": ""
       },
-      "revision": 2,
+      "revision": 3,
       "fingerprint": "696283da21659d90",
       "media": {
         "thumb": "media/bixio/c7b114f6ab2cacb93f8d4501f52dd88fe9df061ef649f76013c521227d917343-696283da21659d90-thumb.webp",
@@ -6067,9 +6092,10 @@
         "w": 1474,
         "h": 2200
       },
-      "updated": "2026-10-23T22:49:22.615Z",
+      "updated": "2026-10-23T22:58:11.297Z",
       "fieldReviews": {
-        "color": "2026-10-23T22:49:22.615Z"
+        "color": "2026-10-23T22:49:22.615Z",
+        "author": "2026-10-23T22:58:11.297Z"
       }
     },
     "bd29635b5f7de4157575b6d0f69ccceb76f4fac8c3e0ff1cf12585770e33939d": {
@@ -6114,9 +6140,10 @@
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
       "status": "pending",
       "record": {
-        "color": ""
+        "color": "",
+        "author": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "b48c3160083d1e67",
       "media": {
         "thumb": "media/bixio/616c7614cf9c5a540b9c98b4ed5dddb48e8545d382db1bfcdbe038f4748069f1-b48c3160083d1e67-thumb.webp",
@@ -6124,9 +6151,10 @@
         "w": 1481,
         "h": 2200
       },
-      "updated": "2026-10-23T22:49:22.615Z",
+      "updated": "2026-10-23T22:58:11.297Z",
       "fieldReviews": {
-        "color": "2026-10-23T22:49:22.615Z"
+        "color": "2026-10-23T22:49:22.615Z",
+        "author": "2026-10-23T22:58:11.297Z"
       }
     },
     "79637e1f41480a6624377dc005ef3dd84a3c9bd7bfa9496d1cd305792c2fbb14": {
@@ -6181,9 +6209,10 @@
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
       "status": "pending",
       "record": {
-        "color": ""
+        "color": "",
+        "author": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "c02335ef53de252e",
       "media": {
         "thumb": "media/bixio/1fb375f9c2ba7fa58013e8b2900be88e12333cf6b8a6ea6c038f5fcb6149c1d7-c02335ef53de252e-thumb.webp",
@@ -6191,9 +6220,10 @@
         "w": 1555,
         "h": 2200
       },
-      "updated": "2026-10-23T22:49:22.615Z",
+      "updated": "2026-10-23T22:58:11.297Z",
       "fieldReviews": {
-        "color": "2026-10-23T22:49:22.615Z"
+        "color": "2026-10-23T22:49:22.615Z",
+        "author": "2026-10-23T22:58:11.297Z"
       }
     },
     "193ac9701720c59a4a6d4cde75955d854d081849c6229b49e51d33913e387d35": {
@@ -6248,9 +6278,10 @@
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
       "status": "pending",
       "record": {
-        "color": ""
+        "color": "",
+        "author": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "e2718d642b36815c",
       "media": {
         "thumb": "media/bixio/dec73a87f815f750d093540598043242a236b247aba00f31473b6a00677396fd-e2718d642b36815c-thumb.webp",
@@ -6258,9 +6289,10 @@
         "w": 1581,
         "h": 2200
       },
-      "updated": "2026-10-23T22:49:22.615Z",
+      "updated": "2026-10-23T22:58:11.297Z",
       "fieldReviews": {
-        "color": "2026-10-23T22:49:22.615Z"
+        "color": "2026-10-23T22:49:22.615Z",
+        "author": "2026-10-23T22:58:11.297Z"
       }
     },
     "38d1da8c1668c2887ea3e580fd2ee94b3fe4b468fdcac533c45d68e6d02b522d": {
@@ -6384,9 +6416,10 @@
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
       "status": "pending",
       "record": {
-        "color": ""
+        "color": "",
+        "author": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "5f4037db3cfa426d",
       "media": {
         "thumb": "media/bixio/94a789d81e63ca36b6e2356cd4052c8268caad1f667a0265ca1a2577da00ca26-5f4037db3cfa426d-thumb.webp",
@@ -6394,9 +6427,10 @@
         "w": 1407,
         "h": 2200
       },
-      "updated": "2026-10-23T22:49:22.615Z",
+      "updated": "2026-10-23T22:58:11.298Z",
       "fieldReviews": {
-        "color": "2026-10-23T22:49:22.615Z"
+        "color": "2026-10-23T22:49:22.615Z",
+        "author": "2026-10-23T22:58:11.298Z"
       }
     },
     "66d551c22e21babd6d7e923b02f385d89c7ed0dfcf407045e0dfcce3a98d7487": {
@@ -6520,9 +6554,10 @@
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
       "status": "pending",
       "record": {
-        "color": ""
+        "color": "",
+        "author": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "d40fc1b2b60a124c",
       "media": {
         "thumb": "media/bixio/c013cf446f4a2772e8c5ed4eb51c83e89279b4403b93e15bf2c8e91e18b328c9-d40fc1b2b60a124c-thumb.webp",
@@ -6530,9 +6565,10 @@
         "w": 1417,
         "h": 2200
       },
-      "updated": "2026-10-23T22:49:22.615Z",
+      "updated": "2026-10-23T22:58:11.298Z",
       "fieldReviews": {
-        "color": "2026-10-23T22:49:22.615Z"
+        "color": "2026-10-23T22:49:22.615Z",
+        "author": "2026-10-23T22:58:11.298Z"
       }
     },
     "ac63b6fbb70260d523e9ad9518c42196188cbef7ff6966651ca29b3ad41d43a2": {
@@ -6679,9 +6715,10 @@
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
       "status": "pending",
       "record": {
-        "color": ""
+        "color": "",
+        "author": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "5e64943dc7ef1c6e",
       "media": {
         "thumb": "media/bixio/ad910b0dc72f98de2f79352ae6a73f4e36903b7cc68ccf4a7071f835b20f1897-5e64943dc7ef1c6e-thumb.webp",
@@ -6689,9 +6726,10 @@
         "w": 882,
         "h": 1228
       },
-      "updated": "2026-10-23T22:53:22.128Z",
+      "updated": "2026-10-23T22:58:11.298Z",
       "fieldReviews": {
-        "color": "2026-10-23T22:53:22.128Z"
+        "color": "2026-10-23T22:53:22.128Z",
+        "author": "2026-10-23T22:58:11.298Z"
       }
     },
     "f57a78e5e53b955856336a966707a9084cdec97cf7c94f64f10d2edb6e186e76": {
@@ -7024,7 +7062,7 @@
     "BIX-21": "Bixio - Firma en relieve",
     "BIX-22": "Bixio - Firma caligráfica"
   },
-  "updated": "2026-10-23T22:57:59.106Z",
+  "updated": "2026-10-23T22:58:12.643Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
