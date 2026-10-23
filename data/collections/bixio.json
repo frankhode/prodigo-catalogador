@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "42fb8eea-c227-4c9b-b61f-3774f56946c4",
+  "version": "a3acded3-1a06-4514-b261-3fd5fc0db149",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -5199,16 +5199,33 @@
       "id": "b9d1c8da440c6b728a6671c04652d21b82efe8114cbc3b2ad5b4e088fef8c95a",
       "relative": "img174.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "author": "Florencio Bixio",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Cuerpo entero",
+        "direction": "Frente",
+        "environment": "Estudio",
+        "people": [
+          "Mujeres"
+        ],
+        "objects": [],
+        "highlights": [
+          "Casamiento"
+        ],
+        "signature": "BIX-07"
+      },
+      "revision": 1,
       "fingerprint": "4e3539a003cfda60",
       "media": {
         "thumb": "media/bixio/b9d1c8da440c6b728a6671c04652d21b82efe8114cbc3b2ad5b4e088fef8c95a-4e3539a003cfda60-thumb.webp",
         "src": "media/bixio/b9d1c8da440c6b728a6671c04652d21b82efe8114cbc3b2ad5b4e088fef8c95a-4e3539a003cfda60.webp",
         "w": 1602,
         "h": 2200
-      }
+      },
+      "updated": "2026-10-23T22:03:57.460Z"
     },
     "a26d530a42aa2f03bb620d086d358831e9c2b0ef44ba3b5c467b1209d52d8046": {
       "id": "a26d530a42aa2f03bb620d086d358831e9c2b0ef44ba3b5c467b1209d52d8046",
@@ -6034,7 +6051,8 @@
       "Iluminado",
       "Joyas",
       "Policía",
-      "Militar"
+      "Militar",
+      "Casamiento"
     ]
   },
   "signatures": {
@@ -6060,7 +6078,7 @@
     "BIX-18": "Monograma circular - F. Bixio y Cia. 181. Buen Orden. 185. Buenos Aires",
     "BIX-19": "Bixio - Buenos Aires"
   },
-  "updated": "2026-10-23T22:02:16.127Z",
+  "updated": "2026-10-23T22:03:58.982Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
