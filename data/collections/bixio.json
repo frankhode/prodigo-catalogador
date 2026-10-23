@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "321ced2b-9bc2-42ab-8d51-3c8929727947",
+  "version": "a7351797-dd65-43ea-a19d-dfdc8fe66793",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -839,7 +839,7 @@
         "number": "",
         "date": "1915",
         "kind": "Retrato",
-        "portrait": "Individual",
+        "portrait": "Múltiple",
         "frame": "Medio cuerpo",
         "direction": "",
         "environment": "Estudio",
@@ -856,7 +856,7 @@
         ],
         "author": "Florencio Bixio"
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "cfd580a1137eb153",
       "media": {
         "thumb": "media/bixio/fcb5c06e08f0ae6c37f28d664047633e21e2212a07d599c544a46bdb4283c24e-cfd580a1137eb153-thumb.webp",
@@ -864,7 +864,7 @@
         "w": 2200,
         "h": 1394
       },
-      "updated": "2026-10-23T20:42:48.609Z",
+      "updated": "2026-10-23T21:40:04.002Z",
       "fieldReviews": {
         "author": "2026-10-23T20:42:48.609Z"
       }
@@ -5817,7 +5817,7 @@
     "BIX-16": "Florencio Bixio & Cia. - B. de Irigoyen 185 - B. Aires",
     "BIX-17": "Fillebrown - Florida 55 Buenos Aires"
   },
-  "updated": "2026-10-23T21:36:34.840Z",
+  "updated": "2026-10-23T21:40:05.351Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
