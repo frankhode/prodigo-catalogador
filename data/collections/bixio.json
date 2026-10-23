@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "568ed442-32c9-4319-83cf-e5d7fd028d37",
+  "version": "a76a19a7-c4c1-479d-ac79-904a6a425cc3",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -2754,7 +2754,7 @@
         "author": "Florencio Bixio",
         "color": "sepia"
       },
-      "revision": 2,
+      "revision": 3,
       "fingerprint": "ce33a49b19c95657",
       "media": {
         "thumb": "media/bixio/926538ce8777fb5d1772b995607ada3195e3ba5da1d436844d80f986f9bdaa85-ce33a49b19c95657-thumb.webp",
@@ -2762,10 +2762,11 @@
         "w": 2200,
         "h": 1663
       },
-      "updated": "2026-10-23T22:50:42.790Z",
+      "updated": "2026-10-23T23:19:25.081Z",
       "fieldReviews": {
         "author": "2026-10-23T20:47:51.029Z",
-        "color": "2026-10-23T22:50:42.790Z"
+        "color": "2026-10-23T22:50:42.790Z",
+        "highlights": "2026-10-23T23:19:25.081Z"
       }
     },
     "1506fab210433d56e107960d6c69ab9380648fd302c35fed78395b034b830b2a": {
@@ -7695,7 +7696,7 @@
     "BIX-21": "Bixio - Firma en relieve",
     "BIX-22": "Bixio - Firma caligráfica"
   },
-  "updated": "2026-10-23T23:19:21.569Z",
+  "updated": "2026-10-23T23:19:26.460Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
