@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "957150e9-deaa-4112-977a-342c544fa7ad",
+  "version": "0147e658-98f9-456d-85d0-2534d8fa4d92",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -7015,13 +7015,18 @@
       "id": "c013cf446f4a2772e8c5ed4eb51c83e89279b4403b93e15bf2c8e91e18b328c9",
       "relative": "img208.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
-      "status": "pending",
+      "status": "done",
       "record": {
         "color": "",
         "author": "",
-        "environment": ""
+        "environment": "",
+        "side": "Reverso",
+        "parent": "76f23725f3819e288e7eaf7e5eded34b99f4fc77e9ad7a60b3d889770839d8da",
+        "portrait": "",
+        "frame": "",
+        "direction": ""
       },
-      "revision": 3,
+      "revision": 4,
       "fingerprint": "d40fc1b2b60a124c",
       "media": {
         "thumb": "media/bixio/c013cf446f4a2772e8c5ed4eb51c83e89279b4403b93e15bf2c8e91e18b328c9-d40fc1b2b60a124c-thumb.webp",
@@ -7029,7 +7034,7 @@
         "w": 1417,
         "h": 2200
       },
-      "updated": "2026-10-23T23:07:03.022Z",
+      "updated": "2026-10-23T23:37:23.110Z",
       "fieldReviews": {
         "color": "2026-10-23T22:49:22.615Z",
         "author": "2026-10-23T22:58:11.298Z",
@@ -7888,7 +7893,7 @@
     "BIX-23": "F. Bixio & Cia. - B. de Irigoyen 136",
     "BIX-24": "Foto El Arte La Plata"
   },
-  "updated": "2026-10-23T23:37:04.617Z",
+  "updated": "2026-10-23T23:37:24.469Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
