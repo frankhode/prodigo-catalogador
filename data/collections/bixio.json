@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "560b4078-88c1-4297-80f3-2eb462d83b3b",
+  "version": "8d6e028d-7589-4c84-af16-55c0204a4b4d",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -7220,7 +7220,7 @@
       "id": "dd1558a903aa5282aa6d17b89977b06a4cf225bdaad37da8f31219a5f321b903",
       "relative": "img213.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
-      "status": "pending",
+      "status": "done",
       "record": {
         "color": "sepia",
         "author": "Florencio Bixio",
@@ -7236,9 +7236,10 @@
         ],
         "highlights": [
           "Casamiento"
-        ]
+        ],
+        "signature": "BIX-07"
       },
-      "revision": 10,
+      "revision": 11,
       "fingerprint": "d874632e53496257",
       "media": {
         "thumb": "media/bixio/dd1558a903aa5282aa6d17b89977b06a4cf225bdaad37da8f31219a5f321b903-d874632e53496257-thumb.webp",
@@ -7246,7 +7247,7 @@
         "w": 1589,
         "h": 2200
       },
-      "updated": "2026-10-23T23:25:32.221Z",
+      "updated": "2026-10-23T23:40:43.790Z",
       "fieldReviews": {
         "color": "2026-10-23T22:50:42.791Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -7896,7 +7897,7 @@
     "BIX-24": "Foto El Arte La Plata",
     "BIX-25": "F. Bixio y Cia - Firma caligráfica"
   },
-  "updated": "2026-10-23T23:40:15.585Z",
+  "updated": "2026-10-23T23:40:45.386Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
