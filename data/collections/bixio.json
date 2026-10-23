@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "57c6c636-f2ab-4423-9fd4-913db0793824",
+  "version": "1b7a3018-8eda-47ac-b563-e0bc944a96ff",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -7600,9 +7600,12 @@
         "people": [
           "Hombres",
           "Mujeres"
+        ],
+        "highlights": [
+          "Casamiento"
         ]
       },
-      "revision": 9,
+      "revision": 10,
       "fingerprint": "5b3df1ad2ec98355",
       "media": {
         "thumb": "media/bixio/c7a31ba27382c571c507365b787a4419c1546b909b8ccbb4d875c02614d35e7e-5b3df1ad2ec98355-thumb.webp",
@@ -7610,7 +7613,7 @@
         "w": 1406,
         "h": 2200
       },
-      "updated": "2026-10-23T23:14:43.781Z",
+      "updated": "2026-10-23T23:26:51.015Z",
       "fieldReviews": {
         "color": "2026-10-23T22:50:42.791Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -7620,7 +7623,8 @@
         "frame": "2026-10-23T23:03:00.875Z",
         "direction": "2026-10-23T23:04:14.520Z",
         "environment": "2026-10-23T23:07:46.255Z",
-        "people": "2026-10-23T23:14:43.781Z"
+        "people": "2026-10-23T23:14:43.781Z",
+        "highlights": "2026-10-23T23:26:51.015Z"
       }
     },
     "c5cc5ece3c4a787d782d462deebdecf1b530367479330701a26dc54b9c4fee62": {
@@ -7826,7 +7830,7 @@
     "BIX-21": "Bixio - Firma en relieve",
     "BIX-22": "Bixio - Firma caligráfica"
   },
-  "updated": "2026-10-23T23:26:44.350Z",
+  "updated": "2026-10-23T23:26:52.355Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
