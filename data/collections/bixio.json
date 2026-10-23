@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "db1bdc31-1ad4-4fec-a1de-557686f49dfa",
+  "version": "0690880d-946a-4e0d-8dd6-f613ee6a6ac8",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -6727,7 +6727,7 @@
       "id": "665568c0111221223ee8baf0280f2a7cc59dac625255c00c6dd3e9e3e1e3446f",
       "relative": "img201.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
-      "status": "pending",
+      "status": "done",
       "record": {
         "color": "sepia",
         "author": "Florencio Bixio",
@@ -6744,9 +6744,10 @@
           "Vestimenta",
           "Sombrero",
           "Paraguas"
-        ]
+        ],
+        "signature": "BIX-07"
       },
-      "revision": 10,
+      "revision": 11,
       "fingerprint": "15ba61025a973be3",
       "media": {
         "thumb": "media/bixio/665568c0111221223ee8baf0280f2a7cc59dac625255c00c6dd3e9e3e1e3446f-15ba61025a973be3-thumb.webp",
@@ -6754,7 +6755,7 @@
         "w": 1404,
         "h": 2200
       },
-      "updated": "2026-10-23T23:23:47.100Z",
+      "updated": "2026-10-23T23:34:28.005Z",
       "fieldReviews": {
         "color": "2026-10-23T22:53:06.216Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -7875,7 +7876,7 @@
     "BIX-21": "Bixio - Firma en relieve",
     "BIX-22": "Bixio - Firma caligráfica"
   },
-  "updated": "2026-10-23T23:34:16.678Z",
+  "updated": "2026-10-23T23:34:29.362Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
