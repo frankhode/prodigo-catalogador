@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "6331d272-cd50-4981-984a-55dcfe6c75a2",
+  "version": "809ee8e1-6203-4e7e-a945-e83ef0e5b92d",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -3986,15 +3986,20 @@
         "signature": "",
         "people": [],
         "objects": [],
-        "highlights": []
+        "highlights": [],
+        "author": ""
       },
-      "revision": 0,
+      "revision": 1,
       "fingerprint": "4fad033e905c1871",
       "media": {
         "thumb": "media/bixio/ac4b05b51aaf607c47137d44115daf70f5d31936b160577422e2f07bfc80391f-4fad033e905c1871-thumb.webp",
         "src": "media/bixio/ac4b05b51aaf607c47137d44115daf70f5d31936b160577422e2f07bfc80391f-4fad033e905c1871.webp",
         "w": 1578,
         "h": 2200
+      },
+      "updated": "2026-10-23T21:00:26.578Z",
+      "fieldReviews": {
+        "author": "2026-10-23T21:00:26.578Z"
       }
     },
     "1c89d1c730351f2bda1f57285d1084b89c57666437d58ca68646a209fc5d0f95": {
@@ -5636,7 +5641,7 @@
     "BIX-15": "Monograma oval F. Bixio y Cia.",
     "BIX-16": "Florencio Bixio & Cia. - B. de Irigoyen 185 - B. Aires"
   },
-  "updated": "2026-10-23T21:00:22.502Z",
+  "updated": "2026-10-23T21:00:27.938Z",
   "authors": [
     "Florencio Bixio"
   ]
