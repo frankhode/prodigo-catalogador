@@ -36,6 +36,21 @@ ctx.fetch=async(url,options={})=>{
  snapshot=store.db;snapshot.images.y.record={parent:'x',side:'Reverso'};await store.commit(snapshot);
  await store.mutate('patch_field',{id:'y',revision:0,field:'identifier',value:'0000123',identifierType:'Barcode Aleph'});assert.equal(store.db.images.y.status,'pending');
  await store.mutate('patch_field',{id:'y',revision:1,field:'author',value:''});assert(store.db.images.y.fieldReviews.author);assert.equal(store.db.images.y.record.parent,'x');
+
+ const targets=()=>['x','y'].map(id=>({id,revision:store.db.images[id].revision||0}));
+ const beforeBulk=store.db,headBefore=head;
+ await store.mutate('bulk_field',{field:'color',value:'sepia',targets:targets()});
+ assert.notEqual(head,headBefore);for(const id of ['x','y']){assert.equal(store.db.images[id].record.color,'sepia');assert.equal(store.db.images[id].status,beforeBulk.images[id].status);assert.equal(store.db.images[id].record.identifier,beforeBulk.images[id].record.identifier);assert.equal(store.db.images[id].revision,beforeBulk.images[id].revision+1);assert(store.db.images[id].fieldReviews.color);}
+ const stable=JSON.stringify(store.db),stableHead=head;
+ const stale=targets();stale[1].revision--;
+ await assert.rejects(()=>store.mutate('bulk_field',{field:'color',value:'byn',targets:stale}),/registro cambió/);assert.equal(JSON.stringify(store.db),stable);assert.equal(head,stableHead);
+ await assert.rejects(()=>store.mutate('bulk_field',{field:'color',value:'Inválido',targets:targets()}),/listado/);
+ await assert.rejects(()=>store.mutate('bulk_field',{field:'identifier',value:'duplicado',targets:targets()}),/combo/);
+ await assert.rejects(()=>store.mutate('bulk_field',{field:'portrait',value:'Grupal',targets:targets()}),/corresponde/);
+ rejectRef=true;await assert.rejects(()=>store.mutate('bulk_field',{field:'color',value:'byn',targets:targets()}),/repositorio cambió/);rejectRef=false;assert.equal(JSON.stringify(store.db),stable);
+ await store.mutate('bulk_field',{field:'color',value:'',targets:targets()});assert.equal(store.db.images.x.record.color,'');
+ const y=store.db.images.y;await assert.rejects(()=>store.mutate('patch_field',{id:'x',revision:store.db.images.x.revision,field:'parent',value:'y'}),/ciclo/);
+ console.log('PASS: edición global atómica, color, revisión, estados conservados y rechazo total ante conflictos, valores inválidos o campos no aplicables.');
  store.disconnect();await assert.rejects(()=>store.create('Prueba'),/Conectá/);
  console.log('PASS: lectura pública, guardado atómico, autorización en memoria, protección contra conflictos y colecciones independientes.');
 })().catch(e=>{console.error(e);process.exitCode=1;});

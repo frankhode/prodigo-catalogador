@@ -1,5 +1,5 @@
 const assert=require('node:assert/strict'),F=require('../assets/record-fields.js'),seed=require('../options.json');
-const config=structuredClone(seed);config.options.side.push('Interior');config.options.environment=['Campo'];config.terms.objects=['Cámara'];F.configure(config);
+const config=structuredClone(seed);config.options.side.push('Detalle nuevo');config.options.environment=['Campo'];config.terms.objects=['Cámara'];F.configure(config);
 assert(F.definitions.side.options.includes('Interior'));assert.deepEqual(F.terms.objects,['Cámara']);F.validateOptions({side:'Interior',environment:'Campo'});
 assert.throws(()=>F.validateOptions({side:'Inventado'}),/listado/);
 F.validateOptions({side:'Frente',environment:'Estudio'},{side:'Frente',environment:'Estudio'});
