@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "62ee5fcc-9f7f-46ea-afeb-884029f657e3",
+  "version": "45fc62b4-f663-4b19-98bb-dae3c58c7c5e",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -5900,9 +5900,10 @@
     "BIX-14": "Monograma Mar del Plata",
     "BIX-15": "Monograma oval F. Bixio y Cia.",
     "BIX-16": "Florencio Bixio & Cia. - B. de Irigoyen 185 - B. Aires",
-    "BIX-17": "Fillebrown - Florida 55 Buenos Aires"
+    "BIX-17": "Fillebrown - Florida 55 Buenos Aires",
+    "BIX-18": "Monograma circular - F. Bixio y Cia. 181. Buen Orden. 185. Buenos Aires"
   },
-  "updated": "2026-10-23T21:45:55.300Z",
+  "updated": "2026-10-23T21:47:42.746Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
