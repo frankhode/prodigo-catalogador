@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "bd6852f4-c38a-4894-acf4-db4aea0b2a85",
+  "version": "c6564083-997c-45a0-8c72-0308a422095d",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -1729,15 +1729,20 @@
         "highlights": [
           "Traje de baño",
           "Mar del Plata"
-        ]
+        ],
+        "author": "Florencio Bixio"
       },
-      "revision": 0,
+      "revision": 1,
       "fingerprint": "4a447531488185a9",
       "media": {
         "thumb": "media/bixio/d16fc9f06af1d2f9dd88078084ad88b31b440527f044b8e1e7d2ed75d84a565c-4a447531488185a9-thumb.webp",
         "src": "media/bixio/d16fc9f06af1d2f9dd88078084ad88b31b440527f044b8e1e7d2ed75d84a565c-4a447531488185a9.webp",
         "w": 1421,
         "h": 2200
+      },
+      "updated": "2026-10-23T20:45:40.263Z",
+      "fieldReviews": {
+        "author": "2026-10-23T20:45:40.263Z"
       }
     },
     "5094f30e523d9f52fab36247f6704498fd17d0c9b672a720b6da92193e7a5c4b": {
@@ -5293,7 +5298,7 @@
     "BIX-15": "Monograma oval F. Bixio y Cia.",
     "BIX-16": "Florencio Bixio & Cia. - B. de Irigoyen 185 - B. Aires"
   },
-  "updated": "2026-10-23T20:45:35.920Z",
+  "updated": "2026-10-23T20:45:41.646Z",
   "authors": [
     "Florencio Bixio"
   ]
