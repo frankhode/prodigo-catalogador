@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "381f53af-f314-45c8-ad46-3ab6e2d80b10",
+  "version": "96264f03-0a17-44ca-9185-13d59e0a654f",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -4174,11 +4174,26 @@
       "id": "12a5da974ecf26325b7adc4c4c9fddff951539e87d515b94a6e597a6e3f87404",
       "relative": "img120.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
-      "status": "pending",
+      "status": "done",
       "record": {
-        "author": "Florencio Bixio"
+        "author": "Florencio Bixio",
+        "side": "Frente",
+        "number": "285509",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Medio cuerpo",
+        "direction": "Tres cuartos",
+        "environment": "Estudio",
+        "people": [
+          "Hombres"
+        ],
+        "objects": [],
+        "highlights": [
+          "Militar"
+        ],
+        "signature": "BIX-03"
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "629287ec03a96610",
       "media": {
         "thumb": "media/bixio/12a5da974ecf26325b7adc4c4c9fddff951539e87d515b94a6e597a6e3f87404-629287ec03a96610-thumb.webp",
@@ -4186,7 +4201,7 @@
         "w": 1580,
         "h": 2200
       },
-      "updated": "2026-10-23T20:55:19.733Z",
+      "updated": "2026-10-23T21:12:01.126Z",
       "fieldReviews": {
         "author": "2026-10-23T20:55:19.733Z"
       }
@@ -5678,7 +5693,8 @@
       "Niños",
       "Mujeres",
       "Bebés",
-      "Niñas"
+      "Niñas",
+      "Hombres"
     ],
     "objects": [
       "Triciclos",
@@ -5736,7 +5752,7 @@
     "BIX-15": "Monograma oval F. Bixio y Cia.",
     "BIX-16": "Florencio Bixio & Cia. - B. de Irigoyen 185 - B. Aires"
   },
-  "updated": "2026-10-23T21:10:08.622Z",
+  "updated": "2026-10-23T21:12:02.757Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
