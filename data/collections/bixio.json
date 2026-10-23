@@ -4977,10 +4977,41 @@
       "Mujeres",
       "Bebés"
     ],
-    "objects": [],
-    "highlights": [
-      "Disfraz"
-    ]
+    "objects": [
+            "Triciclos",
+            "Canasta",
+            "Cuadros",
+            "Juguetes",
+            "Instrumentos musicales",
+            "Jarrón",
+            "Abanico",
+            "Pelotas"
+        ],
+        "highlights": [
+            "Vestimenta",
+            "Bigote",
+            "Bastón",
+            "Guantes",
+            "Peinado",
+            "Sombrero",
+            "Disfraz",
+            "Escena",
+            "Anteojos",
+            "Accesorios",
+            "Sacerdote",
+            "Frac",
+            "Mar del Plata",
+            "Traje de baño",
+            "Boina",
+            "Bixio",
+            "Primera comunión",
+            "Cartera",
+            "Cinturón",
+            "Iluminado",
+            "Joyas",
+            "Policía",
+            "Militar"
+        ]
   },
   "signatures": {
     "none": "Sin firma",
