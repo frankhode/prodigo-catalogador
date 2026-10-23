@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "54ac98b4-c297-4960-a46b-b454c29cdc38",
+  "version": "0d5dec80-d377-4fb8-bf4d-e317645bf11c",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -4960,7 +4960,7 @@
         "color": "byn",
         "environment": "Estudio"
       },
-      "revision": 4,
+      "revision": 5,
       "fingerprint": "70f12ff3519a3c86",
       "media": {
         "thumb": "media/bixio/48d253f3a57d7928de5d38e1c24d729c2a4bf55be75cacef432d6419aeaf0388-70f12ff3519a3c86-thumb.webp",
@@ -4968,11 +4968,12 @@
         "w": 2200,
         "h": 1390
       },
-      "updated": "2026-10-23T23:07:46.255Z",
+      "updated": "2026-10-23T23:21:09.066Z",
       "fieldReviews": {
         "author": "2026-10-23T21:02:19.840Z",
         "color": "2026-10-23T22:53:57.623Z",
-        "environment": "2026-10-23T23:07:46.255Z"
+        "environment": "2026-10-23T23:07:46.255Z",
+        "highlights": "2026-10-23T23:21:09.066Z"
       }
     },
     "a43e6d1d22a2cc6dcded7a10f1d38d424ca7eec613d792a75dd645ec0ee56911": {
@@ -7713,7 +7714,7 @@
     "BIX-21": "Bixio - Firma en relieve",
     "BIX-22": "Bixio - Firma caligráfica"
   },
-  "updated": "2026-10-23T23:21:03.340Z",
+  "updated": "2026-10-23T23:21:10.460Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
