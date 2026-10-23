@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "c85f1150-8870-4910-8077-640f0e72b1a7",
+  "version": "a0b2f288-616d-4793-8f45-8ee07986ae63",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -4725,16 +4725,26 @@
       "id": "58ff60568909c75b3a74403fbe28fc32e8638c0e889757adef8e1930c02e8c36",
       "relative": "img157.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Escaneo HD",
+        "parent": "eba0418a22260e75ae10098d6389577c8394aa5753290d9059bedaa2a6fd4c5c",
+        "people": [],
+        "objects": [],
+        "highlights": [],
+        "portrait": "",
+        "frame": "",
+        "direction": ""
+      },
+      "revision": 1,
       "fingerprint": "377eb1eb34eee94c",
       "media": {
         "thumb": "media/bixio/58ff60568909c75b3a74403fbe28fc32e8638c0e889757adef8e1930c02e8c36-377eb1eb34eee94c-thumb.webp",
         "src": "media/bixio/58ff60568909c75b3a74403fbe28fc32e8638c0e889757adef8e1930c02e8c36-377eb1eb34eee94c.webp",
         "w": 2200,
         "h": 1360
-      }
+      },
+      "updated": "2026-10-23T21:41:35.508Z"
     },
     "086e0247ac866dfc610343a767be0eb1039d8fcbc8f8d8ce1f62788814652bc8": {
       "id": "086e0247ac866dfc610343a767be0eb1039d8fcbc8f8d8ce1f62788814652bc8",
@@ -5837,7 +5847,7 @@
     "BIX-16": "Florencio Bixio & Cia. - B. de Irigoyen 185 - B. Aires",
     "BIX-17": "Fillebrown - Florida 55 Buenos Aires"
   },
-  "updated": "2026-10-23T21:41:01.940Z",
+  "updated": "2026-10-23T21:41:36.905Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
