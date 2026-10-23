@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "45fc62b4-f663-4b19-98bb-dae3c58c7c5e",
+  "version": "5a9e5c9f-2d27-4d6e-bbaa-0451ae4b9cae",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -4865,16 +4865,33 @@
       "id": "0f22d5068332a7ba1a4ed917167bf5336a23b4738e03cc4b6a217a8de6bebaa0",
       "relative": "img162.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "author": "Florencio Bixio",
+        "kind": "Retrato",
+        "portrait": "Grupal",
+        "frame": "Cuerpo entero",
+        "direction": "Mixta",
+        "environment": "Estudio",
+        "people": [
+          "Hombres"
+        ],
+        "objects": [],
+        "highlights": [
+          "Vestimenta"
+        ],
+        "signature": "BIX-18"
+      },
+      "revision": 1,
       "fingerprint": "c56ef44e3e9cbd13",
       "media": {
         "thumb": "media/bixio/0f22d5068332a7ba1a4ed917167bf5336a23b4738e03cc4b6a217a8de6bebaa0-c56ef44e3e9cbd13-thumb.webp",
         "src": "media/bixio/0f22d5068332a7ba1a4ed917167bf5336a23b4738e03cc4b6a217a8de6bebaa0-c56ef44e3e9cbd13.webp",
         "w": 1626,
         "h": 2200
-      }
+      },
+      "updated": "2026-10-23T21:47:49.011Z"
     },
     "82ef0a24f69416a66643e04deb52924d36d4b68139edc0a12bbbf8a1db3e0898": {
       "id": "82ef0a24f69416a66643e04deb52924d36d4b68139edc0a12bbbf8a1db3e0898",
@@ -5903,7 +5920,7 @@
     "BIX-17": "Fillebrown - Florida 55 Buenos Aires",
     "BIX-18": "Monograma circular - F. Bixio y Cia. 181. Buen Orden. 185. Buenos Aires"
   },
-  "updated": "2026-10-23T21:47:42.746Z",
+  "updated": "2026-10-23T21:47:50.373Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
