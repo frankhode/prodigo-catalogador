@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "2a81092f-000a-4e94-aa29-3dce79da1599",
+  "version": "e657d0a6-c9ca-41b2-a183-11cfc2b77aff",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -6706,9 +6706,14 @@
         "environment": "Estudio",
         "people": [
           "Hombres"
+        ],
+        "highlights": [
+          "Vestimenta",
+          "Sombrero",
+          "Paraguas"
         ]
       },
-      "revision": 9,
+      "revision": 10,
       "fingerprint": "15ba61025a973be3",
       "media": {
         "thumb": "media/bixio/665568c0111221223ee8baf0280f2a7cc59dac625255c00c6dd3e9e3e1e3446f-15ba61025a973be3-thumb.webp",
@@ -6716,7 +6721,7 @@
         "w": 1404,
         "h": 2200
       },
-      "updated": "2026-10-23T23:12:47.051Z",
+      "updated": "2026-10-23T23:23:47.100Z",
       "fieldReviews": {
         "color": "2026-10-23T22:53:06.216Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -6726,7 +6731,8 @@
         "frame": "2026-10-23T23:03:00.875Z",
         "direction": "2026-10-23T23:04:45.226Z",
         "environment": "2026-10-23T23:07:46.255Z",
-        "people": "2026-10-23T23:12:47.051Z"
+        "people": "2026-10-23T23:12:47.051Z",
+        "highlights": "2026-10-23T23:23:47.100Z"
       }
     },
     "94a789d81e63ca36b6e2356cd4052c8268caad1f667a0265ca1a2577da00ca26": {
@@ -7721,7 +7727,8 @@
       "Bailarín",
       "Bailarines",
       "Pieles",
-      "Boy scouts"
+      "Boy scouts",
+      "Paraguas"
     ]
   },
   "signatures": {
@@ -7750,7 +7757,7 @@
     "BIX-21": "Bixio - Firma en relieve",
     "BIX-22": "Bixio - Firma caligráfica"
   },
-  "updated": "2026-10-23T23:23:19.662Z",
+  "updated": "2026-10-23T23:23:48.488Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
