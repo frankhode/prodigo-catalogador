@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "7764954d-90c4-4bdf-8fc4-1bef317ff18b",
+  "version": "55129ab1-d5f2-4b67-be54-9c38118fa2f9",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -3254,13 +3254,12 @@
         ],
         "objects": [],
         "highlights": [
-          "Vestimenta",
-          "Iluminado"
+          "Vestimenta"
         ],
         "author": "Florencio Bixio",
         "color": "iluminado"
       },
-      "revision": 2,
+      "revision": 3,
       "fingerprint": "42a49d4702409249",
       "media": {
         "thumb": "media/bixio/6a02d1341accf3bc8774ef64d138618eb795d19b4a1562cf1fccdab6bbf50d63-42a49d4702409249-thumb.webp",
@@ -3268,10 +3267,11 @@
         "w": 1579,
         "h": 2200
       },
-      "updated": "2026-10-23T22:52:17.471Z",
+      "updated": "2026-10-23T22:55:09.161Z",
       "fieldReviews": {
         "author": "2026-10-23T20:49:23.447Z",
-        "color": "2026-10-23T22:52:17.471Z"
+        "color": "2026-10-23T22:52:17.471Z",
+        "highlights": "2026-10-23T22:55:09.161Z"
       }
     },
     "37bc44874380a31c412bbbd7c688839123e8386f5e04d2fbd9b65caaddd43e30": {
@@ -6939,7 +6939,7 @@
     "BIX-21": "Bixio - Firma en relieve",
     "BIX-22": "Bixio - Firma caligráfica"
   },
-  "updated": "2026-10-23T22:54:56.654Z",
+  "updated": "2026-10-23T22:55:10.661Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
