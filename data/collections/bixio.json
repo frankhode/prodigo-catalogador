@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "28fa12eb-262a-4544-b97c-26a537513e47",
+  "version": "780104d3-a789-4888-bd62-22cd69f332e9",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -4932,16 +4932,26 @@
       "id": "244df801764106c7af9a0e339a527b61a607c68175f0b80bd0067ae10ff0f39e",
       "relative": "img164.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Reverso",
+        "parent": "82ef0a24f69416a66643e04deb52924d36d4b68139edc0a12bbbf8a1db3e0898",
+        "people": [],
+        "objects": [],
+        "highlights": [],
+        "portrait": "",
+        "frame": "",
+        "direction": ""
+      },
+      "revision": 1,
       "fingerprint": "b6d715fa25530ac0",
       "media": {
         "thumb": "media/bixio/244df801764106c7af9a0e339a527b61a607c68175f0b80bd0067ae10ff0f39e-b6d715fa25530ac0-thumb.webp",
         "src": "media/bixio/244df801764106c7af9a0e339a527b61a607c68175f0b80bd0067ae10ff0f39e-b6d715fa25530ac0.webp",
         "w": 2200,
         "h": 1531
-      }
+      },
+      "updated": "2026-10-23T21:49:24.595Z"
     },
     "1af1e9a8250a13b83c9b83f49c20b795c6ab625123b283dc11f072aed297e07a": {
       "id": "1af1e9a8250a13b83c9b83f49c20b795c6ab625123b283dc11f072aed297e07a",
@@ -5941,7 +5951,7 @@
     "BIX-18": "Monograma circular - F. Bixio y Cia. 181. Buen Orden. 185. Buenos Aires",
     "BIX-19": "Bixio - Buenos Aires"
   },
-  "updated": "2026-10-23T21:48:56.833Z",
+  "updated": "2026-10-23T21:49:25.930Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
