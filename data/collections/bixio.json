@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "876431d0-38e8-4041-9a70-ace59810ef5e",
+  "version": "1ca7d98b-1c29-416b-82a3-ddd256939a55",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -5579,16 +5579,33 @@
       "id": "311315d47aa1112f50e4a15a763a472fe1ba01b6f8bc27b809711477635a2074",
       "relative": "img186.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "author": "Florencio Bixio",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Busto",
+        "direction": "Frente",
+        "environment": "Estudio",
+        "people": [
+          "Hombres"
+        ],
+        "identifiedPeople": [
+          "Aldo Calderón"
+        ],
+        "objects": [],
+        "highlights": []
+      },
+      "revision": 1,
       "fingerprint": "e146607badeb616e",
       "media": {
         "thumb": "media/bixio/311315d47aa1112f50e4a15a763a472fe1ba01b6f8bc27b809711477635a2074-e146607badeb616e-thumb.webp",
         "src": "media/bixio/311315d47aa1112f50e4a15a763a472fe1ba01b6f8bc27b809711477635a2074-e146607badeb616e.webp",
         "w": 1398,
         "h": 2200
-      }
+      },
+      "updated": "2026-10-23T22:21:04.412Z"
     },
     "ebaf921b8fb84e8b50de1b9d498eaf0d00025615e0bfa4a2ba47554fccf5d74b": {
       "id": "ebaf921b8fb84e8b50de1b9d498eaf0d00025615e0bfa4a2ba47554fccf5d74b",
@@ -6267,7 +6284,7 @@
     "BIX-21": "Bixio - Firma en relieve",
     "BIX-22": "Bixio - Firma caligráfica"
   },
-  "updated": "2026-10-23T22:19:23.165Z",
+  "updated": "2026-10-23T22:21:06.252Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
