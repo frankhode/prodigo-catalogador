@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "ec392012-3b1a-4c1f-8144-17daa394b981",
+  "version": "3ee0837e-9435-426d-923f-bb54a20ab8ca",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -4395,11 +4395,23 @@
       "id": "31a4a272635c9248f574f6af1fa58035e13df8d63f9ecf54219e8aec4ad1e536",
       "relative": "img147.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
-      "status": "pending",
+      "status": "done",
       "record": {
-        "author": "Florencio Bixio"
+        "author": "Florencio Bixio",
+        "side": "Frente",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Cuerpo entero",
+        "direction": "Tres cuartos",
+        "environment": "Estudio",
+        "people": [
+          "Bebés"
+        ],
+        "objects": [],
+        "highlights": [],
+        "signature": "BIX-08"
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "a96f0c786cdb225f",
       "media": {
         "thumb": "media/bixio/31a4a272635c9248f574f6af1fa58035e13df8d63f9ecf54219e8aec4ad1e536-a96f0c786cdb225f-thumb.webp",
@@ -4407,7 +4419,7 @@
         "w": 2200,
         "h": 868
       },
-      "updated": "2026-10-23T21:01:32.181Z",
+      "updated": "2026-10-23T21:14:01.023Z",
       "fieldReviews": {
         "author": "2026-10-23T21:01:32.181Z"
       }
@@ -5759,7 +5771,7 @@
     "BIX-15": "Monograma oval F. Bixio y Cia.",
     "BIX-16": "Florencio Bixio & Cia. - B. de Irigoyen 185 - B. Aires"
   },
-  "updated": "2026-10-23T21:12:31.516Z",
+  "updated": "2026-10-23T21:14:02.483Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
