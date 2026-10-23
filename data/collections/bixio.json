@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "035f24d2-8f29-4dc7-aaba-8d2742ed1519",
+  "version": "e8f6476d-1feb-40db-a34d-1b7ebdc0aaed",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -191,7 +191,7 @@
         "portrait": "Individual",
         "frame": "Busto",
         "direction": "Tres cuartos",
-        "environment": "",
+        "environment": "Estudio",
         "notes": "",
         "parent": "",
         "signature": "BIX-02",
@@ -203,7 +203,7 @@
         "author": "Florencio Bixio",
         "color": "byn"
       },
-      "revision": 2,
+      "revision": 3,
       "fingerprint": "f3cde388133fa2f2",
       "media": {
         "thumb": "media/bixio/5f971e96854a8552a8b0d88de7792977051250896a5e5f0637a2670fda1ed0a2-f3cde388133fa2f2-thumb.webp",
@@ -211,10 +211,11 @@
         "w": 1327,
         "h": 2200
       },
-      "updated": "2026-10-23T22:42:43.683Z",
+      "updated": "2026-10-23T23:07:46.255Z",
       "fieldReviews": {
         "author": "2026-10-23T20:19:18.173Z",
-        "color": "2026-10-23T22:42:43.683Z"
+        "color": "2026-10-23T22:42:43.683Z",
+        "environment": "2026-10-23T23:07:46.255Z"
       }
     },
     "b06d36cd3a78f63fa0c0d3bae5d283483e4570a053b3ef32db925fd22d3b3882": {
@@ -273,7 +274,7 @@
         "portrait": "Individual",
         "frame": "Cuerpo entero",
         "direction": "Frente",
-        "environment": "",
+        "environment": "Estudio",
         "notes": "",
         "parent": "",
         "signature": "BIX-03",
@@ -289,7 +290,7 @@
         "author": "Florencio Bixio",
         "color": "byn"
       },
-      "revision": 2,
+      "revision": 3,
       "fingerprint": "c2ede9a8ec6c99ef",
       "media": {
         "thumb": "media/bixio/f4a8696abffffc45e296041b4cee4c670707479ccaa357469a515ecaac11df62-c2ede9a8ec6c99ef-thumb.webp",
@@ -297,10 +298,11 @@
         "w": 1523,
         "h": 2200
       },
-      "updated": "2026-10-23T22:42:43.683Z",
+      "updated": "2026-10-23T23:07:46.255Z",
       "fieldReviews": {
         "author": "2026-10-23T20:19:33.237Z",
-        "color": "2026-10-23T22:42:43.683Z"
+        "color": "2026-10-23T22:42:43.683Z",
+        "environment": "2026-10-23T23:07:46.255Z"
       }
     },
     "6b18ba90ad4b7dd1c73d093e5934f3d359623a6c2b1c62f48408d391d066322f": {
@@ -316,7 +318,7 @@
         "portrait": "Grupal",
         "frame": "Busto",
         "direction": "Tres cuartos",
-        "environment": "",
+        "environment": "Estudio",
         "notes": "",
         "parent": "",
         "signature": "BIX-07",
@@ -330,7 +332,7 @@
         "author": "Florencio Bixio",
         "color": "byn"
       },
-      "revision": 2,
+      "revision": 3,
       "fingerprint": "3a8ce59f0786a335",
       "media": {
         "thumb": "media/bixio/6b18ba90ad4b7dd1c73d093e5934f3d359623a6c2b1c62f48408d391d066322f-3a8ce59f0786a335-thumb.webp",
@@ -338,10 +340,11 @@
         "w": 1382,
         "h": 2200
       },
-      "updated": "2026-10-23T22:51:52.639Z",
+      "updated": "2026-10-23T23:07:46.255Z",
       "fieldReviews": {
         "author": "2026-10-23T20:41:11.633Z",
-        "color": "2026-10-23T22:51:52.639Z"
+        "color": "2026-10-23T22:51:52.639Z",
+        "environment": "2026-10-23T23:07:46.255Z"
       }
     },
     "5b1934f1faa98fbd47f0bab19d407658eef2e4da4d5b5ecaf3e6f9b4c965209f": {
@@ -1213,7 +1216,7 @@
         "portrait": "Individual",
         "frame": "Busto",
         "direction": "Tres cuartos",
-        "environment": "",
+        "environment": "Estudio",
         "notes": "A mi amiga y compañera Rosario Pacheco su [?] amigo\nMiguel Lamas\nB. Aires 5 agosto 1921",
         "parent": "",
         "signature": "BIX-07",
@@ -1225,7 +1228,7 @@
         "author": "Florencio Bixio",
         "color": "byn"
       },
-      "revision": 2,
+      "revision": 3,
       "fingerprint": "f9ad41fa8e91d253",
       "media": {
         "thumb": "media/bixio/4e83e4e7474bc899e747eb336379ec4203b99cf1a2188e0de365abc1c04e78ed-f9ad41fa8e91d253-thumb.webp",
@@ -1233,10 +1236,11 @@
         "w": 1382,
         "h": 2200
       },
-      "updated": "2026-10-23T22:51:52.639Z",
+      "updated": "2026-10-23T23:07:46.255Z",
       "fieldReviews": {
         "author": "2026-10-23T20:43:29.609Z",
-        "color": "2026-10-23T22:51:52.639Z"
+        "color": "2026-10-23T22:51:52.639Z",
+        "environment": "2026-10-23T23:07:46.255Z"
       }
     },
     "3602b8647fa767de21e073bb3715fc8f543a885844fa798f0078a42e3ccee8cd": {
@@ -1453,7 +1457,7 @@
         "portrait": "Individual",
         "frame": "Medio cuerpo",
         "direction": "Tres cuartos",
-        "environment": "",
+        "environment": "Estudio",
         "notes": "",
         "parent": "",
         "signature": "BIX-05",
@@ -1468,7 +1472,7 @@
         "author": "Florencio Bixio",
         "color": "sepia"
       },
-      "revision": 2,
+      "revision": 3,
       "fingerprint": "59bb06fe00b436ff",
       "media": {
         "thumb": "media/bixio/368938913a013a1458d5f64725ee43b90f11154a36a93d19d6e234e69e5db9b2-59bb06fe00b436ff-thumb.webp",
@@ -1476,10 +1480,11 @@
         "w": 1527,
         "h": 2200
       },
-      "updated": "2026-10-23T22:50:42.790Z",
+      "updated": "2026-10-23T23:07:46.255Z",
       "fieldReviews": {
         "author": "2026-10-23T20:43:58.788Z",
-        "color": "2026-10-23T22:50:42.790Z"
+        "color": "2026-10-23T22:50:42.790Z",
+        "environment": "2026-10-23T23:07:46.255Z"
       }
     },
     "1906118e25aab4dbb7bb4b1164012357a15a861986bcd198c8b64e1695780dfd": {
@@ -1533,7 +1538,7 @@
         "portrait": "Individual",
         "frame": "Busto",
         "direction": "Frente",
-        "environment": "",
+        "environment": "Estudio",
         "notes": "",
         "parent": "",
         "signature": "BIX-04",
@@ -1548,7 +1553,7 @@
         "author": "Florencio Bixio",
         "color": "sepia"
       },
-      "revision": 2,
+      "revision": 3,
       "fingerprint": "1000a9c1234ede09",
       "media": {
         "thumb": "media/bixio/1438eaadc39b9e323f49aa3a847785afa714674bfbadd4a171844a129113b6ec-1000a9c1234ede09-thumb.webp",
@@ -1556,10 +1561,11 @@
         "w": 1558,
         "h": 2200
       },
-      "updated": "2026-10-23T22:50:42.790Z",
+      "updated": "2026-10-23T23:07:46.255Z",
       "fieldReviews": {
         "author": "2026-10-23T20:44:11.924Z",
-        "color": "2026-10-23T22:50:42.790Z"
+        "color": "2026-10-23T22:50:42.790Z",
+        "environment": "2026-10-23T23:07:46.255Z"
       }
     },
     "563da321a15f3cfa31d039f2cf36c4769789b4041fae0bd62d64573e320151aa": {
@@ -1613,7 +1619,7 @@
         "portrait": "Individual",
         "frame": "Busto",
         "direction": "Tres cuartos",
-        "environment": "",
+        "environment": "Estudio",
         "notes": "",
         "parent": "",
         "signature": "BIX-07",
@@ -1627,7 +1633,7 @@
         "author": "Florencio Bixio",
         "color": "byn"
       },
-      "revision": 2,
+      "revision": 3,
       "fingerprint": "47e5c31847f073af",
       "media": {
         "thumb": "media/bixio/423915a6f62f438feec8e84bd180e8f51dc8da008f5d5fe72a73160b79f9fe2c-47e5c31847f073af-thumb.webp",
@@ -1635,10 +1641,11 @@
         "w": 1438,
         "h": 2200
       },
-      "updated": "2026-10-23T22:51:52.639Z",
+      "updated": "2026-10-23T23:07:46.255Z",
       "fieldReviews": {
         "author": "2026-10-23T20:45:01.375Z",
-        "color": "2026-10-23T22:51:52.639Z"
+        "color": "2026-10-23T22:51:52.639Z",
+        "environment": "2026-10-23T23:07:46.255Z"
       }
     },
     "f233845ed47120f614dd0418834ab1370ebdb3e84120d0a11ea6e92294077c3b": {
@@ -1693,7 +1700,7 @@
         "portrait": "Individual",
         "frame": "Tres cuartos",
         "direction": "Frente",
-        "environment": "",
+        "environment": "Estudio",
         "notes": "A la simpática Rosario Pacheco. Recuerdo de su buen amigo y compañero Ignacio León\n5 - 11 -923",
         "parent": "",
         "signature": "BIX-07",
@@ -1705,7 +1712,7 @@
         "author": "Florencio Bixio",
         "color": "byn"
       },
-      "revision": 2,
+      "revision": 3,
       "fingerprint": "4fbc1abfbd13c41b",
       "media": {
         "thumb": "media/bixio/95ab677ec8e0f7bf58cb02a40cb5c04d6967e8820b67df89868a78820c803026-4fbc1abfbd13c41b-thumb.webp",
@@ -1713,10 +1720,11 @@
         "w": 1394,
         "h": 2200
       },
-      "updated": "2026-10-23T22:51:52.639Z",
+      "updated": "2026-10-23T23:07:46.255Z",
       "fieldReviews": {
         "author": "2026-10-23T20:45:17.679Z",
-        "color": "2026-10-23T22:51:52.639Z"
+        "color": "2026-10-23T22:51:52.639Z",
+        "environment": "2026-10-23T23:07:46.255Z"
       }
     },
     "23439a889b72aa6917307acf8988045df2f09c00af68a5259b466155f8e8e659": {
@@ -4418,9 +4426,10 @@
         "portrait": "",
         "frame": "",
         "direction": "",
-        "color": "iluminado"
+        "color": "iluminado",
+        "environment": "Estudio"
       },
-      "revision": 4,
+      "revision": 5,
       "fingerprint": "5080b80f9ed2d928",
       "media": {
         "thumb": "media/bixio/07c6a800e55a74a780b061d1fd55a85f9ad83f62546835861de3918d2fde204d-5080b80f9ed2d928-thumb.webp",
@@ -4428,11 +4437,12 @@
         "w": 1581,
         "h": 2200
       },
-      "updated": "2026-10-23T23:00:10.653Z",
+      "updated": "2026-10-23T23:07:46.255Z",
       "fieldReviews": {
         "author": "2026-10-23T20:48:54.751Z",
         "color": "2026-10-23T22:52:17.471Z",
-        "side": "2026-10-23T23:00:10.653Z"
+        "side": "2026-10-23T23:00:10.653Z",
+        "environment": "2026-10-23T23:07:46.255Z"
       }
     },
     "12a5da974ecf26325b7adc4c4c9fddff951539e87d515b94a6e597a6e3f87404": {
@@ -4906,9 +4916,10 @@
         "objects": [],
         "highlights": [],
         "signature": "BIX-17",
-        "color": "byn"
+        "color": "byn",
+        "environment": "Estudio"
       },
-      "revision": 3,
+      "revision": 4,
       "fingerprint": "70f12ff3519a3c86",
       "media": {
         "thumb": "media/bixio/48d253f3a57d7928de5d38e1c24d729c2a4bf55be75cacef432d6419aeaf0388-70f12ff3519a3c86-thumb.webp",
@@ -4916,10 +4927,11 @@
         "w": 2200,
         "h": 1390
       },
-      "updated": "2026-10-23T22:53:57.623Z",
+      "updated": "2026-10-23T23:07:46.255Z",
       "fieldReviews": {
         "author": "2026-10-23T21:02:19.840Z",
-        "color": "2026-10-23T22:53:57.623Z"
+        "color": "2026-10-23T22:53:57.623Z",
+        "environment": "2026-10-23T23:07:46.255Z"
       }
     },
     "a43e6d1d22a2cc6dcded7a10f1d38d424ca7eec613d792a75dd645ec0ee56911": {
@@ -5048,9 +5060,10 @@
         "frame": "",
         "direction": "",
         "color": "byn",
-        "author": "Florencio Bixio"
+        "author": "Florencio Bixio",
+        "environment": "Estudio"
       },
-      "revision": 3,
+      "revision": 4,
       "fingerprint": "377eb1eb34eee94c",
       "media": {
         "thumb": "media/bixio/58ff60568909c75b3a74403fbe28fc32e8638c0e889757adef8e1930c02e8c36-377eb1eb34eee94c-thumb.webp",
@@ -5058,10 +5071,11 @@
         "w": 2200,
         "h": 1360
       },
-      "updated": "2026-10-23T22:57:57.306Z",
+      "updated": "2026-10-23T23:07:46.255Z",
       "fieldReviews": {
         "color": "2026-10-23T22:51:52.639Z",
-        "author": "2026-10-23T22:57:57.306Z"
+        "author": "2026-10-23T22:57:57.306Z",
+        "environment": "2026-10-23T23:07:46.255Z"
       }
     },
     "086e0247ac866dfc610343a767be0eb1039d8fcbc8f8d8ce1f62788814652bc8": {
@@ -5188,9 +5202,10 @@
           "Vestimenta"
         ],
         "signature": "BIX-02",
-        "color": "byn"
+        "color": "byn",
+        "environment": "Estudio"
       },
-      "revision": 3,
+      "revision": 4,
       "fingerprint": "e1f1768a1baf3bc2",
       "media": {
         "thumb": "media/bixio/dde375960980fda4d769a6f196d73445f8abe19c2f357abcf1a8ad0d84181bac-e1f1768a1baf3bc2-thumb.webp",
@@ -5198,10 +5213,11 @@
         "w": 1375,
         "h": 2200
       },
-      "updated": "2026-10-23T22:57:57.306Z",
+      "updated": "2026-10-23T23:07:46.255Z",
       "fieldReviews": {
         "color": "2026-10-23T22:51:52.639Z",
-        "author": "2026-10-23T22:57:57.306Z"
+        "author": "2026-10-23T22:57:57.306Z",
+        "environment": "2026-10-23T23:07:46.255Z"
       }
     },
     "0f22d5068332a7ba1a4ed917167bf5336a23b4738e03cc4b6a217a8de6bebaa0": {
@@ -6248,9 +6264,10 @@
         "kind": "Retrato",
         "portrait": "Individual",
         "frame": "Cuerpo entero",
-        "direction": "Frente"
+        "direction": "Frente",
+        "environment": "Estudio"
       },
-      "revision": 7,
+      "revision": 8,
       "fingerprint": "098af5a35d621c84",
       "media": {
         "thumb": "media/bixio/79637e1f41480a6624377dc005ef3dd84a3c9bd7bfa9496d1cd305792c2fbb14-098af5a35d621c84-thumb.webp",
@@ -6258,7 +6275,7 @@
         "w": 1575,
         "h": 2200
       },
-      "updated": "2026-10-23T23:04:45.226Z",
+      "updated": "2026-10-23T23:07:46.255Z",
       "fieldReviews": {
         "color": "2026-10-23T22:50:42.790Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -6266,7 +6283,8 @@
         "kind": "2026-10-23T23:01:24.302Z",
         "portrait": "2026-10-23T23:01:58.486Z",
         "frame": "2026-10-23T23:03:00.875Z",
-        "direction": "2026-10-23T23:04:45.226Z"
+        "direction": "2026-10-23T23:04:45.226Z",
+        "environment": "2026-10-23T23:07:46.255Z"
       }
     },
     "97a7faf61742b6eeda0b81bd9e215e622a9716940aeb1e39a19eb9052e0dc6cc": {
@@ -6281,9 +6299,10 @@
         "kind": "Retrato",
         "portrait": "Individual",
         "frame": "Cuerpo entero",
-        "direction": "Frente"
+        "direction": "Frente",
+        "environment": "Estudio"
       },
-      "revision": 7,
+      "revision": 8,
       "fingerprint": "f9cdbb03154bf01a",
       "media": {
         "thumb": "media/bixio/97a7faf61742b6eeda0b81bd9e215e622a9716940aeb1e39a19eb9052e0dc6cc-f9cdbb03154bf01a-thumb.webp",
@@ -6291,7 +6310,7 @@
         "w": 1586,
         "h": 2200
       },
-      "updated": "2026-10-23T23:04:45.226Z",
+      "updated": "2026-10-23T23:07:46.255Z",
       "fieldReviews": {
         "color": "2026-10-23T22:53:06.216Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -6299,7 +6318,8 @@
         "kind": "2026-10-23T23:01:24.302Z",
         "portrait": "2026-10-23T23:01:58.486Z",
         "frame": "2026-10-23T23:03:00.875Z",
-        "direction": "2026-10-23T23:04:45.226Z"
+        "direction": "2026-10-23T23:04:45.226Z",
+        "environment": "2026-10-23T23:07:46.255Z"
       }
     },
     "1fb375f9c2ba7fa58013e8b2900be88e12333cf6b8a6ea6c038f5fcb6149c1d7": {
@@ -6339,9 +6359,10 @@
         "kind": "Retrato",
         "portrait": "Individual",
         "frame": "Cuerpo entero",
-        "direction": "Frente"
+        "direction": "Frente",
+        "environment": "Estudio"
       },
-      "revision": 7,
+      "revision": 8,
       "fingerprint": "3bf0e7ee6022e058",
       "media": {
         "thumb": "media/bixio/193ac9701720c59a4a6d4cde75955d854d081849c6229b49e51d33913e387d35-3bf0e7ee6022e058-thumb.webp",
@@ -6349,7 +6370,7 @@
         "w": 2200,
         "h": 1579
       },
-      "updated": "2026-10-23T23:04:45.226Z",
+      "updated": "2026-10-23T23:07:46.255Z",
       "fieldReviews": {
         "color": "2026-10-23T22:54:09.880Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -6357,7 +6378,8 @@
         "kind": "2026-10-23T23:01:24.302Z",
         "portrait": "2026-10-23T23:01:58.486Z",
         "frame": "2026-10-23T23:03:00.875Z",
-        "direction": "2026-10-23T23:04:45.226Z"
+        "direction": "2026-10-23T23:04:45.226Z",
+        "environment": "2026-10-23T23:07:46.255Z"
       }
     },
     "7967726487c207253b879a51199060d85da25b4f8f62ef7f991f24b4a41d5fa6": {
@@ -6372,9 +6394,10 @@
         "kind": "Retrato",
         "portrait": "Individual",
         "frame": "Cuerpo entero",
-        "direction": "Frente"
+        "direction": "Frente",
+        "environment": "Estudio"
       },
-      "revision": 7,
+      "revision": 8,
       "fingerprint": "78a0c45641b1ad22",
       "media": {
         "thumb": "media/bixio/7967726487c207253b879a51199060d85da25b4f8f62ef7f991f24b4a41d5fa6-78a0c45641b1ad22-thumb.webp",
@@ -6382,7 +6405,7 @@
         "w": 1585,
         "h": 2200
       },
-      "updated": "2026-10-23T23:04:45.226Z",
+      "updated": "2026-10-23T23:07:46.255Z",
       "fieldReviews": {
         "color": "2026-10-23T22:53:06.216Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -6390,7 +6413,8 @@
         "kind": "2026-10-23T23:01:24.302Z",
         "portrait": "2026-10-23T23:01:58.486Z",
         "frame": "2026-10-23T23:03:00.875Z",
-        "direction": "2026-10-23T23:04:45.226Z"
+        "direction": "2026-10-23T23:04:45.226Z",
+        "environment": "2026-10-23T23:07:46.255Z"
       }
     },
     "dec73a87f815f750d093540598043242a236b247aba00f31473b6a00677396fd": {
@@ -6430,9 +6454,10 @@
         "kind": "Retrato",
         "portrait": "Individual",
         "frame": "Busto",
-        "direction": "Perfil"
+        "direction": "Perfil",
+        "environment": "Estudio"
       },
-      "revision": 7,
+      "revision": 8,
       "fingerprint": "1dc76954f2e23881",
       "media": {
         "thumb": "media/bixio/38d1da8c1668c2887ea3e580fd2ee94b3fe4b468fdcac533c45d68e6d02b522d-1dc76954f2e23881-thumb.webp",
@@ -6440,7 +6465,7 @@
         "w": 1596,
         "h": 2200
       },
-      "updated": "2026-10-23T23:04:55.283Z",
+      "updated": "2026-10-23T23:07:46.255Z",
       "fieldReviews": {
         "color": "2026-10-23T22:50:42.790Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -6448,7 +6473,8 @@
         "kind": "2026-10-23T23:01:24.302Z",
         "portrait": "2026-10-23T23:01:58.486Z",
         "frame": "2026-10-23T23:03:16.267Z",
-        "direction": "2026-10-23T23:04:55.283Z"
+        "direction": "2026-10-23T23:04:55.283Z",
+        "environment": "2026-10-23T23:07:46.255Z"
       }
     },
     "686e03bb2dc6be575c0bcd9e865280bc9c8f454e9ae606de072a8d80be620657": {
@@ -6463,9 +6489,10 @@
         "kind": "Retrato",
         "portrait": "Individual",
         "frame": "Cuerpo entero",
-        "direction": "Perfil"
+        "direction": "Perfil",
+        "environment": "Estudio"
       },
-      "revision": 7,
+      "revision": 8,
       "fingerprint": "f7f5afc307d6c3a1",
       "media": {
         "thumb": "media/bixio/686e03bb2dc6be575c0bcd9e865280bc9c8f454e9ae606de072a8d80be620657-f7f5afc307d6c3a1-thumb.webp",
@@ -6473,7 +6500,7 @@
         "w": 1565,
         "h": 2200
       },
-      "updated": "2026-10-23T23:05:43.868Z",
+      "updated": "2026-10-23T23:07:46.255Z",
       "fieldReviews": {
         "color": "2026-10-23T22:50:42.790Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -6481,7 +6508,8 @@
         "kind": "2026-10-23T23:01:24.302Z",
         "portrait": "2026-10-23T23:01:58.486Z",
         "frame": "2026-10-23T23:03:00.875Z",
-        "direction": "2026-10-23T23:05:43.868Z"
+        "direction": "2026-10-23T23:05:43.868Z",
+        "environment": "2026-10-23T23:07:46.255Z"
       }
     },
     "85b1cc92f299cd9427d6428b34a817d016375ea72bbdcdf410185cf63e0786bd": {
@@ -6496,9 +6524,10 @@
         "kind": "Retrato",
         "portrait": "Individual",
         "frame": "Cuerpo entero",
-        "direction": "Perfil"
+        "direction": "Perfil",
+        "environment": "Estudio"
       },
-      "revision": 7,
+      "revision": 8,
       "fingerprint": "27847339225283fe",
       "media": {
         "thumb": "media/bixio/85b1cc92f299cd9427d6428b34a817d016375ea72bbdcdf410185cf63e0786bd-27847339225283fe-thumb.webp",
@@ -6506,7 +6535,7 @@
         "w": 1544,
         "h": 2200
       },
-      "updated": "2026-10-23T23:05:43.868Z",
+      "updated": "2026-10-23T23:07:46.255Z",
       "fieldReviews": {
         "color": "2026-10-23T22:50:42.790Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -6514,7 +6543,8 @@
         "kind": "2026-10-23T23:01:24.302Z",
         "portrait": "2026-10-23T23:01:58.486Z",
         "frame": "2026-10-23T23:03:00.875Z",
-        "direction": "2026-10-23T23:05:43.868Z"
+        "direction": "2026-10-23T23:05:43.868Z",
+        "environment": "2026-10-23T23:07:46.255Z"
       }
     },
     "ae893fd9747669f5bf69beb0237575014bc8d058d5247209d92c6a8093b3b0e9": {
@@ -6529,9 +6559,10 @@
         "kind": "Retrato",
         "portrait": "Individual",
         "frame": "Cuerpo entero",
-        "direction": "Frente"
+        "direction": "Frente",
+        "environment": "Estudio"
       },
-      "revision": 7,
+      "revision": 8,
       "fingerprint": "a79dcb05db823e21",
       "media": {
         "thumb": "media/bixio/ae893fd9747669f5bf69beb0237575014bc8d058d5247209d92c6a8093b3b0e9-a79dcb05db823e21-thumb.webp",
@@ -6539,7 +6570,7 @@
         "w": 1540,
         "h": 2200
       },
-      "updated": "2026-10-23T23:04:45.226Z",
+      "updated": "2026-10-23T23:07:46.255Z",
       "fieldReviews": {
         "color": "2026-10-23T22:50:42.790Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -6547,7 +6578,8 @@
         "kind": "2026-10-23T23:01:24.302Z",
         "portrait": "2026-10-23T23:01:58.486Z",
         "frame": "2026-10-23T23:03:00.875Z",
-        "direction": "2026-10-23T23:04:45.226Z"
+        "direction": "2026-10-23T23:04:45.226Z",
+        "environment": "2026-10-23T23:07:46.255Z"
       }
     },
     "665568c0111221223ee8baf0280f2a7cc59dac625255c00c6dd3e9e3e1e3446f": {
@@ -6562,9 +6594,10 @@
         "kind": "Retrato",
         "portrait": "Individual",
         "frame": "Cuerpo entero",
-        "direction": "Frente"
+        "direction": "Frente",
+        "environment": "Estudio"
       },
-      "revision": 7,
+      "revision": 8,
       "fingerprint": "15ba61025a973be3",
       "media": {
         "thumb": "media/bixio/665568c0111221223ee8baf0280f2a7cc59dac625255c00c6dd3e9e3e1e3446f-15ba61025a973be3-thumb.webp",
@@ -6572,7 +6605,7 @@
         "w": 1404,
         "h": 2200
       },
-      "updated": "2026-10-23T23:04:45.226Z",
+      "updated": "2026-10-23T23:07:46.255Z",
       "fieldReviews": {
         "color": "2026-10-23T22:53:06.216Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -6580,7 +6613,8 @@
         "kind": "2026-10-23T23:01:24.302Z",
         "portrait": "2026-10-23T23:01:58.486Z",
         "frame": "2026-10-23T23:03:00.875Z",
-        "direction": "2026-10-23T23:04:45.226Z"
+        "direction": "2026-10-23T23:04:45.226Z",
+        "environment": "2026-10-23T23:07:46.255Z"
       }
     },
     "94a789d81e63ca36b6e2356cd4052c8268caad1f667a0265ca1a2577da00ca26": {
@@ -6620,9 +6654,10 @@
         "kind": "Retrato",
         "portrait": "Individual",
         "frame": "Busto",
-        "direction": "Frente"
+        "direction": "Frente",
+        "environment": "Estudio"
       },
-      "revision": 7,
+      "revision": 8,
       "fingerprint": "0052ca059ab07219",
       "media": {
         "thumb": "media/bixio/66d551c22e21babd6d7e923b02f385d89c7ed0dfcf407045e0dfcce3a98d7487-0052ca059ab07219-thumb.webp",
@@ -6630,7 +6665,7 @@
         "w": 1586,
         "h": 2200
       },
-      "updated": "2026-10-23T23:04:45.226Z",
+      "updated": "2026-10-23T23:07:46.255Z",
       "fieldReviews": {
         "color": "2026-10-23T22:54:09.880Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -6638,7 +6673,8 @@
         "kind": "2026-10-23T23:01:24.302Z",
         "portrait": "2026-10-23T23:01:58.486Z",
         "frame": "2026-10-23T23:03:16.267Z",
-        "direction": "2026-10-23T23:04:45.226Z"
+        "direction": "2026-10-23T23:04:45.226Z",
+        "environment": "2026-10-23T23:07:46.255Z"
       }
     },
     "19c490a0b2d92291ae685858976d0e80daf34ddf9ab847509e3ad9fa9c42ec83": {
@@ -6653,9 +6689,10 @@
         "kind": "Retrato",
         "portrait": "Individual",
         "frame": "Busto",
-        "direction": "Frente"
+        "direction": "Frente",
+        "environment": "Estudio"
       },
-      "revision": 7,
+      "revision": 8,
       "fingerprint": "e2b25bf0e4929904",
       "media": {
         "thumb": "media/bixio/19c490a0b2d92291ae685858976d0e80daf34ddf9ab847509e3ad9fa9c42ec83-e2b25bf0e4929904-thumb.webp",
@@ -6663,7 +6700,7 @@
         "w": 1524,
         "h": 2200
       },
-      "updated": "2026-10-23T23:04:45.226Z",
+      "updated": "2026-10-23T23:07:46.255Z",
       "fieldReviews": {
         "color": "2026-10-23T22:53:06.216Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -6671,7 +6708,8 @@
         "kind": "2026-10-23T23:01:24.302Z",
         "portrait": "2026-10-23T23:01:58.486Z",
         "frame": "2026-10-23T23:03:16.267Z",
-        "direction": "2026-10-23T23:04:45.226Z"
+        "direction": "2026-10-23T23:04:45.226Z",
+        "environment": "2026-10-23T23:07:46.255Z"
       }
     },
     "ae14f47b26106ff4f5b23bfeaa92dea41d40a656b6d0a48f3e985e01edda5638": {
@@ -6686,9 +6724,10 @@
         "kind": "Retrato",
         "portrait": "Individual",
         "frame": "Busto",
-        "direction": "Frente"
+        "direction": "Frente",
+        "environment": "Estudio"
       },
-      "revision": 7,
+      "revision": 8,
       "fingerprint": "4c8091c2ecbe34ae",
       "media": {
         "thumb": "media/bixio/ae14f47b26106ff4f5b23bfeaa92dea41d40a656b6d0a48f3e985e01edda5638-4c8091c2ecbe34ae-thumb.webp",
@@ -6696,7 +6735,7 @@
         "w": 1585,
         "h": 2200
       },
-      "updated": "2026-10-23T23:04:45.226Z",
+      "updated": "2026-10-23T23:07:46.255Z",
       "fieldReviews": {
         "color": "2026-10-23T22:53:06.216Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -6704,7 +6743,8 @@
         "kind": "2026-10-23T23:01:24.302Z",
         "portrait": "2026-10-23T23:01:58.486Z",
         "frame": "2026-10-23T23:03:16.267Z",
-        "direction": "2026-10-23T23:04:45.226Z"
+        "direction": "2026-10-23T23:04:45.226Z",
+        "environment": "2026-10-23T23:07:46.255Z"
       }
     },
     "f46b98a5dd9b7d08e058ff9781f539a4eea0908abce0fbcd50253e58676e7f21": {
@@ -6719,9 +6759,10 @@
         "kind": "Retrato",
         "portrait": "Individual",
         "frame": "Cuerpo entero",
-        "direction": "Tres cuartos"
+        "direction": "Tres cuartos",
+        "environment": "Estudio"
       },
-      "revision": 7,
+      "revision": 8,
       "fingerprint": "7bf8de136c92c29e",
       "media": {
         "thumb": "media/bixio/f46b98a5dd9b7d08e058ff9781f539a4eea0908abce0fbcd50253e58676e7f21-7bf8de136c92c29e-thumb.webp",
@@ -6729,7 +6770,7 @@
         "w": 1590,
         "h": 2200
       },
-      "updated": "2026-10-23T23:05:54.132Z",
+      "updated": "2026-10-23T23:07:46.255Z",
       "fieldReviews": {
         "color": "2026-10-23T22:53:06.216Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -6737,7 +6778,8 @@
         "kind": "2026-10-23T23:01:24.302Z",
         "portrait": "2026-10-23T23:01:58.487Z",
         "frame": "2026-10-23T23:03:00.875Z",
-        "direction": "2026-10-23T23:05:54.132Z"
+        "direction": "2026-10-23T23:05:54.132Z",
+        "environment": "2026-10-23T23:07:46.255Z"
       }
     },
     "76f23725f3819e288e7eaf7e5eded34b99f4fc77e9ad7a60b3d889770839d8da": {
@@ -6752,9 +6794,10 @@
         "kind": "Retrato",
         "portrait": "Individual",
         "frame": "Busto",
-        "direction": "Frente"
+        "direction": "Frente",
+        "environment": "Estudio"
       },
-      "revision": 7,
+      "revision": 8,
       "fingerprint": "c718eaf487906476",
       "media": {
         "thumb": "media/bixio/76f23725f3819e288e7eaf7e5eded34b99f4fc77e9ad7a60b3d889770839d8da-c718eaf487906476-thumb.webp",
@@ -6762,7 +6805,7 @@
         "w": 1426,
         "h": 2200
       },
-      "updated": "2026-10-23T23:04:45.226Z",
+      "updated": "2026-10-23T23:07:46.255Z",
       "fieldReviews": {
         "color": "2026-10-23T22:51:52.639Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -6770,7 +6813,8 @@
         "kind": "2026-10-23T23:01:24.302Z",
         "portrait": "2026-10-23T23:01:58.487Z",
         "frame": "2026-10-23T23:03:16.267Z",
-        "direction": "2026-10-23T23:04:45.226Z"
+        "direction": "2026-10-23T23:04:45.226Z",
+        "environment": "2026-10-23T23:07:46.255Z"
       }
     },
     "c013cf446f4a2772e8c5ed4eb51c83e89279b4403b93e15bf2c8e91e18b328c9": {
@@ -6810,9 +6854,10 @@
         "kind": "Retrato",
         "portrait": "Individual",
         "frame": "Busto",
-        "direction": "Frente"
+        "direction": "Frente",
+        "environment": "Estudio"
       },
-      "revision": 7,
+      "revision": 8,
       "fingerprint": "64d4eb157a2cd852",
       "media": {
         "thumb": "media/bixio/ac63b6fbb70260d523e9ad9518c42196188cbef7ff6966651ca29b3ad41d43a2-64d4eb157a2cd852-thumb.webp",
@@ -6820,7 +6865,7 @@
         "w": 1538,
         "h": 2200
       },
-      "updated": "2026-10-23T23:04:45.226Z",
+      "updated": "2026-10-23T23:07:46.255Z",
       "fieldReviews": {
         "color": "2026-10-23T22:52:17.471Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -6828,7 +6873,8 @@
         "kind": "2026-10-23T23:01:24.302Z",
         "portrait": "2026-10-23T23:01:58.487Z",
         "frame": "2026-10-23T23:03:16.267Z",
-        "direction": "2026-10-23T23:04:45.226Z"
+        "direction": "2026-10-23T23:04:45.226Z",
+        "environment": "2026-10-23T23:07:46.255Z"
       }
     },
     "204a69e5f27f3a07bb5d74db9c154a321ada3d7c9257e6ffc33c51e65e87d9f3": {
@@ -6843,9 +6889,10 @@
         "kind": "Retrato",
         "portrait": "Individual",
         "frame": "Busto",
-        "direction": "Frente"
+        "direction": "Frente",
+        "environment": "Estudio"
       },
-      "revision": 7,
+      "revision": 8,
       "fingerprint": "dd1927d1d10332cb",
       "media": {
         "thumb": "media/bixio/204a69e5f27f3a07bb5d74db9c154a321ada3d7c9257e6ffc33c51e65e87d9f3-dd1927d1d10332cb-thumb.webp",
@@ -6853,7 +6900,7 @@
         "w": 1337,
         "h": 2200
       },
-      "updated": "2026-10-23T23:04:45.226Z",
+      "updated": "2026-10-23T23:07:46.255Z",
       "fieldReviews": {
         "color": "2026-10-23T22:51:52.639Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -6861,7 +6908,8 @@
         "kind": "2026-10-23T23:01:24.302Z",
         "portrait": "2026-10-23T23:01:58.487Z",
         "frame": "2026-10-23T23:03:16.267Z",
-        "direction": "2026-10-23T23:04:45.226Z"
+        "direction": "2026-10-23T23:04:45.226Z",
+        "environment": "2026-10-23T23:07:46.255Z"
       }
     },
     "541f5d3bbaeb6f909fb29bc7fee1d0bdd0b25427b67e213377c4c6c674ca58cf": {
@@ -6876,9 +6924,10 @@
         "kind": "Retrato",
         "portrait": "Individual",
         "frame": "Cuerpo entero",
-        "direction": "Tres cuartos"
+        "direction": "Tres cuartos",
+        "environment": "Estudio"
       },
-      "revision": 7,
+      "revision": 8,
       "fingerprint": "b275bf902ff57825",
       "media": {
         "thumb": "media/bixio/541f5d3bbaeb6f909fb29bc7fee1d0bdd0b25427b67e213377c4c6c674ca58cf-b275bf902ff57825-thumb.webp",
@@ -6886,7 +6935,7 @@
         "w": 1478,
         "h": 2200
       },
-      "updated": "2026-10-23T23:05:54.132Z",
+      "updated": "2026-10-23T23:07:46.255Z",
       "fieldReviews": {
         "color": "2026-10-23T22:51:52.640Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -6894,7 +6943,8 @@
         "kind": "2026-10-23T23:01:24.302Z",
         "portrait": "2026-10-23T23:01:58.487Z",
         "frame": "2026-10-23T23:03:00.875Z",
-        "direction": "2026-10-23T23:05:54.132Z"
+        "direction": "2026-10-23T23:05:54.132Z",
+        "environment": "2026-10-23T23:07:46.255Z"
       }
     },
     "5bb39666d5318cfc7603dc83d893fefcfd605ddc81ee9ef606ea012f83b071a0": {
@@ -6909,9 +6959,10 @@
         "kind": "Retrato",
         "portrait": "Individual",
         "frame": "Cuerpo entero",
-        "direction": "Frente"
+        "direction": "Frente",
+        "environment": "Estudio"
       },
-      "revision": 7,
+      "revision": 8,
       "fingerprint": "80f8110101782de1",
       "media": {
         "thumb": "media/bixio/5bb39666d5318cfc7603dc83d893fefcfd605ddc81ee9ef606ea012f83b071a0-80f8110101782de1-thumb.webp",
@@ -6919,7 +6970,7 @@
         "w": 1827,
         "h": 2200
       },
-      "updated": "2026-10-23T23:04:45.226Z",
+      "updated": "2026-10-23T23:07:46.255Z",
       "fieldReviews": {
         "color": "2026-10-23T22:53:40.256Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -6927,7 +6978,8 @@
         "kind": "2026-10-23T23:01:24.302Z",
         "portrait": "2026-10-23T23:01:58.487Z",
         "frame": "2026-10-23T23:03:00.875Z",
-        "direction": "2026-10-23T23:04:45.226Z"
+        "direction": "2026-10-23T23:04:45.226Z",
+        "environment": "2026-10-23T23:07:46.255Z"
       }
     },
     "dd1558a903aa5282aa6d17b89977b06a4cf225bdaad37da8f31219a5f321b903": {
@@ -6942,9 +6994,10 @@
         "kind": "Retrato",
         "portrait": "Grupal",
         "frame": "Cuerpo entero",
-        "direction": "Mixta"
+        "direction": "Mixta",
+        "environment": "Estudio"
       },
-      "revision": 7,
+      "revision": 8,
       "fingerprint": "d874632e53496257",
       "media": {
         "thumb": "media/bixio/dd1558a903aa5282aa6d17b89977b06a4cf225bdaad37da8f31219a5f321b903-d874632e53496257-thumb.webp",
@@ -6952,7 +7005,7 @@
         "w": 1589,
         "h": 2200
       },
-      "updated": "2026-10-23T23:04:14.520Z",
+      "updated": "2026-10-23T23:07:46.255Z",
       "fieldReviews": {
         "color": "2026-10-23T22:50:42.791Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -6960,7 +7013,8 @@
         "kind": "2026-10-23T23:01:24.302Z",
         "portrait": "2026-10-23T23:02:18.819Z",
         "frame": "2026-10-23T23:03:00.875Z",
-        "direction": "2026-10-23T23:04:14.520Z"
+        "direction": "2026-10-23T23:04:14.520Z",
+        "environment": "2026-10-23T23:07:46.255Z"
       }
     },
     "571c8a3e7ea04c5a9a5ca297e531b58a27cedab51345a308865882d4503e06a5": {
@@ -6975,9 +7029,10 @@
         "kind": "Retrato",
         "portrait": "Grupal",
         "frame": "Cuerpo entero",
-        "direction": "Mixta"
+        "direction": "Mixta",
+        "environment": "Estudio"
       },
-      "revision": 7,
+      "revision": 8,
       "fingerprint": "d0500e04b8d10cf3",
       "media": {
         "thumb": "media/bixio/571c8a3e7ea04c5a9a5ca297e531b58a27cedab51345a308865882d4503e06a5-d0500e04b8d10cf3-thumb.webp",
@@ -6985,7 +7040,7 @@
         "w": 1599,
         "h": 2200
       },
-      "updated": "2026-10-23T23:04:14.520Z",
+      "updated": "2026-10-23T23:07:46.255Z",
       "fieldReviews": {
         "color": "2026-10-23T22:50:42.791Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -6993,7 +7048,8 @@
         "kind": "2026-10-23T23:01:24.302Z",
         "portrait": "2026-10-23T23:02:18.819Z",
         "frame": "2026-10-23T23:03:00.875Z",
-        "direction": "2026-10-23T23:04:14.520Z"
+        "direction": "2026-10-23T23:04:14.520Z",
+        "environment": "2026-10-23T23:07:46.255Z"
       }
     },
     "ad910b0dc72f98de2f79352ae6a73f4e36903b7cc68ccf4a7071f835b20f1897": {
@@ -7033,9 +7089,10 @@
         "kind": "Retrato",
         "portrait": "Grupal",
         "frame": "Cuerpo entero",
-        "direction": "Mixta"
+        "direction": "Mixta",
+        "environment": "Estudio"
       },
-      "revision": 7,
+      "revision": 8,
       "fingerprint": "1ae977c7127bb66a",
       "media": {
         "thumb": "media/bixio/f57a78e5e53b955856336a966707a9084cdec97cf7c94f64f10d2edb6e186e76-1ae977c7127bb66a-thumb.webp",
@@ -7043,7 +7100,7 @@
         "w": 1535,
         "h": 2200
       },
-      "updated": "2026-10-23T23:04:14.520Z",
+      "updated": "2026-10-23T23:07:46.255Z",
       "fieldReviews": {
         "color": "2026-10-23T22:53:06.216Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -7051,7 +7108,8 @@
         "kind": "2026-10-23T23:01:24.302Z",
         "portrait": "2026-10-23T23:02:18.819Z",
         "frame": "2026-10-23T23:03:00.875Z",
-        "direction": "2026-10-23T23:04:14.520Z"
+        "direction": "2026-10-23T23:04:14.520Z",
+        "environment": "2026-10-23T23:07:46.255Z"
       }
     },
     "3131caca1538388c42e2a5cee6a03703ee52f8d091a4964b20b499c1eef377ba": {
@@ -7066,9 +7124,10 @@
         "kind": "Retrato",
         "portrait": "Grupal",
         "frame": "Mixto",
-        "direction": "Mixta"
+        "direction": "Mixta",
+        "environment": "Estudio"
       },
-      "revision": 7,
+      "revision": 8,
       "fingerprint": "dbc3014597e1aaa2",
       "media": {
         "thumb": "media/bixio/3131caca1538388c42e2a5cee6a03703ee52f8d091a4964b20b499c1eef377ba-dbc3014597e1aaa2-thumb.webp",
@@ -7076,7 +7135,7 @@
         "w": 869,
         "h": 1151
       },
-      "updated": "2026-10-23T23:04:14.520Z",
+      "updated": "2026-10-23T23:07:46.255Z",
       "fieldReviews": {
         "color": "2026-10-23T22:53:06.216Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -7084,7 +7143,8 @@
         "kind": "2026-10-23T23:01:24.302Z",
         "portrait": "2026-10-23T23:02:18.819Z",
         "frame": "2026-10-23T23:03:29.112Z",
-        "direction": "2026-10-23T23:04:14.520Z"
+        "direction": "2026-10-23T23:04:14.520Z",
+        "environment": "2026-10-23T23:07:46.255Z"
       }
     },
     "4343c08ec2df0ea98e28471e2a1375c001a0dabecced7e71d62047bdeb0b479c": {
@@ -7099,9 +7159,10 @@
         "kind": "Retrato",
         "portrait": "Grupal",
         "frame": "Cuerpo entero",
-        "direction": "Mixta"
+        "direction": "Mixta",
+        "environment": "Estudio"
       },
-      "revision": 7,
+      "revision": 8,
       "fingerprint": "0619a1039f892d44",
       "media": {
         "thumb": "media/bixio/4343c08ec2df0ea98e28471e2a1375c001a0dabecced7e71d62047bdeb0b479c-0619a1039f892d44-thumb.webp",
@@ -7109,7 +7170,7 @@
         "w": 1525,
         "h": 2200
       },
-      "updated": "2026-10-23T23:04:14.520Z",
+      "updated": "2026-10-23T23:07:46.255Z",
       "fieldReviews": {
         "color": "2026-10-23T22:53:06.216Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -7117,7 +7178,8 @@
         "kind": "2026-10-23T23:01:24.302Z",
         "portrait": "2026-10-23T23:02:18.819Z",
         "frame": "2026-10-23T23:03:00.875Z",
-        "direction": "2026-10-23T23:04:14.520Z"
+        "direction": "2026-10-23T23:04:14.520Z",
+        "environment": "2026-10-23T23:07:46.255Z"
       }
     },
     "9496b5873d4a960af2853c314355e9fa7140a6341c11a56150856a158f472c32": {
@@ -7132,9 +7194,10 @@
         "kind": "Retrato",
         "portrait": "Grupal",
         "frame": "Cuerpo entero",
-        "direction": "Mixta"
+        "direction": "Mixta",
+        "environment": "Estudio"
       },
-      "revision": 7,
+      "revision": 8,
       "fingerprint": "5c4f24af68f762e1",
       "media": {
         "thumb": "media/bixio/9496b5873d4a960af2853c314355e9fa7140a6341c11a56150856a158f472c32-5c4f24af68f762e1-thumb.webp",
@@ -7142,7 +7205,7 @@
         "w": 1447,
         "h": 2200
       },
-      "updated": "2026-10-23T23:04:14.520Z",
+      "updated": "2026-10-23T23:07:46.255Z",
       "fieldReviews": {
         "color": "2026-10-23T22:53:06.216Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -7150,7 +7213,8 @@
         "kind": "2026-10-23T23:01:24.302Z",
         "portrait": "2026-10-23T23:02:18.819Z",
         "frame": "2026-10-23T23:03:00.875Z",
-        "direction": "2026-10-23T23:04:14.520Z"
+        "direction": "2026-10-23T23:04:14.520Z",
+        "environment": "2026-10-23T23:07:46.255Z"
       }
     },
     "6b71959361f2a546f62f4a5cbe5233124630ee1fc9002e458723aa086ae8972d": {
@@ -7161,9 +7225,10 @@
       "record": {
         "color": "sepia",
         "author": "Florencio Bixio",
-        "side": "Frente"
+        "side": "Frente",
+        "environment": "Estudio"
       },
-      "revision": 3,
+      "revision": 4,
       "fingerprint": "74ebdd16da8a060e",
       "media": {
         "thumb": "media/bixio/6b71959361f2a546f62f4a5cbe5233124630ee1fc9002e458723aa086ae8972d-74ebdd16da8a060e-thumb.webp",
@@ -7171,11 +7236,12 @@
         "w": 1529,
         "h": 2200
       },
-      "updated": "2026-10-23T22:59:16.002Z",
+      "updated": "2026-10-23T23:07:46.255Z",
       "fieldReviews": {
         "color": "2026-10-23T22:53:06.216Z",
         "author": "2026-10-23T22:57:57.306Z",
-        "side": "2026-10-23T22:59:16.002Z"
+        "side": "2026-10-23T22:59:16.002Z",
+        "environment": "2026-10-23T23:07:46.255Z"
       }
     },
     "d6e2d3bba87fd919e090751c14b2b74b74b683c1ee652d6f344baa5f0b309d25": {
@@ -7190,9 +7256,10 @@
         "kind": "Retrato",
         "portrait": "Grupal",
         "frame": "Cuerpo entero",
-        "direction": "Mixta"
+        "direction": "Mixta",
+        "environment": "Estudio"
       },
-      "revision": 7,
+      "revision": 8,
       "fingerprint": "b03abff6435dde1d",
       "media": {
         "thumb": "media/bixio/d6e2d3bba87fd919e090751c14b2b74b74b683c1ee652d6f344baa5f0b309d25-b03abff6435dde1d-thumb.webp",
@@ -7200,7 +7267,7 @@
         "w": 1575,
         "h": 2200
       },
-      "updated": "2026-10-23T23:04:14.520Z",
+      "updated": "2026-10-23T23:07:46.255Z",
       "fieldReviews": {
         "color": "2026-10-23T22:50:42.791Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -7208,7 +7275,8 @@
         "kind": "2026-10-23T23:01:24.302Z",
         "portrait": "2026-10-23T23:02:18.819Z",
         "frame": "2026-10-23T23:03:00.875Z",
-        "direction": "2026-10-23T23:04:14.520Z"
+        "direction": "2026-10-23T23:04:14.520Z",
+        "environment": "2026-10-23T23:07:46.255Z"
       }
     },
     "90fd61e6bec2a32c77eeb120a713481a9bb5c699c09ba9e995b89e8dc62c49cc": {
@@ -7223,9 +7291,10 @@
         "kind": "Retrato",
         "portrait": "Grupal",
         "frame": "Cuerpo entero",
-        "direction": "Mixta"
+        "direction": "Mixta",
+        "environment": "Estudio"
       },
-      "revision": 7,
+      "revision": 8,
       "fingerprint": "5c2f16ef43010c2a",
       "media": {
         "thumb": "media/bixio/90fd61e6bec2a32c77eeb120a713481a9bb5c699c09ba9e995b89e8dc62c49cc-5c2f16ef43010c2a-thumb.webp",
@@ -7233,7 +7302,7 @@
         "w": 1575,
         "h": 2200
       },
-      "updated": "2026-10-23T23:04:14.520Z",
+      "updated": "2026-10-23T23:07:46.255Z",
       "fieldReviews": {
         "color": "2026-10-23T22:50:42.791Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -7241,7 +7310,8 @@
         "kind": "2026-10-23T23:01:24.302Z",
         "portrait": "2026-10-23T23:02:18.819Z",
         "frame": "2026-10-23T23:03:00.875Z",
-        "direction": "2026-10-23T23:04:14.520Z"
+        "direction": "2026-10-23T23:04:14.520Z",
+        "environment": "2026-10-23T23:07:46.255Z"
       }
     },
     "c7a31ba27382c571c507365b787a4419c1546b909b8ccbb4d875c02614d35e7e": {
@@ -7256,9 +7326,10 @@
         "kind": "Retrato",
         "portrait": "Grupal",
         "frame": "Cuerpo entero",
-        "direction": "Mixta"
+        "direction": "Mixta",
+        "environment": "Estudio"
       },
-      "revision": 7,
+      "revision": 8,
       "fingerprint": "5b3df1ad2ec98355",
       "media": {
         "thumb": "media/bixio/c7a31ba27382c571c507365b787a4419c1546b909b8ccbb4d875c02614d35e7e-5b3df1ad2ec98355-thumb.webp",
@@ -7266,7 +7337,7 @@
         "w": 1406,
         "h": 2200
       },
-      "updated": "2026-10-23T23:04:14.520Z",
+      "updated": "2026-10-23T23:07:46.255Z",
       "fieldReviews": {
         "color": "2026-10-23T22:50:42.791Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -7274,7 +7345,8 @@
         "kind": "2026-10-23T23:01:24.302Z",
         "portrait": "2026-10-23T23:02:18.819Z",
         "frame": "2026-10-23T23:03:00.875Z",
-        "direction": "2026-10-23T23:04:14.520Z"
+        "direction": "2026-10-23T23:04:14.520Z",
+        "environment": "2026-10-23T23:07:46.255Z"
       }
     },
     "c5cc5ece3c4a787d782d462deebdecf1b530367479330701a26dc54b9c4fee62": {
@@ -7289,9 +7361,10 @@
         "kind": "Retrato",
         "portrait": "Grupal",
         "frame": "Cuerpo entero",
-        "direction": "Mixta"
+        "direction": "Mixta",
+        "environment": "Estudio"
       },
-      "revision": 7,
+      "revision": 8,
       "fingerprint": "e029d379d67931b0",
       "media": {
         "thumb": "media/bixio/c5cc5ece3c4a787d782d462deebdecf1b530367479330701a26dc54b9c4fee62-e029d379d67931b0-thumb.webp",
@@ -7299,7 +7372,7 @@
         "w": 1411,
         "h": 2200
       },
-      "updated": "2026-10-23T23:04:14.520Z",
+      "updated": "2026-10-23T23:07:46.255Z",
       "fieldReviews": {
         "color": "2026-10-23T22:53:06.216Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -7307,7 +7380,8 @@
         "kind": "2026-10-23T23:01:24.302Z",
         "portrait": "2026-10-23T23:02:18.819Z",
         "frame": "2026-10-23T23:03:00.875Z",
-        "direction": "2026-10-23T23:04:14.520Z"
+        "direction": "2026-10-23T23:04:14.520Z",
+        "environment": "2026-10-23T23:07:46.255Z"
       }
     },
     "1a90a74cbe3a554e2d83de5ac8e4f5204b3869c92c906961c05e2adcb56c34c6": {
@@ -7322,9 +7396,10 @@
         "kind": "Retrato",
         "portrait": "Grupal",
         "frame": "Cuerpo entero",
-        "direction": "Mixta"
+        "direction": "Mixta",
+        "environment": "Estudio"
       },
-      "revision": 7,
+      "revision": 8,
       "fingerprint": "7bbb6a5cba2993ec",
       "media": {
         "thumb": "media/bixio/1a90a74cbe3a554e2d83de5ac8e4f5204b3869c92c906961c05e2adcb56c34c6-7bbb6a5cba2993ec-thumb.webp",
@@ -7332,7 +7407,7 @@
         "w": 1411,
         "h": 2200
       },
-      "updated": "2026-10-23T23:04:14.520Z",
+      "updated": "2026-10-23T23:07:46.255Z",
       "fieldReviews": {
         "color": "2026-10-23T22:53:06.216Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -7340,7 +7415,8 @@
         "kind": "2026-10-23T23:01:24.302Z",
         "portrait": "2026-10-23T23:02:18.819Z",
         "frame": "2026-10-23T23:03:00.875Z",
-        "direction": "2026-10-23T23:04:14.520Z"
+        "direction": "2026-10-23T23:04:14.520Z",
+        "environment": "2026-10-23T23:07:46.255Z"
       }
     },
     "bb0623ee2656d042f9f99211f0872b89935c90d1a18f592e0886f5fdcd7976c1": {
@@ -7355,9 +7431,10 @@
         "kind": "Retrato",
         "portrait": "Grupal",
         "frame": "Cuerpo entero",
-        "direction": "Mixta"
+        "direction": "Mixta",
+        "environment": "Estudio"
       },
-      "revision": 7,
+      "revision": 8,
       "fingerprint": "d4d286a15b9f651f",
       "media": {
         "thumb": "media/bixio/bb0623ee2656d042f9f99211f0872b89935c90d1a18f592e0886f5fdcd7976c1-d4d286a15b9f651f-thumb.webp",
@@ -7365,7 +7442,7 @@
         "w": 1299,
         "h": 2200
       },
-      "updated": "2026-10-23T23:04:14.520Z",
+      "updated": "2026-10-23T23:07:46.255Z",
       "fieldReviews": {
         "color": "2026-10-23T22:53:06.216Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -7373,7 +7450,8 @@
         "kind": "2026-10-23T23:01:24.302Z",
         "portrait": "2026-10-23T23:02:18.819Z",
         "frame": "2026-10-23T23:03:00.875Z",
-        "direction": "2026-10-23T23:04:14.520Z"
+        "direction": "2026-10-23T23:04:14.520Z",
+        "environment": "2026-10-23T23:07:46.255Z"
       }
     }
   },
@@ -7453,7 +7531,7 @@
     "BIX-21": "Bixio - Firma en relieve",
     "BIX-22": "Bixio - Firma caligráfica"
   },
-  "updated": "2026-10-23T23:07:04.458Z",
+  "updated": "2026-10-23T23:07:47.915Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
