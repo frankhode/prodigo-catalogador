@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "7ac901f0-fb3c-4fc1-af12-5e1f5c3786e2",
+  "version": "95814dc3-8381-460d-9087-1a3ef236d56a",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -441,9 +441,10 @@
         "people": [],
         "objects": [],
         "highlights": [],
-        "author": ""
+        "author": "",
+        "color": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "e232bccf8616f53c",
       "media": {
         "thumb": "media/bixio/9522c56a4c7752d28996473667c772741b96334c9b66b678107800e7a3cdf6fd-e232bccf8616f53c-thumb.webp",
@@ -451,9 +452,10 @@
         "w": 1558,
         "h": 2200
       },
-      "updated": "2026-10-23T20:41:45.506Z",
+      "updated": "2026-10-23T22:49:22.614Z",
       "fieldReviews": {
-        "author": "2026-10-23T20:41:45.506Z"
+        "author": "2026-10-23T20:41:45.506Z",
+        "color": "2026-10-23T22:49:22.614Z"
       }
     },
     "429cc82430bfae5be6e1f879cbacacc7367ab63fc90d8ff7cbe1c6b5d4a6a402": {
@@ -678,9 +680,10 @@
         "people": [],
         "objects": [],
         "highlights": [],
-        "author": ""
+        "author": "",
+        "color": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "35ceeaca846b6328",
       "media": {
         "thumb": "media/bixio/732b3f287232baacf6cf40ff288ca6dc3410005ef38110e5a39ff0d1277b6d55-35ceeaca846b6328-thumb.webp",
@@ -688,9 +691,10 @@
         "w": 1530,
         "h": 2200
       },
-      "updated": "2026-10-23T20:50:17.545Z",
+      "updated": "2026-10-23T22:49:22.614Z",
       "fieldReviews": {
-        "author": "2026-10-23T20:50:17.545Z"
+        "author": "2026-10-23T20:50:17.545Z",
+        "color": "2026-10-23T22:49:22.614Z"
       }
     },
     "225eb2ac2a5be80d685b6948904aea41c510c1883dba7911629fafda4ae255d6": {
@@ -828,9 +832,10 @@
         "people": [],
         "objects": [],
         "highlights": [],
-        "author": ""
+        "author": "",
+        "color": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "11174dc7e1d4f5a4",
       "media": {
         "thumb": "media/bixio/1dca641dab9667b963da281fbe00fe266470c74212a1c0a7c96f7c8c2c3c862d-11174dc7e1d4f5a4-thumb.webp",
@@ -838,9 +843,10 @@
         "w": 1486,
         "h": 2200
       },
-      "updated": "2026-10-23T20:50:22.441Z",
+      "updated": "2026-10-23T22:49:22.614Z",
       "fieldReviews": {
-        "author": "2026-10-23T20:50:22.441Z"
+        "author": "2026-10-23T20:50:22.441Z",
+        "color": "2026-10-23T22:49:22.614Z"
       }
     },
     "fcb5c06e08f0ae6c37f28d664047633e21e2212a07d599c544a46bdb4283c24e": {
@@ -903,9 +909,10 @@
         "people": [],
         "objects": [],
         "highlights": [],
-        "author": ""
+        "author": "",
+        "color": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "b69f1ec3e094e088",
       "media": {
         "thumb": "media/bixio/48534bc664f5a8bed714e6e240c77d722129d6e680b5a2e714d10fb1b953f576-b69f1ec3e094e088-thumb.webp",
@@ -913,9 +920,10 @@
         "w": 1386,
         "h": 2200
       },
-      "updated": "2026-10-23T20:50:27.722Z",
+      "updated": "2026-10-23T22:49:22.614Z",
       "fieldReviews": {
-        "author": "2026-10-23T20:50:27.722Z"
+        "author": "2026-10-23T20:50:27.722Z",
+        "color": "2026-10-23T22:49:22.614Z"
       }
     },
     "3ede84ca8d0809d5d61626b85c5dc0c08dd49294306f761d7b21ba9087d06996": {
@@ -978,9 +986,10 @@
         "people": [],
         "objects": [],
         "highlights": [],
-        "author": ""
+        "author": "",
+        "color": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "bb4da9844a25e65a",
       "media": {
         "thumb": "media/bixio/af0105f192837eaf33a202b70a915cde51ae8181556c01a63696b7c77d89b6ca-bb4da9844a25e65a-thumb.webp",
@@ -988,9 +997,10 @@
         "w": 1542,
         "h": 2200
       },
-      "updated": "2026-10-23T20:50:33.448Z",
+      "updated": "2026-10-23T22:49:22.614Z",
       "fieldReviews": {
-        "author": "2026-10-23T20:50:33.448Z"
+        "author": "2026-10-23T20:50:33.448Z",
+        "color": "2026-10-23T22:49:22.614Z"
       }
     },
     "370ff0ba5d308acac000cc11122c1b069b78df2fbe83f46f65e547c923e6c05b": {
@@ -1207,9 +1217,10 @@
         "people": [],
         "objects": [],
         "highlights": [],
-        "author": ""
+        "author": "",
+        "color": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "09084639a396b0a2",
       "media": {
         "thumb": "media/bixio/3602b8647fa767de21e073bb3715fc8f543a885844fa798f0078a42e3ccee8cd-09084639a396b0a2-thumb.webp",
@@ -1217,9 +1228,10 @@
         "w": 1557,
         "h": 2200
       },
-      "updated": "2026-10-23T20:50:38.465Z",
+      "updated": "2026-10-23T22:49:22.614Z",
       "fieldReviews": {
-        "author": "2026-10-23T20:50:38.465Z"
+        "author": "2026-10-23T20:50:38.465Z",
+        "color": "2026-10-23T22:49:22.614Z"
       }
     },
     "7024fb59187abdba02e80e64d16f2e896d6ebd7e8bf2936060057b23811ead2e": {
@@ -1282,9 +1294,10 @@
         "people": [],
         "objects": [],
         "highlights": [],
-        "author": ""
+        "author": "",
+        "color": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "b2b85b0d774e61de",
       "media": {
         "thumb": "media/bixio/76bd6906ba12487ff8b33ce7ae7763bf6f5e57bd6a7c1b1a5cc8e9fb6ab43441-b2b85b0d774e61de-thumb.webp",
@@ -1292,9 +1305,10 @@
         "w": 1423,
         "h": 2200
       },
-      "updated": "2026-10-23T20:50:43.505Z",
+      "updated": "2026-10-23T22:49:22.614Z",
       "fieldReviews": {
-        "author": "2026-10-23T20:50:43.505Z"
+        "author": "2026-10-23T20:50:43.505Z",
+        "color": "2026-10-23T22:49:22.614Z"
       }
     },
     "fc543ba795bfc2fcf95ce166698fb0d3fd3bdb1894e2cdce4819a5c45cae7cdd": {
@@ -1436,9 +1450,10 @@
         "people": [],
         "objects": [],
         "highlights": [],
-        "author": ""
+        "author": "",
+        "color": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "b3a64387021f84e4",
       "media": {
         "thumb": "media/bixio/1906118e25aab4dbb7bb4b1164012357a15a861986bcd198c8b64e1695780dfd-b3a64387021f84e4-thumb.webp",
@@ -1446,9 +1461,10 @@
         "w": 1531,
         "h": 2200
       },
-      "updated": "2026-10-23T20:44:06.180Z",
+      "updated": "2026-10-23T22:49:22.614Z",
       "fieldReviews": {
-        "author": "2026-10-23T20:44:06.180Z"
+        "author": "2026-10-23T20:44:06.180Z",
+        "color": "2026-10-23T22:49:22.614Z"
       }
     },
     "1438eaadc39b9e323f49aa3a847785afa714674bfbadd4a171844a129113b6ec": {
@@ -1511,9 +1527,10 @@
         "people": [],
         "objects": [],
         "highlights": [],
-        "author": ""
+        "author": "",
+        "color": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "6163cdbd5f4721f5",
       "media": {
         "thumb": "media/bixio/563da321a15f3cfa31d039f2cf36c4769789b4041fae0bd62d64573e320151aa-6163cdbd5f4721f5-thumb.webp",
@@ -1521,9 +1538,10 @@
         "w": 1553,
         "h": 2200
       },
-      "updated": "2026-10-23T20:44:55.375Z",
+      "updated": "2026-10-23T22:49:22.614Z",
       "fieldReviews": {
-        "author": "2026-10-23T20:44:55.375Z"
+        "author": "2026-10-23T20:44:55.375Z",
+        "color": "2026-10-23T22:49:22.614Z"
       }
     },
     "423915a6f62f438feec8e84bd180e8f51dc8da008f5d5fe72a73160b79f9fe2c": {
@@ -1699,9 +1717,10 @@
         "people": [],
         "objects": [],
         "highlights": [],
-        "author": ""
+        "author": "",
+        "color": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "b8bb8490714dbebb",
       "media": {
         "thumb": "media/bixio/f96ec7f81835966b239949814d8d74d1c111ca629d5ac1acbe7ed1df62a6eac9-b8bb8490714dbebb-thumb.webp",
@@ -1709,9 +1728,10 @@
         "w": 2200,
         "h": 1411
       },
-      "updated": "2026-10-23T20:45:28.528Z",
+      "updated": "2026-10-23T22:49:22.614Z",
       "fieldReviews": {
-        "author": "2026-10-23T20:45:28.528Z"
+        "author": "2026-10-23T20:45:28.528Z",
+        "color": "2026-10-23T22:49:22.614Z"
       }
     },
     "63afe73b52b6cebc8b616ab19f89dad70f1274c60b04b140367be788adb909f2": {
@@ -1734,9 +1754,10 @@
         "people": [],
         "objects": [],
         "highlights": [],
-        "author": ""
+        "author": "",
+        "color": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "ef3f55beb0bb19ad",
       "media": {
         "thumb": "media/bixio/63afe73b52b6cebc8b616ab19f89dad70f1274c60b04b140367be788adb909f2-ef3f55beb0bb19ad-thumb.webp",
@@ -1744,9 +1765,10 @@
         "w": 1508,
         "h": 2200
       },
-      "updated": "2026-10-23T20:45:34.503Z",
+      "updated": "2026-10-23T22:49:22.615Z",
       "fieldReviews": {
-        "author": "2026-10-23T20:45:34.503Z"
+        "author": "2026-10-23T20:45:34.503Z",
+        "color": "2026-10-23T22:49:22.615Z"
       }
     },
     "d16fc9f06af1d2f9dd88078084ad88b31b440527f044b8e1e7d2ed75d84a565c": {
@@ -1809,9 +1831,10 @@
         "people": [],
         "objects": [],
         "highlights": [],
-        "author": ""
+        "author": "",
+        "color": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "b5aacdf58e597119",
       "media": {
         "thumb": "media/bixio/5094f30e523d9f52fab36247f6704498fd17d0c9b672a720b6da92193e7a5c4b-b5aacdf58e597119-thumb.webp",
@@ -1819,9 +1842,10 @@
         "w": 1426,
         "h": 2200
       },
-      "updated": "2026-10-23T20:45:46.599Z",
+      "updated": "2026-10-23T22:49:22.615Z",
       "fieldReviews": {
-        "author": "2026-10-23T20:45:46.599Z"
+        "author": "2026-10-23T20:45:46.599Z",
+        "color": "2026-10-23T22:49:22.615Z"
       }
     },
     "7c2307d263c2b57431d34f2efd70d7ac70e4dab82a964c83abe9affc8fc6afa9": {
@@ -1926,9 +1950,10 @@
         "people": [],
         "objects": [],
         "highlights": [],
-        "author": ""
+        "author": "",
+        "color": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "e9157fded2887757",
       "media": {
         "thumb": "media/bixio/07017d07d8c0da2aae9d363d1329eb9419987d09ed8ed741a17bbd28e4429581-e9157fded2887757-thumb.webp",
@@ -1936,9 +1961,10 @@
         "w": 2200,
         "h": 1419
       },
-      "updated": "2026-10-23T20:46:03.522Z",
+      "updated": "2026-10-23T22:49:22.615Z",
       "fieldReviews": {
-        "author": "2026-10-23T20:46:03.522Z"
+        "author": "2026-10-23T20:46:03.522Z",
+        "color": "2026-10-23T22:49:22.615Z"
       }
     },
     "e16bd041fb3f493379df1802dfeab2e1b4a507d028c6c17805b8fad7ee7f7096": {
@@ -2080,9 +2106,10 @@
         "people": [],
         "objects": [],
         "highlights": [],
-        "author": ""
+        "author": "",
+        "color": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "b7ea8c88f8ca18fe",
       "media": {
         "thumb": "media/bixio/508c21a195fb0617d624360ee2d31fdcab8921c6c867f28fc31a49e0eaa21fd4-b7ea8c88f8ca18fe-thumb.webp",
@@ -2090,9 +2117,10 @@
         "w": 1421,
         "h": 2200
       },
-      "updated": "2026-10-23T20:46:32.090Z",
+      "updated": "2026-10-23T22:49:22.615Z",
       "fieldReviews": {
-        "author": "2026-10-23T20:46:32.090Z"
+        "author": "2026-10-23T20:46:32.090Z",
+        "color": "2026-10-23T22:49:22.615Z"
       }
     },
     "e8bd63ead5c056c80f033acf765f23a2e82fef1553443e0e8161c415075b5e57": {
@@ -2236,9 +2264,10 @@
         "people": [],
         "objects": [],
         "highlights": [],
-        "author": ""
+        "author": "",
+        "color": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "6cb0bbf817dbd1bd",
       "media": {
         "thumb": "media/bixio/167c85bea8da6055390baac2eba961d9c046e696c9d8978183701e924a3e1837-6cb0bbf817dbd1bd-thumb.webp",
@@ -2246,9 +2275,10 @@
         "w": 1534,
         "h": 2200
       },
-      "updated": "2026-10-23T20:46:54.860Z",
+      "updated": "2026-10-23T22:49:22.615Z",
       "fieldReviews": {
-        "author": "2026-10-23T20:46:54.860Z"
+        "author": "2026-10-23T20:46:54.860Z",
+        "color": "2026-10-23T22:49:22.615Z"
       }
     },
     "152d2494f4a5d6099e3914ec017c0947a6a538b6958eee9481fbc77769709df8": {
@@ -2391,9 +2421,10 @@
         "people": [],
         "objects": [],
         "highlights": [],
-        "author": ""
+        "author": "",
+        "color": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "ef03523237dbfd23",
       "media": {
         "thumb": "media/bixio/35c4599556f96f17ca5e0e41af4160a478a6b41594596d83189745a7bdfd7977-ef03523237dbfd23-thumb.webp",
@@ -2401,9 +2432,10 @@
         "w": 1538,
         "h": 2200
       },
-      "updated": "2026-10-23T20:47:19.308Z",
+      "updated": "2026-10-23T22:49:22.615Z",
       "fieldReviews": {
-        "author": "2026-10-23T20:47:19.308Z"
+        "author": "2026-10-23T20:47:19.308Z",
+        "color": "2026-10-23T22:49:22.615Z"
       }
     },
     "8d74be5cebfaecea97f68c4679cae49cdda77fb03a77bba1de3c1de2fa06a550": {
@@ -2695,9 +2727,10 @@
         "people": [],
         "objects": [],
         "highlights": [],
-        "author": ""
+        "author": "",
+        "color": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "a176c5407142ebd0",
       "media": {
         "thumb": "media/bixio/6fbb1ff124d6d5465b5a41b50d8ac94969f34f799c24b6e08d204ddb9a94ae37-a176c5407142ebd0-thumb.webp",
@@ -2705,9 +2738,10 @@
         "w": 2200,
         "h": 1676
       },
-      "updated": "2026-10-23T20:48:09.053Z",
+      "updated": "2026-10-23T22:49:22.615Z",
       "fieldReviews": {
-        "author": "2026-10-23T20:48:09.053Z"
+        "author": "2026-10-23T20:48:09.053Z",
+        "color": "2026-10-23T22:49:22.615Z"
       }
     },
     "456ec884993f3b37a658b1023a03e1daff008250b45bd1d6ef11118dd6152e8a": {
@@ -2806,9 +2840,10 @@
         "people": [],
         "objects": [],
         "highlights": [],
-        "author": ""
+        "author": "",
+        "color": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "49dd41cce1e747c1",
       "media": {
         "thumb": "media/bixio/3ac04974f083f3d41cb1c517e2655bf07ddcbd0f6fd026845d40d43cb1336dcf-49dd41cce1e747c1-thumb.webp",
@@ -2816,9 +2851,10 @@
         "w": 1549,
         "h": 2200
       },
-      "updated": "2026-10-23T20:48:27.374Z",
+      "updated": "2026-10-23T22:49:22.615Z",
       "fieldReviews": {
-        "author": "2026-10-23T20:48:27.374Z"
+        "author": "2026-10-23T20:48:27.374Z",
+        "color": "2026-10-23T22:49:22.615Z"
       }
     },
     "3ea9c56310b404e385e6450438f0f80ff43cf4b088f4add8c977491250645acd": {
@@ -2959,9 +2995,10 @@
         "people": [],
         "objects": [],
         "highlights": [],
-        "author": ""
+        "author": "",
+        "color": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "8018675571edd744",
       "media": {
         "thumb": "media/bixio/a942fffc88e9192e3a03229222543f24cfbd8a7a4ed3e88b3f48f9ab065cd6e3-8018675571edd744-thumb.webp",
@@ -2969,9 +3006,10 @@
         "w": 1602,
         "h": 2200
       },
-      "updated": "2026-10-23T20:49:00.791Z",
+      "updated": "2026-10-23T22:49:22.615Z",
       "fieldReviews": {
-        "author": "2026-10-23T20:49:00.791Z"
+        "author": "2026-10-23T20:49:00.791Z",
+        "color": "2026-10-23T22:49:22.615Z"
       }
     },
     "9e0c22c130ee70a3c5897016eb74c445969ab802995b647954a8121fe8851e34": {
@@ -3071,9 +3109,10 @@
         "people": [],
         "objects": [],
         "highlights": [],
-        "author": ""
+        "author": "",
+        "color": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "55305703fcbf2b40",
       "media": {
         "thumb": "media/bixio/07f037fa1cc61c942b64c6b341a4f1e109f807619cd2a194f19a0bb8069fd0e3-55305703fcbf2b40-thumb.webp",
@@ -3081,9 +3120,10 @@
         "w": 1593,
         "h": 2200
       },
-      "updated": "2026-10-23T20:49:17.640Z",
+      "updated": "2026-10-23T22:49:22.615Z",
       "fieldReviews": {
-        "author": "2026-10-23T20:49:17.640Z"
+        "author": "2026-10-23T20:49:17.640Z",
+        "color": "2026-10-23T22:49:22.615Z"
       }
     },
     "6a02d1341accf3bc8774ef64d138618eb795d19b4a1562cf1fccdab6bbf50d63": {
@@ -3378,9 +3418,10 @@
         "people": [],
         "objects": [],
         "highlights": [],
-        "author": ""
+        "author": "",
+        "color": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "5851539d7ba5d3e3",
       "media": {
         "thumb": "media/bixio/400377950a1bd7e1bc49da2490a4407f6cd6d2e17a4ebeaef1a36e1b74aa2f78-5851539d7ba5d3e3-thumb.webp",
@@ -3388,9 +3429,10 @@
         "w": 1583,
         "h": 2200
       },
-      "updated": "2026-10-23T20:51:00.962Z",
+      "updated": "2026-10-23T22:49:22.615Z",
       "fieldReviews": {
-        "author": "2026-10-23T20:51:00.962Z"
+        "author": "2026-10-23T20:51:00.962Z",
+        "color": "2026-10-23T22:49:22.615Z"
       }
     },
     "57c9dc6bef02a19a7078485478e36249ac4233088aec7bed1318706577d039e6": {
@@ -3487,9 +3529,10 @@
         "people": [],
         "objects": [],
         "highlights": [],
-        "author": ""
+        "author": "",
+        "color": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "152c8f99ce3ed99f",
       "media": {
         "thumb": "media/bixio/d0424a1b624a27d3538898bb475382aec25842b098bae5ccc8f35c9ed6a7e77d-152c8f99ce3ed99f-thumb.webp",
@@ -3497,9 +3540,10 @@
         "w": 1592,
         "h": 2200
       },
-      "updated": "2026-10-23T20:55:10.877Z",
+      "updated": "2026-10-23T22:49:22.615Z",
       "fieldReviews": {
-        "author": "2026-10-23T20:55:10.877Z"
+        "author": "2026-10-23T20:55:10.877Z",
+        "color": "2026-10-23T22:49:22.615Z"
       }
     },
     "40e86addac5b33f4d07499f4803fca28dc65dbadafc41e350633cd19faa8aa78": {
@@ -3522,9 +3566,10 @@
         "people": [],
         "objects": [],
         "highlights": [],
-        "author": ""
+        "author": "",
+        "color": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "97ca7965f3025302",
       "media": {
         "thumb": "media/bixio/40e86addac5b33f4d07499f4803fca28dc65dbadafc41e350633cd19faa8aa78-97ca7965f3025302-thumb.webp",
@@ -3532,9 +3577,10 @@
         "w": 1579,
         "h": 2200
       },
-      "updated": "2026-10-23T20:55:25.214Z",
+      "updated": "2026-10-23T22:49:22.615Z",
       "fieldReviews": {
-        "author": "2026-10-23T20:55:25.214Z"
+        "author": "2026-10-23T20:55:25.214Z",
+        "color": "2026-10-23T22:49:22.615Z"
       }
     },
     "0961123e214b4c5163296fe5e13df5028095f5b2ff9554bf327384a60c28315f": {
@@ -3633,9 +3679,10 @@
         "people": [],
         "objects": [],
         "highlights": [],
-        "author": ""
+        "author": "",
+        "color": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "6c8153fa81018731",
       "media": {
         "thumb": "media/bixio/01ad5fd934734a4216093032130101952a634782b90c1c4046ae56e62362ef97-6c8153fa81018731-thumb.webp",
@@ -3643,9 +3690,10 @@
         "w": 2200,
         "h": 1397
       },
-      "updated": "2026-10-23T20:59:28.544Z",
+      "updated": "2026-10-23T22:49:22.615Z",
       "fieldReviews": {
-        "author": "2026-10-23T20:59:28.544Z"
+        "author": "2026-10-23T20:59:28.544Z",
+        "color": "2026-10-23T22:49:22.615Z"
       }
     },
     "8746a494f43c62e8813bb2a01fc25868e2250b59241b912b0dc0e3762196b858": {
@@ -3705,9 +3753,10 @@
         "people": [],
         "objects": [],
         "highlights": [],
-        "author": ""
+        "author": "",
+        "color": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "fba8a0228d174fa3",
       "media": {
         "thumb": "media/bixio/97b23a9c50fa038432be69f858f541a5eaaf3ea98c1a2754330ef4acf60e84cc-fba8a0228d174fa3-thumb.webp",
@@ -3715,9 +3764,10 @@
         "w": 1418,
         "h": 2200
       },
-      "updated": "2026-10-23T20:59:40.337Z",
+      "updated": "2026-10-23T22:49:22.615Z",
       "fieldReviews": {
-        "author": "2026-10-23T20:59:40.337Z"
+        "author": "2026-10-23T20:59:40.337Z",
+        "color": "2026-10-23T22:49:22.615Z"
       }
     },
     "9ddd915ebd7103f42cbada4a1d456255d8722886213bb94209da168e9b3ce35d": {
@@ -3777,9 +3827,10 @@
         "people": [],
         "objects": [],
         "highlights": [],
-        "author": ""
+        "author": "",
+        "color": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "4b73f63d8a2d9b76",
       "media": {
         "thumb": "media/bixio/66f823c41a68558c3e01d1c369b255382da60e45771d65f05e60294a70822dc6-4b73f63d8a2d9b76-thumb.webp",
@@ -3787,9 +3838,10 @@
         "w": 1401,
         "h": 2200
       },
-      "updated": "2026-10-23T20:59:51.432Z",
+      "updated": "2026-10-23T22:49:22.615Z",
       "fieldReviews": {
-        "author": "2026-10-23T20:59:51.432Z"
+        "author": "2026-10-23T20:59:51.432Z",
+        "color": "2026-10-23T22:49:22.615Z"
       }
     },
     "06fbf17dd2075f2fdae3c4ffdd6f8f9c29806905e095e396c5ae9e6fa1566a17": {
@@ -3849,9 +3901,10 @@
         "people": [],
         "objects": [],
         "highlights": [],
-        "author": ""
+        "author": "",
+        "color": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "06be7902eda3657e",
       "media": {
         "thumb": "media/bixio/9f93474ddb2eb571ab337f3c4c2a945296270a3709cbeb7abdea1638122c4ae1-06be7902eda3657e-thumb.webp",
@@ -3859,9 +3912,10 @@
         "w": 1410,
         "h": 2200
       },
-      "updated": "2026-10-23T21:00:03.016Z",
+      "updated": "2026-10-23T22:49:22.615Z",
       "fieldReviews": {
-        "author": "2026-10-23T21:00:03.016Z"
+        "author": "2026-10-23T21:00:03.016Z",
+        "color": "2026-10-23T22:49:22.615Z"
       }
     },
     "77006ae5ea0a5a24f60154fc4ca5b5aed00173698bec68539e91070190c90b2c": {
@@ -4001,9 +4055,10 @@
         "people": [],
         "objects": [],
         "highlights": [],
-        "author": ""
+        "author": "",
+        "color": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "4fad033e905c1871",
       "media": {
         "thumb": "media/bixio/ac4b05b51aaf607c47137d44115daf70f5d31936b160577422e2f07bfc80391f-4fad033e905c1871-thumb.webp",
@@ -4011,9 +4066,10 @@
         "w": 1578,
         "h": 2200
       },
-      "updated": "2026-10-23T21:00:26.578Z",
+      "updated": "2026-10-23T22:49:22.615Z",
       "fieldReviews": {
-        "author": "2026-10-23T21:00:26.578Z"
+        "author": "2026-10-23T21:00:26.578Z",
+        "color": "2026-10-23T22:49:22.615Z"
       }
     },
     "1c89d1c730351f2bda1f57285d1084b89c57666437d58ca68646a209fc5d0f95": {
@@ -4076,9 +4132,10 @@
         "people": [],
         "objects": [],
         "highlights": [],
-        "author": ""
+        "author": "",
+        "color": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "0af3e8c7daa7893d",
       "media": {
         "thumb": "media/bixio/ddad8925278306f089d92319dc3ca0f9115ac86321fb9871ebe2379b2e5e4a23-0af3e8c7daa7893d-thumb.webp",
@@ -4086,9 +4143,10 @@
         "w": 2200,
         "h": 1585
       },
-      "updated": "2026-10-23T21:00:40.564Z",
+      "updated": "2026-10-23T22:49:22.615Z",
       "fieldReviews": {
-        "author": "2026-10-23T21:00:40.564Z"
+        "author": "2026-10-23T21:00:40.564Z",
+        "color": "2026-10-23T22:49:22.615Z"
       }
     },
     "d861d54499285867165fda03d9c5960c252a6d085ceaa2b05cd041212aa47ae0": {
@@ -4111,9 +4169,10 @@
         "people": [],
         "objects": [],
         "highlights": [],
-        "author": ""
+        "author": "",
+        "color": ""
       },
-      "revision": 3,
+      "revision": 4,
       "fingerprint": "f8f590cb21dbb070",
       "media": {
         "thumb": "media/bixio/d861d54499285867165fda03d9c5960c252a6d085ceaa2b05cd041212aa47ae0-f8f590cb21dbb070-thumb.webp",
@@ -4121,9 +4180,10 @@
         "w": 1553,
         "h": 2200
       },
-      "updated": "2026-10-23T21:00:46.626Z",
+      "updated": "2026-10-23T22:49:22.615Z",
       "fieldReviews": {
-        "author": "2026-10-23T21:00:46.626Z"
+        "author": "2026-10-23T21:00:46.626Z",
+        "color": "2026-10-23T22:49:22.615Z"
       }
     },
     "7bacaefb49f6db4134a14205f3a0bd9bb09bcf184ca214acf901038215e325dc": {
@@ -4242,9 +4302,10 @@
         "frame": "",
         "direction": "",
         "parent": "86bbd00ea45cf649b2e952d4c787b0af5c25d03bc4be1891d0374ee25a2d1645",
-        "author": ""
+        "author": "",
+        "color": ""
       },
-      "revision": 4,
+      "revision": 5,
       "fingerprint": "c528a6feda2938df",
       "media": {
         "thumb": "media/bixio/5c51bba84e47e18520e4e2ce8bccc696c88c9b6706a141695c00e5aea541c5d6-c528a6feda2938df-thumb.webp",
@@ -4252,9 +4313,10 @@
         "w": 2200,
         "h": 1582
       },
-      "updated": "2026-10-23T21:00:53.099Z",
+      "updated": "2026-10-23T22:49:22.615Z",
       "fieldReviews": {
-        "author": "2026-10-23T21:00:53.099Z"
+        "author": "2026-10-23T21:00:53.099Z",
+        "color": "2026-10-23T22:49:22.615Z"
       }
     },
     "86bbd00ea45cf649b2e952d4c787b0af5c25d03bc4be1891d0374ee25a2d1645": {
@@ -4306,9 +4368,10 @@
         "frame": "",
         "direction": "",
         "parent": "824b98af694e9200620702ce00ca58151c29303a495b6c140374a37b3c75213a",
-        "author": ""
+        "author": "",
+        "color": ""
       },
-      "revision": 3,
+      "revision": 4,
       "fingerprint": "81e8ea939343864d",
       "media": {
         "thumb": "media/bixio/9dd0ed86b60f6a6eea9671c478d783078e3a618c652472f6d9b2aa81093a01a5-81e8ea939343864d-thumb.webp",
@@ -4316,9 +4379,10 @@
         "w": 1514,
         "h": 2200
       },
-      "updated": "2026-10-23T21:01:06.451Z",
+      "updated": "2026-10-23T22:49:22.615Z",
       "fieldReviews": {
-        "author": "2026-10-23T21:01:06.451Z"
+        "author": "2026-10-23T21:01:06.451Z",
+        "color": "2026-10-23T22:49:22.615Z"
       }
     },
     "871651459af2bcc09864096279832546cdb3dc7c4777660e90c9f789cce2c4c8": {
@@ -4336,9 +4400,10 @@
         "frame": "",
         "direction": "",
         "parent": "824b98af694e9200620702ce00ca58151c29303a495b6c140374a37b3c75213a",
-        "author": ""
+        "author": "",
+        "color": ""
       },
-      "revision": 3,
+      "revision": 4,
       "fingerprint": "d2d5ab2fbde137a2",
       "media": {
         "thumb": "media/bixio/871651459af2bcc09864096279832546cdb3dc7c4777660e90c9f789cce2c4c8-d2d5ab2fbde137a2-thumb.webp",
@@ -4346,9 +4411,10 @@
         "w": 2200,
         "h": 1628
       },
-      "updated": "2026-10-23T21:01:12.363Z",
+      "updated": "2026-10-23T22:49:22.615Z",
       "fieldReviews": {
-        "author": "2026-10-23T21:01:12.363Z"
+        "author": "2026-10-23T21:01:12.363Z",
+        "color": "2026-10-23T22:49:22.615Z"
       }
     },
     "824b98af694e9200620702ce00ca58151c29303a495b6c140374a37b3c75213a": {
@@ -4398,9 +4464,10 @@
         "highlights": [],
         "portrait": "",
         "frame": "",
-        "direction": ""
+        "direction": "",
+        "color": ""
       },
-      "revision": 2,
+      "revision": 3,
       "fingerprint": "bc1bc2b0b1a66601",
       "media": {
         "thumb": "media/bixio/8f9dded3d38c7e4780f97fe1333d2c5df73810aa6488a50832b402e5729663b3-bc1bc2b0b1a66601-thumb.webp",
@@ -4408,9 +4475,10 @@
         "w": 2200,
         "h": 1729
       },
-      "updated": "2026-10-23T21:12:30.191Z",
+      "updated": "2026-10-23T22:49:22.615Z",
       "fieldReviews": {
-        "author": "2026-10-23T21:01:24.110Z"
+        "author": "2026-10-23T21:01:24.110Z",
+        "color": "2026-10-23T22:49:22.615Z"
       }
     },
     "31a4a272635c9248f574f6af1fa58035e13df8d63f9ecf54219e8aec4ad1e536": {
@@ -4460,9 +4528,10 @@
         "portrait": "",
         "frame": "",
         "direction": "",
-        "author": ""
+        "author": "",
+        "color": ""
       },
-      "revision": 2,
+      "revision": 3,
       "fingerprint": "090676a75e0648db",
       "media": {
         "thumb": "media/bixio/f7758cc4692eaf201d5676ff4e45a4f36c3ae133d21345b1ba6c6f13279cc18c-090676a75e0648db-thumb.webp",
@@ -4470,9 +4539,10 @@
         "w": 1540,
         "h": 2200
       },
-      "updated": "2026-10-23T21:01:37.845Z",
+      "updated": "2026-10-23T22:49:22.615Z",
       "fieldReviews": {
-        "author": "2026-10-23T21:01:37.845Z"
+        "author": "2026-10-23T21:01:37.845Z",
+        "color": "2026-10-23T22:49:22.615Z"
       }
     },
     "fa903855e2f87a1ec0d0452cf333434d87fa9c4985f318f926dd88a344c52a0e": {
@@ -4489,9 +4559,10 @@
         "portrait": "",
         "frame": "",
         "direction": "",
-        "author": ""
+        "author": "",
+        "color": ""
       },
-      "revision": 2,
+      "revision": 3,
       "fingerprint": "6af9a75b86683bd1",
       "media": {
         "thumb": "media/bixio/fa903855e2f87a1ec0d0452cf333434d87fa9c4985f318f926dd88a344c52a0e-6af9a75b86683bd1-thumb.webp",
@@ -4499,9 +4570,10 @@
         "w": 2200,
         "h": 1581
       },
-      "updated": "2026-10-23T21:01:43.997Z",
+      "updated": "2026-10-23T22:49:22.615Z",
       "fieldReviews": {
-        "author": "2026-10-23T21:01:43.997Z"
+        "author": "2026-10-23T21:01:43.997Z",
+        "color": "2026-10-23T22:49:22.615Z"
       }
     },
     "cdf88e7662cfaac13f1c3448b2a38c9859311902b0921410e7fb056cc0709400": {
@@ -4518,9 +4590,10 @@
         "portrait": "",
         "frame": "",
         "direction": "",
-        "author": ""
+        "author": "",
+        "color": ""
       },
-      "revision": 2,
+      "revision": 3,
       "fingerprint": "a3d5774c68443233",
       "media": {
         "thumb": "media/bixio/cdf88e7662cfaac13f1c3448b2a38c9859311902b0921410e7fb056cc0709400-a3d5774c68443233-thumb.webp",
@@ -4528,9 +4601,10 @@
         "w": 2200,
         "h": 1595
       },
-      "updated": "2026-10-23T21:01:50.181Z",
+      "updated": "2026-10-23T22:49:22.615Z",
       "fieldReviews": {
-        "author": "2026-10-23T21:01:50.181Z"
+        "author": "2026-10-23T21:01:50.181Z",
+        "color": "2026-10-23T22:49:22.615Z"
       }
     },
     "834f4150b66f7c492b23fa99b2c563bb4f21344390ea983c68af9704625f6577": {
@@ -4653,9 +4727,10 @@
         "highlights": [],
         "portrait": "",
         "frame": "",
-        "direction": ""
+        "direction": "",
+        "color": ""
       },
-      "revision": 2,
+      "revision": 3,
       "fingerprint": "5e951862f2f60b65",
       "media": {
         "thumb": "media/bixio/a43e6d1d22a2cc6dcded7a10f1d38d424ca7eec613d792a75dd645ec0ee56911-5e951862f2f60b65-thumb.webp",
@@ -4663,9 +4738,10 @@
         "w": 2200,
         "h": 1411
       },
-      "updated": "2026-10-23T21:29:51.664Z",
+      "updated": "2026-10-23T22:49:22.615Z",
       "fieldReviews": {
-        "author": "2026-10-23T21:02:26.688Z"
+        "author": "2026-10-23T21:02:26.688Z",
+        "color": "2026-10-23T22:49:22.615Z"
       }
     },
     "ecc2aba87fd157d5ba221a10bf9666b3f5b20c4436ad350bdf639874a5b320d8": {
@@ -4775,9 +4851,10 @@
         "notes": "Inocentes\n28 Diciembre 1914",
         "portrait": "",
         "frame": "",
-        "direction": ""
+        "direction": "",
+        "color": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "2673772ba7d92727",
       "media": {
         "thumb": "media/bixio/086e0247ac866dfc610343a767be0eb1039d8fcbc8f8d8ce1f62788814652bc8-2673772ba7d92727-thumb.webp",
@@ -4785,7 +4862,10 @@
         "w": 2200,
         "h": 1369
       },
-      "updated": "2026-10-23T21:42:12.261Z"
+      "updated": "2026-10-23T22:49:22.615Z",
+      "fieldReviews": {
+        "color": "2026-10-23T22:49:22.615Z"
+      }
     },
     "0489b7debe688eac25e69592b0890e4cb17a93d2cba9132f2422a238d9210ddc": {
       "id": "0489b7debe688eac25e69592b0890e4cb17a93d2cba9132f2422a238d9210ddc",
@@ -4832,9 +4912,10 @@
         "notes": "María Amelia Pazoqui\n[?] a los 6 meses de edad",
         "portrait": "",
         "frame": "",
-        "direction": ""
+        "direction": "",
+        "color": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "6cb3b932505f0fdd",
       "media": {
         "thumb": "media/bixio/45dd6240da718c4604757b1314e46b5b5c2a4bd1947f9dd71d2b574156132942-6cb3b932505f0fdd-thumb.webp",
@@ -4842,7 +4923,10 @@
         "w": 1662,
         "h": 2200
       },
-      "updated": "2026-10-23T21:44:57.816Z"
+      "updated": "2026-10-23T22:49:22.615Z",
+      "fieldReviews": {
+        "color": "2026-10-23T22:49:22.615Z"
+      }
     },
     "dde375960980fda4d769a6f196d73445f8abe19c2f357abcf1a8ad0d84181bac": {
       "id": "dde375960980fda4d769a6f196d73445f8abe19c2f357abcf1a8ad0d84181bac",
@@ -4955,9 +5039,10 @@
         "highlights": [],
         "portrait": "",
         "frame": "",
-        "direction": ""
+        "direction": "",
+        "color": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "b6d715fa25530ac0",
       "media": {
         "thumb": "media/bixio/244df801764106c7af9a0e339a527b61a607c68175f0b80bd0067ae10ff0f39e-b6d715fa25530ac0-thumb.webp",
@@ -4965,7 +5050,10 @@
         "w": 2200,
         "h": 1531
       },
-      "updated": "2026-10-23T21:49:24.595Z"
+      "updated": "2026-10-23T22:49:22.615Z",
+      "fieldReviews": {
+        "color": "2026-10-23T22:49:22.615Z"
+      }
     },
     "1af1e9a8250a13b83c9b83f49c20b795c6ab625123b283dc11f072aed297e07a": {
       "id": "1af1e9a8250a13b83c9b83f49c20b795c6ab625123b283dc11f072aed297e07a",
@@ -5016,9 +5104,10 @@
         "notes": "",
         "portrait": "",
         "frame": "",
-        "direction": ""
+        "direction": "",
+        "color": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "6567707a78c392c4",
       "media": {
         "thumb": "media/bixio/8c6a39e9ef4d67f63d26497267934478f6c47a33250bf105716d9e597d50f45d-6567707a78c392c4-thumb.webp",
@@ -5026,7 +5115,10 @@
         "w": 2200,
         "h": 1620
       },
-      "updated": "2026-10-23T21:51:03.548Z"
+      "updated": "2026-10-23T22:49:22.615Z",
+      "fieldReviews": {
+        "color": "2026-10-23T22:49:22.615Z"
+      }
     },
     "3740d377e3d28127eb204e567b392934779c148fd75115a40d9b8146857ae104": {
       "id": "3740d377e3d28127eb204e567b392934779c148fd75115a40d9b8146857ae104",
@@ -5141,9 +5233,10 @@
         "notes": "Para mi querido Filo\nMamá",
         "portrait": "",
         "frame": "",
-        "direction": ""
+        "direction": "",
+        "color": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "ef1fbb69888a3d16",
       "media": {
         "thumb": "media/bixio/7d0ebbdb7e99acd42e7e0322dd74d037b9047eb92c373eef3c88ca0e2cd5b7e3-ef1fbb69888a3d16-thumb.webp",
@@ -5151,7 +5244,10 @@
         "w": 1359,
         "h": 2200
       },
-      "updated": "2026-10-23T22:01:38.050Z"
+      "updated": "2026-10-23T22:49:22.615Z",
+      "fieldReviews": {
+        "color": "2026-10-23T22:49:22.615Z"
+      }
     },
     "90557b63d15270cce7166e5d9ab8e2dfe67de6b07930b02ac69cab6f75a16750": {
       "id": "90557b63d15270cce7166e5d9ab8e2dfe67de6b07930b02ac69cab6f75a16750",
@@ -5167,9 +5263,10 @@
         "notes": "",
         "portrait": "",
         "frame": "",
-        "direction": ""
+        "direction": "",
+        "color": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "3a49374f70140fd7",
       "media": {
         "thumb": "media/bixio/90557b63d15270cce7166e5d9ab8e2dfe67de6b07930b02ac69cab6f75a16750-3a49374f70140fd7-thumb.webp",
@@ -5177,7 +5274,10 @@
         "w": 1369,
         "h": 2200
       },
-      "updated": "2026-10-23T22:02:14.506Z"
+      "updated": "2026-10-23T22:49:22.615Z",
+      "fieldReviews": {
+        "color": "2026-10-23T22:49:22.615Z"
+      }
     },
     "814ad71a5d5c120c5aca12d900461cf090504760bcac857f43b4005eacdc2879": {
       "id": "814ad71a5d5c120c5aca12d900461cf090504760bcac857f43b4005eacdc2879",
@@ -5192,9 +5292,10 @@
         "highlights": [],
         "portrait": "",
         "frame": "",
-        "direction": ""
+        "direction": "",
+        "color": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "b2cfca97957e81ce",
       "media": {
         "thumb": "media/bixio/814ad71a5d5c120c5aca12d900461cf090504760bcac857f43b4005eacdc2879-b2cfca97957e81ce-thumb.webp",
@@ -5202,7 +5303,10 @@
         "w": 1587,
         "h": 2200
       },
-      "updated": "2026-10-23T22:04:30.779Z"
+      "updated": "2026-10-23T22:49:22.615Z",
+      "fieldReviews": {
+        "color": "2026-10-23T22:49:22.615Z"
+      }
     },
     "7e9758e52151fb7c1ecf4eb5644e65f95c06cafe9c57e28f8e43a0e169d814cc": {
       "id": "7e9758e52151fb7c1ecf4eb5644e65f95c06cafe9c57e28f8e43a0e169d814cc",
@@ -5218,9 +5322,10 @@
         "notes": "",
         "portrait": "",
         "frame": "",
-        "direction": ""
+        "direction": "",
+        "color": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "be21a5cb4c23bf43",
       "media": {
         "thumb": "media/bixio/7e9758e52151fb7c1ecf4eb5644e65f95c06cafe9c57e28f8e43a0e169d814cc-be21a5cb4c23bf43-thumb.webp",
@@ -5228,7 +5333,10 @@
         "w": 1614,
         "h": 2200
       },
-      "updated": "2026-10-23T22:05:04.060Z"
+      "updated": "2026-10-23T22:49:22.615Z",
+      "fieldReviews": {
+        "color": "2026-10-23T22:49:22.615Z"
+      }
     },
     "b9d1c8da440c6b728a6671c04652d21b82efe8114cbc3b2ad5b4e088fef8c95a": {
       "id": "b9d1c8da440c6b728a6671c04652d21b82efe8114cbc3b2ad5b4e088fef8c95a",
@@ -5309,9 +5417,10 @@
         "notes": "",
         "portrait": "",
         "frame": "",
-        "direction": ""
+        "direction": "",
+        "color": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "84f9e98a7e44f997",
       "media": {
         "thumb": "media/bixio/0858c56b08742a205ef382286ba9d79200039dc66f6ed2b3490a203804b31d42-84f9e98a7e44f997-thumb.webp",
@@ -5319,7 +5428,10 @@
         "w": 1564,
         "h": 2200
       },
-      "updated": "2026-10-23T22:12:09.247Z"
+      "updated": "2026-10-23T22:49:22.615Z",
+      "fieldReviews": {
+        "color": "2026-10-23T22:49:22.615Z"
+      }
     },
     "b850030db32e415a29573b539a39f3c9911412a59cfe2f5abf1cafd0ab607b13": {
       "id": "b850030db32e415a29573b539a39f3c9911412a59cfe2f5abf1cafd0ab607b13",
@@ -5399,9 +5511,10 @@
         "highlights": [],
         "portrait": "",
         "frame": "",
-        "direction": ""
+        "direction": "",
+        "color": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "e8342a7d559e8110",
       "media": {
         "thumb": "media/bixio/fd50772872e3b38893789769fa2094289ce5fa3ac45506f669fbbee3e0e0e987-e8342a7d559e8110-thumb.webp",
@@ -5409,7 +5522,10 @@
         "w": 1550,
         "h": 2200
       },
-      "updated": "2026-10-23T22:14:01.308Z"
+      "updated": "2026-10-23T22:49:22.615Z",
+      "fieldReviews": {
+        "color": "2026-10-23T22:49:22.615Z"
+      }
     },
     "e51e028ca704005894388a489b60f8ed27c39fe8c7180119a5314b48dabd05fc": {
       "id": "e51e028ca704005894388a489b60f8ed27c39fe8c7180119a5314b48dabd05fc",
@@ -5522,9 +5638,10 @@
         "highlights": [],
         "portrait": "",
         "frame": "",
-        "direction": ""
+        "direction": "",
+        "color": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "f46a5c4fb10f705e",
       "media": {
         "thumb": "media/bixio/06ed9b6a030075563303891e939c083a46d2f4059c2b4ce4fc8708183ab59fec-f46a5c4fb10f705e-thumb.webp",
@@ -5532,7 +5649,10 @@
         "w": 1409,
         "h": 2200
       },
-      "updated": "2026-10-23T22:17:38.769Z"
+      "updated": "2026-10-23T22:49:22.615Z",
+      "fieldReviews": {
+        "color": "2026-10-23T22:49:22.615Z"
+      }
     },
     "d6c8d3fbe73e43c217e38d30a4238555df0c063a954f56890c2619f3e425d345": {
       "id": "d6c8d3fbe73e43c217e38d30a4238555df0c063a954f56890c2619f3e425d345",
@@ -5577,9 +5697,10 @@
         "highlights": [],
         "portrait": "",
         "frame": "",
-        "direction": ""
+        "direction": "",
+        "color": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "1935beafe15f5e3d",
       "media": {
         "thumb": "media/bixio/ad3971cbd27e6af2bf0e8a7ff21a877c084bd1b72e1ba1fb5dd2f4aa68177453-1935beafe15f5e3d-thumb.webp",
@@ -5587,7 +5708,10 @@
         "w": 1483,
         "h": 2200
       },
-      "updated": "2026-10-23T22:19:21.795Z"
+      "updated": "2026-10-23T22:49:22.615Z",
+      "fieldReviews": {
+        "color": "2026-10-23T22:49:22.615Z"
+      }
     },
     "311315d47aa1112f50e4a15a763a472fe1ba01b6f8bc27b809711477635a2074": {
       "id": "311315d47aa1112f50e4a15a763a472fe1ba01b6f8bc27b809711477635a2074",
@@ -5666,9 +5790,10 @@
         "notes": "A la amiga de todos los momentos y flia. Clara D. de Pirez y sus amigas\nSara y Aurora Cornejo Allende\n4/8/50",
         "portrait": "",
         "frame": "",
-        "direction": ""
+        "direction": "",
+        "color": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "696283da21659d90",
       "media": {
         "thumb": "media/bixio/c7b114f6ab2cacb93f8d4501f52dd88fe9df061ef649f76013c521227d917343-696283da21659d90-thumb.webp",
@@ -5676,7 +5801,10 @@
         "w": 1474,
         "h": 2200
       },
-      "updated": "2026-10-23T22:23:47.391Z"
+      "updated": "2026-10-23T22:49:22.615Z",
+      "fieldReviews": {
+        "color": "2026-10-23T22:49:22.615Z"
+      }
     },
     "bd29635b5f7de4157575b6d0f69ccceb76f4fac8c3e0ff1cf12585770e33939d": {
       "id": "bd29635b5f7de4157575b6d0f69ccceb76f4fac8c3e0ff1cf12585770e33939d",
@@ -5714,14 +5842,20 @@
       "relative": "img190.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
       "status": "pending",
-      "record": {},
-      "revision": 0,
+      "record": {
+        "color": ""
+      },
+      "revision": 1,
       "fingerprint": "b48c3160083d1e67",
       "media": {
         "thumb": "media/bixio/616c7614cf9c5a540b9c98b4ed5dddb48e8545d382db1bfcdbe038f4748069f1-b48c3160083d1e67-thumb.webp",
         "src": "media/bixio/616c7614cf9c5a540b9c98b4ed5dddb48e8545d382db1bfcdbe038f4748069f1-b48c3160083d1e67.webp",
         "w": 1481,
         "h": 2200
+      },
+      "updated": "2026-10-23T22:49:22.615Z",
+      "fieldReviews": {
+        "color": "2026-10-23T22:49:22.615Z"
       }
     },
     "79637e1f41480a6624377dc005ef3dd84a3c9bd7bfa9496d1cd305792c2fbb14": {
@@ -5759,14 +5893,20 @@
       "relative": "img193.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
       "status": "pending",
-      "record": {},
-      "revision": 0,
+      "record": {
+        "color": ""
+      },
+      "revision": 1,
       "fingerprint": "c02335ef53de252e",
       "media": {
         "thumb": "media/bixio/1fb375f9c2ba7fa58013e8b2900be88e12333cf6b8a6ea6c038f5fcb6149c1d7-c02335ef53de252e-thumb.webp",
         "src": "media/bixio/1fb375f9c2ba7fa58013e8b2900be88e12333cf6b8a6ea6c038f5fcb6149c1d7-c02335ef53de252e.webp",
         "w": 1555,
         "h": 2200
+      },
+      "updated": "2026-10-23T22:49:22.615Z",
+      "fieldReviews": {
+        "color": "2026-10-23T22:49:22.615Z"
       }
     },
     "193ac9701720c59a4a6d4cde75955d854d081849c6229b49e51d33913e387d35": {
@@ -5804,14 +5944,20 @@
       "relative": "img196.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
       "status": "pending",
-      "record": {},
-      "revision": 0,
+      "record": {
+        "color": ""
+      },
+      "revision": 1,
       "fingerprint": "e2718d642b36815c",
       "media": {
         "thumb": "media/bixio/dec73a87f815f750d093540598043242a236b247aba00f31473b6a00677396fd-e2718d642b36815c-thumb.webp",
         "src": "media/bixio/dec73a87f815f750d093540598043242a236b247aba00f31473b6a00677396fd-e2718d642b36815c.webp",
         "w": 1581,
         "h": 2200
+      },
+      "updated": "2026-10-23T22:49:22.615Z",
+      "fieldReviews": {
+        "color": "2026-10-23T22:49:22.615Z"
       }
     },
     "38d1da8c1668c2887ea3e580fd2ee94b3fe4b468fdcac533c45d68e6d02b522d": {
@@ -5894,14 +6040,20 @@
       "relative": "img202.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
       "status": "pending",
-      "record": {},
-      "revision": 0,
+      "record": {
+        "color": ""
+      },
+      "revision": 1,
       "fingerprint": "5f4037db3cfa426d",
       "media": {
         "thumb": "media/bixio/94a789d81e63ca36b6e2356cd4052c8268caad1f667a0265ca1a2577da00ca26-5f4037db3cfa426d-thumb.webp",
         "src": "media/bixio/94a789d81e63ca36b6e2356cd4052c8268caad1f667a0265ca1a2577da00ca26-5f4037db3cfa426d.webp",
         "w": 1407,
         "h": 2200
+      },
+      "updated": "2026-10-23T22:49:22.615Z",
+      "fieldReviews": {
+        "color": "2026-10-23T22:49:22.615Z"
       }
     },
     "66d551c22e21babd6d7e923b02f385d89c7ed0dfcf407045e0dfcce3a98d7487": {
@@ -5984,14 +6136,20 @@
       "relative": "img208.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
       "status": "pending",
-      "record": {},
-      "revision": 0,
+      "record": {
+        "color": ""
+      },
+      "revision": 1,
       "fingerprint": "d40fc1b2b60a124c",
       "media": {
         "thumb": "media/bixio/c013cf446f4a2772e8c5ed4eb51c83e89279b4403b93e15bf2c8e91e18b328c9-d40fc1b2b60a124c-thumb.webp",
         "src": "media/bixio/c013cf446f4a2772e8c5ed4eb51c83e89279b4403b93e15bf2c8e91e18b328c9-d40fc1b2b60a124c.webp",
         "w": 1417,
         "h": 2200
+      },
+      "updated": "2026-10-23T22:49:22.615Z",
+      "fieldReviews": {
+        "color": "2026-10-23T22:49:22.615Z"
       }
     },
     "ac63b6fbb70260d523e9ad9518c42196188cbef7ff6966651ca29b3ad41d43a2": {
@@ -6341,7 +6499,7 @@
     "BIX-21": "Bixio - Firma en relieve",
     "BIX-22": "Bixio - Firma caligráfica"
   },
-  "updated": "2026-10-23T22:42:45.092Z",
+  "updated": "2026-10-23T22:49:24.084Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
