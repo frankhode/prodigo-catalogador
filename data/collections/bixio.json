@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "fd9fea87-ee8d-4a7e-bd8a-e46046689799",
+  "version": "5338baff-9992-4cc3-adc4-89b683bd1c95",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -6774,9 +6774,12 @@
         "portrait": "Individual",
         "frame": "Busto",
         "direction": "Frente",
-        "environment": "Estudio"
+        "environment": "Estudio",
+        "people": [
+          "Hombres"
+        ]
       },
-      "revision": 8,
+      "revision": 9,
       "fingerprint": "4c8091c2ecbe34ae",
       "media": {
         "thumb": "media/bixio/ae14f47b26106ff4f5b23bfeaa92dea41d40a656b6d0a48f3e985e01edda5638-4c8091c2ecbe34ae-thumb.webp",
@@ -6784,7 +6787,7 @@
         "w": 1585,
         "h": 2200
       },
-      "updated": "2026-10-23T23:07:46.255Z",
+      "updated": "2026-10-23T23:12:53.555Z",
       "fieldReviews": {
         "color": "2026-10-23T22:53:06.216Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -6793,7 +6796,8 @@
         "portrait": "2026-10-23T23:01:58.486Z",
         "frame": "2026-10-23T23:03:16.267Z",
         "direction": "2026-10-23T23:04:45.226Z",
-        "environment": "2026-10-23T23:07:46.255Z"
+        "environment": "2026-10-23T23:07:46.255Z",
+        "people": "2026-10-23T23:12:53.555Z"
       }
     },
     "f46b98a5dd9b7d08e058ff9781f539a4eea0908abce0fbcd50253e58676e7f21": {
@@ -7584,7 +7588,7 @@
     "BIX-21": "Bixio - Firma en relieve",
     "BIX-22": "Bixio - Firma caligráfica"
   },
-  "updated": "2026-10-23T23:12:48.455Z",
+  "updated": "2026-10-23T23:12:54.955Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
