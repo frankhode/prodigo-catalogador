@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "fbfccb3c-fa52-42e2-920c-560f6290e9ef",
+  "version": "9eeeb39e-9f78-42c8-8e9b-06967f7c2b26",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -1619,15 +1619,20 @@
         "objects": [],
         "highlights": [
           "Mar del Plata"
-        ]
+        ],
+        "author": "Florencio Bixio"
       },
-      "revision": 0,
+      "revision": 1,
       "fingerprint": "bb2860ecd975c7d5",
       "media": {
         "thumb": "media/bixio/23439a889b72aa6917307acf8988045df2f09c00af68a5259b466155f8e8e659-bb2860ecd975c7d5-thumb.webp",
         "src": "media/bixio/23439a889b72aa6917307acf8988045df2f09c00af68a5259b466155f8e8e659-bb2860ecd975c7d5.webp",
         "w": 1411,
         "h": 2200
+      },
+      "updated": "2026-10-23T20:45:22.903Z",
+      "fieldReviews": {
+        "author": "2026-10-23T20:45:22.903Z"
       }
     },
     "f96ec7f81835966b239949814d8d74d1c111ca629d5ac1acbe7ed1df62a6eac9": {
@@ -5278,7 +5283,7 @@
     "BIX-15": "Monograma oval F. Bixio y Cia.",
     "BIX-16": "Florencio Bixio & Cia. - B. de Irigoyen 185 - B. Aires"
   },
-  "updated": "2026-10-23T20:45:19.033Z",
+  "updated": "2026-10-23T20:45:24.249Z",
   "authors": [
     "Florencio Bixio"
   ]
