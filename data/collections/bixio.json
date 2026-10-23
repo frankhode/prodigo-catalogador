@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "6716976d-9cd4-4221-8ba8-0b181827983d",
+  "version": "79cec24d-e15d-4a01-ae1d-6d74ba97cbf7",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -6309,9 +6309,12 @@
         "portrait": "Individual",
         "frame": "Cuerpo entero",
         "direction": "Frente",
-        "environment": "Estudio"
+        "environment": "Estudio",
+        "people": [
+          "Niños"
+        ]
       },
-      "revision": 8,
+      "revision": 9,
       "fingerprint": "f9cdbb03154bf01a",
       "media": {
         "thumb": "media/bixio/97a7faf61742b6eeda0b81bd9e215e622a9716940aeb1e39a19eb9052e0dc6cc-f9cdbb03154bf01a-thumb.webp",
@@ -6319,7 +6322,7 @@
         "w": 1586,
         "h": 2200
       },
-      "updated": "2026-10-23T23:07:46.255Z",
+      "updated": "2026-10-23T23:11:48.979Z",
       "fieldReviews": {
         "color": "2026-10-23T22:53:06.216Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -6328,7 +6331,8 @@
         "portrait": "2026-10-23T23:01:58.486Z",
         "frame": "2026-10-23T23:03:00.875Z",
         "direction": "2026-10-23T23:04:45.226Z",
-        "environment": "2026-10-23T23:07:46.255Z"
+        "environment": "2026-10-23T23:07:46.255Z",
+        "people": "2026-10-23T23:11:48.979Z"
       }
     },
     "1fb375f9c2ba7fa58013e8b2900be88e12333cf6b8a6ea6c038f5fcb6149c1d7": {
@@ -7564,7 +7568,7 @@
     "BIX-21": "Bixio - Firma en relieve",
     "BIX-22": "Bixio - Firma caligráfica"
   },
-  "updated": "2026-10-23T23:11:21.453Z",
+  "updated": "2026-10-23T23:11:50.329Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
