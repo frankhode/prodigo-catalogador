@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "7aff5221-150b-42ac-83c8-f1fd0cd81745",
+  "version": "9e54b161-04a5-42b5-97f8-720cc5a9c14d",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -4576,6 +4576,81 @@
         "w": 1524,
         "h": 2200
       }
+    },
+    "ae14f47b26106ff4f5b23bfeaa92dea41d40a656b6d0a48f3e985e01edda5638": {
+      "id": "ae14f47b26106ff4f5b23bfeaa92dea41d40a656b6d0a48f3e985e01edda5638",
+      "relative": "img205.tif",
+      "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
+      "status": "pending",
+      "record": {},
+      "revision": 0,
+      "fingerprint": "4c8091c2ecbe34ae",
+      "media": {
+        "thumb": "media/bixio/ae14f47b26106ff4f5b23bfeaa92dea41d40a656b6d0a48f3e985e01edda5638-4c8091c2ecbe34ae-thumb.webp",
+        "src": "media/bixio/ae14f47b26106ff4f5b23bfeaa92dea41d40a656b6d0a48f3e985e01edda5638-4c8091c2ecbe34ae.webp",
+        "w": 1585,
+        "h": 2200
+      }
+    },
+    "f46b98a5dd9b7d08e058ff9781f539a4eea0908abce0fbcd50253e58676e7f21": {
+      "id": "f46b98a5dd9b7d08e058ff9781f539a4eea0908abce0fbcd50253e58676e7f21",
+      "relative": "img206.tif",
+      "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
+      "status": "pending",
+      "record": {},
+      "revision": 0,
+      "fingerprint": "7bf8de136c92c29e",
+      "media": {
+        "thumb": "media/bixio/f46b98a5dd9b7d08e058ff9781f539a4eea0908abce0fbcd50253e58676e7f21-7bf8de136c92c29e-thumb.webp",
+        "src": "media/bixio/f46b98a5dd9b7d08e058ff9781f539a4eea0908abce0fbcd50253e58676e7f21-7bf8de136c92c29e.webp",
+        "w": 1590,
+        "h": 2200
+      }
+    },
+    "76f23725f3819e288e7eaf7e5eded34b99f4fc77e9ad7a60b3d889770839d8da": {
+      "id": "76f23725f3819e288e7eaf7e5eded34b99f4fc77e9ad7a60b3d889770839d8da",
+      "relative": "img207.tif",
+      "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
+      "status": "pending",
+      "record": {},
+      "revision": 0,
+      "fingerprint": "c718eaf487906476",
+      "media": {
+        "thumb": "media/bixio/76f23725f3819e288e7eaf7e5eded34b99f4fc77e9ad7a60b3d889770839d8da-c718eaf487906476-thumb.webp",
+        "src": "media/bixio/76f23725f3819e288e7eaf7e5eded34b99f4fc77e9ad7a60b3d889770839d8da-c718eaf487906476.webp",
+        "w": 1426,
+        "h": 2200
+      }
+    },
+    "c013cf446f4a2772e8c5ed4eb51c83e89279b4403b93e15bf2c8e91e18b328c9": {
+      "id": "c013cf446f4a2772e8c5ed4eb51c83e89279b4403b93e15bf2c8e91e18b328c9",
+      "relative": "img208.tif",
+      "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
+      "status": "pending",
+      "record": {},
+      "revision": 0,
+      "fingerprint": "d40fc1b2b60a124c",
+      "media": {
+        "thumb": "media/bixio/c013cf446f4a2772e8c5ed4eb51c83e89279b4403b93e15bf2c8e91e18b328c9-d40fc1b2b60a124c-thumb.webp",
+        "src": "media/bixio/c013cf446f4a2772e8c5ed4eb51c83e89279b4403b93e15bf2c8e91e18b328c9-d40fc1b2b60a124c.webp",
+        "w": 1417,
+        "h": 2200
+      }
+    },
+    "ac63b6fbb70260d523e9ad9518c42196188cbef7ff6966651ca29b3ad41d43a2": {
+      "id": "ac63b6fbb70260d523e9ad9518c42196188cbef7ff6966651ca29b3ad41d43a2",
+      "relative": "img209.tif",
+      "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
+      "status": "pending",
+      "record": {},
+      "revision": 0,
+      "fingerprint": "64d4eb157a2cd852",
+      "media": {
+        "thumb": "media/bixio/ac63b6fbb70260d523e9ad9518c42196188cbef7ff6966651ca29b3ad41d43a2-64d4eb157a2cd852-thumb.webp",
+        "src": "media/bixio/ac63b6fbb70260d523e9ad9518c42196188cbef7ff6966651ca29b3ad41d43a2-64d4eb157a2cd852.webp",
+        "w": 1538,
+        "h": 2200
+      }
     }
   },
   "terms": {
@@ -4603,5 +4678,5 @@
     "BIX-15": "Monograma oval F. Bixio y Cia.",
     "BIX-16": "Florencio Bixio & Cia. - B. de Irigoyen 185 - B. Aires"
   },
-  "updated": "2026-10-23T18:45:26.024Z"
+  "updated": "2026-10-23T18:45:47.075Z"
 }
