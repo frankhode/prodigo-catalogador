@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "cf98b368-be40-4bf3-bf32-6a39027e4de8",
+  "version": "58ff5cf8-11a2-4d7f-bc36-8b7875d745c1",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -3727,16 +3727,31 @@
       "id": "824b98af694e9200620702ce00ca58151c29303a495b6c140374a37b3c75213a",
       "relative": "img145.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "kind": "Retrato",
+        "portrait": "Grupal",
+        "frame": "Cuerpo entero",
+        "direction": "Mixta",
+        "environment": "Estudio",
+        "people": [
+          "Mujeres",
+          "Bebés"
+        ],
+        "objects": [],
+        "highlights": [],
+        "signature": "BIX-15"
+      },
+      "revision": 1,
       "fingerprint": "e51798b7f5e91284",
       "media": {
         "thumb": "media/bixio/824b98af694e9200620702ce00ca58151c29303a495b6c140374a37b3c75213a-e51798b7f5e91284-thumb.webp",
         "src": "media/bixio/824b98af694e9200620702ce00ca58151c29303a495b6c140374a37b3c75213a-e51798b7f5e91284.webp",
         "w": 2200,
         "h": 1619
-      }
+      },
+      "updated": "2026-10-23T19:47:07.452Z"
     },
     "8f9dded3d38c7e4780f97fe1333d2c5df73810aa6488a50832b402e5729663b3": {
       "id": "8f9dded3d38c7e4780f97fe1333d2c5df73810aa6488a50832b402e5729663b3",
@@ -4956,7 +4971,9 @@
   },
   "terms": {
     "people": [
-      "Niños"
+      "Niños",
+      "Mujeres",
+      "Bebés"
     ],
     "objects": [],
     "highlights": [
@@ -4983,5 +5000,5 @@
     "BIX-15": "Monograma oval F. Bixio y Cia.",
     "BIX-16": "Florencio Bixio & Cia. - B. de Irigoyen 185 - B. Aires"
   },
-  "updated": "2026-10-23T19:45:57.165Z"
+  "updated": "2026-10-23T19:47:08.989Z"
 }
