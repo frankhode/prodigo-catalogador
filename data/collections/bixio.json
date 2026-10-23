@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "afc52b56-97e5-404e-99cd-5afaf3d96dcb",
+  "version": "02f71000-6c03-408c-b48d-4cb51e8c8578",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -6597,7 +6597,7 @@
       "id": "686e03bb2dc6be575c0bcd9e865280bc9c8f454e9ae606de072a8d80be620657",
       "relative": "img198.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
-      "status": "pending",
+      "status": "done",
       "record": {
         "color": "sepia",
         "author": "Florencio Bixio",
@@ -6612,9 +6612,10 @@
         ],
         "highlights": [
           "Boy scouts"
-        ]
+        ],
+        "signature": "BIX-05"
       },
-      "revision": 10,
+      "revision": 11,
       "fingerprint": "f7f5afc307d6c3a1",
       "media": {
         "thumb": "media/bixio/686e03bb2dc6be575c0bcd9e865280bc9c8f454e9ae606de072a8d80be620657-f7f5afc307d6c3a1-thumb.webp",
@@ -6622,7 +6623,7 @@
         "w": 1565,
         "h": 2200
       },
-      "updated": "2026-10-23T23:23:03.804Z",
+      "updated": "2026-10-23T23:33:32.435Z",
       "fieldReviews": {
         "color": "2026-10-23T22:50:42.790Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -7872,7 +7873,7 @@
     "BIX-21": "Bixio - Firma en relieve",
     "BIX-22": "Bixio - Firma caligráfica"
   },
-  "updated": "2026-10-23T23:33:17.737Z",
+  "updated": "2026-10-23T23:33:34.152Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
