@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "d2289750-b6a2-4c9e-b0cc-d3f3106a5307",
+  "version": "42d627fe-4365-44ac-85bb-528cd0ae0dfd",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -7138,9 +7138,12 @@
         "environment": "Estudio",
         "people": [
           "Hombres"
+        ],
+        "highlights": [
+          "Folklore"
         ]
       },
-      "revision": 9,
+      "revision": 10,
       "fingerprint": "80f8110101782de1",
       "media": {
         "thumb": "media/bixio/5bb39666d5318cfc7603dc83d893fefcfd605ddc81ee9ef606ea012f83b071a0-80f8110101782de1-thumb.webp",
@@ -7148,7 +7151,7 @@
         "w": 1827,
         "h": 2200
       },
-      "updated": "2026-10-23T23:13:23.611Z",
+      "updated": "2026-10-23T23:25:22.349Z",
       "fieldReviews": {
         "color": "2026-10-23T22:53:40.256Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -7158,7 +7161,8 @@
         "frame": "2026-10-23T23:03:00.875Z",
         "direction": "2026-10-23T23:04:45.226Z",
         "environment": "2026-10-23T23:07:46.255Z",
-        "people": "2026-10-23T23:13:23.611Z"
+        "people": "2026-10-23T23:13:23.611Z",
+        "highlights": "2026-10-23T23:25:22.349Z"
       }
     },
     "dd1558a903aa5282aa6d17b89977b06a4cf225bdaad37da8f31219a5f321b903": {
@@ -7754,7 +7758,8 @@
       "Pieles",
       "Boy scouts",
       "Paraguas",
-      "Tango"
+      "Tango",
+      "Folklore"
     ]
   },
   "signatures": {
@@ -7783,7 +7788,7 @@
     "BIX-21": "Bixio - Firma en relieve",
     "BIX-22": "Bixio - Firma caligráfica"
   },
-  "updated": "2026-10-23T23:24:58.134Z",
+  "updated": "2026-10-23T23:25:23.741Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
