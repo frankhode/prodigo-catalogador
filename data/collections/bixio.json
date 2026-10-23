@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "783c2841-29ce-41c4-85ad-03b9d16c0d59",
+  "version": "2e014011-ded6-4066-be6c-297cb51adff4",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -7902,9 +7902,10 @@
     "BIX-22": "Bixio - Firma caligráfica",
     "BIX-23": "F. Bixio & Cia. - B. de Irigoyen 136",
     "BIX-24": "Foto El Arte La Plata",
-    "BIX-25": "F. Bixio y Cia - Firma caligráfica"
+    "BIX-25": "F. Bixio y Cia - Firma caligráfica",
+    "BIX-26": "F. Bixio y Cia B. de Irigoyen 185 B. Aires - Caligráfica"
   },
-  "updated": "2026-10-23T23:43:44.364Z",
+  "updated": "2026-10-23T23:44:48.047Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
