@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "f7e1ef70-ae22-4c0f-a976-497473c34ac4",
+  "version": "560b4078-88c1-4297-80f3-2eb462d83b3b",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -7176,7 +7176,7 @@
       "id": "5bb39666d5318cfc7603dc83d893fefcfd605ddc81ee9ef606ea012f83b071a0",
       "relative": "img212.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
-      "status": "pending",
+      "status": "done",
       "record": {
         "color": "byn",
         "author": "Florencio Bixio",
@@ -7191,9 +7191,10 @@
         ],
         "highlights": [
           "Folklore"
-        ]
+        ],
+        "signature": "BIX-25"
       },
-      "revision": 10,
+      "revision": 11,
       "fingerprint": "80f8110101782de1",
       "media": {
         "thumb": "media/bixio/5bb39666d5318cfc7603dc83d893fefcfd605ddc81ee9ef606ea012f83b071a0-80f8110101782de1-thumb.webp",
@@ -7201,7 +7202,7 @@
         "w": 1827,
         "h": 2200
       },
-      "updated": "2026-10-23T23:25:22.349Z",
+      "updated": "2026-10-23T23:40:14.228Z",
       "fieldReviews": {
         "color": "2026-10-23T22:53:40.256Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -7895,7 +7896,7 @@
     "BIX-24": "Foto El Arte La Plata",
     "BIX-25": "F. Bixio y Cia - Firma caligráfica"
   },
-  "updated": "2026-10-23T23:40:09.535Z",
+  "updated": "2026-10-23T23:40:15.585Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
