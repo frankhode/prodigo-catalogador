@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "1c15cfcd-3c77-40be-b1fb-ba712011e1bf",
+  "version": "7200feef-0c37-46bb-94df-38d1511aca9e",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -3040,9 +3040,10 @@
           "Peinado",
           "Iluminado"
         ],
-        "author": "Florencio Bixio"
+        "author": "Florencio Bixio",
+        "color": "iluminado"
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "4b3a12fc4f1d9675",
       "media": {
         "thumb": "media/bixio/8bd6801637535d372404f1b1dbd3b915222317f4e6bae9fece092310e2a124fd-4b3a12fc4f1d9675-thumb.webp",
@@ -3050,9 +3051,10 @@
         "w": 1592,
         "h": 2200
       },
-      "updated": "2026-10-23T20:48:44.046Z",
+      "updated": "2026-10-23T22:52:17.471Z",
       "fieldReviews": {
-        "author": "2026-10-23T20:48:44.046Z"
+        "author": "2026-10-23T20:48:44.046Z",
+        "color": "2026-10-23T22:52:17.471Z"
       }
     },
     "a942fffc88e9192e3a03229222543f24cfbd8a7a4ed3e88b3f48f9ab065cd6e3": {
@@ -3235,9 +3237,10 @@
           "Vestimenta",
           "Iluminado"
         ],
-        "author": "Florencio Bixio"
+        "author": "Florencio Bixio",
+        "color": "iluminado"
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "42a49d4702409249",
       "media": {
         "thumb": "media/bixio/6a02d1341accf3bc8774ef64d138618eb795d19b4a1562cf1fccdab6bbf50d63-42a49d4702409249-thumb.webp",
@@ -3245,9 +3248,10 @@
         "w": 1579,
         "h": 2200
       },
-      "updated": "2026-10-23T20:49:23.447Z",
+      "updated": "2026-10-23T22:52:17.471Z",
       "fieldReviews": {
-        "author": "2026-10-23T20:49:23.447Z"
+        "author": "2026-10-23T20:49:23.447Z",
+        "color": "2026-10-23T22:52:17.471Z"
       }
     },
     "37bc44874380a31c412bbbd7c688839123e8386f5e04d2fbd9b65caaddd43e30": {
@@ -4347,9 +4351,10 @@
         "highlights": [],
         "portrait": "",
         "frame": "",
-        "direction": ""
+        "direction": "",
+        "color": "iluminado"
       },
-      "revision": 2,
+      "revision": 3,
       "fingerprint": "5080b80f9ed2d928",
       "media": {
         "thumb": "media/bixio/07c6a800e55a74a780b061d1fd55a85f9ad83f62546835861de3918d2fde204d-5080b80f9ed2d928-thumb.webp",
@@ -4357,9 +4362,10 @@
         "w": 1581,
         "h": 2200
       },
-      "updated": "2026-10-23T21:28:14.343Z",
+      "updated": "2026-10-23T22:52:17.471Z",
       "fieldReviews": {
-        "author": "2026-10-23T20:48:54.751Z"
+        "author": "2026-10-23T20:48:54.751Z",
+        "color": "2026-10-23T22:52:17.471Z"
       }
     },
     "12a5da974ecf26325b7adc4c4c9fddff951539e87d515b94a6e597a6e3f87404": {
@@ -5648,9 +5654,10 @@
           "Vestimenta",
           "Iluminado"
         ],
-        "signature": "BIX-21"
+        "signature": "BIX-21",
+        "color": "iluminado"
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "84015ce891f01219",
       "media": {
         "thumb": "media/bixio/bf217f51047b2e98638fd91bb1544a0227b20a9e27fe281da47591ecc08d479c-84015ce891f01219-thumb.webp",
@@ -5658,7 +5665,10 @@
         "w": 1461,
         "h": 2200
       },
-      "updated": "2026-10-23T22:13:42.933Z"
+      "updated": "2026-10-23T22:52:17.471Z",
+      "fieldReviews": {
+        "color": "2026-10-23T22:52:17.471Z"
+      }
     },
     "fd50772872e3b38893789769fa2094289ce5fa3ac45506f669fbbee3e0e0e987": {
       "id": "fd50772872e3b38893789769fa2094289ce5fa3ac45506f669fbbee3e0e0e987",
@@ -6375,14 +6385,20 @@
       "relative": "img209.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
       "status": "pending",
-      "record": {},
-      "revision": 0,
+      "record": {
+        "color": "iluminado"
+      },
+      "revision": 1,
       "fingerprint": "64d4eb157a2cd852",
       "media": {
         "thumb": "media/bixio/ac63b6fbb70260d523e9ad9518c42196188cbef7ff6966651ca29b3ad41d43a2-64d4eb157a2cd852-thumb.webp",
         "src": "media/bixio/ac63b6fbb70260d523e9ad9518c42196188cbef7ff6966651ca29b3ad41d43a2-64d4eb157a2cd852.webp",
         "w": 1538,
         "h": 2200
+      },
+      "updated": "2026-10-23T22:52:17.471Z",
+      "fieldReviews": {
+        "color": "2026-10-23T22:52:17.471Z"
       }
     },
     "204a69e5f27f3a07bb5d74db9c154a321ada3d7c9257e6ffc33c51e65e87d9f3": {
@@ -6759,7 +6775,7 @@
     "BIX-21": "Bixio - Firma en relieve",
     "BIX-22": "Bixio - Firma caligráfica"
   },
-  "updated": "2026-10-23T22:51:54.144Z",
+  "updated": "2026-10-23T22:52:18.787Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
