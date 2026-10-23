@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "6f0ebd0e-6347-4941-b544-f68f5cb7ad53",
+  "version": "34662d8d-c894-469b-8d94-3649396cdf64",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -5086,16 +5086,32 @@
       "id": "b47721f647cd8bad4558356380775a4d90f4437a88e9d97a9eb9e6ed71e77ecb",
       "relative": "img169.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "85208",
+        "author": "Florencio Bixio",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Busto",
+        "direction": "Perfil",
+        "environment": "Estudio",
+        "people": [
+          "Mujeres"
+        ],
+        "objects": [],
+        "highlights": [],
+        "signature": "BIX-04"
+      },
+      "revision": 1,
       "fingerprint": "a07612eb4d00b670",
       "media": {
         "thumb": "media/bixio/b47721f647cd8bad4558356380775a4d90f4437a88e9d97a9eb9e6ed71e77ecb-a07612eb4d00b670-thumb.webp",
         "src": "media/bixio/b47721f647cd8bad4558356380775a4d90f4437a88e9d97a9eb9e6ed71e77ecb-a07612eb4d00b670.webp",
         "w": 738,
         "h": 1202
-      }
+      },
+      "updated": "2026-10-23T22:00:50.434Z"
     },
     "7d0ebbdb7e99acd42e7e0322dd74d037b9047eb92c373eef3c88ca0e2cd5b7e3": {
       "id": "7d0ebbdb7e99acd42e7e0322dd74d037b9047eb92c373eef3c88ca0e2cd5b7e3",
@@ -6022,7 +6038,7 @@
     "BIX-18": "Monograma circular - F. Bixio y Cia. 181. Buen Orden. 185. Buenos Aires",
     "BIX-19": "Bixio - Buenos Aires"
   },
-  "updated": "2026-10-23T21:59:57.955Z",
+  "updated": "2026-10-23T22:00:52.235Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
