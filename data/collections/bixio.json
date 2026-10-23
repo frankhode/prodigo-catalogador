@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "34662d8d-c894-469b-8d94-3649396cdf64",
+  "version": "0de7e73c-20c5-46df-b49a-4987478f8b25",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -5117,16 +5117,27 @@
       "id": "7d0ebbdb7e99acd42e7e0322dd74d037b9047eb92c373eef3c88ca0e2cd5b7e3",
       "relative": "img170.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Reverso",
+        "parent": "b47721f647cd8bad4558356380775a4d90f4437a88e9d97a9eb9e6ed71e77ecb",
+        "people": [],
+        "objects": [],
+        "highlights": [],
+        "notes": "Para mi querido Filo\nMamá",
+        "portrait": "",
+        "frame": "",
+        "direction": ""
+      },
+      "revision": 1,
       "fingerprint": "ef1fbb69888a3d16",
       "media": {
         "thumb": "media/bixio/7d0ebbdb7e99acd42e7e0322dd74d037b9047eb92c373eef3c88ca0e2cd5b7e3-ef1fbb69888a3d16-thumb.webp",
         "src": "media/bixio/7d0ebbdb7e99acd42e7e0322dd74d037b9047eb92c373eef3c88ca0e2cd5b7e3-ef1fbb69888a3d16.webp",
         "w": 1359,
         "h": 2200
-      }
+      },
+      "updated": "2026-10-23T22:01:38.050Z"
     },
     "90557b63d15270cce7166e5d9ab8e2dfe67de6b07930b02ac69cab6f75a16750": {
       "id": "90557b63d15270cce7166e5d9ab8e2dfe67de6b07930b02ac69cab6f75a16750",
@@ -6038,7 +6049,7 @@
     "BIX-18": "Monograma circular - F. Bixio y Cia. 181. Buen Orden. 185. Buenos Aires",
     "BIX-19": "Bixio - Buenos Aires"
   },
-  "updated": "2026-10-23T22:00:52.235Z",
+  "updated": "2026-10-23T22:01:39.493Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
