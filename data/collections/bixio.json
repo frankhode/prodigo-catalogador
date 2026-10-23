@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "625cd897-fb15-40ae-98eb-97f3e321634f",
+  "version": "2f465f37-414b-40fb-a2ef-fd17fe2368d7",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -6929,7 +6929,7 @@
       "id": "f46b98a5dd9b7d08e058ff9781f539a4eea0908abce0fbcd50253e58676e7f21",
       "relative": "img206.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
-      "status": "pending",
+      "status": "done",
       "record": {
         "color": "sepia",
         "author": "Florencio Bixio",
@@ -6942,9 +6942,10 @@
         "people": [
           "Bebés"
         ],
-        "highlights": []
+        "highlights": [],
+        "signature": "BIX-23"
       },
-      "revision": 10,
+      "revision": 11,
       "fingerprint": "7bf8de136c92c29e",
       "media": {
         "thumb": "media/bixio/f46b98a5dd9b7d08e058ff9781f539a4eea0908abce0fbcd50253e58676e7f21-7bf8de136c92c29e-thumb.webp",
@@ -6952,7 +6953,7 @@
         "w": 1590,
         "h": 2200
       },
-      "updated": "2026-10-23T23:24:16.429Z",
+      "updated": "2026-10-23T23:36:26.059Z",
       "fieldReviews": {
         "color": "2026-10-23T22:53:06.216Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -7885,7 +7886,7 @@
     "BIX-22": "Bixio - Firma caligráfica",
     "BIX-23": "F. Bixio & Cia. - B. de Irigoyen 136"
   },
-  "updated": "2026-10-23T23:36:14.319Z",
+  "updated": "2026-10-23T23:36:27.418Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
