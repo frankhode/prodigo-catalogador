@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "0dd52ff5-bfa2-4957-9a38-332cedc842b1",
+  "version": "3b2e36e3-8dab-4656-ba14-29748d5daf59",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -3645,16 +3645,32 @@
       "id": "86bbd00ea45cf649b2e952d4c787b0af5c25d03bc4be1891d0374ee25a2d1645",
       "relative": "img142.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "date": "1922",
+        "kind": "Retrato",
+        "portrait": "Grupal",
+        "frame": "Cuerpo entero",
+        "direction": "Mixta",
+        "environment": "Estudio",
+        "people": [
+          "Niños"
+        ],
+        "objects": [],
+        "highlights": [
+          "Disfraz"
+        ]
+      },
+      "revision": 1,
       "fingerprint": "eb7677ced7e321bd",
       "media": {
         "thumb": "media/bixio/86bbd00ea45cf649b2e952d4c787b0af5c25d03bc4be1891d0374ee25a2d1645-eb7677ced7e321bd-thumb.webp",
         "src": "media/bixio/86bbd00ea45cf649b2e952d4c787b0af5c25d03bc4be1891d0374ee25a2d1645-eb7677ced7e321bd.webp",
         "w": 2200,
         "h": 1586
-      }
+      },
+      "updated": "2026-10-23T18:49:54.794Z"
     },
     "9dd0ed86b60f6a6eea9671c478d783078e3a618c652472f6d9b2aa81093a01a5": {
       "id": "9dd0ed86b60f6a6eea9671c478d783078e3a618c652472f6d9b2aa81093a01a5",
@@ -4918,9 +4934,13 @@
     }
   },
   "terms": {
-    "people": [],
+    "people": [
+      "Niños"
+    ],
     "objects": [],
-    "highlights": []
+    "highlights": [
+      "Disfraz"
+    ]
   },
   "signatures": {
     "none": "Sin firma",
@@ -4942,5 +4962,5 @@
     "BIX-15": "Monograma oval F. Bixio y Cia.",
     "BIX-16": "Florencio Bixio & Cia. - B. de Irigoyen 185 - B. Aires"
   },
-  "updated": "2026-10-23T18:48:07.132Z"
+  "updated": "2026-10-23T18:49:56.285Z"
 }
