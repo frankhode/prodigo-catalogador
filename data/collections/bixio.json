@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "90eae120-bacb-4cd1-b999-42fa3bbba09f",
+  "version": "321ced2b-9bc2-42ab-8d51-3c8929727947",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -4658,16 +4658,33 @@
       "id": "ecc2aba87fd157d5ba221a10bf9666b3f5b20c4436ad350bdf639874a5b320d8",
       "relative": "img155.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "author": "Florencio Bixio",
+        "kind": "Retrato",
+        "portrait": "Grupal",
+        "frame": "Mixto",
+        "direction": "Mixta",
+        "environment": "Estudio",
+        "people": [
+          "Hombres",
+          "Mujeres",
+          "Bebés"
+        ],
+        "objects": [],
+        "highlights": [],
+        "signature": "BIX-02"
+      },
+      "revision": 1,
       "fingerprint": "2c561824275e892b",
       "media": {
         "thumb": "media/bixio/ecc2aba87fd157d5ba221a10bf9666b3f5b20c4436ad350bdf639874a5b320d8-2c561824275e892b-thumb.webp",
         "src": "media/bixio/ecc2aba87fd157d5ba221a10bf9666b3f5b20c4436ad350bdf639874a5b320d8-2c561824275e892b.webp",
         "w": 1566,
         "h": 2200
-      }
+      },
+      "updated": "2026-10-23T21:36:33.186Z"
     },
     "eba0418a22260e75ae10098d6389577c8394aa5753290d9059bedaa2a6fd4c5c": {
       "id": "eba0418a22260e75ae10098d6389577c8394aa5753290d9059bedaa2a6fd4c5c",
@@ -5800,7 +5817,7 @@
     "BIX-16": "Florencio Bixio & Cia. - B. de Irigoyen 185 - B. Aires",
     "BIX-17": "Fillebrown - Florida 55 Buenos Aires"
   },
-  "updated": "2026-10-23T21:29:53.250Z",
+  "updated": "2026-10-23T21:36:34.840Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
