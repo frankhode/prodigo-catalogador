@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "babc4dc0-3f10-4d31-947d-c7c1f8123f1f",
+  "version": "c80af7e1-0169-44cd-a951-7009001979cf",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -4709,9 +4709,10 @@
           "Anteojos",
           "Bigote"
         ],
-        "signature": "BIX-06"
+        "signature": "BIX-06",
+        "date": "1914"
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "41670e862e51c68e",
       "media": {
         "thumb": "media/bixio/eba0418a22260e75ae10098d6389577c8394aa5753290d9059bedaa2a6fd4c5c-41670e862e51c68e-thumb.webp",
@@ -4719,7 +4720,7 @@
         "w": 2200,
         "h": 1374
       },
-      "updated": "2026-10-23T21:41:00.522Z"
+      "updated": "2026-10-23T21:42:38.758Z"
     },
     "58ff60568909c75b3a74403fbe28fc32e8638c0e889757adef8e1930c02e8c36": {
       "id": "58ff60568909c75b3a74403fbe28fc32e8638c0e889757adef8e1930c02e8c36",
@@ -5858,7 +5859,7 @@
     "BIX-16": "Florencio Bixio & Cia. - B. de Irigoyen 185 - B. Aires",
     "BIX-17": "Fillebrown - Florida 55 Buenos Aires"
   },
-  "updated": "2026-10-23T21:42:13.759Z",
+  "updated": "2026-10-23T21:42:40.086Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
