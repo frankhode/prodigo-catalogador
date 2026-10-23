@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "a0b2f288-616d-4793-8f45-8ee07986ae63",
+  "version": "babc4dc0-3f10-4d31-947d-c7c1f8123f1f",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -4750,16 +4750,27 @@
       "id": "086e0247ac866dfc610343a767be0eb1039d8fcbc8f8d8ce1f62788814652bc8",
       "relative": "img158.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Reverso",
+        "parent": "eba0418a22260e75ae10098d6389577c8394aa5753290d9059bedaa2a6fd4c5c",
+        "people": [],
+        "objects": [],
+        "highlights": [],
+        "notes": "Inocentes\n28 Diciembre 1914",
+        "portrait": "",
+        "frame": "",
+        "direction": ""
+      },
+      "revision": 1,
       "fingerprint": "2673772ba7d92727",
       "media": {
         "thumb": "media/bixio/086e0247ac866dfc610343a767be0eb1039d8fcbc8f8d8ce1f62788814652bc8-2673772ba7d92727-thumb.webp",
         "src": "media/bixio/086e0247ac866dfc610343a767be0eb1039d8fcbc8f8d8ce1f62788814652bc8-2673772ba7d92727.webp",
         "w": 2200,
         "h": 1369
-      }
+      },
+      "updated": "2026-10-23T21:42:12.261Z"
     },
     "0489b7debe688eac25e69592b0890e4cb17a93d2cba9132f2422a238d9210ddc": {
       "id": "0489b7debe688eac25e69592b0890e4cb17a93d2cba9132f2422a238d9210ddc",
@@ -5847,7 +5858,7 @@
     "BIX-16": "Florencio Bixio & Cia. - B. de Irigoyen 185 - B. Aires",
     "BIX-17": "Fillebrown - Florida 55 Buenos Aires"
   },
-  "updated": "2026-10-23T21:41:36.905Z",
+  "updated": "2026-10-23T21:42:13.759Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
