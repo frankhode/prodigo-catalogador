@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "be784292-35c5-4617-a054-304612b61506",
+  "version": "84b75988-fa64-49e3-882c-f85459d0f184",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -7297,9 +7297,13 @@
         "people": [
           "Hombres",
           "Mujeres"
+        ],
+        "highlights": [
+          "Vestimenta",
+          "Peinado"
         ]
       },
-      "revision": 9,
+      "revision": 10,
       "fingerprint": "1ae977c7127bb66a",
       "media": {
         "thumb": "media/bixio/f57a78e5e53b955856336a966707a9084cdec97cf7c94f64f10d2edb6e186e76-1ae977c7127bb66a-thumb.webp",
@@ -7307,7 +7311,7 @@
         "w": 1535,
         "h": 2200
       },
-      "updated": "2026-10-23T23:13:50.996Z",
+      "updated": "2026-10-23T23:25:53.221Z",
       "fieldReviews": {
         "color": "2026-10-23T22:53:06.216Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -7317,7 +7321,8 @@
         "frame": "2026-10-23T23:03:00.875Z",
         "direction": "2026-10-23T23:04:14.520Z",
         "environment": "2026-10-23T23:07:46.255Z",
-        "people": "2026-10-23T23:13:50.996Z"
+        "people": "2026-10-23T23:13:50.996Z",
+        "highlights": "2026-10-23T23:25:53.221Z"
       }
     },
     "3131caca1538388c42e2a5cee6a03703ee52f8d091a4964b20b499c1eef377ba": {
@@ -7796,7 +7801,7 @@
     "BIX-21": "Bixio - Firma en relieve",
     "BIX-22": "Bixio - Firma caligráfica"
   },
-  "updated": "2026-10-23T23:25:40.546Z",
+  "updated": "2026-10-23T23:25:54.536Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
