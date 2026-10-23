@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "6d2e470e-75d9-4753-b070-e6a3fe1ef04d",
+  "version": "9150fba1-351a-442e-8b45-e8b4017ae441",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -3834,16 +3834,33 @@
       "id": "834f4150b66f7c492b23fa99b2c563bb4f21344390ea983c68af9704625f6577",
       "relative": "img151.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Busto",
+        "direction": "Tres cuartos",
+        "environment": "Estudio",
+        "people": [
+          "Mujeres"
+        ],
+        "objects": [],
+        "highlights": [
+          "Vestimenta",
+          "Peinado"
+        ],
+        "signature": "BIX-16"
+      },
+      "revision": 1,
       "fingerprint": "ff18a82845ee9faf",
       "media": {
         "thumb": "media/bixio/834f4150b66f7c492b23fa99b2c563bb4f21344390ea983c68af9704625f6577-ff18a82845ee9faf-thumb.webp",
         "src": "media/bixio/834f4150b66f7c492b23fa99b2c563bb4f21344390ea983c68af9704625f6577-ff18a82845ee9faf.webp",
         "w": 1526,
         "h": 2200
-      }
+      },
+      "updated": "2026-10-23T19:58:08.161Z"
     },
     "1500b0db1fdef646e77f4a23f96b4cd6ab320a50272584aa26156b136d3a5257": {
       "id": "1500b0db1fdef646e77f4a23f96b4cd6ab320a50272584aa26156b136d3a5257",
@@ -4978,40 +4995,40 @@
       "Bebés"
     ],
     "objects": [
-            "Triciclos",
-            "Canasta",
-            "Cuadros",
-            "Juguetes",
-            "Instrumentos musicales",
-            "Jarrón",
-            "Abanico",
-            "Pelotas"
-        ],
-        "highlights": [
-            "Vestimenta",
-            "Bigote",
-            "Bastón",
-            "Guantes",
-            "Peinado",
-            "Sombrero",
-            "Disfraz",
-            "Escena",
-            "Anteojos",
-            "Accesorios",
-            "Sacerdote",
-            "Frac",
-            "Mar del Plata",
-            "Traje de baño",
-            "Boina",
-            "Bixio",
-            "Primera comunión",
-            "Cartera",
-            "Cinturón",
-            "Iluminado",
-            "Joyas",
-            "Policía",
-            "Militar"
-        ]
+      "Triciclos",
+      "Canasta",
+      "Cuadros",
+      "Juguetes",
+      "Instrumentos musicales",
+      "Jarrón",
+      "Abanico",
+      "Pelotas"
+    ],
+    "highlights": [
+      "Vestimenta",
+      "Bigote",
+      "Bastón",
+      "Guantes",
+      "Peinado",
+      "Sombrero",
+      "Disfraz",
+      "Escena",
+      "Anteojos",
+      "Accesorios",
+      "Sacerdote",
+      "Frac",
+      "Mar del Plata",
+      "Traje de baño",
+      "Boina",
+      "Bixio",
+      "Primera comunión",
+      "Cartera",
+      "Cinturón",
+      "Iluminado",
+      "Joyas",
+      "Policía",
+      "Militar"
+    ]
   },
   "signatures": {
     "none": "Sin firma",
@@ -5033,5 +5050,5 @@
     "BIX-15": "Monograma oval F. Bixio y Cia.",
     "BIX-16": "Florencio Bixio & Cia. - B. de Irigoyen 185 - B. Aires"
   },
-  "updated": "2026-10-23T19:48:02.110Z"
+  "updated": "2026-10-23T19:58:09.591Z"
 }
