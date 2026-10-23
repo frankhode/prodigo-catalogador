@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "c3dbc154-0b42-4b74-81cb-387fc47236cb",
+  "version": "e70bc0a3-402d-4c43-b2f7-aed6ed3fa326",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -5194,16 +5194,27 @@
       "id": "7e9758e52151fb7c1ecf4eb5644e65f95c06cafe9c57e28f8e43a0e169d814cc",
       "relative": "img173.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Tapa",
+        "parent": "b9d1c8da440c6b728a6671c04652d21b82efe8114cbc3b2ad5b4e088fef8c95a",
+        "people": [],
+        "objects": [],
+        "highlights": [],
+        "notes": "",
+        "portrait": "",
+        "frame": "",
+        "direction": ""
+      },
+      "revision": 1,
       "fingerprint": "be21a5cb4c23bf43",
       "media": {
         "thumb": "media/bixio/7e9758e52151fb7c1ecf4eb5644e65f95c06cafe9c57e28f8e43a0e169d814cc-be21a5cb4c23bf43-thumb.webp",
         "src": "media/bixio/7e9758e52151fb7c1ecf4eb5644e65f95c06cafe9c57e28f8e43a0e169d814cc-be21a5cb4c23bf43.webp",
         "w": 1614,
         "h": 2200
-      }
+      },
+      "updated": "2026-10-23T22:05:04.060Z"
     },
     "b9d1c8da440c6b728a6671c04652d21b82efe8114cbc3b2ad5b4e088fef8c95a": {
       "id": "b9d1c8da440c6b728a6671c04652d21b82efe8114cbc3b2ad5b4e088fef8c95a",
@@ -6088,7 +6099,7 @@
     "BIX-18": "Monograma circular - F. Bixio y Cia. 181. Buen Orden. 185. Buenos Aires",
     "BIX-19": "Bixio - Buenos Aires"
   },
-  "updated": "2026-10-23T22:04:32.088Z",
+  "updated": "2026-10-23T22:05:05.438Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
