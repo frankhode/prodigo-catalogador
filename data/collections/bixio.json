@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "0c062b37-f2de-4727-a2fd-341ada3c7352",
+  "version": "957150e9-deaa-4112-977a-342c544fa7ad",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -6971,7 +6971,7 @@
       "id": "76f23725f3819e288e7eaf7e5eded34b99f4fc77e9ad7a60b3d889770839d8da",
       "relative": "img207.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
-      "status": "pending",
+      "status": "done",
       "record": {
         "color": "byn",
         "author": "Florencio Bixio",
@@ -6986,9 +6986,10 @@
         ],
         "highlights": [
           "Sombrero"
-        ]
+        ],
+        "signature": "BIX-24"
       },
-      "revision": 10,
+      "revision": 11,
       "fingerprint": "c718eaf487906476",
       "media": {
         "thumb": "media/bixio/76f23725f3819e288e7eaf7e5eded34b99f4fc77e9ad7a60b3d889770839d8da-c718eaf487906476-thumb.webp",
@@ -6996,7 +6997,7 @@
         "w": 1426,
         "h": 2200
       },
-      "updated": "2026-10-23T23:24:25.325Z",
+      "updated": "2026-10-23T23:37:03.302Z",
       "fieldReviews": {
         "color": "2026-10-23T22:51:52.639Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -7887,7 +7888,7 @@
     "BIX-23": "F. Bixio & Cia. - B. de Irigoyen 136",
     "BIX-24": "Foto El Arte La Plata"
   },
-  "updated": "2026-10-23T23:36:58.271Z",
+  "updated": "2026-10-23T23:37:04.617Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
