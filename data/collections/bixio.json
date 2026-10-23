@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "16e05da7-8aa6-411c-b68b-18e4c11c7a77",
+  "version": "be9bde78-b4ad-4b82-90bd-7a009e95c5ef",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -3678,16 +3678,25 @@
       "id": "9dd0ed86b60f6a6eea9671c478d783078e3a618c652472f6d9b2aa81093a01a5",
       "relative": "img143.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Tapa",
+        "people": [],
+        "objects": [],
+        "highlights": [],
+        "portrait": "",
+        "frame": "",
+        "direction": ""
+      },
+      "revision": 1,
       "fingerprint": "81e8ea939343864d",
       "media": {
         "thumb": "media/bixio/9dd0ed86b60f6a6eea9671c478d783078e3a618c652472f6d9b2aa81093a01a5-81e8ea939343864d-thumb.webp",
         "src": "media/bixio/9dd0ed86b60f6a6eea9671c478d783078e3a618c652472f6d9b2aa81093a01a5-81e8ea939343864d.webp",
         "w": 1514,
         "h": 2200
-      }
+      },
+      "updated": "2026-10-23T19:45:43.300Z"
     },
     "871651459af2bcc09864096279832546cdb3dc7c4777660e90c9f789cce2c4c8": {
       "id": "871651459af2bcc09864096279832546cdb3dc7c4777660e90c9f789cce2c4c8",
@@ -4964,5 +4973,5 @@
     "BIX-15": "Monograma oval F. Bixio y Cia.",
     "BIX-16": "Florencio Bixio & Cia. - B. de Irigoyen 185 - B. Aires"
   },
-  "updated": "2026-10-23T19:45:28.130Z"
+  "updated": "2026-10-23T19:45:44.665Z"
 }
