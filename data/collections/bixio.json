@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "bea2040e-8829-4088-9f57-a83e374a58a2",
+  "version": "98809e2b-15bd-404c-80f9-d4e79a1874e3",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -5499,16 +5499,26 @@
       "id": "06ed9b6a030075563303891e939c083a46d2f4059c2b4ce4fc8708183ab59fec",
       "relative": "img183.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Reverso",
+        "parent": "b9c17789e39487ae2cdd3f1694363dd1159056b642231fbf0d7a3b5874f86c26",
+        "people": [],
+        "objects": [],
+        "highlights": [],
+        "portrait": "",
+        "frame": "",
+        "direction": ""
+      },
+      "revision": 1,
       "fingerprint": "f46a5c4fb10f705e",
       "media": {
         "thumb": "media/bixio/06ed9b6a030075563303891e939c083a46d2f4059c2b4ce4fc8708183ab59fec-f46a5c4fb10f705e-thumb.webp",
         "src": "media/bixio/06ed9b6a030075563303891e939c083a46d2f4059c2b4ce4fc8708183ab59fec-f46a5c4fb10f705e.webp",
         "w": 1409,
         "h": 2200
-      }
+      },
+      "updated": "2026-10-23T22:17:38.769Z"
     },
     "d6c8d3fbe73e43c217e38d30a4238555df0c063a954f56890c2619f3e425d345": {
       "id": "d6c8d3fbe73e43c217e38d30a4238555df0c063a954f56890c2619f3e425d345",
@@ -6232,7 +6242,7 @@
     "BIX-21": "Bixio - Firma en relieve",
     "BIX-22": "Bixio - Firma caligráfica"
   },
-  "updated": "2026-10-23T22:17:12.648Z",
+  "updated": "2026-10-23T22:17:40.234Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
