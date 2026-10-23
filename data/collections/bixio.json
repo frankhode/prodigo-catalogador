@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "be78918a-b2aa-41db-a136-6c2cf3acf90d",
+  "version": "62ee5fcc-9f7f-46ea-afeb-884029f657e3",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -4834,16 +4834,32 @@
       "id": "dde375960980fda4d769a6f196d73445f8abe19c2f357abcf1a8ad0d84181bac",
       "relative": "img161.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "author": "Florencio Bixio",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Cuerpo entero",
+        "direction": "Frente",
+        "people": [
+          "Mujeres"
+        ],
+        "objects": [],
+        "highlights": [
+          "Vestimenta"
+        ],
+        "signature": "BIX-02"
+      },
+      "revision": 1,
       "fingerprint": "e1f1768a1baf3bc2",
       "media": {
         "thumb": "media/bixio/dde375960980fda4d769a6f196d73445f8abe19c2f357abcf1a8ad0d84181bac-e1f1768a1baf3bc2-thumb.webp",
         "src": "media/bixio/dde375960980fda4d769a6f196d73445f8abe19c2f357abcf1a8ad0d84181bac-e1f1768a1baf3bc2.webp",
         "w": 1375,
         "h": 2200
-      }
+      },
+      "updated": "2026-10-23T21:45:53.896Z"
     },
     "0f22d5068332a7ba1a4ed917167bf5336a23b4738e03cc4b6a217a8de6bebaa0": {
       "id": "0f22d5068332a7ba1a4ed917167bf5336a23b4738e03cc4b6a217a8de6bebaa0",
@@ -5886,7 +5902,7 @@
     "BIX-16": "Florencio Bixio & Cia. - B. de Irigoyen 185 - B. Aires",
     "BIX-17": "Fillebrown - Florida 55 Buenos Aires"
   },
-  "updated": "2026-10-23T21:44:59.570Z",
+  "updated": "2026-10-23T21:45:55.300Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
