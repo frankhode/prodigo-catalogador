@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "3d0653b5-680f-4054-9fdc-f02fd782f29a",
+  "version": "2026a708-be30-4c73-93e5-b41aab65b425",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -896,9 +896,10 @@
           "Vestimenta",
           "Escena"
         ],
-        "author": "Florencio Bixio"
+        "author": "Florencio Bixio",
+        "color": "byn"
       },
-      "revision": 2,
+      "revision": 3,
       "fingerprint": "cfd580a1137eb153",
       "media": {
         "thumb": "media/bixio/fcb5c06e08f0ae6c37f28d664047633e21e2212a07d599c544a46bdb4283c24e-cfd580a1137eb153-thumb.webp",
@@ -906,9 +907,10 @@
         "w": 2200,
         "h": 1394
       },
-      "updated": "2026-10-23T21:40:04.002Z",
+      "updated": "2026-10-23T22:53:40.256Z",
       "fieldReviews": {
-        "author": "2026-10-23T20:42:48.609Z"
+        "author": "2026-10-23T20:42:48.609Z",
+        "color": "2026-10-23T22:53:40.256Z"
       }
     },
     "48534bc664f5a8bed714e6e240c77d722129d6e680b5a2e714d10fb1b953f576": {
@@ -4918,9 +4920,10 @@
         ],
         "objects": [],
         "highlights": [],
-        "signature": "BIX-02"
+        "signature": "BIX-02",
+        "color": "byn"
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "2c561824275e892b",
       "media": {
         "thumb": "media/bixio/ecc2aba87fd157d5ba221a10bf9666b3f5b20c4436ad350bdf639874a5b320d8-2c561824275e892b-thumb.webp",
@@ -4928,7 +4931,10 @@
         "w": 1566,
         "h": 2200
       },
-      "updated": "2026-10-23T21:36:33.186Z"
+      "updated": "2026-10-23T22:53:40.256Z",
+      "fieldReviews": {
+        "color": "2026-10-23T22:53:40.256Z"
+      }
     },
     "eba0418a22260e75ae10098d6389577c8394aa5753290d9059bedaa2a6fd4c5c": {
       "id": "eba0418a22260e75ae10098d6389577c8394aa5753290d9059bedaa2a6fd4c5c",
@@ -5048,9 +5054,10 @@
         "objects": [],
         "highlights": [],
         "signature": "BIX-02",
-        "number": "19562"
+        "number": "19562",
+        "color": "byn"
       },
-      "revision": 2,
+      "revision": 3,
       "fingerprint": "43bbab7a8c2432ed",
       "media": {
         "thumb": "media/bixio/0489b7debe688eac25e69592b0890e4cb17a93d2cba9132f2422a238d9210ddc-43bbab7a8c2432ed-thumb.webp",
@@ -5058,7 +5065,10 @@
         "w": 1664,
         "h": 2200
       },
-      "updated": "2026-10-23T21:43:48.367Z"
+      "updated": "2026-10-23T22:53:40.256Z",
+      "fieldReviews": {
+        "color": "2026-10-23T22:53:40.256Z"
+      }
     },
     "45dd6240da718c4604757b1314e46b5b5c2a4bd1947f9dd71d2b574156132942": {
       "id": "45dd6240da718c4604757b1314e46b5b5c2a4bd1947f9dd71d2b574156132942",
@@ -5184,9 +5194,10 @@
         "highlights": [
           "Vestimenta"
         ],
-        "signature": "BIX-19"
+        "signature": "BIX-19",
+        "color": "byn"
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "78fdfc7b010608b1",
       "media": {
         "thumb": "media/bixio/82ef0a24f69416a66643e04deb52924d36d4b68139edc0a12bbbf8a1db3e0898-78fdfc7b010608b1-thumb.webp",
@@ -5194,7 +5205,10 @@
         "w": 2200,
         "h": 1538
       },
-      "updated": "2026-10-23T21:48:55.515Z"
+      "updated": "2026-10-23T22:53:40.256Z",
+      "fieldReviews": {
+        "color": "2026-10-23T22:53:40.256Z"
+      }
     },
     "244df801764106c7af9a0e339a527b61a607c68175f0b80bd0067ae10ff0f39e": {
       "id": "244df801764106c7af9a0e339a527b61a607c68175f0b80bd0067ae10ff0f39e",
@@ -5823,9 +5837,10 @@
         "highlights": [
           "Bailarines"
         ],
-        "signature": "BIX-22"
+        "signature": "BIX-22",
+        "color": "byn"
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "62d2b988d4fbd905",
       "media": {
         "thumb": "media/bixio/b9c17789e39487ae2cdd3f1694363dd1159056b642231fbf0d7a3b5874f86c26-62d2b988d4fbd905-thumb.webp",
@@ -5833,7 +5848,10 @@
         "w": 1402,
         "h": 2200
       },
-      "updated": "2026-10-23T22:17:10.930Z"
+      "updated": "2026-10-23T22:53:40.256Z",
+      "fieldReviews": {
+        "color": "2026-10-23T22:53:40.256Z"
+      }
     },
     "06ed9b6a030075563303891e939c083a46d2f4059c2b4ce4fc8708183ab59fec": {
       "id": "06ed9b6a030075563303891e939c083a46d2f4059c2b4ce4fc8708183ab59fec",
@@ -6518,14 +6536,20 @@
       "relative": "img212.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
       "status": "pending",
-      "record": {},
-      "revision": 0,
+      "record": {
+        "color": "byn"
+      },
+      "revision": 1,
       "fingerprint": "80f8110101782de1",
       "media": {
         "thumb": "media/bixio/5bb39666d5318cfc7603dc83d893fefcfd605ddc81ee9ef606ea012f83b071a0-80f8110101782de1-thumb.webp",
         "src": "media/bixio/5bb39666d5318cfc7603dc83d893fefcfd605ddc81ee9ef606ea012f83b071a0-80f8110101782de1.webp",
         "w": 1827,
         "h": 2200
+      },
+      "updated": "2026-10-23T22:53:40.256Z",
+      "fieldReviews": {
+        "color": "2026-10-23T22:53:40.256Z"
       }
     },
     "dd1558a903aa5282aa6d17b89977b06a4cf225bdaad37da8f31219a5f321b903": {
@@ -6899,7 +6923,7 @@
     "BIX-21": "Bixio - Firma en relieve",
     "BIX-22": "Bixio - Firma caligráfica"
   },
-  "updated": "2026-10-23T22:53:23.453Z",
+  "updated": "2026-10-23T22:53:41.598Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
