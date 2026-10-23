@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "6373f9f3-e202-414e-bb32-4b64d6394fb2",
+  "version": "53c295c3-9dd2-4dec-a8bc-482148f5d006",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -6193,9 +6193,10 @@
     "BIX-18": "Monograma circular - F. Bixio y Cia. 181. Buen Orden. 185. Buenos Aires",
     "BIX-19": "Bixio - Buenos Aires",
     "BIX-20": "F. Bixio y Cia. M. R.",
-    "BIX-21": "Bixio - Firma en relieve"
+    "BIX-21": "Bixio - Firma en relieve",
+    "BIX-22": "Bixio - Firma caligráfica"
   },
-  "updated": "2026-10-23T22:14:51.826Z",
+  "updated": "2026-10-23T22:16:06.867Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
