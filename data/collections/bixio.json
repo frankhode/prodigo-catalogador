@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "a7351797-dd65-43ea-a19d-dfdc8fe66793",
+  "version": "c85f1150-8870-4910-8077-640f0e72b1a7",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -4690,16 +4690,36 @@
       "id": "eba0418a22260e75ae10098d6389577c8394aa5753290d9059bedaa2a6fd4c5c",
       "relative": "img156.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "author": "Florencio Bixio",
+        "kind": "Retrato",
+        "portrait": "Múltiple",
+        "frame": "Medio cuerpo",
+        "direction": "Mixta",
+        "environment": "Estudio",
+        "people": [
+          "Hombres"
+        ],
+        "objects": [],
+        "highlights": [
+          "Sombrero",
+          "Vestimenta",
+          "Anteojos",
+          "Bigote"
+        ],
+        "signature": "BIX-06"
+      },
+      "revision": 1,
       "fingerprint": "41670e862e51c68e",
       "media": {
         "thumb": "media/bixio/eba0418a22260e75ae10098d6389577c8394aa5753290d9059bedaa2a6fd4c5c-41670e862e51c68e-thumb.webp",
         "src": "media/bixio/eba0418a22260e75ae10098d6389577c8394aa5753290d9059bedaa2a6fd4c5c-41670e862e51c68e.webp",
         "w": 2200,
         "h": 1374
-      }
+      },
+      "updated": "2026-10-23T21:41:00.522Z"
     },
     "58ff60568909c75b3a74403fbe28fc32e8638c0e889757adef8e1930c02e8c36": {
       "id": "58ff60568909c75b3a74403fbe28fc32e8638c0e889757adef8e1930c02e8c36",
@@ -5817,7 +5837,7 @@
     "BIX-16": "Florencio Bixio & Cia. - B. de Irigoyen 185 - B. Aires",
     "BIX-17": "Fillebrown - Florida 55 Buenos Aires"
   },
-  "updated": "2026-10-23T21:40:05.351Z",
+  "updated": "2026-10-23T21:41:01.940Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
