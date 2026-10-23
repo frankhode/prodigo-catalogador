@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "d39b2bbe-3a28-4966-ba6a-db7dd478d205",
+  "version": "6e17c15c-d327-4122-8a07-a9e61b16e94c",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -5641,16 +5641,27 @@
       "id": "c7b114f6ab2cacb93f8d4501f52dd88fe9df061ef649f76013c521227d917343",
       "relative": "img188.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Reverso",
+        "parent": "ebaf921b8fb84e8b50de1b9d498eaf0d00025615e0bfa4a2ba47554fccf5d74b",
+        "people": [],
+        "objects": [],
+        "highlights": [],
+        "notes": "A la amiga de todos los momentos y flia. Clara D. de Pirez y sus amigas\nSara y Aurora Cornejo Allende\n4/8/50",
+        "portrait": "",
+        "frame": "",
+        "direction": ""
+      },
+      "revision": 1,
       "fingerprint": "696283da21659d90",
       "media": {
         "thumb": "media/bixio/c7b114f6ab2cacb93f8d4501f52dd88fe9df061ef649f76013c521227d917343-696283da21659d90-thumb.webp",
         "src": "media/bixio/c7b114f6ab2cacb93f8d4501f52dd88fe9df061ef649f76013c521227d917343-696283da21659d90.webp",
         "w": 1474,
         "h": 2200
-      }
+      },
+      "updated": "2026-10-23T22:23:47.391Z"
     },
     "bd29635b5f7de4157575b6d0f69ccceb76f4fac8c3e0ff1cf12585770e33939d": {
       "id": "bd29635b5f7de4157575b6d0f69ccceb76f4fac8c3e0ff1cf12585770e33939d",
@@ -6299,7 +6310,7 @@
     "BIX-21": "Bixio - Firma en relieve",
     "BIX-22": "Bixio - Firma caligráfica"
   },
-  "updated": "2026-10-23T22:22:06.649Z",
+  "updated": "2026-10-23T22:23:49.245Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
