@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "c155c2b4-f837-4974-ab7e-01660bfdbd43",
+  "version": "554afc96-cccf-4ebe-8ec4-bdbed3595870",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -7698,7 +7698,7 @@
       "id": "c5cc5ece3c4a787d782d462deebdecf1b530367479330701a26dc54b9c4fee62",
       "relative": "img224.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
-      "status": "pending",
+      "status": "done",
       "record": {
         "color": "sepia",
         "author": "Florencio Bixio",
@@ -7714,9 +7714,10 @@
         ],
         "highlights": [
           "Vestimenta"
-        ]
+        ],
+        "signature": "BIX-04"
       },
-      "revision": 10,
+      "revision": 11,
       "fingerprint": "e029d379d67931b0",
       "media": {
         "thumb": "media/bixio/c5cc5ece3c4a787d782d462deebdecf1b530367479330701a26dc54b9c4fee62-e029d379d67931b0-thumb.webp",
@@ -7724,7 +7725,7 @@
         "w": 1411,
         "h": 2200
       },
-      "updated": "2026-10-23T23:27:00.327Z",
+      "updated": "2026-10-23T23:46:07.095Z",
       "fieldReviews": {
         "color": "2026-10-23T22:53:06.216Z",
         "author": "2026-10-23T22:57:57.306Z",
@@ -7913,7 +7914,7 @@
     "BIX-25": "F. Bixio y Cia - Firma caligráfica",
     "BIX-26": "F. Bixio y Cia B. de Irigoyen 185 B. Aires - Caligráfica"
   },
-  "updated": "2026-10-23T23:45:49.576Z",
+  "updated": "2026-10-23T23:46:08.438Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
