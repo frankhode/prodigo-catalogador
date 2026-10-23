@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "8ae3f1a5-c7b7-40d1-aff0-727385a467b8",
+  "version": "6373f9f3-e202-414e-bb32-4b64d6394fb2",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -5401,16 +5401,35 @@
       "id": "e51e028ca704005894388a489b60f8ed27c39fe8c7180119a5314b48dabd05fc",
       "relative": "img180.tif",
       "folder": "d4cd27333803e2775b57604ee8f7834a305f1fc9f4ec4fe1c310b67731b84982",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "author": "Florencio Bixio",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Medio cuerpo",
+        "direction": "Tres cuartos",
+        "environment": "Estudio",
+        "people": [
+          "Niñas"
+        ],
+        "objects": [
+          "Muñeca"
+        ],
+        "highlights": [
+          "Vestimenta"
+        ],
+        "signature": "BIX-21"
+      },
+      "revision": 1,
       "fingerprint": "98aa538dc82e7cdf",
       "media": {
         "thumb": "media/bixio/e51e028ca704005894388a489b60f8ed27c39fe8c7180119a5314b48dabd05fc-98aa538dc82e7cdf-thumb.webp",
         "src": "media/bixio/e51e028ca704005894388a489b60f8ed27c39fe8c7180119a5314b48dabd05fc-98aa538dc82e7cdf.webp",
         "w": 1511,
         "h": 2200
-      }
+      },
+      "updated": "2026-10-23T22:14:50.318Z"
     },
     "4be4e2a4a93d6627b5d2ad8c561b24fd0ab495ac92f8cd65bbfd1d7d1140d607": {
       "id": "4be4e2a4a93d6627b5d2ad8c561b24fd0ab495ac92f8cd65bbfd1d7d1140d607",
@@ -6121,7 +6140,8 @@
       "Abanico",
       "Pelotas",
       "Aro",
-      "Libros"
+      "Libros",
+      "Muñeca"
     ],
     "highlights": [
       "Vestimenta",
@@ -6175,7 +6195,7 @@
     "BIX-20": "F. Bixio y Cia. M. R.",
     "BIX-21": "Bixio - Firma en relieve"
   },
-  "updated": "2026-10-23T22:14:02.753Z",
+  "updated": "2026-10-23T22:14:51.826Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
