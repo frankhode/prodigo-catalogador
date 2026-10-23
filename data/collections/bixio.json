@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "Bixio",
-  "version": "e77fdc87-6b24-435c-b2b3-fb0559ca154b",
+  "version": "374162a0-9394-4c99-9f6f-60add7ea751b",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -5777,9 +5777,10 @@
     "BIX-13": "Monograma Mar del Plata — 1927 Mar del Plata",
     "BIX-14": "Monograma Mar del Plata",
     "BIX-15": "Monograma oval F. Bixio y Cia.",
-    "BIX-16": "Florencio Bixio & Cia. - B. de Irigoyen 185 - B. Aires"
+    "BIX-16": "Florencio Bixio & Cia. - B. de Irigoyen 185 - B. Aires",
+    "BIX-17": "Fillebrown - Florida 55 Buenos Aires"
   },
-  "updated": "2026-10-23T21:28:15.660Z",
+  "updated": "2026-10-23T21:29:13.747Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
