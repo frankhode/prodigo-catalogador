@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio-y-castiglioni",
   "name": "Bixio y Castiglioni",
-  "version": "2ec0039d-6daa-4ac9-be1d-f6a660b7fba3",
+  "version": "55efcfc7-56b9-45db-a2da-f9153f347313",
   "folders": {
     "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3": {
       "name": "bixio y castiglioni",
@@ -933,16 +933,34 @@
       "id": "c90e328bbce538b4ea146dab29ee099f887bc88e3be038a5bc45006c7084b62e",
       "relative": "img260.tif",
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "27035",
+        "date": "1928",
+        "displayOrder": 2,
+        "author": "Bixio & Castiglioni",
+        "people": [
+          "Niñas"
+        ],
+        "objects": [],
+        "highlights": [
+          "Vestimenta"
+        ],
+        "signature": "FIR-03",
+        "portrait": "",
+        "frame": "",
+        "direction": ""
+      },
+      "revision": 1,
       "fingerprint": "d79e210e6eef8962",
       "media": {
         "thumb": "media/bixio-y-castiglioni/c90e328bbce538b4ea146dab29ee099f887bc88e3be038a5bc45006c7084b62e-d79e210e6eef8962-thumb.webp",
         "src": "media/bixio-y-castiglioni/c90e328bbce538b4ea146dab29ee099f887bc88e3be038a5bc45006c7084b62e-d79e210e6eef8962.webp",
         "w": 1664,
         "h": 2200
-      }
+      },
+      "updated": "2026-10-26T23:04:42.614Z"
     },
     "b1790ec40ae13cd3fdc84a3e08196614980194b9754fcc3b11b7e9d975f5ad69": {
       "id": "b1790ec40ae13cd3fdc84a3e08196614980194b9754fcc3b11b7e9d975f5ad69",
@@ -2500,7 +2518,7 @@
     "FIR-02": "Rectángulo varios niveles - Bixio & Castiglioni Pellegrini 760. B.A.",
     "FIR-03": "Rectángulo en relieve - Bixio y Castiglioni. C. Pellegrini 760. Buenos Aires"
   },
-  "updated": "2026-10-26T23:03:34.210Z",
+  "updated": "2026-10-26T23:04:44.245Z",
   "authors": [
     "Bixio & Castiglioni"
   ]
