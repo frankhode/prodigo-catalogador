@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio-y-castiglioni",
   "name": "Bixio y Castiglioni",
-  "version": "e478fd5d-df91-45c3-a6b3-fe59403c2574",
+  "version": "93c4838a-160f-4da9-ae0f-8d6f7dd3290f",
   "folders": {
     "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3": {
       "name": "bixio y castiglioni",
@@ -224,16 +224,27 @@
       "id": "1db8bdeecc3a9d3304d90f04cfff8067386c7534c724f900917d5da5d91866db",
       "relative": "img234.tif",
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Reverso",
+        "parent": "0247d133264c4ff9efa3c1faf2308df9d0d5e041929d9d0654a635b7ee1252b1",
+        "people": [],
+        "objects": [],
+        "highlights": [],
+        "notes": "Recuerdo de mi primera comunión\nMaría Ares Arizaga\n8 de Diciembre de 1933",
+        "portrait": "",
+        "frame": "",
+        "direction": ""
+      },
+      "revision": 1,
       "fingerprint": "a37d8c1842a455cf",
       "media": {
         "thumb": "media/bixio-y-castiglioni/1db8bdeecc3a9d3304d90f04cfff8067386c7534c724f900917d5da5d91866db-a37d8c1842a455cf-thumb.webp",
         "src": "media/bixio-y-castiglioni/1db8bdeecc3a9d3304d90f04cfff8067386c7534c724f900917d5da5d91866db-a37d8c1842a455cf.webp",
         "w": 1615,
         "h": 2200
-      }
+      },
+      "updated": "2026-10-26T22:10:13.473Z"
     },
     "46cebdb8bb707831c569d653722d259cd58ea74132270b77c7aae0fbe6ecfc66": {
       "id": "46cebdb8bb707831c569d653722d259cd58ea74132270b77c7aae0fbe6ecfc66",
@@ -2173,7 +2184,7 @@
     "FIR-01": "Bixio & Castiglioni - C. Pellegrini 760 - B. Aires",
     "FIR-02": "Rectángulo varios niveles - Bixio & Castiglioni Pellegrini 760. B.A."
   },
-  "updated": "2026-10-26T22:09:30.477Z",
+  "updated": "2026-10-26T22:10:14.958Z",
   "authors": [
     "Bixio & Castiglioni"
   ]
