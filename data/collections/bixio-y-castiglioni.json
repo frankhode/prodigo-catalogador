@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio-y-castiglioni",
   "name": "Bixio y Castiglioni",
-  "version": "06d61577-8067-4cb2-9f5a-c8986a2e385b",
+  "version": "062edb16-5119-4924-97d3-12cb549aeb60",
   "folders": {
     "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3": {
       "name": "bixio y castiglioni",
@@ -652,16 +652,34 @@
       "id": "ecfc76297d2abd5830eddf9c1d32f8b195a1f23c5be1d4b13678c6ea1a7ce3ec",
       "relative": "img250.tif",
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "27035",
+        "date": "1928",
+        "author": "Bixio & Castiglioni",
+        "people": [
+          "Mujeres",
+          "Niñas"
+        ],
+        "objects": [],
+        "highlights": [
+          "Peinado"
+        ],
+        "signature": "FIR-03",
+        "portrait": "",
+        "frame": "",
+        "direction": ""
+      },
+      "revision": 1,
       "fingerprint": "ecfb79f1257059b0",
       "media": {
         "thumb": "media/bixio-y-castiglioni/ecfc76297d2abd5830eddf9c1d32f8b195a1f23c5be1d4b13678c6ea1a7ce3ec-ecfb79f1257059b0-thumb.webp",
         "src": "media/bixio-y-castiglioni/ecfc76297d2abd5830eddf9c1d32f8b195a1f23c5be1d4b13678c6ea1a7ce3ec-ecfb79f1257059b0.webp",
         "w": 1660,
         "h": 2200
-      }
+      },
+      "updated": "2026-10-26T22:22:24.602Z"
     },
     "3029d753f2e62c8a12887574cfd5e2e7a1af157f50ace30f3d62ecdef547a652": {
       "id": "3029d753f2e62c8a12887574cfd5e2e7a1af157f50ace30f3d62ecdef547a652",
@@ -2357,7 +2375,8 @@
     ],
     "highlights": [
       "Primera comunión",
-      "Vestimenta"
+      "Vestimenta",
+      "Peinado"
     ]
   },
   "signatures": {
@@ -2367,7 +2386,7 @@
     "FIR-02": "Rectángulo varios niveles - Bixio & Castiglioni Pellegrini 760. B.A.",
     "FIR-03": "Rectángulo en relieve - Bixio y Castiglioni. C. Pellegrini 760. Buenos Aires"
   },
-  "updated": "2026-10-26T22:21:16.706Z",
+  "updated": "2026-10-26T22:22:26.149Z",
   "authors": [
     "Bixio & Castiglioni"
   ]
