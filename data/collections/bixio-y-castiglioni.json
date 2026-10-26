@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio-y-castiglioni",
   "name": "Bixio y Castiglioni",
-  "version": "83a3493a-25e6-42ae-9e9c-157e683b8f26",
+  "version": "bd94e9ab-4155-4c7b-8892-5a1470b1d856",
   "folders": {
     "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3": {
       "name": "bixio y castiglioni",
@@ -980,9 +980,10 @@
         "displayOrder": 3,
         "portrait": "",
         "frame": "",
-        "direction": ""
+        "direction": "",
+        "color": ""
       },
-      "revision": 2,
+      "revision": 3,
       "fingerprint": "de8fb45a61e2f03c",
       "media": {
         "thumb": "media/bixio-y-castiglioni/3993948e07728bab8e9df77db03117b4f464ff80b83bd1a6f7543f7b4995dba5-de8fb45a61e2f03c-thumb.webp",
@@ -990,7 +991,10 @@
         "w": 1667,
         "h": 2200
       },
-      "updated": "2026-10-26T23:07:05.864Z"
+      "updated": "2026-10-26T23:27:56.759Z",
+      "fieldReviews": {
+        "color": "2026-10-26T23:27:56.759Z"
+      }
     },
     "1bb5149108726185529c676977c76b8c9ec222a4de83cb427d013c92e0540636": {
       "id": "1bb5149108726185529c676977c76b8c9ec222a4de83cb427d013c92e0540636",
@@ -1145,9 +1149,10 @@
         "displayOrder": 1,
         "portrait": "",
         "frame": "",
-        "direction": ""
+        "direction": "",
+        "color": ""
       },
-      "revision": 2,
+      "revision": 3,
       "fingerprint": "97559791a7df3560",
       "media": {
         "thumb": "media/bixio-y-castiglioni/1301eb8ec6b647a6182c7ac569217a3e605b9564af0b444276bf2bee9a888e89-97559791a7df3560-thumb.webp",
@@ -1155,7 +1160,10 @@
         "w": 1395,
         "h": 2200
       },
-      "updated": "2026-10-26T23:10:22.529Z"
+      "updated": "2026-10-26T23:27:56.759Z",
+      "fieldReviews": {
+        "color": "2026-10-26T23:27:56.759Z"
+      }
     },
     "2ab408bb84aa9c75ba490cb0ae836f7605e471b894329dcc534db200a35ba790": {
       "id": "2ab408bb84aa9c75ba490cb0ae836f7605e471b894329dcc534db200a35ba790",
@@ -2912,7 +2920,7 @@
     "FIR-02": "Rectángulo varios niveles - Bixio & Castiglioni Pellegrini 760. B.A.",
     "FIR-03": "Rectángulo en relieve - Bixio y Castiglioni. C. Pellegrini 760. Buenos Aires"
   },
-  "updated": "2026-10-26T23:27:45.815Z",
+  "updated": "2026-10-26T23:27:58.129Z",
   "authors": [
     "Bixio & Castiglioni"
   ]
