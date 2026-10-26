@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio-y-castiglioni",
   "name": "Bixio y Castiglioni",
-  "version": "6e6f9081-51a9-4d58-bd15-a5fcbeee75ae",
+  "version": "46acdb6e-3c73-4c1e-866f-b72a6d42412e",
   "folders": {
     "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3": {
       "name": "bixio y castiglioni",
@@ -65,10 +65,10 @@
         "author": ""
       },
       "revision": 5,
-      "fingerprint": "c52ecde6789da67e",
+      "fingerprint": "c9044a91651764b8",
       "media": {
-        "thumb": "media/bixio-y-castiglioni/19c90e71317fcce17bfbd3f9d6bdc43b4988ae667a195cf0189de491012ba202-c52ecde6789da67e-thumb.webp",
-        "src": "media/bixio-y-castiglioni/19c90e71317fcce17bfbd3f9d6bdc43b4988ae667a195cf0189de491012ba202-c52ecde6789da67e.webp",
+        "thumb": "media/bixio-y-castiglioni/19c90e71317fcce17bfbd3f9d6bdc43b4988ae667a195cf0189de491012ba202-c9044a91651764b8-thumb.webp",
+        "src": "media/bixio-y-castiglioni/19c90e71317fcce17bfbd3f9d6bdc43b4988ae667a195cf0189de491012ba202-c9044a91651764b8.webp",
         "w": 1478,
         "h": 2200
       },
@@ -3833,6 +3833,66 @@
         "color": "2026-10-26T23:27:44.288Z",
         "kind": "2026-10-26T23:37:11.256Z"
       }
+    },
+    "140b0f3327443391ec5f5c721850375b1d701fa5a4408f34b37c888f7f912bea": {
+      "id": "140b0f3327443391ec5f5c721850375b1d701fa5a4408f34b37c888f7f912bea",
+      "relative": "img288.tif",
+      "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
+      "status": "pending",
+      "record": {},
+      "revision": 0,
+      "fingerprint": "d4e56b67fbc11521",
+      "media": {
+        "thumb": "media/bixio-y-castiglioni/140b0f3327443391ec5f5c721850375b1d701fa5a4408f34b37c888f7f912bea-d4e56b67fbc11521-thumb.webp",
+        "src": "media/bixio-y-castiglioni/140b0f3327443391ec5f5c721850375b1d701fa5a4408f34b37c888f7f912bea-d4e56b67fbc11521.webp",
+        "w": 1356,
+        "h": 1035
+      }
+    },
+    "14a7ae796876fcb51e0142eac567649b1fd9c0f7710239a0e577e5cdc43d8d03": {
+      "id": "14a7ae796876fcb51e0142eac567649b1fd9c0f7710239a0e577e5cdc43d8d03",
+      "relative": "img296.tif",
+      "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
+      "status": "pending",
+      "record": {},
+      "revision": 0,
+      "fingerprint": "39525e8462f38a2e",
+      "media": {
+        "thumb": "media/bixio-y-castiglioni/14a7ae796876fcb51e0142eac567649b1fd9c0f7710239a0e577e5cdc43d8d03-39525e8462f38a2e-thumb.webp",
+        "src": "media/bixio-y-castiglioni/14a7ae796876fcb51e0142eac567649b1fd9c0f7710239a0e577e5cdc43d8d03-39525e8462f38a2e.webp",
+        "w": 1129,
+        "h": 711
+      }
+    },
+    "d4d2a82c0380472d40e9a3282fb3064b5696960ff3b69712d4b8f069b321a3da": {
+      "id": "d4d2a82c0380472d40e9a3282fb3064b5696960ff3b69712d4b8f069b321a3da",
+      "relative": "img299.tif",
+      "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
+      "status": "pending",
+      "record": {},
+      "revision": 0,
+      "fingerprint": "d0df91a4bb5d6dd8",
+      "media": {
+        "thumb": "media/bixio-y-castiglioni/d4d2a82c0380472d40e9a3282fb3064b5696960ff3b69712d4b8f069b321a3da-d0df91a4bb5d6dd8-thumb.webp",
+        "src": "media/bixio-y-castiglioni/d4d2a82c0380472d40e9a3282fb3064b5696960ff3b69712d4b8f069b321a3da-d0df91a4bb5d6dd8.webp",
+        "w": 1190,
+        "h": 803
+      }
+    },
+    "bc215b5769d63be91cec3f8646161d087b5deabc07471bb603993afa571ee9cb": {
+      "id": "bc215b5769d63be91cec3f8646161d087b5deabc07471bb603993afa571ee9cb",
+      "relative": "img301.tif",
+      "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
+      "status": "pending",
+      "record": {},
+      "revision": 0,
+      "fingerprint": "0feab30f5a7f734c",
+      "media": {
+        "thumb": "media/bixio-y-castiglioni/bc215b5769d63be91cec3f8646161d087b5deabc07471bb603993afa571ee9cb-0feab30f5a7f734c-thumb.webp",
+        "src": "media/bixio-y-castiglioni/bc215b5769d63be91cec3f8646161d087b5deabc07471bb603993afa571ee9cb-0feab30f5a7f734c.webp",
+        "w": 1190,
+        "h": 803
+      }
     }
   },
   "terms": {
@@ -3860,7 +3920,7 @@
     "FIR-02": "Rectángulo varios niveles - Bixio & Castiglioni Pellegrini 760. B.A.",
     "FIR-03": "Rectángulo en relieve - Bixio y Castiglioni. C. Pellegrini 760. Buenos Aires"
   },
-  "updated": "2026-10-26T23:50:35.424Z",
+  "updated": "2026-10-26T23:52:29.172Z",
   "authors": [
     "Bixio & Castiglioni",
     "E. Masoni",
