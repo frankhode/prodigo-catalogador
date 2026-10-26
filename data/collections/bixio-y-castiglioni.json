@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio-y-castiglioni",
   "name": "Bixio y Castiglioni",
-  "version": "ec4c215b-bf86-4500-a378-81666df09c2f",
+  "version": "c45f177e-06a1-46e7-ac66-cac89b65d8cc",
   "folders": {
     "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3": {
       "name": "bixio y castiglioni",
@@ -305,12 +305,12 @@
         ],
         "signature": "FIR-02",
         "portrait": "Grupal",
-        "frame": "",
+        "frame": "Tres cuartos",
         "direction": "",
         "color": "sepia",
         "kind": "Retrato"
       },
-      "revision": 4,
+      "revision": 5,
       "fingerprint": "237a31c8c12999f7",
       "media": {
         "thumb": "media/bixio-y-castiglioni/46cebdb8bb707831c569d653722d259cd58ea74132270b77c7aae0fbe6ecfc66-237a31c8c12999f7-thumb.webp",
@@ -318,11 +318,12 @@
         "w": 1631,
         "h": 2200
       },
-      "updated": "2026-10-26T23:40:15.714Z",
+      "updated": "2026-10-26T23:43:10.247Z",
       "fieldReviews": {
         "color": "2026-10-26T23:26:08.719Z",
         "kind": "2026-10-26T23:37:43.648Z",
-        "portrait": "2026-10-26T23:40:15.714Z"
+        "portrait": "2026-10-26T23:40:15.714Z",
+        "frame": "2026-10-26T23:43:10.247Z"
       }
     },
     "4d780db29f2cee627beef0b351ad6397dcfc68aa5c2652966c0eccdd1dd56193": {
@@ -3813,7 +3814,7 @@
     "FIR-02": "Rectángulo varios niveles - Bixio & Castiglioni Pellegrini 760. B.A.",
     "FIR-03": "Rectángulo en relieve - Bixio y Castiglioni. C. Pellegrini 760. Buenos Aires"
   },
-  "updated": "2026-10-26T23:43:04.644Z",
+  "updated": "2026-10-26T23:43:11.612Z",
   "authors": [
     "Bixio & Castiglioni"
   ]
