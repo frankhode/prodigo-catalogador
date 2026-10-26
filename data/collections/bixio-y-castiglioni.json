@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio-y-castiglioni",
   "name": "Bixio y Castiglioni",
-  "version": "9182be7b-28bf-4cdc-8c62-d624a5ff973f",
+  "version": "e0e00f08-d6ab-4e06-a98f-8dfdc0af7f97",
   "folders": {
     "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3": {
       "name": "bixio y castiglioni",
@@ -709,9 +709,10 @@
         "portrait": "",
         "frame": "",
         "direction": "",
-        "notes": "Junio de 1928\nLucy"
+        "notes": "Junio de 1928\nLucy",
+        "displayOrder": 4
       },
-      "revision": 2,
+      "revision": 3,
       "fingerprint": "d93ad8fd6ce9069c",
       "media": {
         "thumb": "media/bixio-y-castiglioni/3029d753f2e62c8a12887574cfd5e2e7a1af157f50ace30f3d62ecdef547a652-d93ad8fd6ce9069c-thumb.webp",
@@ -719,7 +720,7 @@
         "w": 1657,
         "h": 2200
       },
-      "updated": "2026-10-26T22:23:40.611Z"
+      "updated": "2026-10-26T22:28:25.750Z"
     },
     "279ebacc57603d8e8bdd798fde7703e01bbf67337de71a9fcb02fb85814dd20e": {
       "id": "279ebacc57603d8e8bdd798fde7703e01bbf67337de71a9fcb02fb85814dd20e",
@@ -2444,7 +2445,7 @@
     "FIR-02": "Rectángulo varios niveles - Bixio & Castiglioni Pellegrini 760. B.A.",
     "FIR-03": "Rectángulo en relieve - Bixio y Castiglioni. C. Pellegrini 760. Buenos Aires"
   },
-  "updated": "2026-10-26T22:27:19.474Z",
+  "updated": "2026-10-26T22:28:27.167Z",
   "authors": [
     "Bixio & Castiglioni"
   ]
