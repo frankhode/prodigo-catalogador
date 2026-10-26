@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio-y-castiglioni",
   "name": "Bixio y Castiglioni",
-  "version": "d3e73ffa-2ff8-45a8-ae43-efc935ad8321",
+  "version": "06d61577-8067-4cb2-9f5a-c8986a2e385b",
   "folders": {
     "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3": {
       "name": "bixio y castiglioni",
@@ -590,16 +590,33 @@
       "id": "2d553606e74e7535b72dcd30c91d3c2bbe2d92564c1d940d825c37c1a7a31a91",
       "relative": "img247.tif",
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "author": "Bixio & Castiglioni",
+        "people": [
+          "Niñas",
+          "Mujeres",
+          "Niños"
+        ],
+        "objects": [],
+        "highlights": [
+          "Primera comunión"
+        ],
+        "signature": "FIR-03",
+        "portrait": "",
+        "frame": "",
+        "direction": ""
+      },
+      "revision": 1,
       "fingerprint": "7e55d09514520df4",
       "media": {
         "thumb": "media/bixio-y-castiglioni/2d553606e74e7535b72dcd30c91d3c2bbe2d92564c1d940d825c37c1a7a31a91-7e55d09514520df4-thumb.webp",
         "src": "media/bixio-y-castiglioni/2d553606e74e7535b72dcd30c91d3c2bbe2d92564c1d940d825c37c1a7a31a91-7e55d09514520df4.webp",
         "w": 750,
         "h": 1054
-      }
+      },
+      "updated": "2026-10-26T22:21:15.218Z"
     },
     "cfe30696cb0223e65e231f1e03d4e64873b2e48e5cfe78bae9560258c47254fd": {
       "id": "cfe30696cb0223e65e231f1e03d4e64873b2e48e5cfe78bae9560258c47254fd",
@@ -2332,7 +2349,8 @@
       "Mujeres",
       "Bebés",
       "Niñas",
-      "Hombres"
+      "Hombres",
+      "Niños"
     ],
     "objects": [
       "Abanico"
@@ -2349,7 +2367,7 @@
     "FIR-02": "Rectángulo varios niveles - Bixio & Castiglioni Pellegrini 760. B.A.",
     "FIR-03": "Rectángulo en relieve - Bixio y Castiglioni. C. Pellegrini 760. Buenos Aires"
   },
-  "updated": "2026-10-26T22:21:05.528Z",
+  "updated": "2026-10-26T22:21:16.706Z",
   "authors": [
     "Bixio & Castiglioni"
   ]
