@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio-y-castiglioni",
   "name": "Bixio y Castiglioni",
-  "version": "910aa9b4-1adb-4b26-b9f0-8862218b6bbd",
+  "version": "cd8be2c3-f1ee-49f1-bab1-fa89a202034a",
   "folders": {
     "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3": {
       "name": "bixio y castiglioni",
@@ -49,7 +49,7 @@
       "id": "19c90e71317fcce17bfbd3f9d6bdc43b4988ae667a195cf0189de491012ba202",
       "relative": "img228.tif",
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
-      "status": "draft",
+      "status": "done",
       "record": {
         "side": "Reverso",
         "parent": "fb962eecbf1e81969c54567d707196cafe78a3db4e3be685899e3870bda279a5",
@@ -58,9 +58,10 @@
         "highlights": [],
         "portrait": "",
         "frame": "",
-        "direction": ""
+        "direction": "",
+        "notes": "[nota manuscrita] 1 Enero 1926"
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "c52ecde6789da67e",
       "media": {
         "thumb": "media/bixio-y-castiglioni/19c90e71317fcce17bfbd3f9d6bdc43b4988ae667a195cf0189de491012ba202-c52ecde6789da67e-thumb.webp",
@@ -68,7 +69,7 @@
         "w": 1478,
         "h": 2200
       },
-      "updated": "2026-10-26T21:18:27.086Z"
+      "updated": "2026-10-26T21:19:18.870Z"
     },
     "5919575001e4a34aa0effbe5fa8f93f99d72c80471952346e3ab3f9ae4168c70": {
       "id": "5919575001e4a34aa0effbe5fa8f93f99d72c80471952346e3ab3f9ae4168c70",
@@ -2094,7 +2095,7 @@
     "unidentified": "Por identificar",
     "FIR-01": "Bixio & Castiglioni - C. Pellegrini 760 - B. Aires"
   },
-  "updated": "2026-10-26T21:18:44.203Z",
+  "updated": "2026-10-26T21:19:20.368Z",
   "authors": [
     "Bixio & Castiglioni"
   ]
