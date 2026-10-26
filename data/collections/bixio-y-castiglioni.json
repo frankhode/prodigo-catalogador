@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio-y-castiglioni",
   "name": "Bixio y Castiglioni",
-  "version": "61a5303d-e4e1-4427-be1a-f7954f484638",
+  "version": "e9c32267-5e10-415b-862b-799664dcb04d",
   "folders": {
     "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3": {
       "name": "bixio y castiglioni",
@@ -60,9 +60,10 @@
         "frame": "",
         "direction": "",
         "notes": "[nota manuscrita] 1 Enero 1926",
-        "color": ""
+        "color": "",
+        "kind": ""
       },
-      "revision": 3,
+      "revision": 4,
       "fingerprint": "c52ecde6789da67e",
       "media": {
         "thumb": "media/bixio-y-castiglioni/19c90e71317fcce17bfbd3f9d6bdc43b4988ae667a195cf0189de491012ba202-c52ecde6789da67e-thumb.webp",
@@ -70,9 +71,10 @@
         "w": 1478,
         "h": 2200
       },
-      "updated": "2026-10-26T23:27:44.288Z",
+      "updated": "2026-10-26T23:36:34.175Z",
       "fieldReviews": {
-        "color": "2026-10-26T23:27:44.288Z"
+        "color": "2026-10-26T23:27:44.288Z",
+        "kind": "2026-10-26T23:36:34.175Z"
       }
     },
     "5919575001e4a34aa0effbe5fa8f93f99d72c80471952346e3ab3f9ae4168c70": {
@@ -124,9 +126,10 @@
         "portrait": "",
         "frame": "",
         "direction": "",
-        "color": ""
+        "color": "",
+        "kind": ""
       },
-      "revision": 2,
+      "revision": 3,
       "fingerprint": "244f8d898b1ba212",
       "media": {
         "thumb": "media/bixio-y-castiglioni/84e8fa55367fa59548e52a5e3b491f31b70ff9363fd5949cdaae1c916f2459ca-244f8d898b1ba212-thumb.webp",
@@ -134,9 +137,10 @@
         "w": 1462,
         "h": 2200
       },
-      "updated": "2026-10-26T23:27:44.288Z",
+      "updated": "2026-10-26T23:36:34.175Z",
       "fieldReviews": {
-        "color": "2026-10-26T23:27:44.288Z"
+        "color": "2026-10-26T23:27:44.288Z",
+        "kind": "2026-10-26T23:36:34.175Z"
       }
     },
     "d60bafcbde260c557f5456f35f4d10225ba3bdb379e4c9133a6273cd6fd9f83a": {
@@ -189,9 +193,10 @@
         "portrait": "",
         "frame": "",
         "direction": "",
-        "color": ""
+        "color": "",
+        "kind": ""
       },
-      "revision": 2,
+      "revision": 3,
       "fingerprint": "430322948fa1ad50",
       "media": {
         "thumb": "media/bixio-y-castiglioni/1e310120261d1ab54a943dd882fedcc4072c4cacda3f756a85bce0516a5595fe-430322948fa1ad50-thumb.webp",
@@ -199,9 +204,10 @@
         "w": 1467,
         "h": 2200
       },
-      "updated": "2026-10-26T23:27:44.288Z",
+      "updated": "2026-10-26T23:36:34.175Z",
       "fieldReviews": {
-        "color": "2026-10-26T23:27:44.288Z"
+        "color": "2026-10-26T23:27:44.288Z",
+        "kind": "2026-10-26T23:36:34.175Z"
       }
     },
     "0247d133264c4ff9efa3c1faf2308df9d0d5e041929d9d0654a635b7ee1252b1": {
@@ -255,9 +261,10 @@
         "portrait": "",
         "frame": "",
         "direction": "",
-        "color": ""
+        "color": "",
+        "kind": ""
       },
-      "revision": 2,
+      "revision": 3,
       "fingerprint": "a37d8c1842a455cf",
       "media": {
         "thumb": "media/bixio-y-castiglioni/1db8bdeecc3a9d3304d90f04cfff8067386c7534c724f900917d5da5d91866db-a37d8c1842a455cf-thumb.webp",
@@ -265,9 +272,10 @@
         "w": 1615,
         "h": 2200
       },
-      "updated": "2026-10-26T23:27:44.288Z",
+      "updated": "2026-10-26T23:36:34.175Z",
       "fieldReviews": {
-        "color": "2026-10-26T23:27:44.288Z"
+        "color": "2026-10-26T23:27:44.288Z",
+        "kind": "2026-10-26T23:36:34.175Z"
       }
     },
     "46cebdb8bb707831c569d653722d259cd58ea74132270b77c7aae0fbe6ecfc66": {
@@ -320,9 +328,10 @@
         "portrait": "",
         "frame": "",
         "direction": "",
-        "color": ""
+        "color": "",
+        "kind": ""
       },
-      "revision": 2,
+      "revision": 3,
       "fingerprint": "00ef7bc1913578a8",
       "media": {
         "thumb": "media/bixio-y-castiglioni/4d780db29f2cee627beef0b351ad6397dcfc68aa5c2652966c0eccdd1dd56193-00ef7bc1913578a8-thumb.webp",
@@ -330,9 +339,10 @@
         "w": 1632,
         "h": 2200
       },
-      "updated": "2026-10-26T23:27:44.288Z",
+      "updated": "2026-10-26T23:36:34.175Z",
       "fieldReviews": {
-        "color": "2026-10-26T23:27:44.288Z"
+        "color": "2026-10-26T23:27:44.288Z",
+        "kind": "2026-10-26T23:36:34.175Z"
       }
     },
     "046c44b133404516ff97088ad09024b78a3f1ff71ee89ac4a81ca4bc51662968": {
@@ -385,9 +395,10 @@
         "portrait": "",
         "frame": "",
         "direction": "",
-        "color": ""
+        "color": "",
+        "kind": ""
       },
-      "revision": 2,
+      "revision": 3,
       "fingerprint": "6b3c7be24c0618ba",
       "media": {
         "thumb": "media/bixio-y-castiglioni/f0c04e343428002b2a8b3fdb88328c702aa9b040e596a29cc5c4b375e0c94fca-6b3c7be24c0618ba-thumb.webp",
@@ -395,9 +406,10 @@
         "w": 817,
         "h": 1218
       },
-      "updated": "2026-10-26T23:27:44.288Z",
+      "updated": "2026-10-26T23:36:34.175Z",
       "fieldReviews": {
-        "color": "2026-10-26T23:27:44.288Z"
+        "color": "2026-10-26T23:27:44.288Z",
+        "kind": "2026-10-26T23:36:34.175Z"
       }
     },
     "2e7e5f04aa98bd54ef44c0c0d1d8a91b3f196274f20b91f0a39a81bb8e8ee562": {
@@ -450,9 +462,10 @@
         "portrait": "",
         "frame": "",
         "direction": "",
-        "color": ""
+        "color": "",
+        "kind": ""
       },
-      "revision": 2,
+      "revision": 3,
       "fingerprint": "6f578a15efd7a370",
       "media": {
         "thumb": "media/bixio-y-castiglioni/998f2776867ce4f1ece8aeeaca176d58f3b44f9609ffb41fd1c8f74b93edb01c-6f578a15efd7a370-thumb.webp",
@@ -460,9 +473,10 @@
         "w": 826,
         "h": 1192
       },
-      "updated": "2026-10-26T23:27:44.288Z",
+      "updated": "2026-10-26T23:36:34.175Z",
       "fieldReviews": {
-        "color": "2026-10-26T23:27:44.288Z"
+        "color": "2026-10-26T23:27:44.288Z",
+        "kind": "2026-10-26T23:36:34.175Z"
       }
     },
     "24a568cd6ad82569156f121593e593fdcc7bd946b91fbc7a4db5c60f46868bfd": {
@@ -515,9 +529,10 @@
         "portrait": "",
         "frame": "",
         "direction": "",
-        "color": ""
+        "color": "",
+        "kind": ""
       },
-      "revision": 2,
+      "revision": 3,
       "fingerprint": "eddf7f6ebf4dba84",
       "media": {
         "thumb": "media/bixio-y-castiglioni/1af5a7f22358e11b736d8e5916439c1e4311939ac009106071cd990c592f1707-eddf7f6ebf4dba84-thumb.webp",
@@ -525,9 +540,10 @@
         "w": 1540,
         "h": 2200
       },
-      "updated": "2026-10-26T23:27:44.288Z",
+      "updated": "2026-10-26T23:36:34.175Z",
       "fieldReviews": {
-        "color": "2026-10-26T23:27:44.288Z"
+        "color": "2026-10-26T23:27:44.288Z",
+        "kind": "2026-10-26T23:36:34.175Z"
       }
     },
     "19ec38b7b95963b808c95d9fb0cd2e16ed7dfd785eed4697212b79fa224b993d": {
@@ -581,9 +597,10 @@
         "portrait": "",
         "frame": "",
         "direction": "",
-        "color": ""
+        "color": "",
+        "kind": ""
       },
-      "revision": 2,
+      "revision": 3,
       "fingerprint": "4a30345300868682",
       "media": {
         "thumb": "media/bixio-y-castiglioni/0abfd1d21724c81cec8075920c0dea31f76f7a789fb6a279edcd698b1a07e46d-4a30345300868682-thumb.webp",
@@ -591,9 +608,10 @@
         "w": 823,
         "h": 1170
       },
-      "updated": "2026-10-26T23:27:44.288Z",
+      "updated": "2026-10-26T23:36:34.175Z",
       "fieldReviews": {
-        "color": "2026-10-26T23:27:44.288Z"
+        "color": "2026-10-26T23:27:44.288Z",
+        "kind": "2026-10-26T23:36:34.175Z"
       }
     },
     "7e26575706b667edfce1b04fe609ca0fb22694291b8ff5f7730df77848d4a584": {
@@ -643,9 +661,10 @@
         "portrait": "",
         "frame": "",
         "direction": "",
-        "color": ""
+        "color": "",
+        "kind": ""
       },
-      "revision": 2,
+      "revision": 3,
       "fingerprint": "717f740ee1aafc67",
       "media": {
         "thumb": "media/bixio-y-castiglioni/4c0b5ae3bcdba4f5692420e851516cfc6f3077a9b9528eebeea97c08e79512eb-717f740ee1aafc67-thumb.webp",
@@ -653,9 +672,10 @@
         "w": 826,
         "h": 1187
       },
-      "updated": "2026-10-26T23:27:44.288Z",
+      "updated": "2026-10-26T23:36:34.176Z",
       "fieldReviews": {
-        "color": "2026-10-26T23:27:44.288Z"
+        "color": "2026-10-26T23:27:44.288Z",
+        "kind": "2026-10-26T23:36:34.176Z"
       }
     },
     "2d553606e74e7535b72dcd30c91d3c2bbe2d92564c1d940d825c37c1a7a31a91": {
@@ -709,9 +729,10 @@
         "people": [],
         "objects": [],
         "highlights": [],
-        "color": ""
+        "color": "",
+        "kind": ""
       },
-      "revision": 6,
+      "revision": 7,
       "fingerprint": "a213653158a4745f",
       "media": {
         "thumb": "media/bixio-y-castiglioni/cfe30696cb0223e65e231f1e03d4e64873b2e48e5cfe78bae9560258c47254fd-a213653158a4745f-thumb.webp",
@@ -719,9 +740,10 @@
         "w": 1645,
         "h": 2200
       },
-      "updated": "2026-10-26T23:27:44.288Z",
+      "updated": "2026-10-26T23:36:34.176Z",
       "fieldReviews": {
-        "color": "2026-10-26T23:27:44.288Z"
+        "color": "2026-10-26T23:27:44.288Z",
+        "kind": "2026-10-26T23:36:34.176Z"
       }
     },
     "fba9ef7fab24948602106f74d5f9adbb110826b81344c5935639ed8f7a1ef619": {
@@ -736,9 +758,10 @@
         "frame": "",
         "direction": "",
         "displayOrder": 2,
-        "color": ""
+        "color": "",
+        "kind": ""
       },
-      "revision": 3,
+      "revision": 4,
       "fingerprint": "580ca7946d862acb",
       "media": {
         "thumb": "media/bixio-y-castiglioni/fba9ef7fab24948602106f74d5f9adbb110826b81344c5935639ed8f7a1ef619-580ca7946d862acb-thumb.webp",
@@ -746,9 +769,10 @@
         "w": 1589,
         "h": 2200
       },
-      "updated": "2026-10-26T23:27:44.288Z",
+      "updated": "2026-10-26T23:36:34.176Z",
       "fieldReviews": {
-        "color": "2026-10-26T23:27:44.288Z"
+        "color": "2026-10-26T23:27:44.288Z",
+        "kind": "2026-10-26T23:36:34.176Z"
       }
     },
     "ecfc76297d2abd5830eddf9c1d32f8b195a1f23c5be1d4b13678c6ea1a7ce3ec": {
@@ -802,9 +826,10 @@
         "direction": "",
         "notes": "Junio de 1928\nLucy",
         "displayOrder": 4,
-        "color": ""
+        "color": "",
+        "kind": ""
       },
-      "revision": 4,
+      "revision": 5,
       "fingerprint": "d93ad8fd6ce9069c",
       "media": {
         "thumb": "media/bixio-y-castiglioni/3029d753f2e62c8a12887574cfd5e2e7a1af157f50ace30f3d62ecdef547a652-d93ad8fd6ce9069c-thumb.webp",
@@ -812,9 +837,10 @@
         "w": 1657,
         "h": 2200
       },
-      "updated": "2026-10-26T23:27:44.288Z",
+      "updated": "2026-10-26T23:36:34.176Z",
       "fieldReviews": {
-        "color": "2026-10-26T23:27:44.288Z"
+        "color": "2026-10-26T23:27:44.288Z",
+        "kind": "2026-10-26T23:36:34.176Z"
       }
     },
     "279ebacc57603d8e8bdd798fde7703e01bbf67337de71a9fcb02fb85814dd20e": {
@@ -829,9 +855,10 @@
         "frame": "",
         "direction": "",
         "displayOrder": 1,
-        "color": ""
+        "color": "",
+        "kind": ""
       },
-      "revision": 3,
+      "revision": 4,
       "fingerprint": "24fd1f05a707599c",
       "media": {
         "thumb": "media/bixio-y-castiglioni/279ebacc57603d8e8bdd798fde7703e01bbf67337de71a9fcb02fb85814dd20e-24fd1f05a707599c-thumb.webp",
@@ -839,9 +866,10 @@
         "w": 1667,
         "h": 2200
       },
-      "updated": "2026-10-26T23:27:44.288Z",
+      "updated": "2026-10-26T23:36:34.176Z",
       "fieldReviews": {
-        "color": "2026-10-26T23:27:44.288Z"
+        "color": "2026-10-26T23:27:44.288Z",
+        "kind": "2026-10-26T23:36:34.176Z"
       }
     },
     "a73521e2da0cb4bc75b7c994c43b94d7e3c5e06486c1a1bfe9a2f379fc09ec1a": {
@@ -894,9 +922,10 @@
         "frame": "",
         "direction": "",
         "displayOrder": 3,
-        "color": ""
+        "color": "",
+        "kind": ""
       },
-      "revision": 3,
+      "revision": 4,
       "fingerprint": "1e7f83c54ee02ddc",
       "media": {
         "thumb": "media/bixio-y-castiglioni/7d9276b18e3be4c86bfe70c58de155d4bf0f681fc3779fafcbbaf8f585b726f9-1e7f83c54ee02ddc-thumb.webp",
@@ -904,9 +933,10 @@
         "w": 1675,
         "h": 2200
       },
-      "updated": "2026-10-26T23:27:44.288Z",
+      "updated": "2026-10-26T23:36:34.176Z",
       "fieldReviews": {
-        "color": "2026-10-26T23:27:44.288Z"
+        "color": "2026-10-26T23:27:44.288Z",
+        "kind": "2026-10-26T23:36:34.176Z"
       }
     },
     "d1dd4e79f6fb4bcf3b9650a8f23e0f5f275efe8e9766b5e98b7ddc6c578ab361": {
@@ -921,9 +951,10 @@
         "frame": "",
         "direction": "",
         "parent": "4cc3e4efe3f3f157aa46dc545264aa725d7f739d290bf18792bbc36eaf4f680c",
-        "color": ""
+        "color": "",
+        "kind": ""
       },
-      "revision": 4,
+      "revision": 5,
       "fingerprint": "69eccc64f40172c8",
       "media": {
         "thumb": "media/bixio-y-castiglioni/d1dd4e79f6fb4bcf3b9650a8f23e0f5f275efe8e9766b5e98b7ddc6c578ab361-69eccc64f40172c8-thumb.webp",
@@ -931,9 +962,10 @@
         "w": 1641,
         "h": 2200
       },
-      "updated": "2026-10-26T23:27:44.288Z",
+      "updated": "2026-10-26T23:36:34.176Z",
       "fieldReviews": {
-        "color": "2026-10-26T23:27:44.288Z"
+        "color": "2026-10-26T23:27:44.288Z",
+        "kind": "2026-10-26T23:36:34.176Z"
       }
     },
     "4cc3e4efe3f3f157aa46dc545264aa725d7f739d290bf18792bbc36eaf4f680c": {
@@ -985,9 +1017,10 @@
         "portrait": "",
         "frame": "",
         "direction": "",
-        "color": ""
+        "color": "",
+        "kind": ""
       },
-      "revision": 3,
+      "revision": 4,
       "fingerprint": "de8fb45a61e2f03c",
       "media": {
         "thumb": "media/bixio-y-castiglioni/3993948e07728bab8e9df77db03117b4f464ff80b83bd1a6f7543f7b4995dba5-de8fb45a61e2f03c-thumb.webp",
@@ -995,9 +1028,10 @@
         "w": 1667,
         "h": 2200
       },
-      "updated": "2026-10-26T23:27:56.759Z",
+      "updated": "2026-10-26T23:36:34.176Z",
       "fieldReviews": {
-        "color": "2026-10-26T23:27:56.759Z"
+        "color": "2026-10-26T23:27:56.759Z",
+        "kind": "2026-10-26T23:36:34.176Z"
       }
     },
     "1bb5149108726185529c676977c76b8c9ec222a4de83cb427d013c92e0540636": {
@@ -1046,9 +1080,10 @@
         "portrait": "",
         "frame": "",
         "direction": "",
-        "color": ""
+        "color": "",
+        "kind": ""
       },
-      "revision": 2,
+      "revision": 3,
       "fingerprint": "f8f633e9b77ee8db",
       "media": {
         "thumb": "media/bixio-y-castiglioni/a809c3cb3cb4286485117912dc8255a06eecb95edeedc2582ab74649629d89ac-f8f633e9b77ee8db-thumb.webp",
@@ -1056,9 +1091,10 @@
         "w": 1643,
         "h": 2200
       },
-      "updated": "2026-10-26T23:27:44.288Z",
+      "updated": "2026-10-26T23:36:34.176Z",
       "fieldReviews": {
-        "color": "2026-10-26T23:27:44.288Z"
+        "color": "2026-10-26T23:27:44.288Z",
+        "kind": "2026-10-26T23:36:34.176Z"
       }
     },
     "c90e328bbce538b4ea146dab29ee099f887bc88e3be038a5bc45006c7084b62e": {
@@ -1110,9 +1146,10 @@
         "portrait": "",
         "frame": "",
         "direction": "",
-        "color": ""
+        "color": "",
+        "kind": ""
       },
-      "revision": 2,
+      "revision": 3,
       "fingerprint": "b939aa904316b60d",
       "media": {
         "thumb": "media/bixio-y-castiglioni/b1790ec40ae13cd3fdc84a3e08196614980194b9754fcc3b11b7e9d975f5ad69-b939aa904316b60d-thumb.webp",
@@ -1120,9 +1157,10 @@
         "w": 1666,
         "h": 2200
       },
-      "updated": "2026-10-26T23:27:44.288Z",
+      "updated": "2026-10-26T23:36:34.176Z",
       "fieldReviews": {
-        "color": "2026-10-26T23:27:44.288Z"
+        "color": "2026-10-26T23:27:44.288Z",
+        "kind": "2026-10-26T23:36:34.176Z"
       }
     },
     "b1fe9a22c3dd63c571608d7bca04cb3d07f84e9cf971c9d4ff5ad6bf4594ff0a": {
@@ -1135,9 +1173,10 @@
         "portrait": "",
         "frame": "",
         "direction": "",
-        "color": ""
+        "color": "",
+        "kind": ""
       },
-      "revision": 2,
+      "revision": 3,
       "fingerprint": "74fa34501fb9bba6",
       "media": {
         "thumb": "media/bixio-y-castiglioni/b1fe9a22c3dd63c571608d7bca04cb3d07f84e9cf971c9d4ff5ad6bf4594ff0a-74fa34501fb9bba6-thumb.webp",
@@ -1145,9 +1184,10 @@
         "w": 2200,
         "h": 1717
       },
-      "updated": "2026-10-26T23:27:44.288Z",
+      "updated": "2026-10-26T23:36:34.176Z",
       "fieldReviews": {
-        "color": "2026-10-26T23:27:44.288Z"
+        "color": "2026-10-26T23:27:44.288Z",
+        "kind": "2026-10-26T23:36:34.176Z"
       }
     },
     "1301eb8ec6b647a6182c7ac569217a3e605b9564af0b444276bf2bee9a888e89": {
@@ -1162,9 +1202,10 @@
         "portrait": "",
         "frame": "",
         "direction": "",
-        "color": ""
+        "color": "",
+        "kind": ""
       },
-      "revision": 3,
+      "revision": 4,
       "fingerprint": "97559791a7df3560",
       "media": {
         "thumb": "media/bixio-y-castiglioni/1301eb8ec6b647a6182c7ac569217a3e605b9564af0b444276bf2bee9a888e89-97559791a7df3560-thumb.webp",
@@ -1172,9 +1213,10 @@
         "w": 1395,
         "h": 2200
       },
-      "updated": "2026-10-26T23:27:56.759Z",
+      "updated": "2026-10-26T23:36:34.176Z",
       "fieldReviews": {
-        "color": "2026-10-26T23:27:56.759Z"
+        "color": "2026-10-26T23:27:56.759Z",
+        "kind": "2026-10-26T23:36:34.176Z"
       }
     },
     "2ab408bb84aa9c75ba490cb0ae836f7605e471b894329dcc534db200a35ba790": {
@@ -1281,9 +1323,10 @@
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
       "status": "pending",
       "record": {
-        "color": ""
+        "color": "",
+        "kind": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "84b304e35eeaa700",
       "media": {
         "thumb": "media/bixio-y-castiglioni/beeee03c67adcc340a30fd213afd073d02c24f3a250a2b697f3cbc7f7450e5f7-84b304e35eeaa700-thumb.webp",
@@ -1291,9 +1334,10 @@
         "w": 1471,
         "h": 2200
       },
-      "updated": "2026-10-26T23:27:44.288Z",
+      "updated": "2026-10-26T23:36:34.176Z",
       "fieldReviews": {
-        "color": "2026-10-26T23:27:44.288Z"
+        "color": "2026-10-26T23:27:44.288Z",
+        "kind": "2026-10-26T23:36:34.176Z"
       }
     },
     "be330f7c94e74e91bac3bc65af246c62a2a0ac2bb3915137e611e8a5e8961e6b": {
@@ -1323,9 +1367,10 @@
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
       "status": "pending",
       "record": {
-        "color": ""
+        "color": "",
+        "kind": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "e5df54c5c03644d6",
       "media": {
         "thumb": "media/bixio-y-castiglioni/ddab26d1e0897eba1db8238384cba6b24e9d8569cf9c7035877d5a4b8ba55390-e5df54c5c03644d6-thumb.webp",
@@ -1333,9 +1378,10 @@
         "w": 1412,
         "h": 2200
       },
-      "updated": "2026-10-26T23:27:44.288Z",
+      "updated": "2026-10-26T23:36:34.176Z",
       "fieldReviews": {
-        "color": "2026-10-26T23:27:44.288Z"
+        "color": "2026-10-26T23:27:44.288Z",
+        "kind": "2026-10-26T23:36:34.176Z"
       }
     },
     "efa81e93e0738d30a590fde229f35c4acc09abed78f231cc1b420e8b48d8ac15": {
@@ -1365,9 +1411,10 @@
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
       "status": "pending",
       "record": {
-        "color": ""
+        "color": "",
+        "kind": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "c7874b21fe223fd3",
       "media": {
         "thumb": "media/bixio-y-castiglioni/9bb4dd3dca7a947c55fbb2f24885722a76288295f781b69a373bb484cf7b263f-c7874b21fe223fd3-thumb.webp",
@@ -1375,9 +1422,10 @@
         "w": 1443,
         "h": 2200
       },
-      "updated": "2026-10-26T23:27:44.288Z",
+      "updated": "2026-10-26T23:36:34.176Z",
       "fieldReviews": {
-        "color": "2026-10-26T23:27:44.288Z"
+        "color": "2026-10-26T23:27:44.288Z",
+        "kind": "2026-10-26T23:36:34.176Z"
       }
     },
     "873c2f2e07a6eef6baa7bc12edba2547be1997be32619870a9c8bea645848438": {
@@ -1407,9 +1455,10 @@
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
       "status": "pending",
       "record": {
-        "color": ""
+        "color": "",
+        "kind": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "55fb75da0e0b99e5",
       "media": {
         "thumb": "media/bixio-y-castiglioni/55c84c333b3ae4b11e66e6e01ef318bc7df43b978d1b105be666e945035e2c78-55fb75da0e0b99e5-thumb.webp",
@@ -1417,9 +1466,10 @@
         "w": 1393,
         "h": 2200
       },
-      "updated": "2026-10-26T23:27:44.288Z",
+      "updated": "2026-10-26T23:36:34.176Z",
       "fieldReviews": {
-        "color": "2026-10-26T23:27:44.288Z"
+        "color": "2026-10-26T23:27:44.288Z",
+        "kind": "2026-10-26T23:36:34.176Z"
       }
     },
     "ece0778e3fd808fbe422e6334fa149a638d80ee29b209d57e74075b7735e8f52": {
@@ -3296,7 +3346,7 @@
     "FIR-02": "Rectángulo varios niveles - Bixio & Castiglioni Pellegrini 760. B.A.",
     "FIR-03": "Rectángulo en relieve - Bixio y Castiglioni. C. Pellegrini 760. Buenos Aires"
   },
-  "updated": "2026-10-26T23:35:59.990Z",
+  "updated": "2026-10-26T23:36:35.796Z",
   "authors": [
     "Bixio & Castiglioni"
   ]
