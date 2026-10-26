@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio-y-castiglioni",
   "name": "Bixio y Castiglioni",
-  "version": "edcd18e0-ac1a-4bea-87ed-590d9d024555",
+  "version": "0ff99d6f-fbb5-4b69-a0c5-2b79e05d299a",
   "folders": {
     "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3": {
       "name": "bixio y castiglioni",
@@ -831,16 +831,33 @@
       "id": "4cc3e4efe3f3f157aa46dc545264aa725d7f739d290bf18792bbc36eaf4f680c",
       "relative": "img256.tif",
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "27035",
+        "date": "1928",
+        "author": "Bixio & Castiglioni",
+        "people": [
+          "Hombres"
+        ],
+        "objects": [],
+        "highlights": [
+          "Militar"
+        ],
+        "signature": "FIR-03",
+        "portrait": "",
+        "frame": "",
+        "direction": ""
+      },
+      "revision": 1,
       "fingerprint": "740713998b776089",
       "media": {
         "thumb": "media/bixio-y-castiglioni/4cc3e4efe3f3f157aa46dc545264aa725d7f739d290bf18792bbc36eaf4f680c-740713998b776089-thumb.webp",
         "src": "media/bixio-y-castiglioni/4cc3e4efe3f3f157aa46dc545264aa725d7f739d290bf18792bbc36eaf4f680c-740713998b776089.webp",
         "w": 1656,
         "h": 2200
-      }
+      },
+      "updated": "2026-10-26T22:43:56.041Z"
     },
     "3993948e07728bab8e9df77db03117b4f464ff80b83bd1a6f7543f7b4995dba5": {
       "id": "3993948e07728bab8e9df77db03117b4f464ff80b83bd1a6f7543f7b4995dba5",
@@ -2458,7 +2475,7 @@
     "FIR-02": "Rectángulo varios niveles - Bixio & Castiglioni Pellegrini 760. B.A.",
     "FIR-03": "Rectángulo en relieve - Bixio y Castiglioni. C. Pellegrini 760. Buenos Aires"
   },
-  "updated": "2026-10-26T22:43:20.261Z",
+  "updated": "2026-10-26T22:43:57.477Z",
   "authors": [
     "Bixio & Castiglioni"
   ]
