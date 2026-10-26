@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio-y-castiglioni",
   "name": "Bixio y Castiglioni",
-  "version": "b09a3514-5b02-4e30-9e31-e0c3e9e778cc",
+  "version": "b7827d6c-bf7a-45a4-a672-d70b674f5f5a",
   "folders": {
     "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3": {
       "name": "bixio y castiglioni",
@@ -167,16 +167,26 @@
       "id": "1e310120261d1ab54a943dd882fedcc4072c4cacda3f756a85bce0516a5595fe",
       "relative": "img232.tif",
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Reverso",
+        "parent": "d60bafcbde260c557f5456f35f4d10225ba3bdb379e4c9133a6273cd6fd9f83a",
+        "people": [],
+        "objects": [],
+        "highlights": [],
+        "portrait": "",
+        "frame": "",
+        "direction": ""
+      },
+      "revision": 1,
       "fingerprint": "430322948fa1ad50",
       "media": {
         "thumb": "media/bixio-y-castiglioni/1e310120261d1ab54a943dd882fedcc4072c4cacda3f756a85bce0516a5595fe-430322948fa1ad50-thumb.webp",
         "src": "media/bixio-y-castiglioni/1e310120261d1ab54a943dd882fedcc4072c4cacda3f756a85bce0516a5595fe-430322948fa1ad50.webp",
         "w": 1467,
         "h": 2200
-      }
+      },
+      "updated": "2026-10-26T22:07:17.550Z"
     },
     "0247d133264c4ff9efa3c1faf2308df9d0d5e041929d9d0654a635b7ee1252b1": {
       "id": "0247d133264c4ff9efa3c1faf2308df9d0d5e041929d9d0654a635b7ee1252b1",
@@ -2145,7 +2155,7 @@
     "unidentified": "Por identificar",
     "FIR-01": "Bixio & Castiglioni - C. Pellegrini 760 - B. Aires"
   },
-  "updated": "2026-10-26T22:07:01.690Z",
+  "updated": "2026-10-26T22:07:18.941Z",
   "authors": [
     "Bixio & Castiglioni"
   ]
