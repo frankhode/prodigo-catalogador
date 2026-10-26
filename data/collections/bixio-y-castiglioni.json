@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio-y-castiglioni",
   "name": "Bixio y Castiglioni",
-  "version": "632ed8d3-3fc5-4ed7-a079-60a2c8d53282",
+  "version": "cf3bf918-84c8-4b6e-b586-2a9592e4d5b3",
   "folders": {
     "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3": {
       "name": "bixio y castiglioni",
@@ -2034,6 +2034,21 @@
         "w": 1585,
         "h": 2200
       }
+    },
+    "1491bcbe06862aeab8fd31ee58629202176e664dffd3dd76a52d09be8670a394": {
+      "id": "1491bcbe06862aeab8fd31ee58629202176e664dffd3dd76a52d09be8670a394",
+      "relative": "img409.tif",
+      "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
+      "status": "pending",
+      "record": {},
+      "revision": 0,
+      "fingerprint": "731ca19365c69fac",
+      "media": {
+        "thumb": "media/bixio-y-castiglioni/1491bcbe06862aeab8fd31ee58629202176e664dffd3dd76a52d09be8670a394-731ca19365c69fac-thumb.webp",
+        "src": "media/bixio-y-castiglioni/1491bcbe06862aeab8fd31ee58629202176e664dffd3dd76a52d09be8670a394-731ca19365c69fac.webp",
+        "w": 1577,
+        "h": 2200
+      }
     }
   },
   "terms": {},
@@ -2041,5 +2056,5 @@
     "none": "Sin firma",
     "unidentified": "Por identificar"
   },
-  "updated": "2026-10-26T18:39:27.642Z"
+  "updated": "2026-10-26T18:39:36.708Z"
 }
