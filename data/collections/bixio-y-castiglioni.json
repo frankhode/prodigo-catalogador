@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio-y-castiglioni",
   "name": "Bixio y Castiglioni",
-  "version": "d490143a-0320-4a45-a881-80744f6943c6",
+  "version": "8156665c-a22b-40b9-81bf-412ca3c3d1a5",
   "folders": {
     "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3": {
       "name": "bixio y castiglioni",
@@ -421,16 +421,33 @@
       "id": "24a568cd6ad82569156f121593e593fdcc7bd946b91fbc7a4db5c60f46868bfd",
       "relative": "img241.tif",
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "75230",
+        "author": "Bixio & Castiglioni",
+        "people": [
+          "Hombres",
+          "Mujeres"
+        ],
+        "objects": [],
+        "highlights": [
+          "Vestimenta"
+        ],
+        "signature": "FIR-02",
+        "portrait": "",
+        "frame": "",
+        "direction": ""
+      },
+      "revision": 1,
       "fingerprint": "53f2d574092f3e10",
       "media": {
         "thumb": "media/bixio-y-castiglioni/24a568cd6ad82569156f121593e593fdcc7bd946b91fbc7a4db5c60f46868bfd-53f2d574092f3e10-thumb.webp",
         "src": "media/bixio-y-castiglioni/24a568cd6ad82569156f121593e593fdcc7bd946b91fbc7a4db5c60f46868bfd-53f2d574092f3e10.webp",
         "w": 835,
         "h": 1191
-      }
+      },
+      "updated": "2026-10-26T22:16:28.142Z"
     },
     "1af5a7f22358e11b736d8e5916439c1e4311939ac009106071cd990c592f1707": {
       "id": "1af5a7f22358e11b736d8e5916439c1e4311939ac009106071cd990c592f1707",
@@ -2269,7 +2286,7 @@
     "FIR-01": "Bixio & Castiglioni - C. Pellegrini 760 - B. Aires",
     "FIR-02": "Rectángulo varios niveles - Bixio & Castiglioni Pellegrini 760. B.A."
   },
-  "updated": "2026-10-26T22:15:51.062Z",
+  "updated": "2026-10-26T22:16:29.672Z",
   "authors": [
     "Bixio & Castiglioni"
   ]
