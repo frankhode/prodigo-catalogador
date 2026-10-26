@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio-y-castiglioni",
   "name": "Bixio y Castiglioni",
-  "version": "2ee98993-b6ec-43d1-9f75-236df8b811af",
+  "version": "6e6f9081-51a9-4d58-bd15-a5fcbeee75ae",
   "folders": {
     "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3": {
       "name": "bixio y castiglioni",
@@ -1803,9 +1803,10 @@
       "status": "pending",
       "record": {
         "color": "byn",
-        "kind": "Otros"
+        "kind": "Otros",
+        "author": "Mateo Bonin"
       },
-      "revision": 2,
+      "revision": 3,
       "fingerprint": "e4f13af8cef902a3",
       "media": {
         "thumb": "media/bixio-y-castiglioni/3558ae7f84f6c0ea73a0643cae7c4c90f209d802c7d0800777f60938c33562c8-e4f13af8cef902a3-thumb.webp",
@@ -1813,10 +1814,11 @@
         "w": 2200,
         "h": 1402
       },
-      "updated": "2026-10-26T23:38:14.033Z",
+      "updated": "2026-10-26T23:50:34.050Z",
       "fieldReviews": {
         "color": "2026-10-26T23:28:20.736Z",
-        "kind": "2026-10-26T23:38:14.033Z"
+        "kind": "2026-10-26T23:38:14.033Z",
+        "author": "2026-10-26T23:50:34.050Z"
       }
     },
     "bf288da8b93f8b99b1c85f3a4e393ee5f940333b8d783db526c20559d26bd770": {
@@ -3858,7 +3860,7 @@
     "FIR-02": "Rectángulo varios niveles - Bixio & Castiglioni Pellegrini 760. B.A.",
     "FIR-03": "Rectángulo en relieve - Bixio y Castiglioni. C. Pellegrini 760. Buenos Aires"
   },
-  "updated": "2026-10-26T23:50:08.030Z",
+  "updated": "2026-10-26T23:50:35.424Z",
   "authors": [
     "Bixio & Castiglioni",
     "E. Masoni",
@@ -3866,6 +3868,7 @@
     "Mazer",
     "Pagnotta",
     "Casus",
-    "Select"
+    "Select",
+    "Mateo Bonin"
   ]
 }
