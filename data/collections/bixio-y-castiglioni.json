@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio-y-castiglioni",
   "name": "Bixio y Castiglioni",
-  "version": "f9278c7c-fef8-4969-94f6-96572eb91fc0",
+  "version": "e478fd5d-df91-45c3-a6b3-fe59403c2574",
   "folders": {
     "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3": {
       "name": "bixio y castiglioni",
@@ -192,16 +192,33 @@
       "id": "0247d133264c4ff9efa3c1faf2308df9d0d5e041929d9d0654a635b7ee1252b1",
       "relative": "img233.tif",
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "81694",
+        "date": "1933",
+        "author": "Bixio & Castiglioni",
+        "people": [
+          "Niñas"
+        ],
+        "objects": [],
+        "highlights": [
+          "Primera comunión"
+        ],
+        "signature": "FIR-02",
+        "portrait": "",
+        "frame": "",
+        "direction": ""
+      },
+      "revision": 1,
       "fingerprint": "8bd4c6c74a11e466",
       "media": {
         "thumb": "media/bixio-y-castiglioni/0247d133264c4ff9efa3c1faf2308df9d0d5e041929d9d0654a635b7ee1252b1-8bd4c6c74a11e466-thumb.webp",
         "src": "media/bixio-y-castiglioni/0247d133264c4ff9efa3c1faf2308df9d0d5e041929d9d0654a635b7ee1252b1-8bd4c6c74a11e466.webp",
         "w": 1540,
         "h": 2200
-      }
+      },
+      "updated": "2026-10-26T22:09:29.112Z"
     },
     "1db8bdeecc3a9d3304d90f04cfff8067386c7534c724f900917d5da5d91866db": {
       "id": "1db8bdeecc3a9d3304d90f04cfff8067386c7534c724f900917d5da5d91866db",
@@ -2156,7 +2173,7 @@
     "FIR-01": "Bixio & Castiglioni - C. Pellegrini 760 - B. Aires",
     "FIR-02": "Rectángulo varios niveles - Bixio & Castiglioni Pellegrini 760. B.A."
   },
-  "updated": "2026-10-26T22:09:21.877Z",
+  "updated": "2026-10-26T22:09:30.477Z",
   "authors": [
     "Bixio & Castiglioni"
   ]
