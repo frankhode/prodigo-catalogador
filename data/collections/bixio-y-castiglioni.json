@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio-y-castiglioni",
   "name": "Bixio y Castiglioni",
-  "version": "93c4838a-160f-4da9-ae0f-8d6f7dd3290f",
+  "version": "21b6d253-6eb3-44d0-963b-ac598d0382f2",
   "folders": {
     "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3": {
       "name": "bixio y castiglioni",
@@ -250,16 +250,33 @@
       "id": "46cebdb8bb707831c569d653722d259cd58ea74132270b77c7aae0fbe6ecfc66",
       "relative": "img235.tif",
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "69651",
+        "author": "Bixio & Castiglioni",
+        "people": [
+          "Hombres",
+          "Mujeres"
+        ],
+        "objects": [],
+        "highlights": [
+          "Vestimenta"
+        ],
+        "signature": "FIR-02",
+        "portrait": "",
+        "frame": "",
+        "direction": ""
+      },
+      "revision": 1,
       "fingerprint": "237a31c8c12999f7",
       "media": {
         "thumb": "media/bixio-y-castiglioni/46cebdb8bb707831c569d653722d259cd58ea74132270b77c7aae0fbe6ecfc66-237a31c8c12999f7-thumb.webp",
         "src": "media/bixio-y-castiglioni/46cebdb8bb707831c569d653722d259cd58ea74132270b77c7aae0fbe6ecfc66-237a31c8c12999f7.webp",
         "w": 1631,
         "h": 2200
-      }
+      },
+      "updated": "2026-10-26T22:11:07.129Z"
     },
     "4d780db29f2cee627beef0b351ad6397dcfc68aa5c2652966c0eccdd1dd56193": {
       "id": "4d780db29f2cee627beef0b351ad6397dcfc68aa5c2652966c0eccdd1dd56193",
@@ -2171,11 +2188,13 @@
     "people": [
       "Mujeres",
       "Bebés",
-      "Niñas"
+      "Niñas",
+      "Hombres"
     ],
     "objects": [],
     "highlights": [
-      "Primera comunión"
+      "Primera comunión",
+      "Vestimenta"
     ]
   },
   "signatures": {
@@ -2184,7 +2203,7 @@
     "FIR-01": "Bixio & Castiglioni - C. Pellegrini 760 - B. Aires",
     "FIR-02": "Rectángulo varios niveles - Bixio & Castiglioni Pellegrini 760. B.A."
   },
-  "updated": "2026-10-26T22:10:14.958Z",
+  "updated": "2026-10-26T22:11:08.768Z",
   "authors": [
     "Bixio & Castiglioni"
   ]
