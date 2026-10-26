@@ -4,10 +4,10 @@
   "collections": [
     {
       "id": "bixio",
-      "name": "Bixio",
+      "name": "F. Bixio y Cia.",
       "path": "data/collections/bixio.json",
-      "version": "48da877e-319d-4bf3-ab84-48b00af2affd",
-      "updated": "2026-10-23T23:46:31.574Z",
+      "version": "rename-bixio-1793056406526",
+      "updated": "2026-10-26T23:13:26.526Z",
       "total": 197,
       "done": 197
     },
@@ -21,5 +21,5 @@
       "done": 38
     }
   ],
-  "updated": "2026-10-26T23:11:21.434Z"
+  "updated": "2026-10-26T23:13:26.526Z"
 }
