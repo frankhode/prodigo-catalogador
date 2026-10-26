@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio-y-castiglioni",
   "name": "Bixio y Castiglioni",
-  "version": "8ad82eea-553f-4233-bb53-dcb4c5cd8d72",
+  "version": "0b42f8b7-3d2a-45eb-92b1-a8fcee0ea5f0",
   "folders": {
     "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3": {
       "name": "bixio y castiglioni",
@@ -14,16 +14,35 @@
       "id": "fb962eecbf1e81969c54567d707196cafe78a3db4e3be685899e3870bda279a5",
       "relative": "img227.tif",
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "identifier": "",
+        "number": "96558",
+        "author": "Bixio & Castiglioni",
+        "kind": "Retrato",
+        "portrait": "Grupal",
+        "frame": "Mixto",
+        "direction": "Frente",
+        "environment": "Estudio",
+        "color": "sepia",
+        "people": [
+          "Mujeres",
+          "Bebés"
+        ],
+        "objects": [],
+        "highlights": [],
+        "signature": "FIR-01"
+      },
+      "revision": 1,
       "fingerprint": "55dcef38687f80db",
       "media": {
         "thumb": "media/bixio-y-castiglioni/fb962eecbf1e81969c54567d707196cafe78a3db4e3be685899e3870bda279a5-55dcef38687f80db-thumb.webp",
         "src": "media/bixio-y-castiglioni/fb962eecbf1e81969c54567d707196cafe78a3db4e3be685899e3870bda279a5-55dcef38687f80db.webp",
         "w": 1471,
         "h": 2200
-      }
+      },
+      "updated": "2026-10-26T21:17:19.398Z"
     },
     "19c90e71317fcce17bfbd3f9d6bdc43b4988ae667a195cf0189de491012ba202": {
       "id": "19c90e71317fcce17bfbd3f9d6bdc43b4988ae667a195cf0189de491012ba202",
@@ -2051,11 +2070,21 @@
       }
     }
   },
-  "terms": {},
+  "terms": {
+    "people": [
+      "Mujeres",
+      "Bebés"
+    ],
+    "objects": [],
+    "highlights": []
+  },
   "signatures": {
     "none": "Sin firma",
     "unidentified": "Por identificar",
     "FIR-01": "Bixio & Castiglioni - C. Pellegrini 760 - B. Aires"
   },
-  "updated": "2026-10-26T21:17:10.250Z"
+  "updated": "2026-10-26T21:17:21.016Z",
+  "authors": [
+    "Bixio & Castiglioni"
+  ]
 }
