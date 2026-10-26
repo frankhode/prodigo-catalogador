@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio-y-castiglioni",
   "name": "Bixio y Castiglioni",
-  "version": "06d26673-8cc9-41ce-ab3a-bb6d4a899b8e",
+  "version": "a68505c9-7329-4e9a-9f72-6cbbc5d4acfe",
   "folders": {
     "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3": {
       "name": "bixio y castiglioni",
@@ -2372,14 +2372,20 @@
       "relative": "img345.tif",
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
       "status": "pending",
-      "record": {},
-      "revision": 0,
+      "record": {
+        "color": "iluminado"
+      },
+      "revision": 1,
       "fingerprint": "e7b09d3335d25d2b",
       "media": {
         "thumb": "media/bixio-y-castiglioni/4e0e07b57389c3c7d69f2d7e0b58e982fcf2379273c9b6e8734a27d3bd937b72-e7b09d3335d25d2b-thumb.webp",
         "src": "media/bixio-y-castiglioni/4e0e07b57389c3c7d69f2d7e0b58e982fcf2379273c9b6e8734a27d3bd937b72-e7b09d3335d25d2b.webp",
         "w": 2200,
         "h": 1412
+      },
+      "updated": "2026-10-26T23:32:29.987Z",
+      "fieldReviews": {
+        "color": "2026-10-26T23:32:29.987Z"
       }
     },
     "eb913e5b10c65d5e7cfbc375566f653f0455201b7175eaf136c12dbe3d1f79a3": {
@@ -3140,7 +3146,7 @@
     "FIR-02": "Rectángulo varios niveles - Bixio & Castiglioni Pellegrini 760. B.A.",
     "FIR-03": "Rectángulo en relieve - Bixio y Castiglioni. C. Pellegrini 760. Buenos Aires"
   },
-  "updated": "2026-10-26T23:32:24.216Z",
+  "updated": "2026-10-26T23:32:31.338Z",
   "authors": [
     "Bixio & Castiglioni"
   ]
