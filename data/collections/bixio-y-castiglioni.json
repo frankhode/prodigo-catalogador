@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio-y-castiglioni",
   "name": "Bixio y Castiglioni",
-  "version": "69c0f3d1-d61e-466f-adfe-34b6b2f15146",
+  "version": "2ee98993-b6ec-43d1-9f75-236df8b811af",
   "folders": {
     "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3": {
       "name": "bixio y castiglioni",
@@ -1753,9 +1753,10 @@
         "color": "byn",
         "kind": "Retrato",
         "portrait": "Individual",
-        "frame": "Cuerpo entero"
+        "frame": "Cuerpo entero",
+        "author": "Select"
       },
-      "revision": 4,
+      "revision": 5,
       "fingerprint": "fcfe86313399a720",
       "media": {
         "thumb": "media/bixio-y-castiglioni/5ce9e1ef7add0b4ef366bf92e83d791576622a777b40198817116a12e2d0a6e9-fcfe86313399a720-thumb.webp",
@@ -1763,12 +1764,13 @@
         "w": 1402,
         "h": 2200
       },
-      "updated": "2026-10-26T23:42:27.432Z",
+      "updated": "2026-10-26T23:50:06.664Z",
       "fieldReviews": {
         "color": "2026-10-26T23:28:20.736Z",
         "kind": "2026-10-26T23:37:43.648Z",
         "portrait": "2026-10-26T23:39:40.634Z",
-        "frame": "2026-10-26T23:42:27.432Z"
+        "frame": "2026-10-26T23:42:27.432Z",
+        "author": "2026-10-26T23:50:06.664Z"
       }
     },
     "9ea96a3bfb8cf60e78f702c87f5b0fe6c51919f46543d24bf17c0a0b9551514e": {
@@ -3856,13 +3858,14 @@
     "FIR-02": "Rectángulo varios niveles - Bixio & Castiglioni Pellegrini 760. B.A.",
     "FIR-03": "Rectángulo en relieve - Bixio y Castiglioni. C. Pellegrini 760. Buenos Aires"
   },
-  "updated": "2026-10-26T23:49:52.636Z",
+  "updated": "2026-10-26T23:50:08.030Z",
   "authors": [
     "Bixio & Castiglioni",
     "E. Masoni",
     "Fernández",
     "Mazer",
     "Pagnotta",
-    "Casus"
+    "Casus",
+    "Select"
   ]
 }
