@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio-y-castiglioni",
   "name": "Bixio y Castiglioni",
-  "version": "e23240ab-b879-484c-a711-e75906fe47d6",
+  "version": "78a50faa-7914-4efc-9b8d-0dd2b85e405f",
   "folders": {
     "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3": {
       "name": "bixio y castiglioni",
@@ -1209,6 +1209,81 @@
         "w": 2200,
         "h": 1733
       }
+    },
+    "f4126d9f7597b862939e43db496fc70812a93577e38bb06459a1a8184412a534": {
+      "id": "f4126d9f7597b862939e43db496fc70812a93577e38bb06459a1a8184412a534",
+      "relative": "img322.tif",
+      "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
+      "status": "pending",
+      "record": {},
+      "revision": 0,
+      "fingerprint": "b4f9295a29a74ad9",
+      "media": {
+        "thumb": "media/bixio-y-castiglioni/f4126d9f7597b862939e43db496fc70812a93577e38bb06459a1a8184412a534-b4f9295a29a74ad9-thumb.webp",
+        "src": "media/bixio-y-castiglioni/f4126d9f7597b862939e43db496fc70812a93577e38bb06459a1a8184412a534-b4f9295a29a74ad9.webp",
+        "w": 1396,
+        "h": 2200
+      }
+    },
+    "5c6b186ebf1ddee6ca56f1a99d08dfc98a5c487c4dc38ed90c23bcee1cc81a9d": {
+      "id": "5c6b186ebf1ddee6ca56f1a99d08dfc98a5c487c4dc38ed90c23bcee1cc81a9d",
+      "relative": "img324.tif",
+      "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
+      "status": "pending",
+      "record": {},
+      "revision": 0,
+      "fingerprint": "c730e2bdc2911d42",
+      "media": {
+        "thumb": "media/bixio-y-castiglioni/5c6b186ebf1ddee6ca56f1a99d08dfc98a5c487c4dc38ed90c23bcee1cc81a9d-c730e2bdc2911d42-thumb.webp",
+        "src": "media/bixio-y-castiglioni/5c6b186ebf1ddee6ca56f1a99d08dfc98a5c487c4dc38ed90c23bcee1cc81a9d-c730e2bdc2911d42.webp",
+        "w": 2200,
+        "h": 1712
+      }
+    },
+    "47d73da554884020621b94170a7b1674317b59022dd746dd335d4f02ce5d322b": {
+      "id": "47d73da554884020621b94170a7b1674317b59022dd746dd335d4f02ce5d322b",
+      "relative": "img325.tif",
+      "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
+      "status": "pending",
+      "record": {},
+      "revision": 0,
+      "fingerprint": "764216aa4bf48abc",
+      "media": {
+        "thumb": "media/bixio-y-castiglioni/47d73da554884020621b94170a7b1674317b59022dd746dd335d4f02ce5d322b-764216aa4bf48abc-thumb.webp",
+        "src": "media/bixio-y-castiglioni/47d73da554884020621b94170a7b1674317b59022dd746dd335d4f02ce5d322b-764216aa4bf48abc.webp",
+        "w": 1405,
+        "h": 2200
+      }
+    },
+    "24ac964e51e2b10d8234c60a217a4ad6ef817fc174ac278cfaac19b80e89c192": {
+      "id": "24ac964e51e2b10d8234c60a217a4ad6ef817fc174ac278cfaac19b80e89c192",
+      "relative": "img327.tif",
+      "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
+      "status": "pending",
+      "record": {},
+      "revision": 0,
+      "fingerprint": "ccdc4b9fa3be4e43",
+      "media": {
+        "thumb": "media/bixio-y-castiglioni/24ac964e51e2b10d8234c60a217a4ad6ef817fc174ac278cfaac19b80e89c192-ccdc4b9fa3be4e43-thumb.webp",
+        "src": "media/bixio-y-castiglioni/24ac964e51e2b10d8234c60a217a4ad6ef817fc174ac278cfaac19b80e89c192-ccdc4b9fa3be4e43.webp",
+        "w": 1418,
+        "h": 2200
+      }
+    },
+    "c508e60353038f8da383ce18f61bf1e8b754d8a96a71de110e7b6c68baf5bdc5": {
+      "id": "c508e60353038f8da383ce18f61bf1e8b754d8a96a71de110e7b6c68baf5bdc5",
+      "relative": "img330.tif",
+      "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
+      "status": "pending",
+      "record": {},
+      "revision": 0,
+      "fingerprint": "2c1bf5be6f792cdd",
+      "media": {
+        "thumb": "media/bixio-y-castiglioni/c508e60353038f8da383ce18f61bf1e8b754d8a96a71de110e7b6c68baf5bdc5-2c1bf5be6f792cdd-thumb.webp",
+        "src": "media/bixio-y-castiglioni/c508e60353038f8da383ce18f61bf1e8b754d8a96a71de110e7b6c68baf5bdc5-2c1bf5be6f792cdd.webp",
+        "w": 1439,
+        "h": 2200
+      }
     }
   },
   "terms": {},
@@ -1216,5 +1291,5 @@
     "none": "Sin firma",
     "unidentified": "Por identificar"
   },
-  "updated": "2026-10-26T18:34:56.932Z"
+  "updated": "2026-10-26T18:35:19.888Z"
 }
