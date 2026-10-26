@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio-y-castiglioni",
   "name": "Bixio y Castiglioni",
-  "version": "8b82c1a7-c55c-4361-b067-03643eedd798",
+  "version": "98253ef5-04c4-498c-b900-dc1cf64b3abd",
   "folders": {
     "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3": {
       "name": "bixio y castiglioni",
@@ -722,16 +722,23 @@
       "id": "279ebacc57603d8e8bdd798fde7703e01bbf67337de71a9fcb02fb85814dd20e",
       "relative": "img252.tif",
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Tapa",
+        "parent": "a73521e2da0cb4bc75b7c994c43b94d7e3c5e06486c1a1bfe9a2f379fc09ec1a",
+        "portrait": "",
+        "frame": "",
+        "direction": ""
+      },
+      "revision": 1,
       "fingerprint": "24fd1f05a707599c",
       "media": {
         "thumb": "media/bixio-y-castiglioni/279ebacc57603d8e8bdd798fde7703e01bbf67337de71a9fcb02fb85814dd20e-24fd1f05a707599c-thumb.webp",
         "src": "media/bixio-y-castiglioni/279ebacc57603d8e8bdd798fde7703e01bbf67337de71a9fcb02fb85814dd20e-24fd1f05a707599c.webp",
         "w": 1667,
         "h": 2200
-      }
+      },
+      "updated": "2026-10-26T22:25:39.420Z"
     },
     "a73521e2da0cb4bc75b7c994c43b94d7e3c5e06486c1a1bfe9a2f379fc09ec1a": {
       "id": "a73521e2da0cb4bc75b7c994c43b94d7e3c5e06486c1a1bfe9a2f379fc09ec1a",
@@ -2434,7 +2441,7 @@
     "FIR-02": "Rectángulo varios niveles - Bixio & Castiglioni Pellegrini 760. B.A.",
     "FIR-03": "Rectángulo en relieve - Bixio y Castiglioni. C. Pellegrini 760. Buenos Aires"
   },
-  "updated": "2026-10-26T22:25:19.838Z",
+  "updated": "2026-10-26T22:25:41.002Z",
   "authors": [
     "Bixio & Castiglioni"
   ]
