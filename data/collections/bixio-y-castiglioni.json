@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio-y-castiglioni",
   "name": "Bixio y Castiglioni",
-  "version": "361fb7aa-e489-4742-8aa4-af9945437113",
+  "version": "d3b607c4-ed96-4d1d-90c3-f42cabc0ff27",
   "folders": {
     "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3": {
       "name": "bixio y castiglioni",
@@ -3133,7 +3133,7 @@
       "id": "f4126d9f7597b862939e43db496fc70812a93577e38bb06459a1a8184412a534",
       "relative": "img322.tif",
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
-      "status": "pending",
+      "status": "done",
       "record": {
         "color": "iluminado",
         "kind": "Retrato",
@@ -3141,9 +3141,16 @@
         "frame": "Cuerpo entero",
         "author": "Bixio & Castiglioni",
         "side": "Frente",
-        "environment": "Estudio"
+        "environment": "Estudio",
+        "number": "51361",
+        "people": [
+          "Bebés"
+        ],
+        "objects": [],
+        "highlights": [],
+        "signature": "FIR-03"
       },
-      "revision": 7,
+      "revision": 8,
       "fingerprint": "b4f9295a29a74ad9",
       "media": {
         "thumb": "media/bixio-y-castiglioni/f4126d9f7597b862939e43db496fc70812a93577e38bb06459a1a8184412a534-b4f9295a29a74ad9-thumb.webp",
@@ -3151,7 +3158,7 @@
         "w": 1396,
         "h": 2200
       },
-      "updated": "2026-10-27T20:27:47.115Z",
+      "updated": "2026-10-27T21:00:32.279Z",
       "fieldReviews": {
         "color": "2026-10-26T23:31:11.610Z",
         "kind": "2026-10-26T23:37:43.649Z",
@@ -5650,7 +5657,7 @@
     "FIR-02": "Rectángulo varios niveles - Bixio & Castiglioni Pellegrini 760. B.A.",
     "FIR-03": "Rectángulo en relieve - Bixio y Castiglioni. C. Pellegrini 760. Buenos Aires"
   },
-  "updated": "2026-10-27T21:00:04.602Z",
+  "updated": "2026-10-27T21:00:33.638Z",
   "authors": [
     "Bixio & Castiglioni",
     "E. Masoni",
