@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio-y-castiglioni",
   "name": "Bixio y Castiglioni",
-  "version": "6b1b4d65-e125-4600-b3b2-e9a192e5e629",
+  "version": "84916a3b-ba7d-48f7-8eb5-f5f3c5cd844d",
   "folders": {
     "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3": {
       "name": "bixio y castiglioni",
@@ -1869,7 +1869,7 @@
       "id": "ece0778e3fd808fbe422e6334fa149a638d80ee29b209d57e74075b7735e8f52",
       "relative": "img275.tif",
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
-      "status": "pending",
+      "status": "done",
       "record": {
         "color": "byn",
         "kind": "Retrato",
@@ -1877,9 +1877,20 @@
         "frame": "Cuerpo entero",
         "author": "Pagnotta",
         "side": "Frente",
-        "environment": "Exterior"
+        "environment": "Exterior",
+        "number": "19765",
+        "date": "1936",
+        "people": [
+          "Mujeres"
+        ],
+        "objects": [],
+        "highlights": [
+          "Vestimenta",
+          "Sombrero",
+          "Mar del Plata"
+        ]
       },
-      "revision": 7,
+      "revision": 8,
       "fingerprint": "a9147ff91f11b4f6",
       "media": {
         "thumb": "media/bixio-y-castiglioni/ece0778e3fd808fbe422e6334fa149a638d80ee29b209d57e74075b7735e8f52-a9147ff91f11b4f6-thumb.webp",
@@ -1887,7 +1898,7 @@
         "w": 1432,
         "h": 2200
       },
-      "updated": "2026-10-27T20:27:57.242Z",
+      "updated": "2026-10-27T20:42:22.512Z",
       "fieldReviews": {
         "color": "2026-10-26T23:28:20.736Z",
         "kind": "2026-10-26T23:37:43.648Z",
@@ -5400,7 +5411,8 @@
       "Militar",
       "Casamiento",
       "Bigote",
-      "Mar del Plata"
+      "Mar del Plata",
+      "Sombrero"
     ]
   },
   "signatures": {
@@ -5410,7 +5422,7 @@
     "FIR-02": "Rectángulo varios niveles - Bixio & Castiglioni Pellegrini 760. B.A.",
     "FIR-03": "Rectángulo en relieve - Bixio y Castiglioni. C. Pellegrini 760. Buenos Aires"
   },
-  "updated": "2026-10-27T20:41:28.468Z",
+  "updated": "2026-10-27T20:42:24.106Z",
   "authors": [
     "Bixio & Castiglioni",
     "E. Masoni",
