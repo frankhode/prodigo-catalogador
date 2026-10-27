@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio-y-castiglioni",
   "name": "Bixio y Castiglioni",
-  "version": "fe2d06c5-b52a-4384-b13b-87ea1c636199",
+  "version": "c6552883-e0fa-497a-8332-a867fb882456",
   "folders": {
     "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3": {
       "name": "bixio y castiglioni",
@@ -2619,7 +2619,7 @@
       "id": "8628a5f6b93afec27ebd206f156c3215dbfe043af0163fc2861372227efc55af",
       "relative": "img302.tif",
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
-      "status": "pending",
+      "status": "done",
       "record": {
         "color": "sepia",
         "kind": "Retrato",
@@ -2627,9 +2627,18 @@
         "frame": "Cuerpo entero",
         "author": "Bixio & Castiglioni",
         "side": "Frente",
-        "environment": "Estudio"
+        "environment": "Estudio",
+        "number": "79328",
+        "people": [
+          "Niñas"
+        ],
+        "objects": [],
+        "highlights": [
+          "Primera comunión"
+        ],
+        "signature": "FIR-03"
       },
-      "revision": 7,
+      "revision": 8,
       "fingerprint": "185e42453e6d73b3",
       "media": {
         "thumb": "media/bixio-y-castiglioni/8628a5f6b93afec27ebd206f156c3215dbfe043af0163fc2861372227efc55af-185e42453e6d73b3-thumb.webp",
@@ -2637,7 +2646,7 @@
         "w": 1433,
         "h": 2200
       },
-      "updated": "2026-10-27T20:27:47.114Z",
+      "updated": "2026-10-27T20:54:07.760Z",
       "fieldReviews": {
         "color": "2026-10-26T23:26:41.607Z",
         "kind": "2026-10-26T23:37:43.648Z",
@@ -5558,7 +5567,7 @@
     "FIR-02": "Rectángulo varios niveles - Bixio & Castiglioni Pellegrini 760. B.A.",
     "FIR-03": "Rectángulo en relieve - Bixio y Castiglioni. C. Pellegrini 760. Buenos Aires"
   },
-  "updated": "2026-10-27T20:53:41.317Z",
+  "updated": "2026-10-27T20:54:09.160Z",
   "authors": [
     "Bixio & Castiglioni",
     "E. Masoni",
