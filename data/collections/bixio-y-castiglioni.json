@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio-y-castiglioni",
   "name": "Bixio y Castiglioni",
-  "version": "72c1ff43-8bec-40a2-80d4-8935cb91d72b",
+  "version": "ceee3f84-5804-4b42-9ea1-ab99d7791f62",
   "folders": {
     "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3": {
       "name": "bixio y castiglioni",
@@ -4282,7 +4282,7 @@
       "id": "3742a9c11fee82619daea3833d17ecf1f22ba39903287c3709c3b5deabacd060",
       "relative": "img374.tif",
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
-      "status": "pending",
+      "status": "done",
       "record": {
         "color": "sepia",
         "kind": "Retrato",
@@ -4290,9 +4290,18 @@
         "author": "Bixio & Castiglioni",
         "side": "Frente",
         "frame": "Tres cuartos",
-        "environment": "Estudio"
+        "environment": "Estudio",
+        "number": "32115",
+        "people": [
+          "Hombres"
+        ],
+        "objects": [],
+        "highlights": [
+          "Vestimenta"
+        ],
+        "signature": "FIR-05"
       },
-      "revision": 7,
+      "revision": 8,
       "fingerprint": "aa91e5df7fc64241",
       "media": {
         "thumb": "media/bixio-y-castiglioni/3742a9c11fee82619daea3833d17ecf1f22ba39903287c3709c3b5deabacd060-aa91e5df7fc64241-thumb.webp",
@@ -4300,7 +4309,7 @@
         "w": 1107,
         "h": 2200
       },
-      "updated": "2026-10-27T20:27:47.115Z",
+      "updated": "2026-10-27T21:19:08.951Z",
       "fieldReviews": {
         "color": "2026-10-26T23:34:09.972Z",
         "kind": "2026-10-26T23:37:43.649Z",
@@ -5861,7 +5870,7 @@
     "FIR-04": "Bixio y Castiglioni - Muestra sin retoque",
     "FIR-05": "Rectángulo en varios niveles - Bixio y Castiglioni. C. Pellegrini 760. Buenos Aires"
   },
-  "updated": "2026-10-27T21:18:49.369Z",
+  "updated": "2026-10-27T21:19:10.441Z",
   "authors": [
     "Bixio & Castiglioni",
     "E. Masoni",
