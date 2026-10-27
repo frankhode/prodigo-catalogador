@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio-y-castiglioni",
   "name": "Bixio y Castiglioni",
-  "version": "12b1bf3f-66d3-45dd-bd52-98059b6cc26d",
+  "version": "3fabbf4a-6a2d-47e7-9567-c366393fb6c5",
   "folders": {
     "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3": {
       "name": "bixio y castiglioni",
@@ -3624,9 +3624,10 @@
       "record": {
         "color": "iluminado",
         "kind": "Retrato",
-        "portrait": "Individual"
+        "portrait": "Individual",
+        "author": "José A. Silva"
       },
-      "revision": 3,
+      "revision": 4,
       "fingerprint": "8b6b50e019af55e1",
       "media": {
         "thumb": "media/bixio-y-castiglioni/9f66b1bd5303463c403dcf69a57bb0763cf2fb77d080725640812588680b7f66-8b6b50e019af55e1-thumb.webp",
@@ -3634,11 +3635,12 @@
         "w": 1363,
         "h": 2200
       },
-      "updated": "2026-10-26T23:39:40.634Z",
+      "updated": "2026-10-27T20:10:03.698Z",
       "fieldReviews": {
         "color": "2026-10-26T23:35:21.997Z",
         "kind": "2026-10-26T23:37:43.649Z",
-        "portrait": "2026-10-26T23:39:40.634Z"
+        "portrait": "2026-10-26T23:39:40.634Z",
+        "author": "2026-10-27T20:10:03.698Z"
       }
     },
     "62ece2c316d79e8ba76510ff555339e408281e09454c4b922817122bf0f449f6": {
@@ -4734,7 +4736,7 @@
     "FIR-02": "Rectángulo varios niveles - Bixio & Castiglioni Pellegrini 760. B.A.",
     "FIR-03": "Rectángulo en relieve - Bixio y Castiglioni. C. Pellegrini 760. Buenos Aires"
   },
-  "updated": "2026-10-27T20:09:48.670Z",
+  "updated": "2026-10-27T20:10:05.152Z",
   "authors": [
     "Bixio & Castiglioni",
     "E. Masoni",
@@ -4746,6 +4748,7 @@
     "Mateo Bonin",
     "M. Garcilaso",
     "Bolzoni",
-    "René"
+    "René",
+    "José A. Silva"
   ]
 }
