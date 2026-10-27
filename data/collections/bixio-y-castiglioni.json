@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio-y-castiglioni",
   "name": "Bixio y Castiglioni",
-  "version": "4b48f89b-8544-44dd-897c-26e49fe889ea",
+  "version": "b6e328be-99cd-4a1f-9f57-3adce4745cd7",
   "folders": {
     "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3": {
       "name": "bixio y castiglioni",
@@ -1504,7 +1504,7 @@
         ],
         "signature": "FIR-03"
       },
-      "revision": 8,
+      "revision": 9,
       "fingerprint": "4b752f720f976087",
       "media": {
         "thumb": "media/bixio-y-castiglioni/0bfc6343306aede35d7f41b15617c26ca5cdf57ebb83d1188fa2b8b9afb340fa-4b752f720f976087-thumb.webp",
@@ -1512,9 +1512,9 @@
         "w": 745,
         "h": 1162
       },
-      "updated": "2026-10-27T20:34:38.889Z",
+      "updated": "2026-10-27T21:29:36.518Z",
       "fieldReviews": {
-        "color": "2026-10-26T23:29:05.424Z",
+        "color": "2026-10-27T21:29:36.518Z",
         "kind": "2026-10-26T23:37:43.648Z",
         "portrait": "2026-10-26T23:39:40.634Z",
         "frame": "2026-10-26T23:42:27.432Z",
@@ -6027,7 +6027,7 @@
     "FIR-05": "Rectángulo en varios niveles - Bixio y Castiglioni. C. Pellegrini 760. Buenos Aires",
     "FIR-06": "Bixio y Castiglioni. C. Pellegrini 760. Bs. As."
   },
-  "updated": "2026-10-27T21:29:32.789Z",
+  "updated": "2026-10-27T21:29:37.852Z",
   "authors": [
     "Bixio & Castiglioni",
     "E. Masoni",
