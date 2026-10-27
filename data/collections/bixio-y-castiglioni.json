@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio-y-castiglioni",
   "name": "Bixio y Castiglioni",
-  "version": "87bcd0f8-deda-4ec8-a289-3b57f5ef81f9",
+  "version": "afb124e6-d3d0-4d7d-a744-d2c54336745b",
   "folders": {
     "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3": {
       "name": "bixio y castiglioni",
@@ -1677,9 +1677,10 @@
         "portrait": "Grupal",
         "frame": "Cuerpo entero",
         "author": "Fernández",
-        "side": "Frente"
+        "side": "Frente",
+        "environment": "Exterior"
       },
-      "revision": 6,
+      "revision": 7,
       "fingerprint": "f3ddf27e05b1b71c",
       "media": {
         "thumb": "media/bixio-y-castiglioni/efa81e93e0738d30a590fde229f35c4acc09abed78f231cc1b420e8b48d8ac15-f3ddf27e05b1b71c-thumb.webp",
@@ -1687,14 +1688,15 @@
         "w": 1436,
         "h": 2200
       },
-      "updated": "2026-10-27T20:13:14.011Z",
+      "updated": "2026-10-27T20:27:57.242Z",
       "fieldReviews": {
         "color": "2026-10-26T23:29:52.216Z",
         "kind": "2026-10-26T23:37:43.648Z",
         "portrait": "2026-10-26T23:40:15.714Z",
         "frame": "2026-10-26T23:42:27.432Z",
         "author": "2026-10-26T23:47:41.964Z",
-        "side": "2026-10-27T20:13:14.011Z"
+        "side": "2026-10-27T20:13:14.011Z",
+        "environment": "2026-10-27T20:27:57.242Z"
       }
     },
     "9bb4dd3dca7a947c55fbb2f24885722a76288295f781b69a373bb484cf7b263f": {
@@ -1739,9 +1741,10 @@
         "portrait": "Individual",
         "frame": "Cuerpo entero",
         "author": "Mazer",
-        "side": "Frente"
+        "side": "Frente",
+        "environment": "Exterior"
       },
-      "revision": 6,
+      "revision": 7,
       "fingerprint": "2139d4997375e574",
       "media": {
         "thumb": "media/bixio-y-castiglioni/873c2f2e07a6eef6baa7bc12edba2547be1997be32619870a9c8bea645848438-2139d4997375e574-thumb.webp",
@@ -1749,14 +1752,15 @@
         "w": 1401,
         "h": 2200
       },
-      "updated": "2026-10-27T20:13:14.011Z",
+      "updated": "2026-10-27T20:27:57.242Z",
       "fieldReviews": {
         "color": "2026-10-26T23:28:20.736Z",
         "kind": "2026-10-26T23:37:43.648Z",
         "portrait": "2026-10-26T23:39:40.634Z",
         "frame": "2026-10-26T23:42:27.432Z",
         "author": "2026-10-26T23:48:02.092Z",
-        "side": "2026-10-27T20:13:14.011Z"
+        "side": "2026-10-27T20:13:14.011Z",
+        "environment": "2026-10-27T20:27:57.242Z"
       }
     },
     "55c84c333b3ae4b11e66e6e01ef318bc7df43b978d1b105be666e945035e2c78": {
@@ -1801,9 +1805,10 @@
         "portrait": "Individual",
         "frame": "Cuerpo entero",
         "author": "Pagnotta",
-        "side": "Frente"
+        "side": "Frente",
+        "environment": "Exterior"
       },
-      "revision": 6,
+      "revision": 7,
       "fingerprint": "a9147ff91f11b4f6",
       "media": {
         "thumb": "media/bixio-y-castiglioni/ece0778e3fd808fbe422e6334fa149a638d80ee29b209d57e74075b7735e8f52-a9147ff91f11b4f6-thumb.webp",
@@ -1811,14 +1816,15 @@
         "w": 1432,
         "h": 2200
       },
-      "updated": "2026-10-27T20:13:14.011Z",
+      "updated": "2026-10-27T20:27:57.242Z",
       "fieldReviews": {
         "color": "2026-10-26T23:28:20.736Z",
         "kind": "2026-10-26T23:37:43.648Z",
         "portrait": "2026-10-26T23:39:40.634Z",
         "frame": "2026-10-26T23:42:27.432Z",
         "author": "2026-10-26T23:49:12.182Z",
-        "side": "2026-10-27T20:13:14.011Z"
+        "side": "2026-10-27T20:13:14.011Z",
+        "environment": "2026-10-27T20:27:57.242Z"
       }
     },
     "a243fd299b71e696411559cd3cca03d0946536aba84de13d8ba7d4a1f8c7d9db": {
@@ -1863,9 +1869,10 @@
         "portrait": "Grupal",
         "frame": "Cuerpo entero",
         "author": "Pagnotta",
-        "side": "Frente"
+        "side": "Frente",
+        "environment": "Exterior"
       },
-      "revision": 6,
+      "revision": 7,
       "fingerprint": "3535af5468fd7ab4",
       "media": {
         "thumb": "media/bixio-y-castiglioni/62e82c7c44546e5a7bf6f3e03a5497f856cd54e23957112aa2b4b4fe0f6d3987-3535af5468fd7ab4-thumb.webp",
@@ -1873,14 +1880,15 @@
         "w": 1406,
         "h": 2200
       },
-      "updated": "2026-10-27T20:13:14.011Z",
+      "updated": "2026-10-27T20:27:57.242Z",
       "fieldReviews": {
         "color": "2026-10-26T23:28:20.736Z",
         "kind": "2026-10-26T23:37:43.648Z",
         "portrait": "2026-10-26T23:40:15.714Z",
         "frame": "2026-10-26T23:42:27.432Z",
         "author": "2026-10-26T23:49:26.776Z",
-        "side": "2026-10-27T20:13:14.011Z"
+        "side": "2026-10-27T20:13:14.011Z",
+        "environment": "2026-10-27T20:27:57.242Z"
       }
     },
     "647ad4c207ea556202e948fc77225b38eff82bd53d9c8c2404ab49ab06f79094": {
@@ -1894,9 +1902,10 @@
         "portrait": "Grupal",
         "frame": "Cuerpo entero",
         "author": "Casus",
-        "side": "Frente"
+        "side": "Frente",
+        "environment": "Exterior"
       },
-      "revision": 6,
+      "revision": 7,
       "fingerprint": "50fac2582f97c91f",
       "media": {
         "thumb": "media/bixio-y-castiglioni/647ad4c207ea556202e948fc77225b38eff82bd53d9c8c2404ab49ab06f79094-50fac2582f97c91f-thumb.webp",
@@ -1904,14 +1913,15 @@
         "w": 1416,
         "h": 2200
       },
-      "updated": "2026-10-27T20:13:14.011Z",
+      "updated": "2026-10-27T20:27:57.242Z",
       "fieldReviews": {
         "color": "2026-10-26T23:28:20.736Z",
         "kind": "2026-10-26T23:37:43.648Z",
         "portrait": "2026-10-26T23:40:15.714Z",
         "frame": "2026-10-26T23:42:27.432Z",
         "author": "2026-10-26T23:49:42.368Z",
-        "side": "2026-10-27T20:13:14.011Z"
+        "side": "2026-10-27T20:13:14.011Z",
+        "environment": "2026-10-27T20:27:57.242Z"
       }
     },
     "4dc4e1fb06d71b1a3914d3b2c29834d910cfd565969b88b650ba8a22a2ffa02e": {
@@ -1925,9 +1935,10 @@
         "portrait": "Grupal",
         "frame": "Cuerpo entero",
         "author": "Mazer",
-        "side": "Frente"
+        "side": "Frente",
+        "environment": "Exterior"
       },
-      "revision": 6,
+      "revision": 7,
       "fingerprint": "763b87eb6f14a63a",
       "media": {
         "thumb": "media/bixio-y-castiglioni/4dc4e1fb06d71b1a3914d3b2c29834d910cfd565969b88b650ba8a22a2ffa02e-763b87eb6f14a63a-thumb.webp",
@@ -1935,14 +1946,15 @@
         "w": 1438,
         "h": 2200
       },
-      "updated": "2026-10-27T20:13:14.011Z",
+      "updated": "2026-10-27T20:27:57.242Z",
       "fieldReviews": {
         "color": "2026-10-26T23:28:20.736Z",
         "kind": "2026-10-26T23:37:43.648Z",
         "portrait": "2026-10-26T23:40:15.714Z",
         "frame": "2026-10-26T23:42:27.432Z",
         "author": "2026-10-26T23:49:51.264Z",
-        "side": "2026-10-27T20:13:14.011Z"
+        "side": "2026-10-27T20:13:14.011Z",
+        "environment": "2026-10-27T20:27:57.242Z"
       }
     },
     "534c40eb5c690051586390a828b06614a21d37fdd4bd2352366a409e04d16d35": {
@@ -1987,9 +1999,10 @@
         "portrait": "Individual",
         "frame": "Cuerpo entero",
         "author": "Select",
-        "side": "Frente"
+        "side": "Frente",
+        "environment": "Exterior"
       },
-      "revision": 6,
+      "revision": 7,
       "fingerprint": "fcfe86313399a720",
       "media": {
         "thumb": "media/bixio-y-castiglioni/5ce9e1ef7add0b4ef366bf92e83d791576622a777b40198817116a12e2d0a6e9-fcfe86313399a720-thumb.webp",
@@ -1997,14 +2010,15 @@
         "w": 1402,
         "h": 2200
       },
-      "updated": "2026-10-27T20:13:14.011Z",
+      "updated": "2026-10-27T20:27:57.242Z",
       "fieldReviews": {
         "color": "2026-10-26T23:28:20.736Z",
         "kind": "2026-10-26T23:37:43.648Z",
         "portrait": "2026-10-26T23:39:40.634Z",
         "frame": "2026-10-26T23:42:27.432Z",
         "author": "2026-10-26T23:50:06.664Z",
-        "side": "2026-10-27T20:13:14.011Z"
+        "side": "2026-10-27T20:13:14.011Z",
+        "environment": "2026-10-27T20:27:57.242Z"
       }
     },
     "9ea96a3bfb8cf60e78f702c87f5b0fe6c51919f46543d24bf17c0a0b9551514e": {
@@ -2047,9 +2061,10 @@
         "color": "byn",
         "kind": "Otros",
         "author": "Mateo Bonin",
-        "side": "Frente"
+        "side": "Frente",
+        "environment": "Exterior"
       },
-      "revision": 4,
+      "revision": 5,
       "fingerprint": "e4f13af8cef902a3",
       "media": {
         "thumb": "media/bixio-y-castiglioni/3558ae7f84f6c0ea73a0643cae7c4c90f209d802c7d0800777f60938c33562c8-e4f13af8cef902a3-thumb.webp",
@@ -2057,12 +2072,13 @@
         "w": 2200,
         "h": 1402
       },
-      "updated": "2026-10-27T20:13:14.011Z",
+      "updated": "2026-10-27T20:27:57.242Z",
       "fieldReviews": {
         "color": "2026-10-26T23:28:20.736Z",
         "kind": "2026-10-26T23:38:14.033Z",
         "author": "2026-10-26T23:50:34.050Z",
-        "side": "2026-10-27T20:13:14.011Z"
+        "side": "2026-10-27T20:13:14.011Z",
+        "environment": "2026-10-27T20:27:57.242Z"
       }
     },
     "bf288da8b93f8b99b1c85f3a4e393ee5f940333b8d783db526c20559d26bd770": {
@@ -5320,7 +5336,7 @@
     "FIR-02": "Rectángulo varios niveles - Bixio & Castiglioni Pellegrini 760. B.A.",
     "FIR-03": "Rectángulo en relieve - Bixio y Castiglioni. C. Pellegrini 760. Buenos Aires"
   },
-  "updated": "2026-10-27T20:27:48.486Z",
+  "updated": "2026-10-27T20:27:58.591Z",
   "authors": [
     "Bixio & Castiglioni",
     "E. Masoni",
