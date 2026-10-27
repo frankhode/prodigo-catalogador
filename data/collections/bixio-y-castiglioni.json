@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio-y-castiglioni",
   "name": "Bixio y Castiglioni",
-  "version": "5657e35c-0dd0-4a65-9b55-4f462a6af2e4",
+  "version": "202cb5d3-35ef-4224-a66d-ac3df76f819f",
   "folders": {
     "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3": {
       "name": "bixio y castiglioni",
@@ -5073,7 +5073,7 @@
       "id": "252adde7910ea5337dcfcc5b26562e785215559e9c4712a38bc8cc179da0a931",
       "relative": "img402.tif",
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
-      "status": "pending",
+      "status": "done",
       "record": {
         "color": "byn",
         "kind": "Retrato",
@@ -5081,9 +5081,20 @@
         "frame": "Cuerpo entero",
         "author": "Bixio & Castiglioni",
         "side": "Frente",
-        "environment": "Estudio"
+        "environment": "Estudio",
+        "number": "110432",
+        "people": [
+          "Bebés"
+        ],
+        "objects": [
+          "Juguetes"
+        ],
+        "highlights": [
+          "Muestra"
+        ],
+        "signature": "FIR-04"
       },
-      "revision": 7,
+      "revision": 8,
       "fingerprint": "bb8ea197c64f08fa",
       "media": {
         "thumb": "media/bixio-y-castiglioni/252adde7910ea5337dcfcc5b26562e785215559e9c4712a38bc8cc179da0a931-bb8ea197c64f08fa-thumb.webp",
@@ -5091,7 +5102,7 @@
         "w": 1490,
         "h": 2200
       },
-      "updated": "2026-10-27T20:27:47.115Z",
+      "updated": "2026-10-27T21:26:32.814Z",
       "fieldReviews": {
         "color": "2026-10-26T23:35:58.662Z",
         "kind": "2026-10-26T23:37:43.649Z",
@@ -5982,7 +5993,7 @@
     "FIR-05": "Rectángulo en varios niveles - Bixio y Castiglioni. C. Pellegrini 760. Buenos Aires",
     "FIR-06": "Bixio y Castiglioni. C. Pellegrini 760. Bs. As."
   },
-  "updated": "2026-10-27T21:25:53.277Z",
+  "updated": "2026-10-27T21:26:34.251Z",
   "authors": [
     "Bixio & Castiglioni",
     "E. Masoni",
