@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio-y-castiglioni",
   "name": "Bixio y Castiglioni",
-  "version": "f7ef9bf1-e851-428c-bec2-b19c93ac23a4",
+  "version": "06b19609-7d2d-4342-8701-648f15b6f0f0",
   "folders": {
     "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3": {
       "name": "bixio y castiglioni",
@@ -1521,7 +1521,7 @@
       "id": "ea305ef49b1bbad1bfcb8b06d2415bcbe85be7415281031fe9a164bd1997b3d0",
       "relative": "img266.tif",
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
-      "status": "pending",
+      "status": "done",
       "record": {
         "color": "byn",
         "kind": "Retrato",
@@ -1529,9 +1529,18 @@
         "frame": "Cuerpo entero",
         "author": "Bixio & Castiglioni",
         "side": "Frente",
-        "environment": "Estudio"
+        "environment": "Estudio",
+        "people": [
+          "Mujeres",
+          "Hombres"
+        ],
+        "objects": [],
+        "highlights": [
+          "Casamiento"
+        ],
+        "signature": "FIR-03"
       },
-      "revision": 7,
+      "revision": 8,
       "fingerprint": "7f365771393aa305",
       "media": {
         "thumb": "media/bixio-y-castiglioni/ea305ef49b1bbad1bfcb8b06d2415bcbe85be7415281031fe9a164bd1997b3d0-7f365771393aa305-thumb.webp",
@@ -1539,7 +1548,7 @@
         "w": 930,
         "h": 1219
       },
-      "updated": "2026-10-27T20:27:47.114Z",
+      "updated": "2026-10-27T20:35:07.873Z",
       "fieldReviews": {
         "color": "2026-10-26T23:29:37.400Z",
         "kind": "2026-10-26T23:37:43.648Z",
@@ -5338,7 +5347,8 @@
       "Primera comunión",
       "Vestimenta",
       "Peinado",
-      "Militar"
+      "Militar",
+      "Casamiento"
     ]
   },
   "signatures": {
@@ -5348,7 +5358,7 @@
     "FIR-02": "Rectángulo varios niveles - Bixio & Castiglioni Pellegrini 760. B.A.",
     "FIR-03": "Rectángulo en relieve - Bixio y Castiglioni. C. Pellegrini 760. Buenos Aires"
   },
-  "updated": "2026-10-27T20:34:40.292Z",
+  "updated": "2026-10-27T20:35:09.277Z",
   "authors": [
     "Bixio & Castiglioni",
     "E. Masoni",
