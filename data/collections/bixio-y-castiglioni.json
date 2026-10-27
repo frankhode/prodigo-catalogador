@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio-y-castiglioni",
   "name": "Bixio y Castiglioni",
-  "version": "3a9ab4d6-0298-4445-a0d2-d13d760fe697",
+  "version": "11100724-2187-406f-ba5b-1305530d1b07",
   "folders": {
     "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3": {
       "name": "bixio y castiglioni",
@@ -2265,7 +2265,7 @@
       "id": "4baea6c03ce21d1ad5ee5667e02d425b293f9861914203824e4ae85fb03aea39",
       "relative": "img285.tif",
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
-      "status": "pending",
+      "status": "done",
       "record": {
         "color": "iluminado",
         "kind": "Retrato",
@@ -2273,9 +2273,19 @@
         "frame": "Cuerpo entero",
         "author": "",
         "side": "Frente",
-        "environment": "Estudio"
+        "environment": "Estudio",
+        "number": "37565",
+        "people": [
+          "Niñas"
+        ],
+        "objects": [
+          "Juguetes"
+        ],
+        "highlights": [
+          "Vestimenta"
+        ]
       },
-      "revision": 7,
+      "revision": 8,
       "fingerprint": "58e742b4f78c4f0c",
       "media": {
         "thumb": "media/bixio-y-castiglioni/4baea6c03ce21d1ad5ee5667e02d425b293f9861914203824e4ae85fb03aea39-58e742b4f78c4f0c-thumb.webp",
@@ -2283,7 +2293,7 @@
         "w": 1413,
         "h": 2200
       },
-      "updated": "2026-10-27T20:27:47.114Z",
+      "updated": "2026-10-27T20:49:58.120Z",
       "fieldReviews": {
         "color": "2026-10-26T23:29:59.272Z",
         "kind": "2026-10-26T23:37:43.648Z",
@@ -5471,7 +5481,8 @@
     "objects": [
       "Abanico",
       "Bastón",
-      "Autos"
+      "Autos",
+      "Juguetes"
     ],
     "highlights": [
       "Primera comunión",
@@ -5493,7 +5504,7 @@
     "FIR-02": "Rectángulo varios niveles - Bixio & Castiglioni Pellegrini 760. B.A.",
     "FIR-03": "Rectángulo en relieve - Bixio y Castiglioni. C. Pellegrini 760. Buenos Aires"
   },
-  "updated": "2026-10-27T20:49:11.289Z",
+  "updated": "2026-10-27T20:49:59.613Z",
   "authors": [
     "Bixio & Castiglioni",
     "E. Masoni",
