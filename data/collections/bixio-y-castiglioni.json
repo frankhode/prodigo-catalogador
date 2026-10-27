@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio-y-castiglioni",
   "name": "Bixio y Castiglioni",
-  "version": "8c5cb8bd-e5e9-44e5-9abb-e9108f359e44",
+  "version": "59296088-c907-4c93-87a4-96cc745290bd",
   "folders": {
     "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3": {
       "name": "bixio y castiglioni",
@@ -1989,7 +1989,7 @@
       "id": "647ad4c207ea556202e948fc77225b38eff82bd53d9c8c2404ab49ab06f79094",
       "relative": "img278.tif",
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
-      "status": "pending",
+      "status": "done",
       "record": {
         "color": "byn",
         "kind": "Retrato",
@@ -1997,9 +1997,21 @@
         "frame": "Cuerpo entero",
         "author": "Casus",
         "side": "Frente",
-        "environment": "Exterior"
+        "environment": "Exterior",
+        "number": "7194",
+        "people": [
+          "Hombres",
+          "Mujeres"
+        ],
+        "objects": [
+          "Bastón"
+        ],
+        "highlights": [
+          "Vestimenta",
+          "Mar del Plata"
+        ]
       },
-      "revision": 7,
+      "revision": 8,
       "fingerprint": "50fac2582f97c91f",
       "media": {
         "thumb": "media/bixio-y-castiglioni/647ad4c207ea556202e948fc77225b38eff82bd53d9c8c2404ab49ab06f79094-50fac2582f97c91f-thumb.webp",
@@ -2007,7 +2019,7 @@
         "w": 1416,
         "h": 2200
       },
-      "updated": "2026-10-27T20:27:57.242Z",
+      "updated": "2026-10-27T20:44:48.048Z",
       "fieldReviews": {
         "color": "2026-10-26T23:28:20.736Z",
         "kind": "2026-10-26T23:37:43.648Z",
@@ -5414,7 +5426,8 @@
       "Niños"
     ],
     "objects": [
-      "Abanico"
+      "Abanico",
+      "Bastón"
     ],
     "highlights": [
       "Primera comunión",
@@ -5434,7 +5447,7 @@
     "FIR-02": "Rectángulo varios niveles - Bixio & Castiglioni Pellegrini 760. B.A.",
     "FIR-03": "Rectángulo en relieve - Bixio y Castiglioni. C. Pellegrini 760. Buenos Aires"
   },
-  "updated": "2026-10-27T20:43:59.177Z",
+  "updated": "2026-10-27T20:44:49.537Z",
   "authors": [
     "Bixio & Castiglioni",
     "E. Masoni",
