@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio-y-castiglioni",
   "name": "Bixio y Castiglioni",
-  "version": "84a1401d-4551-48b3-a6fb-79fc3a27a206",
+  "version": "ca2cb43d-e581-46bb-9dcc-30085aceeeaa",
   "folders": {
     "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3": {
       "name": "bixio y castiglioni",
@@ -2039,9 +2039,10 @@
       "record": {
         "color": "",
         "kind": "",
-        "author": ""
+        "author": "",
+        "side": "Tapa"
       },
-      "revision": 3,
+      "revision": 4,
       "fingerprint": "1276f8216658140e",
       "media": {
         "thumb": "media/bixio-y-castiglioni/e09e031b1d9d03b741a6e2cb54b48b441e43de9238323e8a126be34d07f090eb-1276f8216658140e-thumb.webp",
@@ -2049,11 +2050,12 @@
         "w": 2200,
         "h": 1740
       },
-      "updated": "2026-10-27T19:57:41.086Z",
+      "updated": "2026-10-27T20:14:14.251Z",
       "fieldReviews": {
         "color": "2026-10-26T23:27:44.288Z",
         "kind": "2026-10-26T23:37:11.255Z",
-        "author": "2026-10-27T19:57:41.086Z"
+        "author": "2026-10-27T19:57:41.086Z",
+        "side": "2026-10-27T20:14:14.251Z"
       }
     },
     "66de794385ba9bc5e3fcb0f25764c9abb345cab9a44b79c8b56a5af65b9f319a": {
@@ -2426,9 +2428,10 @@
       "record": {
         "color": "",
         "kind": "",
-        "author": ""
+        "author": "",
+        "side": "Tapa"
       },
-      "revision": 3,
+      "revision": 4,
       "fingerprint": "99775a5808167f63",
       "media": {
         "thumb": "media/bixio-y-castiglioni/40260db6a0fc8aa86f8299c257f5863d367720c56ff3a759d6a7ae346de3b79e-99775a5808167f63-thumb.webp",
@@ -2436,11 +2439,12 @@
         "w": 2200,
         "h": 1725
       },
-      "updated": "2026-10-27T19:57:41.086Z",
+      "updated": "2026-10-27T20:14:14.251Z",
       "fieldReviews": {
         "color": "2026-10-26T23:27:44.288Z",
         "kind": "2026-10-26T23:37:56.464Z",
-        "author": "2026-10-27T19:57:41.086Z"
+        "author": "2026-10-27T19:57:41.086Z",
+        "side": "2026-10-27T20:14:14.251Z"
       }
     },
     "7f7d3ddc8ce999dab282d447419eeb9a199e682e5d07bf716c4fe621b6e4a6cc": {
@@ -2571,9 +2575,10 @@
       "record": {
         "color": "",
         "kind": "",
-        "author": ""
+        "author": "",
+        "side": "Tapa"
       },
-      "revision": 3,
+      "revision": 4,
       "fingerprint": "49bd52af5f54ed5b",
       "media": {
         "thumb": "media/bixio-y-castiglioni/4407695bd3463d70d261c8f62e937ab468b81972ab660e681fedf1526674bc12-49bd52af5f54ed5b-thumb.webp",
@@ -2581,11 +2586,12 @@
         "w": 2200,
         "h": 1733
       },
-      "updated": "2026-10-27T19:57:41.086Z",
+      "updated": "2026-10-27T20:14:14.251Z",
       "fieldReviews": {
         "color": "2026-10-26T23:27:44.288Z",
         "kind": "2026-10-26T23:37:11.255Z",
-        "author": "2026-10-27T19:57:41.086Z"
+        "author": "2026-10-27T19:57:41.086Z",
+        "side": "2026-10-27T20:14:14.251Z"
       }
     },
     "f4126d9f7597b862939e43db496fc70812a93577e38bb06459a1a8184412a534": {
@@ -2627,9 +2633,10 @@
       "record": {
         "color": "",
         "kind": "",
-        "author": ""
+        "author": "",
+        "side": "Tapa"
       },
-      "revision": 3,
+      "revision": 4,
       "fingerprint": "c730e2bdc2911d42",
       "media": {
         "thumb": "media/bixio-y-castiglioni/5c6b186ebf1ddee6ca56f1a99d08dfc98a5c487c4dc38ed90c23bcee1cc81a9d-c730e2bdc2911d42-thumb.webp",
@@ -2637,11 +2644,12 @@
         "w": 2200,
         "h": 1712
       },
-      "updated": "2026-10-27T19:57:41.086Z",
+      "updated": "2026-10-27T20:14:14.251Z",
       "fieldReviews": {
         "color": "2026-10-26T23:27:44.288Z",
         "kind": "2026-10-26T23:37:11.255Z",
-        "author": "2026-10-27T19:57:41.086Z"
+        "author": "2026-10-27T19:57:41.086Z",
+        "side": "2026-10-27T20:14:14.251Z"
       }
     },
     "47d73da554884020621b94170a7b1674317b59022dd746dd335d4f02ce5d322b": {
@@ -2832,9 +2840,10 @@
       "record": {
         "color": "",
         "kind": "",
-        "author": ""
+        "author": "",
+        "side": "Tapa"
       },
-      "revision": 3,
+      "revision": 4,
       "fingerprint": "416d06b6e0ecf512",
       "media": {
         "thumb": "media/bixio-y-castiglioni/d5b2f63e111e3a3b11295ff2836913279705e3668242e8dfe0cf57ca6d230b0d-416d06b6e0ecf512-thumb.webp",
@@ -2842,11 +2851,12 @@
         "w": 2200,
         "h": 1696
       },
-      "updated": "2026-10-27T19:57:41.086Z",
+      "updated": "2026-10-27T20:14:14.251Z",
       "fieldReviews": {
         "color": "2026-10-26T23:27:44.288Z",
         "kind": "2026-10-26T23:37:11.255Z",
-        "author": "2026-10-27T19:57:41.086Z"
+        "author": "2026-10-27T19:57:41.086Z",
+        "side": "2026-10-27T20:14:14.251Z"
       }
     },
     "5db73e46d378a14a9fbbf223d48587b0c086ac259e1d7dd40cca97a0c2a9f384": {
@@ -3490,9 +3500,10 @@
       "record": {
         "color": "",
         "kind": "",
-        "author": ""
+        "author": "",
+        "side": "Tapa"
       },
-      "revision": 3,
+      "revision": 4,
       "fingerprint": "8a38dde96b2aeb8f",
       "media": {
         "thumb": "media/bixio-y-castiglioni/ad281cc8b7cfed36c473c5183239b4f0e4321b57499844a87a6244dad2d0ad80-8a38dde96b2aeb8f-thumb.webp",
@@ -3500,11 +3511,12 @@
         "w": 2200,
         "h": 1675
       },
-      "updated": "2026-10-27T19:57:41.086Z",
+      "updated": "2026-10-27T20:14:14.251Z",
       "fieldReviews": {
         "color": "2026-10-26T23:27:44.288Z",
         "kind": "2026-10-26T23:37:11.255Z",
-        "author": "2026-10-27T19:57:41.086Z"
+        "author": "2026-10-27T19:57:41.086Z",
+        "side": "2026-10-27T20:14:14.251Z"
       }
     },
     "9e219525879b44aa7fe484296edfb67fcb657071085b7f49504a5fcd0fc73f24": {
@@ -3822,9 +3834,10 @@
       "record": {
         "color": "",
         "kind": "",
-        "author": ""
+        "author": "",
+        "side": "Tapa"
       },
-      "revision": 3,
+      "revision": 4,
       "fingerprint": "c6c21e241819742a",
       "media": {
         "thumb": "media/bixio-y-castiglioni/1950d4bea552560fa1296b54425a4ecbe6e7db3799f9bcf15ec1a3172791792a-c6c21e241819742a-thumb.webp",
@@ -3832,11 +3845,12 @@
         "w": 2200,
         "h": 1181
       },
-      "updated": "2026-10-27T19:57:41.086Z",
+      "updated": "2026-10-27T20:14:14.251Z",
       "fieldReviews": {
         "color": "2026-10-26T23:27:44.288Z",
         "kind": "2026-10-26T23:37:11.256Z",
-        "author": "2026-10-27T19:57:41.086Z"
+        "author": "2026-10-27T19:57:41.086Z",
+        "side": "2026-10-27T20:14:14.251Z"
       }
     },
     "e1cbca0368b88219f476f7311b954cde8dd406d84bfb75960bf7c7b5f80fa094": {
@@ -3907,9 +3921,10 @@
       "record": {
         "color": "",
         "kind": "",
-        "author": ""
+        "author": "",
+        "side": "Tapa"
       },
-      "revision": 3,
+      "revision": 4,
       "fingerprint": "dc3cd1c5c575bc06",
       "media": {
         "thumb": "media/bixio-y-castiglioni/ab18f668551344c2504c45f504cde32ba034203eaa0d2a29aa4cccaf9e4e861c-dc3cd1c5c575bc06-thumb.webp",
@@ -3917,11 +3932,12 @@
         "w": 2200,
         "h": 1714
       },
-      "updated": "2026-10-27T19:57:41.086Z",
+      "updated": "2026-10-27T20:14:14.251Z",
       "fieldReviews": {
         "color": "2026-10-26T23:27:44.288Z",
         "kind": "2026-10-26T23:37:11.256Z",
-        "author": "2026-10-27T19:57:41.086Z"
+        "author": "2026-10-27T19:57:41.086Z",
+        "side": "2026-10-27T20:14:14.251Z"
       }
     },
     "b6714a2f6f388dd61ce098cff99753a40b920492b4919b596c43ffb99f14d88c": {
@@ -4920,7 +4936,7 @@
     "FIR-02": "Rectángulo varios niveles - Bixio & Castiglioni Pellegrini 760. B.A.",
     "FIR-03": "Rectángulo en relieve - Bixio y Castiglioni. C. Pellegrini 760. Buenos Aires"
   },
-  "updated": "2026-10-27T20:13:46.130Z",
+  "updated": "2026-10-27T20:14:15.658Z",
   "authors": [
     "Bixio & Castiglioni",
     "E. Masoni",
