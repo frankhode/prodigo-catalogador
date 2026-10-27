@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio-y-castiglioni",
   "name": "Bixio y Castiglioni",
-  "version": "ad136782-3064-4ec8-b50a-ccff21a0091d",
+  "version": "161c13e1-0ea6-47d7-a876-0bd192977236",
   "folders": {
     "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3": {
       "name": "bixio y castiglioni",
@@ -4923,7 +4923,7 @@
       "id": "b6714a2f6f388dd61ce098cff99753a40b920492b4919b596c43ffb99f14d88c",
       "relative": "img396.tif",
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
-      "status": "pending",
+      "status": "done",
       "record": {
         "color": "byn",
         "kind": "Retrato",
@@ -4931,9 +4931,16 @@
         "frame": "Cuerpo entero",
         "author": "Estudio Carreño",
         "side": "Frente",
-        "environment": "Estudio"
+        "environment": "Estudio",
+        "people": [
+          "Mujeres"
+        ],
+        "objects": [],
+        "highlights": [
+          "Casamiento"
+        ]
       },
-      "revision": 7,
+      "revision": 8,
       "fingerprint": "de2a191172760874",
       "media": {
         "thumb": "media/bixio-y-castiglioni/b6714a2f6f388dd61ce098cff99753a40b920492b4919b596c43ffb99f14d88c-de2a191172760874-thumb.webp",
@@ -4941,7 +4948,7 @@
         "w": 1659,
         "h": 2200
       },
-      "updated": "2026-10-27T20:27:47.115Z",
+      "updated": "2026-10-27T21:24:51.303Z",
       "fieldReviews": {
         "color": "2026-10-26T23:28:20.736Z",
         "kind": "2026-10-26T23:37:43.649Z",
@@ -5960,7 +5967,7 @@
     "FIR-05": "Rectángulo en varios niveles - Bixio y Castiglioni. C. Pellegrini 760. Buenos Aires",
     "FIR-06": "Bixio y Castiglioni. C. Pellegrini 760. Bs. As."
   },
-  "updated": "2026-10-27T21:24:34.780Z",
+  "updated": "2026-10-27T21:24:52.673Z",
   "authors": [
     "Bixio & Castiglioni",
     "E. Masoni",
