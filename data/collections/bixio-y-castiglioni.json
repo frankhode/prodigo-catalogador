@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio-y-castiglioni",
   "name": "Bixio y Castiglioni",
-  "version": "9f405a28-2ab4-491e-9045-fe22fa87bd07",
+  "version": "7c864258-589d-4130-a5a4-e09b73004a69",
   "folders": {
     "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3": {
       "name": "bixio y castiglioni",
@@ -4655,7 +4655,7 @@
       "id": "15c50c0445fa1e0c8cd303bc965271cc7d693130ae0393eda642f91756761d4d",
       "relative": "img387.tif",
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
-      "status": "pending",
+      "status": "done",
       "record": {
         "color": "sepia",
         "kind": "Retrato",
@@ -4663,9 +4663,16 @@
         "author": "Bixio & Castiglioni",
         "side": "Frente",
         "frame": "Busto",
-        "environment": "Estudio"
+        "environment": "Estudio",
+        "number": "81673",
+        "people": [
+          "Mujeres"
+        ],
+        "objects": [],
+        "highlights": [],
+        "signature": "FIR-02"
       },
-      "revision": 7,
+      "revision": 8,
       "fingerprint": "e10978f9a730c87b",
       "media": {
         "thumb": "media/bixio-y-castiglioni/15c50c0445fa1e0c8cd303bc965271cc7d693130ae0393eda642f91756761d4d-e10978f9a730c87b-thumb.webp",
@@ -4673,7 +4680,7 @@
         "w": 879,
         "h": 1191
       },
-      "updated": "2026-10-27T20:27:47.115Z",
+      "updated": "2026-10-27T21:22:17.918Z",
       "fieldReviews": {
         "color": "2026-10-26T23:34:42.572Z",
         "kind": "2026-10-26T23:37:43.649Z",
@@ -5918,7 +5925,7 @@
     "FIR-04": "Bixio y Castiglioni - Muestra sin retoque",
     "FIR-05": "Rectángulo en varios niveles - Bixio y Castiglioni. C. Pellegrini 760. Buenos Aires"
   },
-  "updated": "2026-10-27T21:21:53.847Z",
+  "updated": "2026-10-27T21:22:19.288Z",
   "authors": [
     "Bixio & Castiglioni",
     "E. Masoni",
