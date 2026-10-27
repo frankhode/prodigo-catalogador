@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio-y-castiglioni",
   "name": "Bixio y Castiglioni",
-  "version": "63c1820c-eec2-4967-a0b1-e982ea1c4e75",
+  "version": "306f2dcb-e96c-4a57-b18c-512899ec49b4",
   "folders": {
     "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3": {
       "name": "bixio y castiglioni",
@@ -3751,7 +3751,7 @@
       "id": "01a8423f6dfe3b38e1876e8b0d3c1c44ef13b1260dc65469a8dc59860c8966a4",
       "relative": "img349.tif",
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
-      "status": "pending",
+      "status": "done",
       "record": {
         "color": "sepia",
         "kind": "Retrato",
@@ -3759,9 +3759,21 @@
         "author": "Bixio & Castiglioni",
         "side": "Frente",
         "frame": "Medio cuerpo",
-        "environment": "Estudio"
+        "environment": "Estudio",
+        "number": "81399",
+        "people": [
+          "Hombres",
+          "Mujeres"
+        ],
+        "objects": [],
+        "highlights": [
+          "Peinado",
+          "Vestimenta",
+          "Muestra"
+        ],
+        "signature": "FIR-04"
       },
-      "revision": 7,
+      "revision": 8,
       "fingerprint": "92a70064686dc17e",
       "media": {
         "thumb": "media/bixio-y-castiglioni/01a8423f6dfe3b38e1876e8b0d3c1c44ef13b1260dc65469a8dc59860c8966a4-92a70064686dc17e-thumb.webp",
@@ -3769,7 +3781,7 @@
         "w": 1592,
         "h": 2200
       },
-      "updated": "2026-10-27T20:27:47.115Z",
+      "updated": "2026-10-27T21:07:21.280Z",
       "fieldReviews": {
         "color": "2026-10-26T23:32:52.363Z",
         "kind": "2026-10-26T23:37:43.649Z",
@@ -5744,7 +5756,8 @@
       "Sombrero",
       "Chofer",
       "Salta",
-      "Disfraz"
+      "Disfraz",
+      "Muestra"
     ]
   },
   "signatures": {
@@ -5755,7 +5768,7 @@
     "FIR-03": "Rectángulo en relieve - Bixio y Castiglioni. C. Pellegrini 760. Buenos Aires",
     "FIR-04": "Bixio y Castiglioni - Muestra sin retoque"
   },
-  "updated": "2026-10-27T21:07:16.438Z",
+  "updated": "2026-10-27T21:07:22.640Z",
   "authors": [
     "Bixio & Castiglioni",
     "E. Masoni",
