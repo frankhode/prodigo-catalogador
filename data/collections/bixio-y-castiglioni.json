@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio-y-castiglioni",
   "name": "Bixio y Castiglioni",
-  "version": "a52596a7-76ea-426f-8c53-0971e0c6003b",
+  "version": "e1a843a9-bef1-4604-978f-fd2eb21eb7b2",
   "folders": {
     "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3": {
       "name": "bixio y castiglioni",
@@ -4204,7 +4204,7 @@
       "id": "0371fcad887edf6f280de1a63e9956ca57ae57f45e39edfa117892c5f90ede33",
       "relative": "img370.tif",
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
-      "status": "pending",
+      "status": "done",
       "record": {
         "color": "sepia",
         "kind": "Retrato",
@@ -4212,9 +4212,16 @@
         "author": "Bixio & Castiglioni",
         "side": "Frente",
         "frame": "Busto",
-        "environment": "Estudio"
+        "environment": "Estudio",
+        "number": "98456",
+        "people": [
+          "Hombres"
+        ],
+        "objects": [],
+        "highlights": [],
+        "signature": "FIR-01"
       },
-      "revision": 7,
+      "revision": 8,
       "fingerprint": "00e8972521b6b759",
       "media": {
         "thumb": "media/bixio-y-castiglioni/0371fcad887edf6f280de1a63e9956ca57ae57f45e39edfa117892c5f90ede33-00e8972521b6b759-thumb.webp",
@@ -4222,7 +4229,7 @@
         "w": 1475,
         "h": 2200
       },
-      "updated": "2026-10-27T20:27:47.115Z",
+      "updated": "2026-10-27T21:17:09.343Z",
       "fieldReviews": {
         "color": "2026-10-26T23:34:03.931Z",
         "kind": "2026-10-26T23:37:43.649Z",
@@ -5848,7 +5855,7 @@
     "FIR-03": "Rectángulo en relieve - Bixio y Castiglioni. C. Pellegrini 760. Buenos Aires",
     "FIR-04": "Bixio y Castiglioni - Muestra sin retoque"
   },
-  "updated": "2026-10-27T21:16:48.376Z",
+  "updated": "2026-10-27T21:17:11.062Z",
   "authors": [
     "Bixio & Castiglioni",
     "E. Masoni",
