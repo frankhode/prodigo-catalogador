@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio-y-castiglioni",
   "name": "Bixio y Castiglioni",
-  "version": "694242f7-e1d5-4737-ba4c-ef38defde6b5",
+  "version": "378c763a-9786-4829-9db8-9978320d414a",
   "folders": {
     "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3": {
       "name": "bixio y castiglioni",
@@ -3998,7 +3998,7 @@
       "id": "580a3969f3a9ad01ce17d192718a91d63bb648382044c8de2309f1b198b95be5",
       "relative": "img360.tif",
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
-      "status": "pending",
+      "status": "done",
       "record": {
         "color": "sepia",
         "kind": "Retrato",
@@ -4006,9 +4006,18 @@
         "frame": "Cuerpo entero",
         "author": "Bixio & Castiglioni",
         "side": "Frente",
-        "environment": "Estudio"
+        "environment": "Estudio",
+        "number": "88863",
+        "people": [
+          "Niñas"
+        ],
+        "objects": [],
+        "highlights": [
+          "Disfraz"
+        ],
+        "signature": "FIR-01"
       },
-      "revision": 7,
+      "revision": 8,
       "fingerprint": "56fd70dc416667d8",
       "media": {
         "thumb": "media/bixio-y-castiglioni/580a3969f3a9ad01ce17d192718a91d63bb648382044c8de2309f1b198b95be5-56fd70dc416667d8-thumb.webp",
@@ -4016,7 +4025,7 @@
         "w": 1475,
         "h": 2200
       },
-      "updated": "2026-10-27T20:27:47.115Z",
+      "updated": "2026-10-27T21:15:00.311Z",
       "fieldReviews": {
         "color": "2026-10-26T23:33:28.740Z",
         "kind": "2026-10-26T23:37:43.649Z",
@@ -5807,7 +5816,7 @@
     "FIR-03": "Rectángulo en relieve - Bixio y Castiglioni. C. Pellegrini 760. Buenos Aires",
     "FIR-04": "Bixio y Castiglioni - Muestra sin retoque"
   },
-  "updated": "2026-10-27T21:14:41.766Z",
+  "updated": "2026-10-27T21:15:01.715Z",
   "authors": [
     "Bixio & Castiglioni",
     "E. Masoni",
