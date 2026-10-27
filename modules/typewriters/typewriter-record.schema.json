@@ -1,0 +1,319 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Pródigo — ficha museológica de máquina de escribir",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "objectType",
+    "identification",
+    "production",
+    "technical",
+    "physical",
+    "condition",
+    "provenance",
+    "media",
+    "status"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "objectType": {
+      "const": "typewriter"
+    },
+    "status": {
+      "enum": [
+        "draft",
+        "review",
+        "published"
+      ]
+    },
+    "identification": {
+      "type": "object",
+      "properties": {
+        "inventoryNumber": {
+          "type": "string"
+        },
+        "manufacturerId": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "brandId": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "modelId": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "variant": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    },
+    "production": {
+      "type": "object",
+      "properties": {
+        "country": {
+          "type": "string"
+        },
+        "city": {
+          "type": "string"
+        },
+        "serialNumber": {
+          "type": "string"
+        },
+        "dateDisplay": {
+          "type": "string"
+        },
+        "dateStart": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "dateEnd": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "dateCertainty": {
+          "enum": [
+            "unknown",
+            "documented",
+            "inferred",
+            "approximate"
+          ]
+        },
+        "datingSource": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    },
+    "technical": {
+      "type": "object",
+      "properties": {
+        "category": {
+          "type": "string"
+        },
+        "mechanism": {
+          "type": "string"
+        },
+        "keyboardLayout": {
+          "type": "string"
+        },
+        "keyCount": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "carriageWidthCm": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "typeface": {
+          "type": "string"
+        },
+        "notes": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    },
+    "physical": {
+      "type": "object",
+      "properties": {
+        "materials": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "colors": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "heightCm": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "widthCm": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "depthCm": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "weightKg": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "marks": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "text"
+            ],
+            "properties": {
+              "text": {
+                "type": "string"
+              },
+              "location": {
+                "type": "string"
+              },
+              "technique": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "accessories": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "additionalProperties": false
+    },
+    "condition": {
+      "type": "object",
+      "properties": {
+        "state": {
+          "enum": [
+            "not_assessed",
+            "excellent",
+            "good",
+            "fair",
+            "poor"
+          ]
+        },
+        "operational": {
+          "enum": [
+            "not_tested",
+            "operational",
+            "partial",
+            "not_operational"
+          ]
+        },
+        "missingParts": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "interventions": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "notes": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    },
+    "provenance": {
+      "type": "object",
+      "properties": {
+        "acquisitionType": {
+          "type": "string"
+        },
+        "acquisitionDate": {
+          "type": "string"
+        },
+        "previousOwners": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "history": {
+          "type": "string"
+        },
+        "location": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    },
+    "media": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "role",
+          "order"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "role": {
+            "enum": [
+              "principal",
+              "general",
+              "keyboard",
+              "mechanism",
+              "mark",
+              "serial",
+              "accessory",
+              "condition",
+              "other"
+            ]
+          },
+          "order": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "path": {
+            "type": "string"
+          },
+          "caption": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "historicalNotes": {
+      "type": "string"
+    },
+    "references": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  }
+}
