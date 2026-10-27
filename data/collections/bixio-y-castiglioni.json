@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio-y-castiglioni",
   "name": "Bixio y Castiglioni",
-  "version": "4185f3c9-aa66-429b-aa2b-fb79a3477e09",
+  "version": "8002280f-521e-4041-af1c-be287d6bf5e6",
   "folders": {
     "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3": {
       "name": "bixio y castiglioni",
@@ -2185,15 +2185,31 @@
       "id": "3558ae7f84f6c0ea73a0643cae7c4c90f209d802c7d0800777f60938c33562c8",
       "relative": "img283.tif",
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
-      "status": "pending",
+      "status": "done",
       "record": {
         "color": "byn",
         "kind": "Otros",
         "author": "Mateo Bonin",
         "side": "Frente",
-        "environment": "Exterior"
+        "environment": "Exterior",
+        "number": "359",
+        "date": "1932",
+        "people": [
+          "Hombres",
+          "Mujeres"
+        ],
+        "objects": [
+          "Autos"
+        ],
+        "highlights": [
+          "Chofer",
+          "Salta"
+        ],
+        "portrait": "",
+        "frame": "",
+        "direction": ""
       },
-      "revision": 5,
+      "revision": 6,
       "fingerprint": "e4f13af8cef902a3",
       "media": {
         "thumb": "media/bixio-y-castiglioni/3558ae7f84f6c0ea73a0643cae7c4c90f209d802c7d0800777f60938c33562c8-e4f13af8cef902a3-thumb.webp",
@@ -2201,7 +2217,7 @@
         "w": 2200,
         "h": 1402
       },
-      "updated": "2026-10-27T20:27:57.242Z",
+      "updated": "2026-10-27T20:48:48.696Z",
       "fieldReviews": {
         "color": "2026-10-26T23:28:20.736Z",
         "kind": "2026-10-26T23:38:14.033Z",
@@ -5450,7 +5466,8 @@
     ],
     "objects": [
       "Abanico",
-      "Bastón"
+      "Bastón",
+      "Autos"
     ],
     "highlights": [
       "Primera comunión",
@@ -5460,7 +5477,9 @@
       "Casamiento",
       "Bigote",
       "Mar del Plata",
-      "Sombrero"
+      "Sombrero",
+      "Chofer",
+      "Salta"
     ]
   },
   "signatures": {
@@ -5470,7 +5489,7 @@
     "FIR-02": "Rectángulo varios niveles - Bixio & Castiglioni Pellegrini 760. B.A.",
     "FIR-03": "Rectángulo en relieve - Bixio y Castiglioni. C. Pellegrini 760. Buenos Aires"
   },
-  "updated": "2026-10-27T20:47:28.836Z",
+  "updated": "2026-10-27T20:48:50.190Z",
   "authors": [
     "Bixio & Castiglioni",
     "E. Masoni",
