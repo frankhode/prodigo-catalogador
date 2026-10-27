@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio-y-castiglioni",
   "name": "Bixio y Castiglioni",
-  "version": "59296088-c907-4c93-87a4-96cc745290bd",
+  "version": "54452ade-6a22-4d48-9d0d-5342b978f5c8",
   "folders": {
     "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3": {
       "name": "bixio y castiglioni",
@@ -2034,7 +2034,7 @@
       "id": "4dc4e1fb06d71b1a3914d3b2c29834d910cfd565969b88b650ba8a22a2ffa02e",
       "relative": "img279.tif",
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
-      "status": "pending",
+      "status": "done",
       "record": {
         "color": "byn",
         "kind": "Retrato",
@@ -2042,9 +2042,20 @@
         "frame": "Cuerpo entero",
         "author": "Mazer",
         "side": "Frente",
-        "environment": "Exterior"
+        "environment": "Exterior",
+        "number": "50976",
+        "date": "1941",
+        "people": [
+          "Hombres",
+          "Mujeres"
+        ],
+        "objects": [],
+        "highlights": [
+          "Vestimenta",
+          "Mar del Plata"
+        ]
       },
-      "revision": 7,
+      "revision": 8,
       "fingerprint": "763b87eb6f14a63a",
       "media": {
         "thumb": "media/bixio-y-castiglioni/4dc4e1fb06d71b1a3914d3b2c29834d910cfd565969b88b650ba8a22a2ffa02e-763b87eb6f14a63a-thumb.webp",
@@ -2052,7 +2063,7 @@
         "w": 1438,
         "h": 2200
       },
-      "updated": "2026-10-27T20:27:57.242Z",
+      "updated": "2026-10-27T20:45:25.624Z",
       "fieldReviews": {
         "color": "2026-10-26T23:28:20.736Z",
         "kind": "2026-10-26T23:37:43.648Z",
@@ -5447,7 +5458,7 @@
     "FIR-02": "Rectángulo varios niveles - Bixio & Castiglioni Pellegrini 760. B.A.",
     "FIR-03": "Rectángulo en relieve - Bixio y Castiglioni. C. Pellegrini 760. Buenos Aires"
   },
-  "updated": "2026-10-27T20:44:49.537Z",
+  "updated": "2026-10-27T20:45:27.239Z",
   "authors": [
     "Bixio & Castiglioni",
     "E. Masoni",
