@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio-y-castiglioni",
   "name": "Bixio y Castiglioni",
-  "version": "ef86624c-7409-4e3c-964c-d21d6e4e2273",
+  "version": "53afe474-71d2-418e-87e8-656b556b5141",
   "folders": {
     "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3": {
       "name": "bixio y castiglioni",
@@ -2495,7 +2495,7 @@
       "id": "d89d8add76198f886ba2e6d4bee1150bd755c025385409d348e508163748c485",
       "relative": "img297.tif",
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
-      "status": "pending",
+      "status": "done",
       "record": {
         "color": "iluminado",
         "kind": "Retrato",
@@ -2503,9 +2503,16 @@
         "frame": "Busto",
         "author": "Bolzoni",
         "side": "Frente",
-        "environment": "Estudio"
+        "environment": "Estudio",
+        "people": [
+          "Niñas"
+        ],
+        "objects": [],
+        "highlights": [
+          "Peinado"
+        ]
       },
-      "revision": 7,
+      "revision": 8,
       "fingerprint": "961ef90e04963926",
       "media": {
         "thumb": "media/bixio-y-castiglioni/d89d8add76198f886ba2e6d4bee1150bd755c025385409d348e508163748c485-961ef90e04963926-thumb.webp",
@@ -2513,7 +2520,7 @@
         "w": 1464,
         "h": 2200
       },
-      "updated": "2026-10-27T20:27:47.114Z",
+      "updated": "2026-10-27T20:52:29.552Z",
       "fieldReviews": {
         "color": "2026-10-26T23:30:36.905Z",
         "kind": "2026-10-26T23:37:43.648Z",
@@ -5532,7 +5539,7 @@
     "FIR-02": "Rectángulo varios niveles - Bixio & Castiglioni Pellegrini 760. B.A.",
     "FIR-03": "Rectángulo en relieve - Bixio y Castiglioni. C. Pellegrini 760. Buenos Aires"
   },
-  "updated": "2026-10-27T20:52:07.739Z",
+  "updated": "2026-10-27T20:52:30.897Z",
   "authors": [
     "Bixio & Castiglioni",
     "E. Masoni",
