@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio-y-castiglioni",
   "name": "Bixio y Castiglioni",
-  "version": "c0b56ea8-1950-463f-801a-35c64816ffb8",
+  "version": "82626020-264b-4c56-8109-e70dc2cbad2c",
   "folders": {
     "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3": {
       "name": "bixio y castiglioni",
@@ -3842,14 +3842,16 @@
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
       "status": "pending",
       "record": {},
-      "revision": 0,
+      "revision": 1,
       "fingerprint": "d4e56b67fbc11521",
       "media": {
         "thumb": "media/bixio-y-castiglioni/140b0f3327443391ec5f5c721850375b1d701fa5a4408f34b37c888f7f912bea-d4e56b67fbc11521-thumb.webp",
         "src": "media/bixio-y-castiglioni/140b0f3327443391ec5f5c721850375b1d701fa5a4408f34b37c888f7f912bea-d4e56b67fbc11521.webp",
         "w": 1356,
         "h": 1035
-      }
+      },
+      "excluded": true,
+      "updated": "2026-10-27T19:56:17.711Z"
     },
     "14a7ae796876fcb51e0142eac567649b1fd9c0f7710239a0e577e5cdc43d8d03": {
       "id": "14a7ae796876fcb51e0142eac567649b1fd9c0f7710239a0e577e5cdc43d8d03",
@@ -3857,14 +3859,16 @@
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
       "status": "pending",
       "record": {},
-      "revision": 0,
+      "revision": 1,
       "fingerprint": "39525e8462f38a2e",
       "media": {
         "thumb": "media/bixio-y-castiglioni/14a7ae796876fcb51e0142eac567649b1fd9c0f7710239a0e577e5cdc43d8d03-39525e8462f38a2e-thumb.webp",
         "src": "media/bixio-y-castiglioni/14a7ae796876fcb51e0142eac567649b1fd9c0f7710239a0e577e5cdc43d8d03-39525e8462f38a2e.webp",
         "w": 1129,
         "h": 711
-      }
+      },
+      "excluded": true,
+      "updated": "2026-10-27T19:56:17.711Z"
     },
     "d4d2a82c0380472d40e9a3282fb3064b5696960ff3b69712d4b8f069b321a3da": {
       "id": "d4d2a82c0380472d40e9a3282fb3064b5696960ff3b69712d4b8f069b321a3da",
@@ -3872,14 +3876,16 @@
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
       "status": "pending",
       "record": {},
-      "revision": 0,
+      "revision": 1,
       "fingerprint": "d0df91a4bb5d6dd8",
       "media": {
         "thumb": "media/bixio-y-castiglioni/d4d2a82c0380472d40e9a3282fb3064b5696960ff3b69712d4b8f069b321a3da-d0df91a4bb5d6dd8-thumb.webp",
         "src": "media/bixio-y-castiglioni/d4d2a82c0380472d40e9a3282fb3064b5696960ff3b69712d4b8f069b321a3da-d0df91a4bb5d6dd8.webp",
         "w": 1190,
         "h": 803
-      }
+      },
+      "excluded": true,
+      "updated": "2026-10-27T19:56:17.711Z"
     },
     "bc215b5769d63be91cec3f8646161d087b5deabc07471bb603993afa571ee9cb": {
       "id": "bc215b5769d63be91cec3f8646161d087b5deabc07471bb603993afa571ee9cb",
@@ -3887,14 +3893,16 @@
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
       "status": "pending",
       "record": {},
-      "revision": 0,
+      "revision": 1,
       "fingerprint": "0feab30f5a7f734c",
       "media": {
         "thumb": "media/bixio-y-castiglioni/bc215b5769d63be91cec3f8646161d087b5deabc07471bb603993afa571ee9cb-0feab30f5a7f734c-thumb.webp",
         "src": "media/bixio-y-castiglioni/bc215b5769d63be91cec3f8646161d087b5deabc07471bb603993afa571ee9cb-0feab30f5a7f734c.webp",
         "w": 1190,
         "h": 803
-      }
+      },
+      "excluded": true,
+      "updated": "2026-10-27T19:56:17.711Z"
     },
     "48d3d47b18c1ccdcd7f17cd0369340c7a62e67cca17fbdd43d8f564affd0048b": {
       "id": "48d3d47b18c1ccdcd7f17cd0369340c7a62e67cca17fbdd43d8f564affd0048b",
@@ -3902,14 +3910,16 @@
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
       "status": "pending",
       "record": {},
-      "revision": 0,
+      "revision": 1,
       "fingerprint": "ba5fca24bb5f74fc",
       "media": {
         "thumb": "media/bixio-y-castiglioni/48d3d47b18c1ccdcd7f17cd0369340c7a62e67cca17fbdd43d8f564affd0048b-ba5fca24bb5f74fc-thumb.webp",
         "src": "media/bixio-y-castiglioni/48d3d47b18c1ccdcd7f17cd0369340c7a62e67cca17fbdd43d8f564affd0048b-ba5fca24bb5f74fc.webp",
         "w": 1190,
         "h": 803
-      }
+      },
+      "excluded": true,
+      "updated": "2026-10-27T19:56:17.711Z"
     },
     "0c102858ea0ce0f1a8604653f2c8a2775593db30477d596191f0942822e547af": {
       "id": "0c102858ea0ce0f1a8604653f2c8a2775593db30477d596191f0942822e547af",
@@ -3917,14 +3927,16 @@
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
       "status": "pending",
       "record": {},
-      "revision": 0,
+      "revision": 1,
       "fingerprint": "ba9a4a834a2da020",
       "media": {
         "thumb": "media/bixio-y-castiglioni/0c102858ea0ce0f1a8604653f2c8a2775593db30477d596191f0942822e547af-ba9a4a834a2da020-thumb.webp",
         "src": "media/bixio-y-castiglioni/0c102858ea0ce0f1a8604653f2c8a2775593db30477d596191f0942822e547af-ba9a4a834a2da020.webp",
         "w": 1190,
         "h": 803
-      }
+      },
+      "excluded": true,
+      "updated": "2026-10-27T19:56:17.711Z"
     },
     "2851f365387fd006b6395db8b1daefd627bb3d9c0bab7c92c484c4865274b316": {
       "id": "2851f365387fd006b6395db8b1daefd627bb3d9c0bab7c92c484c4865274b316",
@@ -3932,14 +3944,16 @@
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
       "status": "pending",
       "record": {},
-      "revision": 0,
+      "revision": 1,
       "fingerprint": "8ed51a204077796f",
       "media": {
         "thumb": "media/bixio-y-castiglioni/2851f365387fd006b6395db8b1daefd627bb3d9c0bab7c92c484c4865274b316-8ed51a204077796f-thumb.webp",
         "src": "media/bixio-y-castiglioni/2851f365387fd006b6395db8b1daefd627bb3d9c0bab7c92c484c4865274b316-8ed51a204077796f.webp",
         "w": 1254,
         "h": 1010
-      }
+      },
+      "excluded": true,
+      "updated": "2026-10-27T19:56:17.711Z"
     },
     "6ff3694ed9b7258eb90228a5ea037b135571e81228bd13ec2418c4d05ea10a5a": {
       "id": "6ff3694ed9b7258eb90228a5ea037b135571e81228bd13ec2418c4d05ea10a5a",
@@ -3947,14 +3961,16 @@
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
       "status": "pending",
       "record": {},
-      "revision": 0,
+      "revision": 1,
       "fingerprint": "22890265fed54a6d",
       "media": {
         "thumb": "media/bixio-y-castiglioni/6ff3694ed9b7258eb90228a5ea037b135571e81228bd13ec2418c4d05ea10a5a-22890265fed54a6d-thumb.webp",
         "src": "media/bixio-y-castiglioni/6ff3694ed9b7258eb90228a5ea037b135571e81228bd13ec2418c4d05ea10a5a-22890265fed54a6d.webp",
         "w": 1254,
         "h": 1010
-      }
+      },
+      "excluded": true,
+      "updated": "2026-10-27T19:56:17.711Z"
     },
     "1ce5c388759c39a61dd126b5f2c6cc538b2cbe78021775f9dda992398ffe0aa3": {
       "id": "1ce5c388759c39a61dd126b5f2c6cc538b2cbe78021775f9dda992398ffe0aa3",
@@ -3962,14 +3978,16 @@
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
       "status": "pending",
       "record": {},
-      "revision": 0,
+      "revision": 1,
       "fingerprint": "09aafabdc02acbf4",
       "media": {
         "thumb": "media/bixio-y-castiglioni/1ce5c388759c39a61dd126b5f2c6cc538b2cbe78021775f9dda992398ffe0aa3-09aafabdc02acbf4-thumb.webp",
         "src": "media/bixio-y-castiglioni/1ce5c388759c39a61dd126b5f2c6cc538b2cbe78021775f9dda992398ffe0aa3-09aafabdc02acbf4.webp",
         "w": 1093,
         "h": 720
-      }
+      },
+      "excluded": true,
+      "updated": "2026-10-27T19:56:17.711Z"
     },
     "c2ec6772313006da220cc4cd143f4c33e2ca7ff5a4a18adbf4208213705f1c8b": {
       "id": "c2ec6772313006da220cc4cd143f4c33e2ca7ff5a4a18adbf4208213705f1c8b",
@@ -3977,14 +3995,16 @@
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
       "status": "pending",
       "record": {},
-      "revision": 0,
+      "revision": 1,
       "fingerprint": "64b52a6e31d4bd3b",
       "media": {
         "thumb": "media/bixio-y-castiglioni/c2ec6772313006da220cc4cd143f4c33e2ca7ff5a4a18adbf4208213705f1c8b-64b52a6e31d4bd3b-thumb.webp",
         "src": "media/bixio-y-castiglioni/c2ec6772313006da220cc4cd143f4c33e2ca7ff5a4a18adbf4208213705f1c8b-64b52a6e31d4bd3b.webp",
         "w": 1434,
         "h": 1053
-      }
+      },
+      "excluded": true,
+      "updated": "2026-10-27T19:56:17.711Z"
     },
     "4367aa55c5f52500cdd6ccc4c976d83aefdf8e433806a72ac589bd004108c767": {
       "id": "4367aa55c5f52500cdd6ccc4c976d83aefdf8e433806a72ac589bd004108c767",
@@ -4007,14 +4027,16 @@
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
       "status": "pending",
       "record": {},
-      "revision": 0,
+      "revision": 1,
       "fingerprint": "6ceb775e37e31abe",
       "media": {
         "thumb": "media/bixio-y-castiglioni/2b1d560e9fe8735b788e3d7aa7bebc5ee7d38c3be3cb82b548ff5f8be2eeb96a-6ceb775e37e31abe-thumb.webp",
         "src": "media/bixio-y-castiglioni/2b1d560e9fe8735b788e3d7aa7bebc5ee7d38c3be3cb82b548ff5f8be2eeb96a-6ceb775e37e31abe.webp",
         "w": 1070,
         "h": 745
-      }
+      },
+      "excluded": true,
+      "updated": "2026-10-27T19:56:17.711Z"
     },
     "c1a8ea2985b9a5d07c0da0b245725247cd9dcb18b16124d8cbb73a00f236c332": {
       "id": "c1a8ea2985b9a5d07c0da0b245725247cd9dcb18b16124d8cbb73a00f236c332",
@@ -4022,14 +4044,16 @@
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
       "status": "pending",
       "record": {},
-      "revision": 0,
+      "revision": 1,
       "fingerprint": "ba33fd31ee1898a2",
       "media": {
         "thumb": "media/bixio-y-castiglioni/c1a8ea2985b9a5d07c0da0b245725247cd9dcb18b16124d8cbb73a00f236c332-ba33fd31ee1898a2-thumb.webp",
         "src": "media/bixio-y-castiglioni/c1a8ea2985b9a5d07c0da0b245725247cd9dcb18b16124d8cbb73a00f236c332-ba33fd31ee1898a2.webp",
         "w": 1273,
         "h": 1132
-      }
+      },
+      "excluded": true,
+      "updated": "2026-10-27T19:56:17.711Z"
     },
     "042f37ada6e46ddb4f5667a33073066af7939ce01502f018b1d504eef552d9fb": {
       "id": "042f37ada6e46ddb4f5667a33073066af7939ce01502f018b1d504eef552d9fb",
@@ -4037,14 +4061,16 @@
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
       "status": "pending",
       "record": {},
-      "revision": 0,
+      "revision": 1,
       "fingerprint": "4be9f4b1a967d2f8",
       "media": {
         "thumb": "media/bixio-y-castiglioni/042f37ada6e46ddb4f5667a33073066af7939ce01502f018b1d504eef552d9fb-4be9f4b1a967d2f8-thumb.webp",
         "src": "media/bixio-y-castiglioni/042f37ada6e46ddb4f5667a33073066af7939ce01502f018b1d504eef552d9fb-4be9f4b1a967d2f8.webp",
         "w": 1160,
         "h": 872
-      }
+      },
+      "excluded": true,
+      "updated": "2026-10-27T19:56:17.711Z"
     },
     "5f8c652b9eedcd6fa19d65bc99541b1d0acc08b744df8f35bc2ad0d3dc1958a2": {
       "id": "5f8c652b9eedcd6fa19d65bc99541b1d0acc08b744df8f35bc2ad0d3dc1958a2",
@@ -4052,14 +4078,16 @@
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
       "status": "pending",
       "record": {},
-      "revision": 0,
+      "revision": 1,
       "fingerprint": "595f19c6449b266c",
       "media": {
         "thumb": "media/bixio-y-castiglioni/5f8c652b9eedcd6fa19d65bc99541b1d0acc08b744df8f35bc2ad0d3dc1958a2-595f19c6449b266c-thumb.webp",
         "src": "media/bixio-y-castiglioni/5f8c652b9eedcd6fa19d65bc99541b1d0acc08b744df8f35bc2ad0d3dc1958a2-595f19c6449b266c.webp",
         "w": 1160,
         "h": 872
-      }
+      },
+      "excluded": true,
+      "updated": "2026-10-27T19:56:17.711Z"
     },
     "ddd5c903abe944e7daa1e4ef54024ce5b493985501691f5c7bcbcfbaa46bb0bc": {
       "id": "ddd5c903abe944e7daa1e4ef54024ce5b493985501691f5c7bcbcfbaa46bb0bc",
@@ -4067,14 +4095,16 @@
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
       "status": "pending",
       "record": {},
-      "revision": 0,
+      "revision": 1,
       "fingerprint": "0ce6f642969b1100",
       "media": {
         "thumb": "media/bixio-y-castiglioni/ddd5c903abe944e7daa1e4ef54024ce5b493985501691f5c7bcbcfbaa46bb0bc-0ce6f642969b1100-thumb.webp",
         "src": "media/bixio-y-castiglioni/ddd5c903abe944e7daa1e4ef54024ce5b493985501691f5c7bcbcfbaa46bb0bc-0ce6f642969b1100.webp",
         "w": 1214,
         "h": 773
-      }
+      },
+      "excluded": true,
+      "updated": "2026-10-27T19:56:17.711Z"
     },
     "381b7fcb1ae26bd6626f1e4b93a70cfcc5fba22f12fea20eef0d724fae294181": {
       "id": "381b7fcb1ae26bd6626f1e4b93a70cfcc5fba22f12fea20eef0d724fae294181",
@@ -4082,14 +4112,16 @@
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
       "status": "pending",
       "record": {},
-      "revision": 0,
+      "revision": 1,
       "fingerprint": "d2bbf88ae078cd72",
       "media": {
         "thumb": "media/bixio-y-castiglioni/381b7fcb1ae26bd6626f1e4b93a70cfcc5fba22f12fea20eef0d724fae294181-d2bbf88ae078cd72-thumb.webp",
         "src": "media/bixio-y-castiglioni/381b7fcb1ae26bd6626f1e4b93a70cfcc5fba22f12fea20eef0d724fae294181-d2bbf88ae078cd72.webp",
         "w": 1128,
         "h": 722
-      }
+      },
+      "excluded": true,
+      "updated": "2026-10-27T19:56:17.711Z"
     },
     "d8bef75ffb6c0b0a37911b420821c8333dd67f96e9ba9e9e1b4027d84a61e8fa": {
       "id": "d8bef75ffb6c0b0a37911b420821c8333dd67f96e9ba9e9e1b4027d84a61e8fa",
@@ -4097,14 +4129,16 @@
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
       "status": "pending",
       "record": {},
-      "revision": 0,
+      "revision": 1,
       "fingerprint": "a310caf91b6b2efa",
       "media": {
         "thumb": "media/bixio-y-castiglioni/d8bef75ffb6c0b0a37911b420821c8333dd67f96e9ba9e9e1b4027d84a61e8fa-a310caf91b6b2efa-thumb.webp",
         "src": "media/bixio-y-castiglioni/d8bef75ffb6c0b0a37911b420821c8333dd67f96e9ba9e9e1b4027d84a61e8fa-a310caf91b6b2efa.webp",
         "w": 1242,
         "h": 821
-      }
+      },
+      "excluded": true,
+      "updated": "2026-10-27T19:56:17.711Z"
     },
     "68fcc608b40b726df4f8f4c7cdb8b5397d750519f4ff35e5897149eec6539a88": {
       "id": "68fcc608b40b726df4f8f4c7cdb8b5397d750519f4ff35e5897149eec6539a88",
@@ -4112,14 +4146,16 @@
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
       "status": "pending",
       "record": {},
-      "revision": 0,
+      "revision": 1,
       "fingerprint": "9772f093e07859d7",
       "media": {
         "thumb": "media/bixio-y-castiglioni/68fcc608b40b726df4f8f4c7cdb8b5397d750519f4ff35e5897149eec6539a88-9772f093e07859d7-thumb.webp",
         "src": "media/bixio-y-castiglioni/68fcc608b40b726df4f8f4c7cdb8b5397d750519f4ff35e5897149eec6539a88-9772f093e07859d7.webp",
         "w": 1242,
         "h": 718
-      }
+      },
+      "excluded": true,
+      "updated": "2026-10-27T19:56:17.711Z"
     },
     "b2b024bb4a2a5cd4f8fa5941c7314aa92432ac8acf3dd4cc5c2839f56f9f5334": {
       "id": "b2b024bb4a2a5cd4f8fa5941c7314aa92432ac8acf3dd4cc5c2839f56f9f5334",
@@ -4127,14 +4163,16 @@
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
       "status": "pending",
       "record": {},
-      "revision": 0,
+      "revision": 1,
       "fingerprint": "5c208f9300edc9a8",
       "media": {
         "thumb": "media/bixio-y-castiglioni/b2b024bb4a2a5cd4f8fa5941c7314aa92432ac8acf3dd4cc5c2839f56f9f5334-5c208f9300edc9a8-thumb.webp",
         "src": "media/bixio-y-castiglioni/b2b024bb4a2a5cd4f8fa5941c7314aa92432ac8acf3dd4cc5c2839f56f9f5334-5c208f9300edc9a8.webp",
         "w": 1242,
         "h": 697
-      }
+      },
+      "excluded": true,
+      "updated": "2026-10-27T19:56:17.711Z"
     },
     "abf03d29334f630398604459c8eeacd23b27a8ec33351c81e9be3f851b66964d": {
       "id": "abf03d29334f630398604459c8eeacd23b27a8ec33351c81e9be3f851b66964d",
@@ -4142,14 +4180,16 @@
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
       "status": "pending",
       "record": {},
-      "revision": 0,
+      "revision": 1,
       "fingerprint": "8b45bc32e7199d15",
       "media": {
         "thumb": "media/bixio-y-castiglioni/abf03d29334f630398604459c8eeacd23b27a8ec33351c81e9be3f851b66964d-8b45bc32e7199d15-thumb.webp",
         "src": "media/bixio-y-castiglioni/abf03d29334f630398604459c8eeacd23b27a8ec33351c81e9be3f851b66964d-8b45bc32e7199d15.webp",
         "w": 1262,
         "h": 828
-      }
+      },
+      "excluded": true,
+      "updated": "2026-10-27T19:56:17.711Z"
     },
     "af6824fbbe713672f7fb1969467fd7d35fe5266346974cc2aa91cb0476a19826": {
       "id": "af6824fbbe713672f7fb1969467fd7d35fe5266346974cc2aa91cb0476a19826",
@@ -4157,14 +4197,16 @@
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
       "status": "pending",
       "record": {},
-      "revision": 0,
+      "revision": 1,
       "fingerprint": "d03d780e3f1494ca",
       "media": {
         "thumb": "media/bixio-y-castiglioni/af6824fbbe713672f7fb1969467fd7d35fe5266346974cc2aa91cb0476a19826-d03d780e3f1494ca-thumb.webp",
         "src": "media/bixio-y-castiglioni/af6824fbbe713672f7fb1969467fd7d35fe5266346974cc2aa91cb0476a19826-d03d780e3f1494ca.webp",
         "w": 1182,
         "h": 751
-      }
+      },
+      "excluded": true,
+      "updated": "2026-10-27T19:56:17.711Z"
     },
     "a9596c8c4608d5c5c6b2a363fdea488b1d53dd57475ee0f701f697ff50c5f10c": {
       "id": "a9596c8c4608d5c5c6b2a363fdea488b1d53dd57475ee0f701f697ff50c5f10c",
@@ -4172,14 +4214,16 @@
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
       "status": "pending",
       "record": {},
-      "revision": 0,
+      "revision": 1,
       "fingerprint": "1982b25fe152221a",
       "media": {
         "thumb": "media/bixio-y-castiglioni/a9596c8c4608d5c5c6b2a363fdea488b1d53dd57475ee0f701f697ff50c5f10c-1982b25fe152221a-thumb.webp",
         "src": "media/bixio-y-castiglioni/a9596c8c4608d5c5c6b2a363fdea488b1d53dd57475ee0f701f697ff50c5f10c-1982b25fe152221a.webp",
         "w": 1178,
         "h": 792
-      }
+      },
+      "excluded": true,
+      "updated": "2026-10-27T19:56:17.711Z"
     },
     "9e5bcc0e9886de76826284871bf9f119a4220fd204d1d8e5e387db81abc4e731": {
       "id": "9e5bcc0e9886de76826284871bf9f119a4220fd204d1d8e5e387db81abc4e731",
@@ -4187,14 +4231,16 @@
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
       "status": "pending",
       "record": {},
-      "revision": 0,
+      "revision": 1,
       "fingerprint": "122cf023b7693810",
       "media": {
         "thumb": "media/bixio-y-castiglioni/9e5bcc0e9886de76826284871bf9f119a4220fd204d1d8e5e387db81abc4e731-122cf023b7693810-thumb.webp",
         "src": "media/bixio-y-castiglioni/9e5bcc0e9886de76826284871bf9f119a4220fd204d1d8e5e387db81abc4e731-122cf023b7693810.webp",
         "w": 1217,
         "h": 810
-      }
+      },
+      "excluded": true,
+      "updated": "2026-10-27T19:56:17.711Z"
     },
     "d13ea285afce29a107f812e67ac31f31ae3af1f60e4686bc83512ce4fc755f1d": {
       "id": "d13ea285afce29a107f812e67ac31f31ae3af1f60e4686bc83512ce4fc755f1d",
@@ -4202,14 +4248,16 @@
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
       "status": "pending",
       "record": {},
-      "revision": 0,
+      "revision": 1,
       "fingerprint": "58397e96b91713d2",
       "media": {
         "thumb": "media/bixio-y-castiglioni/d13ea285afce29a107f812e67ac31f31ae3af1f60e4686bc83512ce4fc755f1d-58397e96b91713d2-thumb.webp",
         "src": "media/bixio-y-castiglioni/d13ea285afce29a107f812e67ac31f31ae3af1f60e4686bc83512ce4fc755f1d-58397e96b91713d2.webp",
         "w": 1356,
         "h": 893
-      }
+      },
+      "excluded": true,
+      "updated": "2026-10-27T19:56:17.711Z"
     },
     "440247ec016e67cd4d30046e808365d816386f9af104cadd7d7390ff80753453": {
       "id": "440247ec016e67cd4d30046e808365d816386f9af104cadd7d7390ff80753453",
@@ -4217,14 +4265,16 @@
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
       "status": "pending",
       "record": {},
-      "revision": 0,
+      "revision": 1,
       "fingerprint": "4423a836d8e3f298",
       "media": {
         "thumb": "media/bixio-y-castiglioni/440247ec016e67cd4d30046e808365d816386f9af104cadd7d7390ff80753453-4423a836d8e3f298-thumb.webp",
         "src": "media/bixio-y-castiglioni/440247ec016e67cd4d30046e808365d816386f9af104cadd7d7390ff80753453-4423a836d8e3f298.webp",
         "w": 1356,
         "h": 912
-      }
+      },
+      "excluded": true,
+      "updated": "2026-10-27T19:56:17.711Z"
     },
     "45c79f6e9df0844f937eb1a694ddec792842e7e28b3a10ed7bb49d67fb2a13c7": {
       "id": "45c79f6e9df0844f937eb1a694ddec792842e7e28b3a10ed7bb49d67fb2a13c7",
@@ -4232,14 +4282,16 @@
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
       "status": "pending",
       "record": {},
-      "revision": 0,
+      "revision": 1,
       "fingerprint": "34097fed42813d25",
       "media": {
         "thumb": "media/bixio-y-castiglioni/45c79f6e9df0844f937eb1a694ddec792842e7e28b3a10ed7bb49d67fb2a13c7-34097fed42813d25-thumb.webp",
         "src": "media/bixio-y-castiglioni/45c79f6e9df0844f937eb1a694ddec792842e7e28b3a10ed7bb49d67fb2a13c7-34097fed42813d25.webp",
         "w": 1356,
         "h": 908
-      }
+      },
+      "excluded": true,
+      "updated": "2026-10-27T19:56:17.711Z"
     },
     "8c0485ec2f0ab34ba0daf4ed9f7913d67959f4933550d0cb28a78f4e57921cb0": {
       "id": "8c0485ec2f0ab34ba0daf4ed9f7913d67959f4933550d0cb28a78f4e57921cb0",
@@ -4247,14 +4299,16 @@
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
       "status": "pending",
       "record": {},
-      "revision": 0,
+      "revision": 1,
       "fingerprint": "39a29ae31e267e8b",
       "media": {
         "thumb": "media/bixio-y-castiglioni/8c0485ec2f0ab34ba0daf4ed9f7913d67959f4933550d0cb28a78f4e57921cb0-39a29ae31e267e8b-thumb.webp",
         "src": "media/bixio-y-castiglioni/8c0485ec2f0ab34ba0daf4ed9f7913d67959f4933550d0cb28a78f4e57921cb0-39a29ae31e267e8b.webp",
         "w": 1356,
         "h": 908
-      }
+      },
+      "excluded": true,
+      "updated": "2026-10-27T19:56:17.711Z"
     },
     "6a144e351d75c333d08301438d42565e16ce3cfbde2717f98cff1ae0d770f53c": {
       "id": "6a144e351d75c333d08301438d42565e16ce3cfbde2717f98cff1ae0d770f53c",
@@ -4262,14 +4316,16 @@
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
       "status": "pending",
       "record": {},
-      "revision": 0,
+      "revision": 1,
       "fingerprint": "5206ba04e31137ad",
       "media": {
         "thumb": "media/bixio-y-castiglioni/6a144e351d75c333d08301438d42565e16ce3cfbde2717f98cff1ae0d770f53c-5206ba04e31137ad-thumb.webp",
         "src": "media/bixio-y-castiglioni/6a144e351d75c333d08301438d42565e16ce3cfbde2717f98cff1ae0d770f53c-5206ba04e31137ad.webp",
         "w": 1356,
         "h": 908
-      }
+      },
+      "excluded": true,
+      "updated": "2026-10-27T19:56:17.711Z"
     },
     "ea79b96f69b724c5cd47805d680c07e698acd5067df32f94ae5a97bef451cdb1": {
       "id": "ea79b96f69b724c5cd47805d680c07e698acd5067df32f94ae5a97bef451cdb1",
@@ -4277,14 +4333,16 @@
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
       "status": "pending",
       "record": {},
-      "revision": 0,
+      "revision": 1,
       "fingerprint": "c898bd17e6800542",
       "media": {
         "thumb": "media/bixio-y-castiglioni/ea79b96f69b724c5cd47805d680c07e698acd5067df32f94ae5a97bef451cdb1-c898bd17e6800542-thumb.webp",
         "src": "media/bixio-y-castiglioni/ea79b96f69b724c5cd47805d680c07e698acd5067df32f94ae5a97bef451cdb1-c898bd17e6800542.webp",
         "w": 1356,
         "h": 908
-      }
+      },
+      "excluded": true,
+      "updated": "2026-10-27T19:56:17.712Z"
     },
     "de53eb6c8601b33f512f9a434386db80d430ef889e225d0b316752c379375a32": {
       "id": "de53eb6c8601b33f512f9a434386db80d430ef889e225d0b316752c379375a32",
@@ -4292,14 +4350,16 @@
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
       "status": "pending",
       "record": {},
-      "revision": 0,
+      "revision": 1,
       "fingerprint": "d2311c01412738df",
       "media": {
         "thumb": "media/bixio-y-castiglioni/de53eb6c8601b33f512f9a434386db80d430ef889e225d0b316752c379375a32-d2311c01412738df-thumb.webp",
         "src": "media/bixio-y-castiglioni/de53eb6c8601b33f512f9a434386db80d430ef889e225d0b316752c379375a32-d2311c01412738df.webp",
         "w": 1356,
         "h": 908
-      }
+      },
+      "excluded": true,
+      "updated": "2026-10-27T19:56:17.712Z"
     },
     "e9e1730e397b0529a8967610d1b7a319e9c324013f314a6e70da6982d3211efa": {
       "id": "e9e1730e397b0529a8967610d1b7a319e9c324013f314a6e70da6982d3211efa",
@@ -4307,14 +4367,16 @@
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
       "status": "pending",
       "record": {},
-      "revision": 0,
+      "revision": 1,
       "fingerprint": "8eff06aa41e36e52",
       "media": {
         "thumb": "media/bixio-y-castiglioni/e9e1730e397b0529a8967610d1b7a319e9c324013f314a6e70da6982d3211efa-8eff06aa41e36e52-thumb.webp",
         "src": "media/bixio-y-castiglioni/e9e1730e397b0529a8967610d1b7a319e9c324013f314a6e70da6982d3211efa-8eff06aa41e36e52.webp",
         "w": 1356,
         "h": 879
-      }
+      },
+      "excluded": true,
+      "updated": "2026-10-27T19:56:17.712Z"
     },
     "0e76070a4f6d91b8dbdc8e643142d08364d7a23d3c8ea7eceb19e0e3db2d842b": {
       "id": "0e76070a4f6d91b8dbdc8e643142d08364d7a23d3c8ea7eceb19e0e3db2d842b",
@@ -4322,14 +4384,16 @@
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
       "status": "pending",
       "record": {},
-      "revision": 0,
+      "revision": 1,
       "fingerprint": "b8dac115f8f1f247",
       "media": {
         "thumb": "media/bixio-y-castiglioni/0e76070a4f6d91b8dbdc8e643142d08364d7a23d3c8ea7eceb19e0e3db2d842b-b8dac115f8f1f247-thumb.webp",
         "src": "media/bixio-y-castiglioni/0e76070a4f6d91b8dbdc8e643142d08364d7a23d3c8ea7eceb19e0e3db2d842b-b8dac115f8f1f247.webp",
         "w": 1356,
         "h": 879
-      }
+      },
+      "excluded": true,
+      "updated": "2026-10-27T19:56:17.712Z"
     },
     "6595951c194bb94b9e37493e9516c06dbdaabb95861b1e657436219f5469eb3e": {
       "id": "6595951c194bb94b9e37493e9516c06dbdaabb95861b1e657436219f5469eb3e",
@@ -4337,14 +4401,16 @@
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
       "status": "pending",
       "record": {},
-      "revision": 0,
+      "revision": 1,
       "fingerprint": "065697ef879bfa0b",
       "media": {
         "thumb": "media/bixio-y-castiglioni/6595951c194bb94b9e37493e9516c06dbdaabb95861b1e657436219f5469eb3e-065697ef879bfa0b-thumb.webp",
         "src": "media/bixio-y-castiglioni/6595951c194bb94b9e37493e9516c06dbdaabb95861b1e657436219f5469eb3e-065697ef879bfa0b.webp",
         "w": 1160,
         "h": 786
-      }
+      },
+      "excluded": true,
+      "updated": "2026-10-27T19:56:17.712Z"
     },
     "311fec7cca0ea9518c2f1af773e9377e536e7ed2d77f7fc1c33b08c989955172": {
       "id": "311fec7cca0ea9518c2f1af773e9377e536e7ed2d77f7fc1c33b08c989955172",
@@ -4352,14 +4418,16 @@
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
       "status": "pending",
       "record": {},
-      "revision": 0,
+      "revision": 1,
       "fingerprint": "cc29be2ddd837edd",
       "media": {
         "thumb": "media/bixio-y-castiglioni/311fec7cca0ea9518c2f1af773e9377e536e7ed2d77f7fc1c33b08c989955172-cc29be2ddd837edd-thumb.webp",
         "src": "media/bixio-y-castiglioni/311fec7cca0ea9518c2f1af773e9377e536e7ed2d77f7fc1c33b08c989955172-cc29be2ddd837edd.webp",
         "w": 1216,
         "h": 938
-      }
+      },
+      "excluded": true,
+      "updated": "2026-10-27T19:56:17.712Z"
     },
     "379f223a40b5330732860fdcd6976f55d3b7aa0df170ba9c1278dd8bc7b44850": {
       "id": "379f223a40b5330732860fdcd6976f55d3b7aa0df170ba9c1278dd8bc7b44850",
@@ -4367,14 +4435,16 @@
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
       "status": "pending",
       "record": {},
-      "revision": 0,
+      "revision": 1,
       "fingerprint": "639537fc4e36de5b",
       "media": {
         "thumb": "media/bixio-y-castiglioni/379f223a40b5330732860fdcd6976f55d3b7aa0df170ba9c1278dd8bc7b44850-639537fc4e36de5b-thumb.webp",
         "src": "media/bixio-y-castiglioni/379f223a40b5330732860fdcd6976f55d3b7aa0df170ba9c1278dd8bc7b44850-639537fc4e36de5b.webp",
         "w": 1149,
         "h": 868
-      }
+      },
+      "excluded": true,
+      "updated": "2026-10-27T19:56:17.712Z"
     },
     "26da577c05bd790dfb79765de16941c5b8f02d00be2182e2df46d23207ed5025": {
       "id": "26da577c05bd790dfb79765de16941c5b8f02d00be2182e2df46d23207ed5025",
@@ -4382,14 +4452,16 @@
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
       "status": "pending",
       "record": {},
-      "revision": 0,
+      "revision": 1,
       "fingerprint": "b6fdf0a02c4d273b",
       "media": {
         "thumb": "media/bixio-y-castiglioni/26da577c05bd790dfb79765de16941c5b8f02d00be2182e2df46d23207ed5025-b6fdf0a02c4d273b-thumb.webp",
         "src": "media/bixio-y-castiglioni/26da577c05bd790dfb79765de16941c5b8f02d00be2182e2df46d23207ed5025-b6fdf0a02c4d273b.webp",
         "w": 1167,
         "h": 812
-      }
+      },
+      "excluded": true,
+      "updated": "2026-10-27T19:56:17.712Z"
     },
     "8cd2242ad20789a526a4347bf6e36188028563b202340071ab36982f8e68d772": {
       "id": "8cd2242ad20789a526a4347bf6e36188028563b202340071ab36982f8e68d772",
@@ -4397,14 +4469,16 @@
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
       "status": "pending",
       "record": {},
-      "revision": 0,
+      "revision": 1,
       "fingerprint": "46bca57d063a7e4d",
       "media": {
         "thumb": "media/bixio-y-castiglioni/8cd2242ad20789a526a4347bf6e36188028563b202340071ab36982f8e68d772-46bca57d063a7e4d-thumb.webp",
         "src": "media/bixio-y-castiglioni/8cd2242ad20789a526a4347bf6e36188028563b202340071ab36982f8e68d772-46bca57d063a7e4d.webp",
         "w": 1257,
         "h": 825
-      }
+      },
+      "excluded": true,
+      "updated": "2026-10-27T19:56:17.712Z"
     },
     "3864e0eedcbe30e2d956966c46580c7d24815040f2225fa7050c57d895122e29": {
       "id": "3864e0eedcbe30e2d956966c46580c7d24815040f2225fa7050c57d895122e29",
@@ -4412,14 +4486,16 @@
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
       "status": "pending",
       "record": {},
-      "revision": 0,
+      "revision": 1,
       "fingerprint": "7f95edd88fc6ab88",
       "media": {
         "thumb": "media/bixio-y-castiglioni/3864e0eedcbe30e2d956966c46580c7d24815040f2225fa7050c57d895122e29-7f95edd88fc6ab88-thumb.webp",
         "src": "media/bixio-y-castiglioni/3864e0eedcbe30e2d956966c46580c7d24815040f2225fa7050c57d895122e29-7f95edd88fc6ab88.webp",
         "w": 1167,
         "h": 758
-      }
+      },
+      "excluded": true,
+      "updated": "2026-10-27T19:56:17.712Z"
     },
     "a3cc12dbe6ba16489c2145197174cbc7a1cc7ce2d2dc49bdd47ce7001f5914df": {
       "id": "a3cc12dbe6ba16489c2145197174cbc7a1cc7ce2d2dc49bdd47ce7001f5914df",
@@ -4427,14 +4503,16 @@
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
       "status": "pending",
       "record": {},
-      "revision": 0,
+      "revision": 1,
       "fingerprint": "36ce29f1a3cc41d5",
       "media": {
         "thumb": "media/bixio-y-castiglioni/a3cc12dbe6ba16489c2145197174cbc7a1cc7ce2d2dc49bdd47ce7001f5914df-36ce29f1a3cc41d5-thumb.webp",
         "src": "media/bixio-y-castiglioni/a3cc12dbe6ba16489c2145197174cbc7a1cc7ce2d2dc49bdd47ce7001f5914df-36ce29f1a3cc41d5.webp",
         "w": 1236,
         "h": 756
-      }
+      },
+      "excluded": true,
+      "updated": "2026-10-27T19:56:17.712Z"
     }
   },
   "terms": {
@@ -4462,7 +4540,7 @@
     "FIR-02": "Rectángulo varios niveles - Bixio & Castiglioni Pellegrini 760. B.A.",
     "FIR-03": "Rectángulo en relieve - Bixio y Castiglioni. C. Pellegrini 760. Buenos Aires"
   },
-  "updated": "2026-10-27T19:42:06.278Z",
+  "updated": "2026-10-27T19:56:19.156Z",
   "authors": [
     "Bixio & Castiglioni",
     "E. Masoni",
