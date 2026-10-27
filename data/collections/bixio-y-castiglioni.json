@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio-y-castiglioni",
   "name": "Bixio y Castiglioni",
-  "version": "aa088075-83a8-4a53-a785-2493707feede",
+  "version": "0d95818a-d16c-417d-b56b-582e65010d8d",
   "folders": {
     "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3": {
       "name": "bixio y castiglioni",
@@ -3104,9 +3104,10 @@
         "kind": "Retrato",
         "portrait": "Grupal",
         "author": "Bixio & Castiglioni",
-        "side": "Frente"
+        "side": "Frente",
+        "frame": "Busto"
       },
-      "revision": 5,
+      "revision": 6,
       "fingerprint": "6d7d77de417307ff",
       "media": {
         "thumb": "media/bixio-y-castiglioni/eb913e5b10c65d5e7cfbc375566f653f0455201b7175eaf136c12dbe3d1f79a3-6d7d77de417307ff-thumb.webp",
@@ -3114,13 +3115,14 @@
         "w": 2200,
         "h": 1543
       },
-      "updated": "2026-10-27T20:13:14.011Z",
+      "updated": "2026-10-27T20:24:42.202Z",
       "fieldReviews": {
         "color": "2026-10-26T23:32:36.899Z",
         "kind": "2026-10-26T23:37:43.649Z",
         "portrait": "2026-10-26T23:40:33.474Z",
         "author": "2026-10-27T20:04:53.826Z",
-        "side": "2026-10-27T20:13:14.011Z"
+        "side": "2026-10-27T20:13:14.011Z",
+        "frame": "2026-10-27T20:24:42.202Z"
       }
     },
     "ad72a9c41e573d244b1777e0ca2f8c066ffdd349216cbc34052de29e0152230b": {
@@ -3497,9 +3499,10 @@
         "kind": "Retrato",
         "portrait": "Individual",
         "author": "Bixio & Castiglioni",
-        "side": "Frente"
+        "side": "Frente",
+        "frame": "Busto"
       },
-      "revision": 5,
+      "revision": 6,
       "fingerprint": "00e8972521b6b759",
       "media": {
         "thumb": "media/bixio-y-castiglioni/0371fcad887edf6f280de1a63e9956ca57ae57f45e39edfa117892c5f90ede33-00e8972521b6b759-thumb.webp",
@@ -3507,13 +3510,14 @@
         "w": 1475,
         "h": 2200
       },
-      "updated": "2026-10-27T20:13:14.011Z",
+      "updated": "2026-10-27T20:24:42.202Z",
       "fieldReviews": {
         "color": "2026-10-26T23:34:03.931Z",
         "kind": "2026-10-26T23:37:43.649Z",
         "portrait": "2026-10-26T23:39:40.634Z",
         "author": "2026-10-27T20:07:04.914Z",
-        "side": "2026-10-27T20:13:14.011Z"
+        "side": "2026-10-27T20:13:14.011Z",
+        "frame": "2026-10-27T20:24:42.202Z"
       }
     },
     "24d57471eb8037567449ecb1e7cfcdf2be51cd4ddfe283f9494ed07137ece8b5": {
@@ -3526,9 +3530,10 @@
         "kind": "Retrato",
         "portrait": "Individual",
         "author": "René",
-        "side": "Frente"
+        "side": "Frente",
+        "frame": "Busto"
       },
-      "revision": 5,
+      "revision": 6,
       "fingerprint": "00898f931491e7b9",
       "media": {
         "thumb": "media/bixio-y-castiglioni/24d57471eb8037567449ecb1e7cfcdf2be51cd4ddfe283f9494ed07137ece8b5-00898f931491e7b9-thumb.webp",
@@ -3536,13 +3541,14 @@
         "w": 1459,
         "h": 2200
       },
-      "updated": "2026-10-27T20:13:14.011Z",
+      "updated": "2026-10-27T20:24:42.202Z",
       "fieldReviews": {
         "color": "2026-10-26T23:28:20.736Z",
         "kind": "2026-10-26T23:37:43.649Z",
         "portrait": "2026-10-26T23:39:40.634Z",
         "author": "2026-10-27T20:08:30.970Z",
-        "side": "2026-10-27T20:13:14.011Z"
+        "side": "2026-10-27T20:13:14.011Z",
+        "frame": "2026-10-27T20:24:42.202Z"
       }
     },
     "3742a9c11fee82619daea3833d17ecf1f22ba39903287c3709c3b5deabacd060": {
@@ -3847,9 +3853,10 @@
         "kind": "Retrato",
         "portrait": "Individual",
         "author": "Bixio & Castiglioni",
-        "side": "Frente"
+        "side": "Frente",
+        "frame": "Busto"
       },
-      "revision": 5,
+      "revision": 6,
       "fingerprint": "e10978f9a730c87b",
       "media": {
         "thumb": "media/bixio-y-castiglioni/15c50c0445fa1e0c8cd303bc965271cc7d693130ae0393eda642f91756761d4d-e10978f9a730c87b-thumb.webp",
@@ -3857,13 +3864,14 @@
         "w": 879,
         "h": 1191
       },
-      "updated": "2026-10-27T20:13:14.011Z",
+      "updated": "2026-10-27T20:24:42.202Z",
       "fieldReviews": {
         "color": "2026-10-26T23:34:42.572Z",
         "kind": "2026-10-26T23:37:43.649Z",
         "portrait": "2026-10-26T23:39:40.634Z",
         "author": "2026-10-27T20:09:47.306Z",
-        "side": "2026-10-27T20:13:14.011Z"
+        "side": "2026-10-27T20:13:14.011Z",
+        "frame": "2026-10-27T20:24:42.202Z"
       }
     },
     "9f66b1bd5303463c403dcf69a57bb0763cf2fb77d080725640812588680b7f66": {
@@ -3876,9 +3884,10 @@
         "kind": "Retrato",
         "portrait": "Individual",
         "author": "José A. Silva",
-        "side": "Frente"
+        "side": "Frente",
+        "frame": "Busto"
       },
-      "revision": 5,
+      "revision": 6,
       "fingerprint": "8b6b50e019af55e1",
       "media": {
         "thumb": "media/bixio-y-castiglioni/9f66b1bd5303463c403dcf69a57bb0763cf2fb77d080725640812588680b7f66-8b6b50e019af55e1-thumb.webp",
@@ -3886,13 +3895,14 @@
         "w": 1363,
         "h": 2200
       },
-      "updated": "2026-10-27T20:13:14.011Z",
+      "updated": "2026-10-27T20:24:42.202Z",
       "fieldReviews": {
         "color": "2026-10-26T23:35:21.997Z",
         "kind": "2026-10-26T23:37:43.649Z",
         "portrait": "2026-10-26T23:39:40.634Z",
         "author": "2026-10-27T20:10:03.698Z",
-        "side": "2026-10-27T20:13:14.011Z"
+        "side": "2026-10-27T20:13:14.011Z",
+        "frame": "2026-10-27T20:24:42.202Z"
       }
     },
     "62ece2c316d79e8ba76510ff555339e408281e09454c4b922817122bf0f449f6": {
@@ -3905,9 +3915,10 @@
         "kind": "Retrato",
         "portrait": "Individual",
         "author": "Bixio & Castiglioni",
-        "side": "Frente"
+        "side": "Frente",
+        "frame": "Busto"
       },
-      "revision": 5,
+      "revision": 6,
       "fingerprint": "2263454ef12fe426",
       "media": {
         "thumb": "media/bixio-y-castiglioni/62ece2c316d79e8ba76510ff555339e408281e09454c4b922817122bf0f449f6-2263454ef12fe426-thumb.webp",
@@ -3915,13 +3926,14 @@
         "w": 1354,
         "h": 2200
       },
-      "updated": "2026-10-27T20:13:14.011Z",
+      "updated": "2026-10-27T20:24:42.202Z",
       "fieldReviews": {
         "color": "2026-10-26T23:35:29.229Z",
         "kind": "2026-10-26T23:37:43.649Z",
         "portrait": "2026-10-26T23:39:40.634Z",
         "author": "2026-10-27T20:10:11.002Z",
-        "side": "2026-10-27T20:13:14.011Z"
+        "side": "2026-10-27T20:13:14.011Z",
+        "frame": "2026-10-27T20:24:42.202Z"
       }
     },
     "1950d4bea552560fa1296b54425a4ecbe6e7db3799f9bcf15ec1a3172791792a": {
@@ -3994,9 +4006,10 @@
         "kind": "Retrato",
         "portrait": "Individual",
         "author": "Bixio & Castiglioni",
-        "side": "Frente"
+        "side": "Frente",
+        "frame": "Busto"
       },
-      "revision": 5,
+      "revision": 6,
       "fingerprint": "fd4e427d04ee7f76",
       "media": {
         "thumb": "media/bixio-y-castiglioni/8f5d4fe511110b7711af296f517849098972fbec8e71bd3ea830b6819464c1bb-fd4e427d04ee7f76-thumb.webp",
@@ -4004,13 +4017,14 @@
         "w": 1429,
         "h": 2200
       },
-      "updated": "2026-10-27T20:13:14.011Z",
+      "updated": "2026-10-27T20:24:42.202Z",
       "fieldReviews": {
         "color": "2026-10-26T23:35:42.605Z",
         "kind": "2026-10-26T23:37:43.649Z",
         "portrait": "2026-10-26T23:39:40.634Z",
         "author": "2026-10-27T20:10:24.170Z",
-        "side": "2026-10-27T20:13:14.011Z"
+        "side": "2026-10-27T20:13:14.011Z",
+        "frame": "2026-10-27T20:24:42.202Z"
       }
     },
     "ab18f668551344c2504c45f504cde32ba034203eaa0d2a29aa4cccaf9e4e861c": {
@@ -5048,7 +5062,7 @@
     "FIR-02": "Rectángulo varios niveles - Bixio & Castiglioni Pellegrini 760. B.A.",
     "FIR-03": "Rectángulo en relieve - Bixio y Castiglioni. C. Pellegrini 760. Buenos Aires"
   },
-  "updated": "2026-10-27T20:24:27.071Z",
+  "updated": "2026-10-27T20:24:43.587Z",
   "authors": [
     "Bixio & Castiglioni",
     "E. Masoni",
