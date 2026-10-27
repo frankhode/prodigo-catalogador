@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio-y-castiglioni",
   "name": "Bixio y Castiglioni",
-  "version": "4570d9c0-8b61-47fc-9699-6a1b3fdee449",
+  "version": "b649f1e5-4b24-434a-9971-9b92679c9983",
   "folders": {
     "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3": {
       "name": "bixio y castiglioni",
@@ -1717,7 +1717,7 @@
       "id": "efa81e93e0738d30a590fde229f35c4acc09abed78f231cc1b420e8b48d8ac15",
       "relative": "img271.tif",
       "folder": "e7d33cb2176b5715b52b25408d53533571cbc7c95143a8e08aa59614aeae0cd3",
-      "status": "pending",
+      "status": "done",
       "record": {
         "color": "byn",
         "kind": "Retrato",
@@ -1725,9 +1725,19 @@
         "frame": "Cuerpo entero",
         "author": "Fernández",
         "side": "Frente",
-        "environment": "Exterior"
+        "environment": "Exterior",
+        "date": "1933",
+        "people": [
+          "Hombres",
+          "Mujeres"
+        ],
+        "objects": [],
+        "highlights": [
+          "Vestimenta",
+          "Mar del Plata"
+        ]
       },
-      "revision": 7,
+      "revision": 8,
       "fingerprint": "f3ddf27e05b1b71c",
       "media": {
         "thumb": "media/bixio-y-castiglioni/efa81e93e0738d30a590fde229f35c4acc09abed78f231cc1b420e8b48d8ac15-f3ddf27e05b1b71c-thumb.webp",
@@ -1735,7 +1745,7 @@
         "w": 1436,
         "h": 2200
       },
-      "updated": "2026-10-27T20:27:57.242Z",
+      "updated": "2026-10-27T20:38:36.209Z",
       "fieldReviews": {
         "color": "2026-10-26T23:29:52.216Z",
         "kind": "2026-10-26T23:37:43.648Z",
@@ -5375,7 +5385,8 @@
       "Peinado",
       "Militar",
       "Casamiento",
-      "Bigote"
+      "Bigote",
+      "Mar del Plata"
     ]
   },
   "signatures": {
@@ -5385,7 +5396,7 @@
     "FIR-02": "Rectángulo varios niveles - Bixio & Castiglioni Pellegrini 760. B.A.",
     "FIR-03": "Rectángulo en relieve - Bixio y Castiglioni. C. Pellegrini 760. Buenos Aires"
   },
-  "updated": "2026-10-27T20:37:58.250Z",
+  "updated": "2026-10-27T20:38:37.669Z",
   "authors": [
     "Bixio & Castiglioni",
     "E. Masoni",
