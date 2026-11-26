@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "F. Bixio y Cia.",
-  "version": "9a53b51a-cd8f-44fc-87a8-844be3f178ba",
+  "version": "ca68064b-a28f-4c95-8290-9b520b1443d2",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -7837,7 +7837,7 @@
       "id": "0490026ebb292ada9fd2ff59e01e66245fec7110b0b95fc8b1ab97144f74f546",
       "relative": "img491.tif",
       "folder": "9bd88f2485acbb9426ad3dd9e06842ede8c7516d0ba8559298675f09419681fa",
-      "status": "draft",
+      "status": "done",
       "record": {
         "side": "Frente",
         "number": "61472",
@@ -7858,7 +7858,7 @@
         ],
         "signature": "BIX-06"
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "6ed74f81f2844c7b",
       "media": {
         "thumb": "media/bixio/0490026ebb292ada9fd2ff59e01e66245fec7110b0b95fc8b1ab97144f74f546-6ed74f81f2844c7b-thumb.webp",
@@ -7866,7 +7866,7 @@
         "w": 1595,
         "h": 2200
       },
-      "updated": "2026-11-26T17:45:31.113Z"
+      "updated": "2026-11-26T18:06:28.042Z"
     },
     "c39c331b4673f6dc4c4558b79eff4e371f096e356871a394fb061fdd6462d3af": {
       "id": "c39c331b4673f6dc4c4558b79eff4e371f096e356871a394fb061fdd6462d3af",
@@ -8059,7 +8059,7 @@
     "BIX-25": "F. Bixio y Cia - Firma caligráfica",
     "BIX-26": "F. Bixio y Cia B. de Irigoyen 185 B. Aires - Caligráfica"
   },
-  "updated": "2026-11-26T17:45:32.559Z",
+  "updated": "2026-11-26T18:06:29.506Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
