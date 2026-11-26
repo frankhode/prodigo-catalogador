@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "F. Bixio y Cia.",
-  "version": "ca68064b-a28f-4c95-8290-9b520b1443d2",
+  "version": "5e79fb3b-94ef-4324-bc49-d3473d42a730",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -7971,6 +7971,81 @@
         "h": 2200
       },
       "updated": "2026-11-26T17:34:44.414Z"
+    },
+    "2fbdb310665cf46c412c8e6bd6ccdd465f02436134935a56d3ef5e72aa5bce32": {
+      "id": "2fbdb310665cf46c412c8e6bd6ccdd465f02436134935a56d3ef5e72aa5bce32",
+      "relative": "IMG-20261126-WA0013.tif",
+      "folder": "9bd88f2485acbb9426ad3dd9e06842ede8c7516d0ba8559298675f09419681fa",
+      "status": "pending",
+      "record": {},
+      "revision": 0,
+      "fingerprint": "fe29fd8be2403819",
+      "media": {
+        "thumb": "media/bixio/2fbdb310665cf46c412c8e6bd6ccdd465f02436134935a56d3ef5e72aa5bce32-fe29fd8be2403819-thumb.webp",
+        "src": "media/bixio/2fbdb310665cf46c412c8e6bd6ccdd465f02436134935a56d3ef5e72aa5bce32-fe29fd8be2403819.webp",
+        "w": 1439,
+        "h": 1146
+      }
+    },
+    "612580383a74f671fca954031058c8910efe74e6126457a54f5e06358187dd8c": {
+      "id": "612580383a74f671fca954031058c8910efe74e6126457a54f5e06358187dd8c",
+      "relative": "IMG-20261126-WA0010.tif",
+      "folder": "9bd88f2485acbb9426ad3dd9e06842ede8c7516d0ba8559298675f09419681fa",
+      "status": "pending",
+      "record": {},
+      "revision": 0,
+      "fingerprint": "47a532744bc9dead",
+      "media": {
+        "thumb": "media/bixio/612580383a74f671fca954031058c8910efe74e6126457a54f5e06358187dd8c-47a532744bc9dead-thumb.webp",
+        "src": "media/bixio/612580383a74f671fca954031058c8910efe74e6126457a54f5e06358187dd8c-47a532744bc9dead.webp",
+        "w": 1142,
+        "h": 1458
+      }
+    },
+    "d5608ce35db5f253d1d5aa4b9e28d392b1e59bd3713fc99f1079324c7b2d2c05": {
+      "id": "d5608ce35db5f253d1d5aa4b9e28d392b1e59bd3713fc99f1079324c7b2d2c05",
+      "relative": "img492.tif",
+      "folder": "9bd88f2485acbb9426ad3dd9e06842ede8c7516d0ba8559298675f09419681fa",
+      "status": "pending",
+      "record": {},
+      "revision": 0,
+      "fingerprint": "80160c08af9bdc1b",
+      "media": {
+        "thumb": "media/bixio/d5608ce35db5f253d1d5aa4b9e28d392b1e59bd3713fc99f1079324c7b2d2c05-80160c08af9bdc1b-thumb.webp",
+        "src": "media/bixio/d5608ce35db5f253d1d5aa4b9e28d392b1e59bd3713fc99f1079324c7b2d2c05-80160c08af9bdc1b.webp",
+        "w": 1775,
+        "h": 2200
+      }
+    },
+    "41391e73c0c9a75deeb236311766bc6af478263b1e9a233e9116cfb875351328": {
+      "id": "41391e73c0c9a75deeb236311766bc6af478263b1e9a233e9116cfb875351328",
+      "relative": "img493.tif",
+      "folder": "9bd88f2485acbb9426ad3dd9e06842ede8c7516d0ba8559298675f09419681fa",
+      "status": "pending",
+      "record": {},
+      "revision": 0,
+      "fingerprint": "6eb2ab34e8226c1d",
+      "media": {
+        "thumb": "media/bixio/41391e73c0c9a75deeb236311766bc6af478263b1e9a233e9116cfb875351328-6eb2ab34e8226c1d-thumb.webp",
+        "src": "media/bixio/41391e73c0c9a75deeb236311766bc6af478263b1e9a233e9116cfb875351328-6eb2ab34e8226c1d.webp",
+        "w": 1775,
+        "h": 2200
+      }
+    },
+    "7bfcbb00baa6a034dc88dd2fc8ab357e7eb422055248bce9a24aa9459c82ad4c": {
+      "id": "7bfcbb00baa6a034dc88dd2fc8ab357e7eb422055248bce9a24aa9459c82ad4c",
+      "relative": "IMG-20261126-WA0008.tif",
+      "folder": "9bd88f2485acbb9426ad3dd9e06842ede8c7516d0ba8559298675f09419681fa",
+      "status": "pending",
+      "record": {},
+      "revision": 0,
+      "fingerprint": "72a6eee988e64419",
+      "media": {
+        "thumb": "media/bixio/7bfcbb00baa6a034dc88dd2fc8ab357e7eb422055248bce9a24aa9459c82ad4c-72a6eee988e64419-thumb.webp",
+        "src": "media/bixio/7bfcbb00baa6a034dc88dd2fc8ab357e7eb422055248bce9a24aa9459c82ad4c-72a6eee988e64419.webp",
+        "w": 1050,
+        "h": 1407
+      }
     }
   },
   "terms": {
@@ -8059,7 +8134,7 @@
     "BIX-25": "F. Bixio y Cia - Firma caligráfica",
     "BIX-26": "F. Bixio y Cia B. de Irigoyen 185 B. Aires - Caligráfica"
   },
-  "updated": "2026-11-26T18:06:29.506Z",
+  "updated": "2026-11-26T20:30:19.557Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
