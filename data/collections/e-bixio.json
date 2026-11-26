@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "e-bixio",
   "name": "E. Bixio",
-  "version": "748e5b72-6ee5-43b7-8a42-7befd63b141c",
+  "version": "21077457-d612-4b97-b3f1-fc217879b13c",
   "folders": {
     "e8d401a2582e9ee528d857a2dc34524779d3e0f049ac771b1b7ace4d9315d778": {
       "name": "E Bixio",
@@ -532,16 +532,23 @@
       "id": "62893cd865be2309d5116f20589c64f8816cb885f7219a87a10a432344bcad29",
       "relative": "img428.tif",
       "folder": "e8d401a2582e9ee528d857a2dc34524779d3e0f049ac771b1b7ace4d9315d778",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Reverso",
+        "parent": "332ac969db94500e677bc782db112ce36a5c36570f877fa7ad271811a4675292",
+        "portrait": "",
+        "frame": "",
+        "direction": ""
+      },
+      "revision": 1,
       "fingerprint": "d799f14d7fb1bf03",
       "media": {
         "thumb": "media/e-bixio/62893cd865be2309d5116f20589c64f8816cb885f7219a87a10a432344bcad29-d799f14d7fb1bf03-thumb.webp",
         "src": "media/e-bixio/62893cd865be2309d5116f20589c64f8816cb885f7219a87a10a432344bcad29-d799f14d7fb1bf03.webp",
         "w": 1477,
         "h": 2200
-      }
+      },
+      "updated": "2026-11-26T21:30:44.524Z"
     }
   },
   "terms": {
@@ -566,7 +573,7 @@
     "FIR-01": "E. Bixio y Cia. C. Pellegrini 752",
     "FIR-02": "C. Pellegrini 752. E. Bixio y Cia"
   },
-  "updated": "2026-11-26T21:30:16.354Z",
+  "updated": "2026-11-26T21:30:46.006Z",
   "authors": [
     "E. Bixio"
   ]
