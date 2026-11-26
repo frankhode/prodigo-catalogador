@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "F. Bixio y Cia.",
-  "version": "d9bec6c7-43d9-4789-95ae-ac8ed84f5cf6",
+  "version": "29ea9c3a-584c-4cd0-b7a1-38468fc789b7",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -7852,16 +7852,36 @@
       "id": "c39c331b4673f6dc4c4558b79eff4e371f096e356871a394fb061fdd6462d3af",
       "relative": "img490.tif",
       "folder": "9bd88f2485acbb9426ad3dd9e06842ede8c7516d0ba8559298675f09419681fa",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "95575",
+        "author": "Florencio Bixio",
+        "kind": "Retrato",
+        "portrait": "Grupal",
+        "frame": "Cuerpo entero",
+        "direction": "Mixta",
+        "environment": "Estudio",
+        "color": "sepia",
+        "people": [
+          "Hombres",
+          "Mujeres"
+        ],
+        "objects": [],
+        "highlights": [
+          "Casamiento"
+        ],
+        "signature": "BIX-06"
+      },
+      "revision": 1,
       "fingerprint": "3eee4a20096ad53a",
       "media": {
         "thumb": "media/bixio/c39c331b4673f6dc4c4558b79eff4e371f096e356871a394fb061fdd6462d3af-3eee4a20096ad53a-thumb.webp",
         "src": "media/bixio/c39c331b4673f6dc4c4558b79eff4e371f096e356871a394fb061fdd6462d3af-3eee4a20096ad53a.webp",
         "w": 1595,
         "h": 2200
-      }
+      },
+      "updated": "2026-11-26T17:44:16.823Z"
     },
     "21648d8dd0542aca2b132a351ed24b606adbd977028da51968fa33829b748502": {
       "id": "21648d8dd0542aca2b132a351ed24b606adbd977028da51968fa33829b748502",
@@ -8019,7 +8039,7 @@
     "BIX-25": "F. Bixio y Cia - Firma caligráfica",
     "BIX-26": "F. Bixio y Cia B. de Irigoyen 185 B. Aires - Caligráfica"
   },
-  "updated": "2026-11-26T17:37:30.351Z",
+  "updated": "2026-11-26T17:44:18.330Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
