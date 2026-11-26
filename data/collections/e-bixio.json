@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "e-bixio",
   "name": "E. Bixio",
-  "version": "21077457-d612-4b97-b3f1-fc217879b13c",
+  "version": "c1e14f01-e586-4b68-8125-44be43473bde",
   "folders": {
     "e8d401a2582e9ee528d857a2dc34524779d3e0f049ac771b1b7ace4d9315d778": {
       "name": "E Bixio",
@@ -107,16 +107,32 @@
       "id": "5eff451b614203dc50c1b26fc9067b1b56ee7d4639f92aff695dfa4e4b275d35",
       "relative": "img430.tif",
       "folder": "e8d401a2582e9ee528d857a2dc34524779d3e0f049ac771b1b7ace4d9315d778",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "date": "1917",
+        "author": "E. Bixio",
+        "people": [
+          "Niños"
+        ],
+        "objects": [],
+        "highlights": [
+          "Disfraz"
+        ],
+        "signature": "FIR-01",
+        "portrait": "",
+        "frame": "",
+        "direction": ""
+      },
+      "revision": 1,
       "fingerprint": "131262518c072057",
       "media": {
         "thumb": "media/e-bixio/5eff451b614203dc50c1b26fc9067b1b56ee7d4639f92aff695dfa4e4b275d35-131262518c072057-thumb.webp",
         "src": "media/e-bixio/5eff451b614203dc50c1b26fc9067b1b56ee7d4639f92aff695dfa4e4b275d35-131262518c072057.webp",
         "w": 1510,
         "h": 2200
-      }
+      },
+      "updated": "2026-11-26T21:31:36.573Z"
     },
     "a019349c3fd016f32e198f19ea5be7ae06ea77141e68c012ab6062be5ef293b9": {
       "id": "a019349c3fd016f32e198f19ea5be7ae06ea77141e68c012ab6062be5ef293b9",
@@ -564,7 +580,8 @@
     "highlights": [
       "Anteojos",
       "Vestimenta",
-      "Primera comunión"
+      "Primera comunión",
+      "Disfraz"
     ]
   },
   "signatures": {
@@ -573,7 +590,7 @@
     "FIR-01": "E. Bixio y Cia. C. Pellegrini 752",
     "FIR-02": "C. Pellegrini 752. E. Bixio y Cia"
   },
-  "updated": "2026-11-26T21:30:46.006Z",
+  "updated": "2026-11-26T21:31:38.208Z",
   "authors": [
     "E. Bixio"
   ]
