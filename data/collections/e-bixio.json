@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "e-bixio",
   "name": "E. Bixio",
-  "version": "65be09f2-8321-447c-ab76-c7a4212f3146",
+  "version": "7ebc991c-1cd8-4c50-aef6-3010c2e01079",
   "folders": {
     "e8d401a2582e9ee528d857a2dc34524779d3e0f049ac771b1b7ace4d9315d778": {
       "name": "E Bixio",
@@ -389,16 +389,23 @@
       "id": "aad1567aedfdea4eded64d0cd4c8acd66449fb118de88629236ba18362fc6d66",
       "relative": "img415.tif",
       "folder": "e8d401a2582e9ee528d857a2dc34524779d3e0f049ac771b1b7ace4d9315d778",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Reverso",
+        "parent": "2ebf94dff7c0a3c203528b39708f3b9921e8aab23c87dfc8cdc955375d8d841a",
+        "portrait": "",
+        "frame": "",
+        "direction": ""
+      },
+      "revision": 1,
       "fingerprint": "b674452dead58e74",
       "media": {
         "thumb": "media/e-bixio/aad1567aedfdea4eded64d0cd4c8acd66449fb118de88629236ba18362fc6d66-b674452dead58e74-thumb.webp",
         "src": "media/e-bixio/aad1567aedfdea4eded64d0cd4c8acd66449fb118de88629236ba18362fc6d66-b674452dead58e74.webp",
         "w": 2200,
         "h": 1446
-      }
+      },
+      "updated": "2026-11-26T21:24:59.826Z"
     },
     "2ebf94dff7c0a3c203528b39708f3b9921e8aab23c87dfc8cdc955375d8d841a": {
       "id": "2ebf94dff7c0a3c203528b39708f3b9921e8aab23c87dfc8cdc955375d8d841a",
@@ -469,7 +476,7 @@
     "unidentified": "Por identificar",
     "FIR-01": "E. Bixio y Cia. C. Pellegrini 752"
   },
-  "updated": "2026-11-26T21:24:45.526Z",
+  "updated": "2026-11-26T21:25:01.270Z",
   "authors": [
     "E. Bixio"
   ]
