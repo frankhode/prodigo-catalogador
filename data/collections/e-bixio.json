@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "e-bixio",
   "name": "E. Bixio",
-  "version": "941412b8-164f-43f0-94b1-4b0261fa4597",
+  "version": "52af2d17-6b0f-42b7-918e-69fb3af99c1c",
   "folders": {
     "e8d401a2582e9ee528d857a2dc34524779d3e0f049ac771b1b7ace4d9315d778": {
       "name": "E Bixio",
@@ -309,6 +309,81 @@
         "w": 1098,
         "h": 676
       }
+    },
+    "be6ff758d5d2a99651fa3876c02e86c0d2616d6669cfb072adf371d2f4df942a": {
+      "id": "be6ff758d5d2a99651fa3876c02e86c0d2616d6669cfb072adf371d2f4df942a",
+      "relative": "img417.tif",
+      "folder": "e8d401a2582e9ee528d857a2dc34524779d3e0f049ac771b1b7ace4d9315d778",
+      "status": "pending",
+      "record": {},
+      "revision": 0,
+      "fingerprint": "72f2ad4d5df0bb19",
+      "media": {
+        "thumb": "media/e-bixio/be6ff758d5d2a99651fa3876c02e86c0d2616d6669cfb072adf371d2f4df942a-72f2ad4d5df0bb19-thumb.webp",
+        "src": "media/e-bixio/be6ff758d5d2a99651fa3876c02e86c0d2616d6669cfb072adf371d2f4df942a-72f2ad4d5df0bb19.webp",
+        "w": 1451,
+        "h": 2200
+      }
+    },
+    "d5b4d8af26f6552db8efaa36f85d0595f07c58f1fba36c24415e824177b3a781": {
+      "id": "d5b4d8af26f6552db8efaa36f85d0595f07c58f1fba36c24415e824177b3a781",
+      "relative": "img429.tif",
+      "folder": "e8d401a2582e9ee528d857a2dc34524779d3e0f049ac771b1b7ace4d9315d778",
+      "status": "pending",
+      "record": {},
+      "revision": 0,
+      "fingerprint": "1d377a955d3c884b",
+      "media": {
+        "thumb": "media/e-bixio/d5b4d8af26f6552db8efaa36f85d0595f07c58f1fba36c24415e824177b3a781-1d377a955d3c884b-thumb.webp",
+        "src": "media/e-bixio/d5b4d8af26f6552db8efaa36f85d0595f07c58f1fba36c24415e824177b3a781-1d377a955d3c884b.webp",
+        "w": 1049,
+        "h": 663
+      }
+    },
+    "aad1567aedfdea4eded64d0cd4c8acd66449fb118de88629236ba18362fc6d66": {
+      "id": "aad1567aedfdea4eded64d0cd4c8acd66449fb118de88629236ba18362fc6d66",
+      "relative": "img415.tif",
+      "folder": "e8d401a2582e9ee528d857a2dc34524779d3e0f049ac771b1b7ace4d9315d778",
+      "status": "pending",
+      "record": {},
+      "revision": 0,
+      "fingerprint": "b674452dead58e74",
+      "media": {
+        "thumb": "media/e-bixio/aad1567aedfdea4eded64d0cd4c8acd66449fb118de88629236ba18362fc6d66-b674452dead58e74-thumb.webp",
+        "src": "media/e-bixio/aad1567aedfdea4eded64d0cd4c8acd66449fb118de88629236ba18362fc6d66-b674452dead58e74.webp",
+        "w": 2200,
+        "h": 1446
+      }
+    },
+    "2ebf94dff7c0a3c203528b39708f3b9921e8aab23c87dfc8cdc955375d8d841a": {
+      "id": "2ebf94dff7c0a3c203528b39708f3b9921e8aab23c87dfc8cdc955375d8d841a",
+      "relative": "img414.tif",
+      "folder": "e8d401a2582e9ee528d857a2dc34524779d3e0f049ac771b1b7ace4d9315d778",
+      "status": "pending",
+      "record": {},
+      "revision": 0,
+      "fingerprint": "65bf9a913b4816f5",
+      "media": {
+        "thumb": "media/e-bixio/2ebf94dff7c0a3c203528b39708f3b9921e8aab23c87dfc8cdc955375d8d841a-65bf9a913b4816f5-thumb.webp",
+        "src": "media/e-bixio/2ebf94dff7c0a3c203528b39708f3b9921e8aab23c87dfc8cdc955375d8d841a-65bf9a913b4816f5.webp",
+        "w": 1440,
+        "h": 2200
+      }
+    },
+    "62893cd865be2309d5116f20589c64f8816cb885f7219a87a10a432344bcad29": {
+      "id": "62893cd865be2309d5116f20589c64f8816cb885f7219a87a10a432344bcad29",
+      "relative": "img428.tif",
+      "folder": "e8d401a2582e9ee528d857a2dc34524779d3e0f049ac771b1b7ace4d9315d778",
+      "status": "pending",
+      "record": {},
+      "revision": 0,
+      "fingerprint": "d799f14d7fb1bf03",
+      "media": {
+        "thumb": "media/e-bixio/62893cd865be2309d5116f20589c64f8816cb885f7219a87a10a432344bcad29-d799f14d7fb1bf03-thumb.webp",
+        "src": "media/e-bixio/62893cd865be2309d5116f20589c64f8816cb885f7219a87a10a432344bcad29-d799f14d7fb1bf03.webp",
+        "w": 1477,
+        "h": 2200
+      }
     }
   },
   "terms": {},
@@ -316,5 +391,5 @@
     "none": "Sin firma",
     "unidentified": "Por identificar"
   },
-  "updated": "2026-11-26T21:01:39.945Z"
+  "updated": "2026-11-26T21:01:56.761Z"
 }
