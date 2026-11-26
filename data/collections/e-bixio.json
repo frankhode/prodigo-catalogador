@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "e-bixio",
   "name": "E. Bixio",
-  "version": "b3bc0d16-e84c-4926-a784-cd368fd35e41",
+  "version": "5b4e1608-5ad2-4f7f-acd5-e062cbe82be0",
   "folders": {
     "e8d401a2582e9ee528d857a2dc34524779d3e0f049ac771b1b7ace4d9315d778": {
       "name": "E Bixio",
@@ -617,16 +617,29 @@
       "id": "5684b8f4caf1d8faf732e124b11f742f5d412155303d63de8e7de4ef0e1acb4a",
       "relative": "img494.tif",
       "folder": "9bd88f2485acbb9426ad3dd9e06842ede8c7516d0ba8559298675f09419681fa",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "author": "E. Bixio",
+        "people": [
+          "Mujeres"
+        ],
+        "objects": [],
+        "highlights": [],
+        "signature": "FIR-03",
+        "portrait": "",
+        "frame": "",
+        "direction": ""
+      },
+      "revision": 1,
       "fingerprint": "5850a631ca6e4433",
       "media": {
         "thumb": "media/e-bixio/5684b8f4caf1d8faf732e124b11f742f5d412155303d63de8e7de4ef0e1acb4a-5850a631ca6e4433-thumb.webp",
         "src": "media/e-bixio/5684b8f4caf1d8faf732e124b11f742f5d412155303d63de8e7de4ef0e1acb4a-5850a631ca6e4433.webp",
         "w": 1570,
         "h": 2200
-      }
+      },
+      "updated": "2026-11-26T22:06:46.311Z"
     },
     "850d301d31267cdffa2e81458a219915365483291627a4e7562d8385d001c5cf": {
       "id": "850d301d31267cdffa2e81458a219915365483291627a4e7562d8385d001c5cf",
@@ -649,7 +662,8 @@
       "Hombres",
       "Niñas",
       "Niños",
-      "Bebés"
+      "Bebés",
+      "Mujeres"
     ],
     "objects": [
       "Libros",
@@ -669,7 +683,7 @@
     "FIR-02": "C. Pellegrini 752. E. Bixio y Cia",
     "FIR-03": "Sello seco. C. Pellegrini 752. E. Bixio y Cia. Bs. Aires"
   },
-  "updated": "2026-11-26T22:06:39.577Z",
+  "updated": "2026-11-26T22:06:47.896Z",
   "authors": [
     "E. Bixio"
   ]
