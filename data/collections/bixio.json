@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "F. Bixio y Cia.",
-  "version": "994213b0-7317-4aae-bf53-a6c5ef32ebf1",
+  "version": "2e200138-1add-4530-b301-b2a16854cb41",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -7882,16 +7882,36 @@
       "id": "e07fbf2c4c3e59c3eeeb2a080b9cc228149fae820db038a555717e95a8c046c2",
       "relative": "img488.tif",
       "folder": "9bd88f2485acbb9426ad3dd9e06842ede8c7516d0ba8559298675f09419681fa",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "18571",
+        "date": "1925",
+        "author": "Florencio Bixio",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Cuerpo entero",
+        "direction": "Frente",
+        "environment": "Exterior",
+        "color": "sepia",
+        "people": [
+          "Niños"
+        ],
+        "objects": [],
+        "highlights": [
+          "Mar del Plata"
+        ],
+        "signature": "BIX-12"
+      },
+      "revision": 1,
       "fingerprint": "f33daca9e5573648",
       "media": {
         "thumb": "media/bixio/e07fbf2c4c3e59c3eeeb2a080b9cc228149fae820db038a555717e95a8c046c2-f33daca9e5573648-thumb.webp",
         "src": "media/bixio/e07fbf2c4c3e59c3eeeb2a080b9cc228149fae820db038a555717e95a8c046c2-f33daca9e5573648.webp",
         "w": 1408,
         "h": 2200
-      }
+      },
+      "updated": "2026-11-26T17:34:44.414Z"
     }
   },
   "terms": {
@@ -7980,7 +8000,7 @@
     "BIX-25": "F. Bixio y Cia - Firma caligráfica",
     "BIX-26": "F. Bixio y Cia B. de Irigoyen 185 B. Aires - Caligráfica"
   },
-  "updated": "2026-11-26T17:32:25.150Z",
+  "updated": "2026-11-26T17:34:45.976Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
