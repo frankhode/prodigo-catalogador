@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "F. Bixio y Cia.",
-  "version": "53a44397-ad2c-40eb-8480-37b07298b7a2",
+  "version": "a2fac256-6149-40fc-917a-b1400320cf8b",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -8006,7 +8006,7 @@
       "folder": "9bd88f2485acbb9426ad3dd9e06842ede8c7516d0ba8559298675f09419681fa",
       "status": "done",
       "record": {
-        "side": "Frente",
+        "side": "Reverso",
         "number": "353384",
         "date": "1944",
         "author": "Florencio Bixio",
@@ -8019,7 +8019,7 @@
         "frame": "",
         "direction": ""
       },
-      "revision": 1,
+      "revision": 2,
       "fingerprint": "47a532744bc9dead",
       "media": {
         "thumb": "media/bixio/612580383a74f671fca954031058c8910efe74e6126457a54f5e06358187dd8c-47a532744bc9dead-thumb.webp",
@@ -8027,7 +8027,7 @@
         "w": 1142,
         "h": 1458
       },
-      "updated": "2026-11-26T20:34:06.809Z"
+      "updated": "2026-11-26T20:36:55.933Z"
     },
     "d5608ce35db5f253d1d5aa4b9e28d392b1e59bd3713fc99f1079324c7b2d2c05": {
       "id": "d5608ce35db5f253d1d5aa4b9e28d392b1e59bd3713fc99f1079324c7b2d2c05",
@@ -8181,7 +8181,7 @@
     "BIX-26": "F. Bixio y Cia B. de Irigoyen 185 B. Aires - Caligráfica",
     "BIX-27": "F. Bixio y Cia. MR. Bdo de Irigoyen 136, Bs. As."
   },
-  "updated": "2026-11-26T20:36:36.163Z",
+  "updated": "2026-11-26T20:36:57.694Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
