@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "e-bixio",
   "name": "E. Bixio",
-  "version": "2290bd21-970c-439a-90d8-f59570446db5",
+  "version": "1a4ca3f8-b560-470e-9588-f721716ca23a",
   "folders": {
     "e8d401a2582e9ee528d857a2dc34524779d3e0f049ac771b1b7ace4d9315d778": {
       "name": "E Bixio",
@@ -179,16 +179,30 @@
       "id": "332ac969db94500e677bc782db112ce36a5c36570f877fa7ad271811a4675292",
       "relative": "img433.tif",
       "folder": "e8d401a2582e9ee528d857a2dc34524779d3e0f049ac771b1b7ace4d9315d778",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "date": "1917",
+        "author": "E. Bixio",
+        "people": [
+          "Bebés"
+        ],
+        "objects": [],
+        "highlights": [],
+        "signature": "FIR-01",
+        "portrait": "",
+        "frame": "",
+        "direction": ""
+      },
+      "revision": 1,
       "fingerprint": "dd0ce0b129b0ab50",
       "media": {
         "thumb": "media/e-bixio/332ac969db94500e677bc782db112ce36a5c36570f877fa7ad271811a4675292-dd0ce0b129b0ab50-thumb.webp",
         "src": "media/e-bixio/332ac969db94500e677bc782db112ce36a5c36570f877fa7ad271811a4675292-dd0ce0b129b0ab50.webp",
         "w": 1432,
         "h": 2200
-      }
+      },
+      "updated": "2026-11-26T21:33:08.555Z"
     },
     "6d24b0fa9a2d93ad499839ced3c2b157f0d5112effdd7e3a59c5c98c91d873a6": {
       "id": "6d24b0fa9a2d93ad499839ced3c2b157f0d5112effdd7e3a59c5c98c91d873a6",
@@ -578,7 +592,8 @@
     "people": [
       "Hombres",
       "Niñas",
-      "Niños"
+      "Niños",
+      "Bebés"
     ],
     "objects": [
       "Libros",
@@ -597,7 +612,7 @@
     "FIR-01": "E. Bixio y Cia. C. Pellegrini 752",
     "FIR-02": "C. Pellegrini 752. E. Bixio y Cia"
   },
-  "updated": "2026-11-26T21:32:08.347Z",
+  "updated": "2026-11-26T21:33:10.430Z",
   "authors": [
     "E. Bixio"
   ]
