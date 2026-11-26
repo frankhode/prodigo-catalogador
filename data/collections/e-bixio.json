@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "e-bixio",
   "name": "E. Bixio",
-  "version": "7c563292-1b32-4b67-b49d-f542d0c4c3fd",
+  "version": "a061359e-9fab-4618-a5ca-9ffb96f0dd37",
   "folders": {
     "e8d401a2582e9ee528d857a2dc34524779d3e0f049ac771b1b7ace4d9315d778": {
       "name": "E Bixio",
@@ -84,6 +84,81 @@
         "w": 1386,
         "h": 2200
       }
+    },
+    "5eff451b614203dc50c1b26fc9067b1b56ee7d4639f92aff695dfa4e4b275d35": {
+      "id": "5eff451b614203dc50c1b26fc9067b1b56ee7d4639f92aff695dfa4e4b275d35",
+      "relative": "img430.tif",
+      "folder": "e8d401a2582e9ee528d857a2dc34524779d3e0f049ac771b1b7ace4d9315d778",
+      "status": "pending",
+      "record": {},
+      "revision": 0,
+      "fingerprint": "131262518c072057",
+      "media": {
+        "thumb": "media/e-bixio/5eff451b614203dc50c1b26fc9067b1b56ee7d4639f92aff695dfa4e4b275d35-131262518c072057-thumb.webp",
+        "src": "media/e-bixio/5eff451b614203dc50c1b26fc9067b1b56ee7d4639f92aff695dfa4e4b275d35-131262518c072057.webp",
+        "w": 1510,
+        "h": 2200
+      }
+    },
+    "a019349c3fd016f32e198f19ea5be7ae06ea77141e68c012ab6062be5ef293b9": {
+      "id": "a019349c3fd016f32e198f19ea5be7ae06ea77141e68c012ab6062be5ef293b9",
+      "relative": "img426.tif",
+      "folder": "e8d401a2582e9ee528d857a2dc34524779d3e0f049ac771b1b7ace4d9315d778",
+      "status": "pending",
+      "record": {},
+      "revision": 0,
+      "fingerprint": "40651fb8e7e9d08d",
+      "media": {
+        "thumb": "media/e-bixio/a019349c3fd016f32e198f19ea5be7ae06ea77141e68c012ab6062be5ef293b9-40651fb8e7e9d08d-thumb.webp",
+        "src": "media/e-bixio/a019349c3fd016f32e198f19ea5be7ae06ea77141e68c012ab6062be5ef293b9-40651fb8e7e9d08d.webp",
+        "w": 999,
+        "h": 663
+      }
+    },
+    "66ec842ef6a43a9b10e7311616d76d519e9104527c19fd919f8b9f60ec3ccf2f": {
+      "id": "66ec842ef6a43a9b10e7311616d76d519e9104527c19fd919f8b9f60ec3ccf2f",
+      "relative": "img432.tif",
+      "folder": "e8d401a2582e9ee528d857a2dc34524779d3e0f049ac771b1b7ace4d9315d778",
+      "status": "pending",
+      "record": {},
+      "revision": 0,
+      "fingerprint": "a52ccfede29f4149",
+      "media": {
+        "thumb": "media/e-bixio/66ec842ef6a43a9b10e7311616d76d519e9104527c19fd919f8b9f60ec3ccf2f-a52ccfede29f4149-thumb.webp",
+        "src": "media/e-bixio/66ec842ef6a43a9b10e7311616d76d519e9104527c19fd919f8b9f60ec3ccf2f-a52ccfede29f4149.webp",
+        "w": 1049,
+        "h": 663
+      }
+    },
+    "332ac969db94500e677bc782db112ce36a5c36570f877fa7ad271811a4675292": {
+      "id": "332ac969db94500e677bc782db112ce36a5c36570f877fa7ad271811a4675292",
+      "relative": "img433.tif",
+      "folder": "e8d401a2582e9ee528d857a2dc34524779d3e0f049ac771b1b7ace4d9315d778",
+      "status": "pending",
+      "record": {},
+      "revision": 0,
+      "fingerprint": "dd0ce0b129b0ab50",
+      "media": {
+        "thumb": "media/e-bixio/332ac969db94500e677bc782db112ce36a5c36570f877fa7ad271811a4675292-dd0ce0b129b0ab50-thumb.webp",
+        "src": "media/e-bixio/332ac969db94500e677bc782db112ce36a5c36570f877fa7ad271811a4675292-dd0ce0b129b0ab50.webp",
+        "w": 1432,
+        "h": 2200
+      }
+    },
+    "6d24b0fa9a2d93ad499839ced3c2b157f0d5112effdd7e3a59c5c98c91d873a6": {
+      "id": "6d24b0fa9a2d93ad499839ced3c2b157f0d5112effdd7e3a59c5c98c91d873a6",
+      "relative": "img427.tif",
+      "folder": "e8d401a2582e9ee528d857a2dc34524779d3e0f049ac771b1b7ace4d9315d778",
+      "status": "pending",
+      "record": {},
+      "revision": 0,
+      "fingerprint": "c3c14baf11ff6363",
+      "media": {
+        "thumb": "media/e-bixio/6d24b0fa9a2d93ad499839ced3c2b157f0d5112effdd7e3a59c5c98c91d873a6-c3c14baf11ff6363-thumb.webp",
+        "src": "media/e-bixio/6d24b0fa9a2d93ad499839ced3c2b157f0d5112effdd7e3a59c5c98c91d873a6-c3c14baf11ff6363.webp",
+        "w": 1480,
+        "h": 2200
+      }
     }
   },
   "terms": {},
@@ -91,5 +166,5 @@
     "none": "Sin firma",
     "unidentified": "Por identificar"
   },
-  "updated": "2026-11-26T21:00:52.542Z"
+  "updated": "2026-11-26T21:01:08.403Z"
 }
