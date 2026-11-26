@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "e-bixio",
   "name": "E. Bixio",
-  "version": "00a75736-0edf-49fc-a24d-c6a738a8f6b4",
+  "version": "59e1b44f-4fff-4b92-a77d-8c397acb14e0",
   "folders": {
     "e8d401a2582e9ee528d857a2dc34524779d3e0f049ac771b1b7ace4d9315d778": {
       "name": "E Bixio",
@@ -251,14 +251,16 @@
       "folder": "e8d401a2582e9ee528d857a2dc34524779d3e0f049ac771b1b7ace4d9315d778",
       "status": "pending",
       "record": {},
-      "revision": 0,
+      "revision": 1,
       "fingerprint": "44c0337789515a8c",
       "media": {
         "thumb": "media/e-bixio/fed6b9f01d75fd85e927eda4292a9242de7691d749ef9b8b47377e2aced66353-44c0337789515a8c-thumb.webp",
         "src": "media/e-bixio/fed6b9f01d75fd85e927eda4292a9242de7691d749ef9b8b47377e2aced66353-44c0337789515a8c.webp",
         "w": 1049,
         "h": 663
-      }
+      },
+      "excluded": true,
+      "updated": "2026-11-26T21:17:11.409Z"
     },
     "4c3bc6ec8e48204ab5c6b81829f3d5178c39b4ed562809102a195b6059b7d909": {
       "id": "4c3bc6ec8e48204ab5c6b81829f3d5178c39b4ed562809102a195b6059b7d909",
@@ -407,5 +409,5 @@
     "none": "Sin firma",
     "unidentified": "Por identificar"
   },
-  "updated": "2026-11-26T21:17:05.032Z"
+  "updated": "2026-11-26T21:17:13.122Z"
 }
