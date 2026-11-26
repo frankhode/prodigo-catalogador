@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "F. Bixio y Cia.",
-  "version": "e05615c0-92ba-46d5-b6f7-926b21479d02",
+  "version": "57467b95-ae45-46ae-b2de-b079ebf3b3c4",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -8070,16 +8070,37 @@
       "id": "41391e73c0c9a75deeb236311766bc6af478263b1e9a233e9116cfb875351328",
       "relative": "img493.tif",
       "folder": "9bd88f2485acbb9426ad3dd9e06842ede8c7516d0ba8559298675f09419681fa",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "353384",
+        "date": "1944",
+        "parent": "2fbdb310665cf46c412c8e6bd6ccdd465f02436134935a56d3ef5e72aa5bce32",
+        "author": "Florencio Bixio",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Cuerpo entero",
+        "direction": "Tres cuartos",
+        "environment": "Estudio",
+        "color": "iluminado",
+        "people": [
+          "Bebés"
+        ],
+        "objects": [
+          "Juguetes"
+        ],
+        "highlights": [],
+        "signature": "BIX-27"
+      },
+      "revision": 1,
       "fingerprint": "62eea0a622740dc2",
       "media": {
         "thumb": "media/bixio/41391e73c0c9a75deeb236311766bc6af478263b1e9a233e9116cfb875351328-62eea0a622740dc2-thumb.webp",
         "src": "media/bixio/41391e73c0c9a75deeb236311766bc6af478263b1e9a233e9116cfb875351328-62eea0a622740dc2.webp",
         "w": 2200,
         "h": 1775
-      }
+      },
+      "updated": "2026-11-26T20:46:05.137Z"
     },
     "7bfcbb00baa6a034dc88dd2fc8ab357e7eb422055248bce9a24aa9459c82ad4c": {
       "id": "7bfcbb00baa6a034dc88dd2fc8ab357e7eb422055248bce9a24aa9459c82ad4c",
@@ -8203,7 +8224,7 @@
     "BIX-26": "F. Bixio y Cia B. de Irigoyen 185 B. Aires - Caligráfica",
     "BIX-27": "F. Bixio y Cia. MR. Bdo de Irigoyen 136, Bs. As."
   },
-  "updated": "2026-11-26T20:44:05.922Z",
+  "updated": "2026-11-26T20:46:06.671Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
