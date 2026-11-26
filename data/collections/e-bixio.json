@@ -2,13 +2,94 @@
   "format": "prodigo-online",
   "id": "e-bixio",
   "name": "E. Bixio",
-  "version": "8e5854c9-036b-4b9c-a9c7-b6650c383c87",
-  "folders": {},
-  "images": {},
+  "version": "7c563292-1b32-4b67-b49d-f542d0c4c3fd",
+  "folders": {
+    "e8d401a2582e9ee528d857a2dc34524779d3e0f049ac771b1b7ace4d9315d778": {
+      "name": "E Bixio",
+      "path": "E Bixio"
+    }
+  },
+  "images": {
+    "0039ecb2fa0b101955d332724eb18381d16fcfc2e52bfbd2dcd0b57c1ba00d1d": {
+      "id": "0039ecb2fa0b101955d332724eb18381d16fcfc2e52bfbd2dcd0b57c1ba00d1d",
+      "relative": "img431.tif",
+      "folder": "e8d401a2582e9ee528d857a2dc34524779d3e0f049ac771b1b7ace4d9315d778",
+      "status": "pending",
+      "record": {},
+      "revision": 0,
+      "fingerprint": "ca1df1a909a1e0a4",
+      "media": {
+        "thumb": "media/e-bixio/0039ecb2fa0b101955d332724eb18381d16fcfc2e52bfbd2dcd0b57c1ba00d1d-ca1df1a909a1e0a4-thumb.webp",
+        "src": "media/e-bixio/0039ecb2fa0b101955d332724eb18381d16fcfc2e52bfbd2dcd0b57c1ba00d1d-ca1df1a909a1e0a4.webp",
+        "w": 1495,
+        "h": 2200
+      }
+    },
+    "ea791f55c335cfd9a95e0020bf3916be86db365832b8a255e44eaccf476a41ec": {
+      "id": "ea791f55c335cfd9a95e0020bf3916be86db365832b8a255e44eaccf476a41ec",
+      "relative": "img425.tif",
+      "folder": "e8d401a2582e9ee528d857a2dc34524779d3e0f049ac771b1b7ace4d9315d778",
+      "status": "pending",
+      "record": {},
+      "revision": 0,
+      "fingerprint": "907e3658dacb2a97",
+      "media": {
+        "thumb": "media/e-bixio/ea791f55c335cfd9a95e0020bf3916be86db365832b8a255e44eaccf476a41ec-907e3658dacb2a97-thumb.webp",
+        "src": "media/e-bixio/ea791f55c335cfd9a95e0020bf3916be86db365832b8a255e44eaccf476a41ec-907e3658dacb2a97.webp",
+        "w": 1074,
+        "h": 703
+      }
+    },
+    "23b628e22c88cdce99dd108aa2ef98aa80c80df5f4e47fb060ebe0cb80dc4820": {
+      "id": "23b628e22c88cdce99dd108aa2ef98aa80c80df5f4e47fb060ebe0cb80dc4820",
+      "relative": "img419.tif",
+      "folder": "e8d401a2582e9ee528d857a2dc34524779d3e0f049ac771b1b7ace4d9315d778",
+      "status": "pending",
+      "record": {},
+      "revision": 0,
+      "fingerprint": "bf9e5975b523ebb0",
+      "media": {
+        "thumb": "media/e-bixio/23b628e22c88cdce99dd108aa2ef98aa80c80df5f4e47fb060ebe0cb80dc4820-bf9e5975b523ebb0-thumb.webp",
+        "src": "media/e-bixio/23b628e22c88cdce99dd108aa2ef98aa80c80df5f4e47fb060ebe0cb80dc4820-bf9e5975b523ebb0.webp",
+        "w": 1137,
+        "h": 676
+      }
+    },
+    "0ef1f6188457ff5167d51c047cbd83e4cce0af20dde390ce745674fe333360a3": {
+      "id": "0ef1f6188457ff5167d51c047cbd83e4cce0af20dde390ce745674fe333360a3",
+      "relative": "img418.tif",
+      "folder": "e8d401a2582e9ee528d857a2dc34524779d3e0f049ac771b1b7ace4d9315d778",
+      "status": "pending",
+      "record": {},
+      "revision": 0,
+      "fingerprint": "879a45b972c10c04",
+      "media": {
+        "thumb": "media/e-bixio/0ef1f6188457ff5167d51c047cbd83e4cce0af20dde390ce745674fe333360a3-879a45b972c10c04-thumb.webp",
+        "src": "media/e-bixio/0ef1f6188457ff5167d51c047cbd83e4cce0af20dde390ce745674fe333360a3-879a45b972c10c04.webp",
+        "w": 1431,
+        "h": 2200
+      }
+    },
+    "293013a0f9312bf904617810c6de8c194ddac9dd06f16495267e289abc2a2c07": {
+      "id": "293013a0f9312bf904617810c6de8c194ddac9dd06f16495267e289abc2a2c07",
+      "relative": "img424.tif",
+      "folder": "e8d401a2582e9ee528d857a2dc34524779d3e0f049ac771b1b7ace4d9315d778",
+      "status": "pending",
+      "record": {},
+      "revision": 0,
+      "fingerprint": "109201ae73e61cf1",
+      "media": {
+        "thumb": "media/e-bixio/293013a0f9312bf904617810c6de8c194ddac9dd06f16495267e289abc2a2c07-109201ae73e61cf1-thumb.webp",
+        "src": "media/e-bixio/293013a0f9312bf904617810c6de8c194ddac9dd06f16495267e289abc2a2c07-109201ae73e61cf1.webp",
+        "w": 1386,
+        "h": 2200
+      }
+    }
+  },
   "terms": {},
   "signatures": {
     "none": "Sin firma",
     "unidentified": "Por identificar"
   },
-  "updated": "2026-11-26T21:00:26.206Z"
+  "updated": "2026-11-26T21:00:52.542Z"
 }
