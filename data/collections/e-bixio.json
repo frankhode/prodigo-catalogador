@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "e-bixio",
   "name": "E. Bixio",
-  "version": "d9260692-1318-4cfa-aa4f-4fdc41adb4ca",
+  "version": "7ad1c840-7d64-437a-813f-6c40a412c51c",
   "folders": {
     "e8d401a2582e9ee528d857a2dc34524779d3e0f049ac771b1b7ace4d9315d778": {
       "name": "E Bixio",
@@ -266,16 +266,36 @@
       "id": "4c3bc6ec8e48204ab5c6b81829f3d5178c39b4ed562809102a195b6059b7d909",
       "relative": "img411.tif",
       "folder": "e8d401a2582e9ee528d857a2dc34524779d3e0f049ac771b1b7ace4d9315d778",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "author": "E. Bixio",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Medio cuerpo",
+        "direction": "Tres cuartos",
+        "environment": "Estudio",
+        "color": "sepia",
+        "people": [
+          "Hombres"
+        ],
+        "objects": [
+          "Libros"
+        ],
+        "highlights": [
+          "Anteojos"
+        ],
+        "signature": "FIR-01"
+      },
+      "revision": 1,
       "fingerprint": "5625734637edd0d7",
       "media": {
         "thumb": "media/e-bixio/4c3bc6ec8e48204ab5c6b81829f3d5178c39b4ed562809102a195b6059b7d909-5625734637edd0d7-thumb.webp",
         "src": "media/e-bixio/4c3bc6ec8e48204ab5c6b81829f3d5178c39b4ed562809102a195b6059b7d909-5625734637edd0d7.webp",
         "w": 1428,
         "h": 2200
-      }
+      },
+      "updated": "2026-11-26T21:20:45.567Z"
     },
     "65a5b7ae3d627337753edd7e269de3da2855393d4793511b6afab965d55b5d7b": {
       "id": "65a5b7ae3d627337753edd7e269de3da2855393d4793511b6afab965d55b5d7b",
@@ -404,11 +424,24 @@
       }
     }
   },
-  "terms": {},
+  "terms": {
+    "people": [
+      "Hombres"
+    ],
+    "objects": [
+      "Libros"
+    ],
+    "highlights": [
+      "Anteojos"
+    ]
+  },
   "signatures": {
     "none": "Sin firma",
     "unidentified": "Por identificar",
     "FIR-01": "E. Bixio y Cia. C. Pellegrini 752"
   },
-  "updated": "2026-11-26T21:20:39.632Z"
+  "updated": "2026-11-26T21:20:46.973Z",
+  "authors": [
+    "E. Bixio"
+  ]
 }
