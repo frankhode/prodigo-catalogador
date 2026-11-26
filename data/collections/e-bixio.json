@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "e-bixio",
   "name": "E. Bixio",
-  "version": "8563f961-bd55-4ed8-a678-ece487516875",
+  "version": "3ba53ce2-bb76-4594-9ce5-db05f6cdad27",
   "folders": {
     "e8d401a2582e9ee528d857a2dc34524779d3e0f049ac771b1b7ace4d9315d778": {
       "name": "E Bixio",
@@ -602,16 +602,32 @@
       "id": "f7d18565b0bffd1f90997009a54cfeb682ea98a5fe58a15628624353f2dcaf39",
       "relative": "img496.tif",
       "folder": "9bd88f2485acbb9426ad3dd9e06842ede8c7516d0ba8559298675f09419681fa",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "author": "E. Bixio",
+        "people": [
+          "Hombres",
+          "Mujeres"
+        ],
+        "objects": [],
+        "highlights": [
+          "Casamiento"
+        ],
+        "signature": "FIR-04",
+        "portrait": "",
+        "frame": "",
+        "direction": ""
+      },
+      "revision": 1,
       "fingerprint": "99b92ae38e47d0a8",
       "media": {
         "thumb": "media/e-bixio/f7d18565b0bffd1f90997009a54cfeb682ea98a5fe58a15628624353f2dcaf39-99b92ae38e47d0a8-thumb.webp",
         "src": "media/e-bixio/f7d18565b0bffd1f90997009a54cfeb682ea98a5fe58a15628624353f2dcaf39-99b92ae38e47d0a8.webp",
         "w": 1496,
         "h": 2200
-      }
+      },
+      "updated": "2026-11-26T22:08:42.830Z"
     },
     "5684b8f4caf1d8faf732e124b11f742f5d412155303d63de8e7de4ef0e1acb4a": {
       "id": "5684b8f4caf1d8faf732e124b11f742f5d412155303d63de8e7de4ef0e1acb4a",
@@ -688,7 +704,8 @@
       "Anteojos",
       "Vestimenta",
       "Primera comunión",
-      "Disfraz"
+      "Disfraz",
+      "Casamiento"
     ]
   },
   "signatures": {
@@ -699,7 +716,7 @@
     "FIR-03": "Sello seco. C. Pellegrini 752. E. Bixio y Cia. Bs. Aires",
     "FIR-04": "E. Bixio y Cia. C. Pellegrini 752 - B. Aires"
   },
-  "updated": "2026-11-26T22:07:53.444Z",
+  "updated": "2026-11-26T22:08:44.496Z",
   "authors": [
     "E. Bixio"
   ]
