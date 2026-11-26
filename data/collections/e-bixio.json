@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "e-bixio",
   "name": "E. Bixio",
-  "version": "a5d5388a-8d8e-47cc-8004-9e0ae3de28dc",
+  "version": "8563f961-bd55-4ed8-a678-ece487516875",
   "folders": {
     "e8d401a2582e9ee528d857a2dc34524779d3e0f049ac771b1b7ace4d9315d778": {
       "name": "E Bixio",
@@ -645,16 +645,31 @@
       "id": "850d301d31267cdffa2e81458a219915365483291627a4e7562d8385d001c5cf",
       "relative": "img495.tif",
       "folder": "9bd88f2485acbb9426ad3dd9e06842ede8c7516d0ba8559298675f09419681fa",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "author": "E. Bixio",
+        "people": [
+          "Hombres",
+          "Mujeres",
+          "Niños"
+        ],
+        "objects": [],
+        "highlights": [],
+        "signature": "FIR-04",
+        "portrait": "",
+        "frame": "",
+        "direction": ""
+      },
+      "revision": 1,
       "fingerprint": "efb465914a9fdb36",
       "media": {
         "thumb": "media/e-bixio/850d301d31267cdffa2e81458a219915365483291627a4e7562d8385d001c5cf-efb465914a9fdb36-thumb.webp",
         "src": "media/e-bixio/850d301d31267cdffa2e81458a219915365483291627a4e7562d8385d001c5cf-efb465914a9fdb36.webp",
         "w": 1628,
         "h": 2200
-      }
+      },
+      "updated": "2026-11-26T22:07:52.051Z"
     }
   },
   "terms": {
@@ -684,7 +699,7 @@
     "FIR-03": "Sello seco. C. Pellegrini 752. E. Bixio y Cia. Bs. Aires",
     "FIR-04": "E. Bixio y Cia. C. Pellegrini 752 - B. Aires"
   },
-  "updated": "2026-11-26T22:07:44.396Z",
+  "updated": "2026-11-26T22:07:53.444Z",
   "authors": [
     "E. Bixio"
   ]
