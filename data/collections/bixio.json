@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "bixio",
   "name": "F. Bixio y Cia.",
-  "version": "2e200138-1add-4530-b301-b2a16854cb41",
+  "version": "d9bec6c7-43d9-4789-95ae-ac8ed84f5cf6",
   "folders": {
     "98f60447c34ede755ba3dc50f13196653dacf1be80fa9162a36d6b9211120bfe": {
       "name": "Imágenes",
@@ -7867,16 +7867,35 @@
       "id": "21648d8dd0542aca2b132a351ed24b606adbd977028da51968fa33829b748502",
       "relative": "img489.tif",
       "folder": "9bd88f2485acbb9426ad3dd9e06842ede8c7516d0ba8559298675f09419681fa",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "number": "319299",
+        "author": "Florencio Bixio",
+        "kind": "Retrato",
+        "portrait": "Individual",
+        "frame": "Cuerpo entero",
+        "direction": "Tres cuartos",
+        "environment": "Estudio",
+        "color": "sepia",
+        "people": [
+          "Niñas"
+        ],
+        "objects": [
+          "Juguetes"
+        ],
+        "highlights": [],
+        "signature": "BIX-07"
+      },
+      "revision": 1,
       "fingerprint": "a00ff6fa19a3d323",
       "media": {
         "thumb": "media/bixio/21648d8dd0542aca2b132a351ed24b606adbd977028da51968fa33829b748502-a00ff6fa19a3d323-thumb.webp",
         "src": "media/bixio/21648d8dd0542aca2b132a351ed24b606adbd977028da51968fa33829b748502-a00ff6fa19a3d323.webp",
         "w": 1633,
         "h": 2200
-      }
+      },
+      "updated": "2026-11-26T17:37:28.944Z"
     },
     "e07fbf2c4c3e59c3eeeb2a080b9cc228149fae820db038a555717e95a8c046c2": {
       "id": "e07fbf2c4c3e59c3eeeb2a080b9cc228149fae820db038a555717e95a8c046c2",
@@ -8000,7 +8019,7 @@
     "BIX-25": "F. Bixio y Cia - Firma caligráfica",
     "BIX-26": "F. Bixio y Cia B. de Irigoyen 185 B. Aires - Caligráfica"
   },
-  "updated": "2026-11-26T17:34:45.976Z",
+  "updated": "2026-11-26T17:37:30.351Z",
   "authors": [
     "Florencio Bixio",
     "Fillebrown"
