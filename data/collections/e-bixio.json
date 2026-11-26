@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "e-bixio",
   "name": "E. Bixio",
-  "version": "0ed2ce4e-3a93-4060-9d96-472f6712ee2f",
+  "version": "65be09f2-8321-447c-ab76-c7a4212f3146",
   "folders": {
     "e8d401a2582e9ee528d857a2dc34524779d3e0f049ac771b1b7ace4d9315d778": {
       "name": "E Bixio",
@@ -404,16 +404,35 @@
       "id": "2ebf94dff7c0a3c203528b39708f3b9921e8aab23c87dfc8cdc955375d8d841a",
       "relative": "img414.tif",
       "folder": "e8d401a2582e9ee528d857a2dc34524779d3e0f049ac771b1b7ace4d9315d778",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "author": "E. Bixio",
+        "kind": "Retrato",
+        "portrait": "Grupal",
+        "frame": "Cuerpo entero",
+        "direction": "Frente",
+        "environment": "Estudio",
+        "color": "byn",
+        "people": [
+          "Niñas",
+          "Niños"
+        ],
+        "objects": [],
+        "highlights": [
+          "Vestimenta"
+        ],
+        "signature": "FIR-01"
+      },
+      "revision": 1,
       "fingerprint": "65bf9a913b4816f5",
       "media": {
         "thumb": "media/e-bixio/2ebf94dff7c0a3c203528b39708f3b9921e8aab23c87dfc8cdc955375d8d841a-65bf9a913b4816f5-thumb.webp",
         "src": "media/e-bixio/2ebf94dff7c0a3c203528b39708f3b9921e8aab23c87dfc8cdc955375d8d841a-65bf9a913b4816f5.webp",
         "w": 1440,
         "h": 2200
-      }
+      },
+      "updated": "2026-11-26T21:24:43.993Z"
     },
     "62893cd865be2309d5116f20589c64f8816cb885f7219a87a10a432344bcad29": {
       "id": "62893cd865be2309d5116f20589c64f8816cb885f7219a87a10a432344bcad29",
@@ -433,13 +452,16 @@
   },
   "terms": {
     "people": [
-      "Hombres"
+      "Hombres",
+      "Niñas",
+      "Niños"
     ],
     "objects": [
       "Libros"
     ],
     "highlights": [
-      "Anteojos"
+      "Anteojos",
+      "Vestimenta"
     ]
   },
   "signatures": {
@@ -447,7 +469,7 @@
     "unidentified": "Por identificar",
     "FIR-01": "E. Bixio y Cia. C. Pellegrini 752"
   },
-  "updated": "2026-11-26T21:21:49.364Z",
+  "updated": "2026-11-26T21:24:45.526Z",
   "authors": [
     "E. Bixio"
   ]
