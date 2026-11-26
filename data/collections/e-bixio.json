@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "e-bixio",
   "name": "E. Bixio",
-  "version": "daf8bdc2-9ee5-43c0-ba9a-6588d4521543",
+  "version": "941412b8-164f-43f0-94b1-4b0261fa4597",
   "folders": {
     "e8d401a2582e9ee528d857a2dc34524779d3e0f049ac771b1b7ace4d9315d778": {
       "name": "E Bixio",
@@ -234,6 +234,81 @@
         "w": 1410,
         "h": 2200
       }
+    },
+    "fed6b9f01d75fd85e927eda4292a9242de7691d749ef9b8b47377e2aced66353": {
+      "id": "fed6b9f01d75fd85e927eda4292a9242de7691d749ef9b8b47377e2aced66353",
+      "relative": "img435.tif",
+      "folder": "e8d401a2582e9ee528d857a2dc34524779d3e0f049ac771b1b7ace4d9315d778",
+      "status": "pending",
+      "record": {},
+      "revision": 0,
+      "fingerprint": "44c0337789515a8c",
+      "media": {
+        "thumb": "media/e-bixio/fed6b9f01d75fd85e927eda4292a9242de7691d749ef9b8b47377e2aced66353-44c0337789515a8c-thumb.webp",
+        "src": "media/e-bixio/fed6b9f01d75fd85e927eda4292a9242de7691d749ef9b8b47377e2aced66353-44c0337789515a8c.webp",
+        "w": 1049,
+        "h": 663
+      }
+    },
+    "4c3bc6ec8e48204ab5c6b81829f3d5178c39b4ed562809102a195b6059b7d909": {
+      "id": "4c3bc6ec8e48204ab5c6b81829f3d5178c39b4ed562809102a195b6059b7d909",
+      "relative": "img411.tif",
+      "folder": "e8d401a2582e9ee528d857a2dc34524779d3e0f049ac771b1b7ace4d9315d778",
+      "status": "pending",
+      "record": {},
+      "revision": 0,
+      "fingerprint": "5625734637edd0d7",
+      "media": {
+        "thumb": "media/e-bixio/4c3bc6ec8e48204ab5c6b81829f3d5178c39b4ed562809102a195b6059b7d909-5625734637edd0d7-thumb.webp",
+        "src": "media/e-bixio/4c3bc6ec8e48204ab5c6b81829f3d5178c39b4ed562809102a195b6059b7d909-5625734637edd0d7.webp",
+        "w": 1428,
+        "h": 2200
+      }
+    },
+    "65a5b7ae3d627337753edd7e269de3da2855393d4793511b6afab965d55b5d7b": {
+      "id": "65a5b7ae3d627337753edd7e269de3da2855393d4793511b6afab965d55b5d7b",
+      "relative": "img413.tif",
+      "folder": "e8d401a2582e9ee528d857a2dc34524779d3e0f049ac771b1b7ace4d9315d778",
+      "status": "pending",
+      "record": {},
+      "revision": 0,
+      "fingerprint": "218d9b941b49618d",
+      "media": {
+        "thumb": "media/e-bixio/65a5b7ae3d627337753edd7e269de3da2855393d4793511b6afab965d55b5d7b-218d9b941b49618d-thumb.webp",
+        "src": "media/e-bixio/65a5b7ae3d627337753edd7e269de3da2855393d4793511b6afab965d55b5d7b-218d9b941b49618d.webp",
+        "w": 2200,
+        "h": 1428
+      }
+    },
+    "5c9dbee93a9ae52552482de4b7a7584f8cba3b3af775b85cdb8dc61027d2caa5": {
+      "id": "5c9dbee93a9ae52552482de4b7a7584f8cba3b3af775b85cdb8dc61027d2caa5",
+      "relative": "img412.tif",
+      "folder": "e8d401a2582e9ee528d857a2dc34524779d3e0f049ac771b1b7ace4d9315d778",
+      "status": "pending",
+      "record": {},
+      "revision": 0,
+      "fingerprint": "341297c1447eb20d",
+      "media": {
+        "thumb": "media/e-bixio/5c9dbee93a9ae52552482de4b7a7584f8cba3b3af775b85cdb8dc61027d2caa5-341297c1447eb20d-thumb.webp",
+        "src": "media/e-bixio/5c9dbee93a9ae52552482de4b7a7584f8cba3b3af775b85cdb8dc61027d2caa5-341297c1447eb20d.webp",
+        "w": 1098,
+        "h": 676
+      }
+    },
+    "f47b9750ff5c988963d6867d9cb55b67c90f0350fc8778fae87a5c6c6933f872": {
+      "id": "f47b9750ff5c988963d6867d9cb55b67c90f0350fc8778fae87a5c6c6933f872",
+      "relative": "img416.tif",
+      "folder": "e8d401a2582e9ee528d857a2dc34524779d3e0f049ac771b1b7ace4d9315d778",
+      "status": "pending",
+      "record": {},
+      "revision": 0,
+      "fingerprint": "03f99ddacfc87956",
+      "media": {
+        "thumb": "media/e-bixio/f47b9750ff5c988963d6867d9cb55b67c90f0350fc8778fae87a5c6c6933f872-03f99ddacfc87956-thumb.webp",
+        "src": "media/e-bixio/f47b9750ff5c988963d6867d9cb55b67c90f0350fc8778fae87a5c6c6933f872-03f99ddacfc87956.webp",
+        "w": 1098,
+        "h": 676
+      }
     }
   },
   "terms": {},
@@ -241,5 +316,5 @@
     "none": "Sin firma",
     "unidentified": "Por identificar"
   },
-  "updated": "2026-11-26T21:01:24.138Z"
+  "updated": "2026-11-26T21:01:39.945Z"
 }
