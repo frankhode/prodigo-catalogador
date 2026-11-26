@@ -19,7 +19,16 @@
       "updated": "2026-11-26T20:46:06.671Z",
       "total": 206,
       "done": 206
+    },
+    {
+      "id": "e-bixio",
+      "name": "E. Bixio",
+      "path": "data/collections/e-bixio.json",
+      "version": "8e5854c9-036b-4b9c-a9c7-b6650c383c87",
+      "updated": "2026-11-26T21:00:26.206Z",
+      "total": 0,
+      "done": 0
     }
   ],
-  "updated": "2026-11-26T20:46:06.671Z"
+  "updated": "2026-11-26T21:00:26.206Z"
 }
