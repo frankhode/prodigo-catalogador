@@ -2,11 +2,15 @@
   "format": "prodigo-online",
   "id": "e-bixio",
   "name": "E. Bixio",
-  "version": "d01222b0-1991-4121-8092-fd207e65abc2",
+  "version": "60233b26-aec6-42ec-9966-e1297576f964",
   "folders": {
     "e8d401a2582e9ee528d857a2dc34524779d3e0f049ac771b1b7ace4d9315d778": {
       "name": "E Bixio",
       "path": "E Bixio"
+    },
+    "9bd88f2485acbb9426ad3dd9e06842ede8c7516d0ba8559298675f09419681fa": {
+      "name": "Desktop",
+      "path": "Desktop"
     }
   },
   "images": {
@@ -593,6 +597,51 @@
         "h": 2200
       },
       "updated": "2026-11-26T21:30:44.524Z"
+    },
+    "f7d18565b0bffd1f90997009a54cfeb682ea98a5fe58a15628624353f2dcaf39": {
+      "id": "f7d18565b0bffd1f90997009a54cfeb682ea98a5fe58a15628624353f2dcaf39",
+      "relative": "img496.tif",
+      "folder": "9bd88f2485acbb9426ad3dd9e06842ede8c7516d0ba8559298675f09419681fa",
+      "status": "pending",
+      "record": {},
+      "revision": 0,
+      "fingerprint": "99b92ae38e47d0a8",
+      "media": {
+        "thumb": "media/e-bixio/f7d18565b0bffd1f90997009a54cfeb682ea98a5fe58a15628624353f2dcaf39-99b92ae38e47d0a8-thumb.webp",
+        "src": "media/e-bixio/f7d18565b0bffd1f90997009a54cfeb682ea98a5fe58a15628624353f2dcaf39-99b92ae38e47d0a8.webp",
+        "w": 1496,
+        "h": 2200
+      }
+    },
+    "5684b8f4caf1d8faf732e124b11f742f5d412155303d63de8e7de4ef0e1acb4a": {
+      "id": "5684b8f4caf1d8faf732e124b11f742f5d412155303d63de8e7de4ef0e1acb4a",
+      "relative": "img494.tif",
+      "folder": "9bd88f2485acbb9426ad3dd9e06842ede8c7516d0ba8559298675f09419681fa",
+      "status": "pending",
+      "record": {},
+      "revision": 0,
+      "fingerprint": "5850a631ca6e4433",
+      "media": {
+        "thumb": "media/e-bixio/5684b8f4caf1d8faf732e124b11f742f5d412155303d63de8e7de4ef0e1acb4a-5850a631ca6e4433-thumb.webp",
+        "src": "media/e-bixio/5684b8f4caf1d8faf732e124b11f742f5d412155303d63de8e7de4ef0e1acb4a-5850a631ca6e4433.webp",
+        "w": 1570,
+        "h": 2200
+      }
+    },
+    "850d301d31267cdffa2e81458a219915365483291627a4e7562d8385d001c5cf": {
+      "id": "850d301d31267cdffa2e81458a219915365483291627a4e7562d8385d001c5cf",
+      "relative": "img495.tif",
+      "folder": "9bd88f2485acbb9426ad3dd9e06842ede8c7516d0ba8559298675f09419681fa",
+      "status": "pending",
+      "record": {},
+      "revision": 0,
+      "fingerprint": "efb465914a9fdb36",
+      "media": {
+        "thumb": "media/e-bixio/850d301d31267cdffa2e81458a219915365483291627a4e7562d8385d001c5cf-efb465914a9fdb36-thumb.webp",
+        "src": "media/e-bixio/850d301d31267cdffa2e81458a219915365483291627a4e7562d8385d001c5cf-efb465914a9fdb36.webp",
+        "w": 1628,
+        "h": 2200
+      }
     }
   },
   "terms": {
@@ -619,7 +668,7 @@
     "FIR-01": "E. Bixio y Cia. C. Pellegrini 752",
     "FIR-02": "C. Pellegrini 752. E. Bixio y Cia"
   },
-  "updated": "2026-11-26T21:33:38.205Z",
+  "updated": "2026-11-26T22:05:11.413Z",
   "authors": [
     "E. Bixio"
   ]
