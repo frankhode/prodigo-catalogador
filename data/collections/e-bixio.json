@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "e-bixio",
   "name": "E. Bixio",
-  "version": "9d19d3fd-a721-4b21-8c14-c1303e96e6bb",
+  "version": "5af28617-265f-41be-b686-32fd0e947806",
   "folders": {
     "e8d401a2582e9ee528d857a2dc34524779d3e0f049ac771b1b7ace4d9315d778": {
       "name": "E Bixio",
@@ -500,9 +500,10 @@
   "signatures": {
     "none": "Sin firma",
     "unidentified": "Por identificar",
-    "FIR-01": "E. Bixio y Cia. C. Pellegrini 752"
+    "FIR-01": "E. Bixio y Cia. C. Pellegrini 752",
+    "FIR-02": "C. Pellegrini 752. E. Bixio y Cia"
   },
-  "updated": "2026-11-26T21:26:30.670Z",
+  "updated": "2026-11-26T21:28:18.216Z",
   "authors": [
     "E. Bixio"
   ]
