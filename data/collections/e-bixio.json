@@ -2,7 +2,7 @@
   "format": "prodigo-online",
   "id": "e-bixio",
   "name": "E. Bixio",
-  "version": "7ebc991c-1cd8-4c50-aef6-3010c2e01079",
+  "version": "6b732645-9305-4978-87f0-23fe7eab2ca8",
   "folders": {
     "e8d401a2582e9ee528d857a2dc34524779d3e0f049ac771b1b7ace4d9315d778": {
       "name": "E Bixio",
@@ -357,16 +357,35 @@
       "id": "be6ff758d5d2a99651fa3876c02e86c0d2616d6669cfb072adf371d2f4df942a",
       "relative": "img417.tif",
       "folder": "e8d401a2582e9ee528d857a2dc34524779d3e0f049ac771b1b7ace4d9315d778",
-      "status": "pending",
-      "record": {},
-      "revision": 0,
+      "status": "done",
+      "record": {
+        "side": "Frente",
+        "author": "E. Bixio",
+        "kind": "Retrato",
+        "portrait": "Grupal",
+        "frame": "Cuerpo entero",
+        "direction": "Frente",
+        "environment": "Estudio",
+        "color": "byn",
+        "people": [
+          "Niños",
+          "Niñas"
+        ],
+        "objects": [],
+        "highlights": [
+          "Vestimenta"
+        ],
+        "signature": "FIR-01"
+      },
+      "revision": 1,
       "fingerprint": "72f2ad4d5df0bb19",
       "media": {
         "thumb": "media/e-bixio/be6ff758d5d2a99651fa3876c02e86c0d2616d6669cfb072adf371d2f4df942a-72f2ad4d5df0bb19-thumb.webp",
         "src": "media/e-bixio/be6ff758d5d2a99651fa3876c02e86c0d2616d6669cfb072adf371d2f4df942a-72f2ad4d5df0bb19.webp",
         "w": 1451,
         "h": 2200
-      }
+      },
+      "updated": "2026-11-26T21:26:05.228Z"
     },
     "d5b4d8af26f6552db8efaa36f85d0595f07c58f1fba36c24415e824177b3a781": {
       "id": "d5b4d8af26f6552db8efaa36f85d0595f07c58f1fba36c24415e824177b3a781",
@@ -476,7 +495,7 @@
     "unidentified": "Por identificar",
     "FIR-01": "E. Bixio y Cia. C. Pellegrini 752"
   },
-  "updated": "2026-11-26T21:25:01.270Z",
+  "updated": "2026-11-26T21:26:06.786Z",
   "authors": [
     "E. Bixio"
   ]
